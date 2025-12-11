@@ -52,5 +52,5 @@ jobs:
         uses: EndBug/add-and-commit@v9
         with:
 #          pull: '--rebase --autostash ...'
-          add: 'csv/*.csv cxsv/*.csv terms.csv'
+          add: 'cxsv/*.csv terms.csv'
           tag_push: '--force'
