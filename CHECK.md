@@ -1,6 +1,6 @@
 # EXTREMES  
 ### EXTREME_LANGUAGE  
-:white_check_mark: EXTREME_LANGUAGE key exists (jp)  
+:white_check_mark: EXTREME_LANGUAGE key exists (hi)  
 ### EXTREME_GH_TOKEN  
 :white_check_mark: EXTREME_GH_TOKEN exists  
 :white_check_mark: EXTREME_GH_TOKEN working  
