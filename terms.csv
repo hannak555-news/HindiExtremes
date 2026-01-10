@@ -1,4 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,ठंडा भारत,2025-12-07T03:47:00+00:00,India,0.6892014554103353,0,2,hi,SAS,Asia
+'c766f9dbfa',extremes,Precipitation,#d60d2b,wmo,तमिलनाडु के कांचीपुरम जिले में मूसलाधार बारिश,2025-11-30T03:46:00+00:00,India,0.6741094513051948,0,2,hi,SAS,Asia
+'7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,जंगल की आग भारत,2025-12-19T03:46:00+00:00,India,0.6704632598137219,0,2,hi,SAS,Asia
+'863f010e8b',extremes,Precipitation,#d60d2b,wmo,तमिलनाडु के कांचीपुरम जिले में वर्षा,2025-11-30T03:46:00+00:00,India,0.6679220998472637,0,2,hi,SAS,Asia
+'eb9f67591f',extremes,Cold Wave,#a7e9fa,wmo,मध्य प्रदेश के 6 जिलों में शीतलहर,2025-12-07T03:47:00+00:00,India,0.6678418837577608,0,2,hi,SAS,Asia
+'4688c266b3',extremes,Precipitation,#d60d2b,wmo,तमिलनाडु के चेंगलपट्टू जिले में वर्षा,2025-11-30T03:46:00+00:00,India,0.6675310196617184,0,2,hi,SAS,Asia
+'c86a1247d6',extremes,Precipitation,#d60d2b,wmo,तमिलनाडु के चेंगलपट्टू जिले में वर्षा,2025-11-30T03:46:00+00:00,India,0.6667191356923479,0,2,hi,SAS,Asia
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,तूफ़ान भारत,2025-12-16T03:47:00+00:00,India,0.6654193093867328,0,2,hi,SAS,Asia
 '66cd4fa8fa',extremes,Precipitation,#d60d2b,wmo,तमिलनाडु के चेन्नई जिले में भारी बारिश,2025-11-30T03:46:00+00:00,India,0.6647543111255991,0,2,hi,SAS,Asia
 '4645204231',extremes,Precipitation,#d60d2b,wmo,तमिलनाडु के कांचीपुरम जिले में वर्षा,2025-11-30T03:46:00+00:00,India,0.6645951664577745,0,2,hi,SAS,Asia
@@ -7,6 +14,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c99edce791',extremes,Cold Wave,#a7e9fa,wmo,मध्य प्रदेश के इंदौर जिले में शीतलहर,2025-12-15T03:54:00+00:00,India,0.6614484922052775,0,2,hi,SAS,Asia
 '8ae049eb86',extremes,Precipitation,#d60d2b,wmo,तमिलनाडु के तिरुवल्लूर जिले में वर्षा,2025-11-30T03:46:00+00:00,India,0.6613125153845929,0,2,hi,SAS,Asia
 'e529a9043d',extremes,Fog,#d60d2b,wmo,हरियाणा के हिसार जिले में कोहरा,2025-12-19T03:46:00+00:00,India,0.659714870288101,0,2,hi,SAS,Asia
+'61007812be',extremes,Fog,#d60d2b,wmo,पंजाब के 8 जिलों में कोहरा,2025-12-18T03:44:00+00:00,India,0.6543007357358657,0,2,hi,SAS,Asia
+'2fbcd6b02b',extremes,Precipitation,#d60d2b,wmo,"मूसलाधार बारिश नेल्लोर, तिरूपति",2025-12-03T03:40:00+00:00,India,0.6478754379526944,0,2,hi,SAS,Asia
+'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,वर्षा भारत,2025-12-16T03:47:00+00:00,India,0.6416735682780842,0,2,hi,SAS,Asia
 'a8ed721e08',extremes,Fog,#d60d2b,wmo,कोहरा भारत,2025-12-15T03:54:00+00:00,India,0.5897843383139258,1,3,hi,SAS,Asia
 '5e4bef8c2c',extremes,Cold Wave,#a7e9fa,wmo,शीत लहर भारत,2025-12-08T03:44:00+00:00,India,0.5870357618231133,2,1,hi,SAS,Asia
 '8b022b84c7',extremes,Wildfire,#d60d2b,wmo,जंगल की आग मध्य प्रदेश,2025-11-30T03:46:00+00:00,India,0.5762317749385121,1,1,hi,SAS,Asia
