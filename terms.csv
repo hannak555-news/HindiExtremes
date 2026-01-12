@@ -1,7 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'863f010e8b',extremes,Precipitation,#d60d2b,wmo,तमिलनाडु के कांचीपुरम जिले में वर्षा,2025-11-30T03:46:00+00:00,India,0.6679220998472637,0,2,hi,SAS,Asia
-'c86a1247d6',extremes,Precipitation,#d60d2b,wmo,तमिलनाडु के चेंगलपट्टू जिले में वर्षा,2025-11-30T03:46:00+00:00,India,0.6667191356923479,0,2,hi,SAS,Asia
-'4645204231',extremes,Precipitation,#d60d2b,wmo,तमिलनाडु के कांचीपुरम जिले में वर्षा,2025-11-30T03:46:00+00:00,India,0.6645951664577745,0,2,hi,SAS,Asia
 '6d4ee0943e',extremes,Precipitation,#d60d2b,wmo,तमिलनाडु के तिरुवल्लूर जिले में भारी बारिश,2025-11-30T03:46:00+00:00,India,0.6634617019237082,0,2,hi,SAS,Asia
 '8ae049eb86',extremes,Precipitation,#d60d2b,wmo,तमिलनाडु के तिरुवल्लुर जिले में वर्षा,2025-11-30T03:46:00+00:00,India,0.6613125153845929,0,2,hi,SAS,Asia
 '2fbcd6b02b',extremes,Precipitation,#d60d2b,wmo,"मूसलाधार बारिश नेल्लोर, तिरूपति",2025-12-03T03:40:00+00:00,India,0.6478754379526944,0,2,hi,SAS,Asia
@@ -14,11 +11,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,भारत में गंभीर मौसम,2025-12-10T03:45:00+00:00,India,0.5669359568915427,1,2,hi,SAS,Asia
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,तूफ़ान भारत,2025-12-16T03:47:00+00:00,India,0.5656064129787228,1,1,hi,SAS,Asia
 'c99edce791',extremes,Cold Wave,#a7e9fa,wmo,मध्य प्रदेश के इंदौर जिले में शीतलहर,2025-12-15T03:54:00+00:00,India,0.5622312183744859,1,1,hi,SAS,Asia
-'e529a9043d',extremes,Fog,#d60d2b,wmo,हरियाणा के हिसार जिले में कोहरा,2025-12-19T03:46:00+00:00,India,0.5607576397448859,1,1,hi,SAS,Asia
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,वर्षा भारत,2025-12-16T03:47:00+00:00,India,0.5454225780363715,1,1,hi,SAS,Asia
 'ec0c0a268e',extremes,Thunderstorm,#53785a,wmo,पुडुचेरी के कराईकल जिले में ओले गिरे,2025-12-07T03:47:00+00:00,India,0.5394002119565336,0,2,hi,SAS,Asia
 '61007812be',extremes,Fog,#d60d2b,wmo,पंजाब के 8 जिलों में कोहरा,2025-12-18T03:44:00+00:00,India,0.5156148648191629,2,1,hi,SAS,Asia
 '82fd55b965',extremes,Drought,#edc291,edo,भारत में सूखा,2025-12-09T03:41:00+00:00,India,0.4836643000326923,0,2,hi,SAS,Asia
+'e529a9043d',extremes,Fog,#d60d2b,wmo,हरियाणा के हिसार जिले में कोहरा,2025-12-19T03:46:00+00:00,India,0.47664399378315303,2,1,hi,SAS,Asia
 '60bddf3351',extremes,Drought,#edc291,edo,भारत में वर्षा की कमी,2025-12-13T03:38:00+00:00,India,0.403094082121858,0,2,hi,SAS,Asia
 '35bd62c5a9',extremes,Drought,#edc291,edo,भारत में सूखा,2025-12-14T03:49:00+00:00,India,0.4021044843958903,0,2,hi,SAS,Asia
 'ff7862e348',extremes,Drought,#edc291,edo,सूखापन भारत,2025-12-19T03:46:00+00:00,India,0.3968932299100491,0,2,hi,SAS,Asia
