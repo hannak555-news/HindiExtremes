@@ -1,0 +1,17 @@
+,phrase,label,sentiment,subjectivity,language,count
+December 12,December 12,DATE,,,en,1.8
+winter,winter,DATE,,,en,1.8
+between December and February,between December and February,DATE,,,en,1.0
+Monday,Monday,DATE,,,en,1.0
+286,286,CARDINAL,,,en,1.0
+Tuesday,Tuesday,DATE,,,en,1.0
+morning,morning,TIME,,,en,1.0
+January 6,January 6,DATE,,,en,1.0
+6:00 am,6:00 am,TIME,,,en,1.0
+200 meters,200 meters,QUANTITY,,,en,1.0
+8 degrees Celsius,8 degrees Celsius,QUANTITY,,,en,1.0
+Delhi Airport,Delhi Airport,FAC,,,en,1.0
+7 to 9 January,7 to 9 January,DATE,,,en,1.0
+About 3 crore,About 3 crore,CARDINAL,,,en,1.0
+thousands,thousands,CARDINAL,,,en,1.0
+the winter season,the winter season,DATE,,,en,1.0

@@ -1,0 +1,11 @@
+,phrase,label,sentiment,subjectivity,language,count
+IMD,IMD,ORG,-0.30769230769230765,0.6538461538461539,en,2.6
+The Indian Meteorological Department,The Indian Meteorological Department,ORG,-0.11111111111111108,0.38888888888888884,en,1.8
+the Meteorological Department,the Meteorological Department,ORG,-0.033333333333333326,0.0,en,1.0
+Oxford,Oxford,ORG,-0.05833333333333333,0.0,en,1.0
+Oxford Union Debate,Oxford Union Debate,ORG,-0.2,0.0,en,1.0
+Oxford Union',Oxford Union',ORG,0.25,0.0,en,1.0
+Indigo,Indigo,ORG,-0.3,0.0,en,1.0
+The Meteorological Department,The Meteorological Department,ORG,-0.04999999999999999,0.0,en,1.0
+AQI,AQI,ORG,0.0,0.0,en,1.0
+Indian Railways Canceled Trains,Indian Railways Canceled Trains,ORG,0.0,0.0,en,1.0
