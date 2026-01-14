@@ -3,21 +3,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5e4bef8c2c',extremes,Cold Wave,#a7e9fa,wmo,शीत लहर भारत,2025-12-08T03:44:00+00:00,India,0.5870357618231133,2,1,hi,SAS,Asia
 'a8ed721e08',extremes,Fog,#d60d2b,wmo,कोहरा भारत,2025-12-15T03:54:00+00:00,India,0.5783266310062335,1,3,hi,SAS,Asia
 'eb9f67591f',extremes,Cold Wave,#a7e9fa,wmo,मध्य प्रदेश के 6 जिलों में शीतलहर,2025-12-07T03:47:00+00:00,India,0.5676656011940966,1,1,hi,SAS,Asia
-'c95e885889',extremes,Thunderstorm,#53785a,wmo,भारत में गंभीर मौसम,2025-12-10T03:45:00+00:00,India,0.5669359568915427,1,2,hi,SAS,Asia
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,तूफ़ान भारत,2025-12-16T03:47:00+00:00,India,0.5656064129787228,1,1,hi,SAS,Asia
 'c99edce791',extremes,Cold Wave,#a7e9fa,wmo,मध्य प्रदेश के इंदौर जिले में शीतलहर,2025-12-15T03:54:00+00:00,India,0.5622312183744859,1,1,hi,SAS,Asia
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,वर्षा भारत,2025-12-16T03:47:00+00:00,India,0.5454225780363715,1,1,hi,SAS,Asia
-'ec0c0a268e',extremes,Thunderstorm,#53785a,wmo,पुडुचेरी के कराईकल जिले में ओले गिरे,2025-12-07T03:47:00+00:00,India,0.5394002119565336,0,2,hi,SAS,Asia
 '61007812be',extremes,Fog,#d60d2b,wmo,पंजाब के 8 जिलों में कोहरा,2025-12-18T03:44:00+00:00,India,0.5156148648191629,2,1,hi,SAS,Asia
 '7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,जंगल की आग भारत,2025-12-19T03:46:00+00:00,India,0.484409705215414,2,1,hi,SAS,Asia
 '82fd55b965',extremes,Drought,#edc291,edo,भारत में सूखा,2025-12-09T03:41:00+00:00,India,0.4836643000326923,0,2,hi,SAS,Asia
+'c95e885889',extremes,Thunderstorm,#53785a,wmo,भारत में गंभीर मौसम,2025-12-10T03:45:00+00:00,India,0.4818959083578113,2,1,hi,SAS,Asia
 'e529a9043d',extremes,Fog,#d60d2b,wmo,हरियाणा के हिसार जिले में कोहरा,2025-12-19T03:46:00+00:00,India,0.476643993783153,2,1,hi,SAS,Asia
-'ff7862e348',extremes,Drought,#edc291,edo,सूखापन भारत,2025-12-19T03:46:00+00:00,India,0.3968932299100491,0,2,hi,SAS,Asia
 'c2a929c5e2',extremes,Volcano,#b83202,eonet,बंजर द्वीप ज्वालामुखी भारत,2025-12-09T03:40:00+00:00,India,0.3947328950008069,0,2,hi,SEA,Asia
-'80e7df8200',extremes,Volcano,#b83202,eonet,ज्वालामुखी भारत,2025-12-06T03:32:00+00:00,India,0.3857576382093134,0,2,hi,SEA,Asia
 '35bd62c5a9',extremes,Drought,#edc291,edo,भारत में सूखा,2025-12-14T03:49:00+00:00,India,0.3676889017365067,1,2,hi,SAS,Asia
 'fa761481b5',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2025-12-02T03:41:00+00:00,United Arab Emirates,0.3635338129591338,0,2,hi,ARP,Asia
 '60bddf3351',extremes,Drought,#edc291,edo,भारत में वर्षा की कमी,2025-12-13T03:38:00+00:00,India,0.3426299698035793,1,1,hi,SAS,Asia
+'ff7862e348',extremes,Drought,#edc291,edo,सूखापन भारत,2025-12-19T03:46:00+00:00,India,0.33735924542354173,1,1,hi,SAS,Asia
 '6977afac24',extremes,Volcano,#b83202,eonet,पुरासे ज्वालामुखी कोलम्बिया,2025-12-06T03:32:00+00:00,Colombia,0.3175532868372554,0,2,hi,NWS,South-America
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय चक्रवात 08 बजे,2025-12-16T03:46:00+00:00,,0.3171000998359699,0,2,hi,SPO,Pacific Ocean
 'b747714817',extremes,Cold Wave,#a7e9fa,acwe,शीत लहर विक्टोरिया,2025-12-04T03:42:00+00:00,Australia,0.3167451186826359,0,2,hi,SAU,Oceania
