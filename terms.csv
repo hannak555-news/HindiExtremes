@@ -14,3 +14,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6977afac24',extremes,Volcano,#b83202,eonet,पुरासे ज्वालामुखी कोलम्बिया,2025-12-06T03:32:00+00:00,Colombia,0.3175532868372554,0,2,hi,NWS,South-America
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय चक्रवात 08 बजे,2025-12-16T03:46:00+00:00,,0.3171000998359699,0,2,hi,SPO,Pacific Ocean
 'b747714817',extremes,Cold Wave,#a7e9fa,acwe,शीत लहर विक्टोरिया,2025-12-04T03:42:00+00:00,Australia,0.3167451186826359,0,2,hi,SAU,Oceania
+'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडा वर्ष,2026-01-15T10:20:00+00:00,,0.25717214146115,0,1,hi,,
+'b6cef22543',extremes,Drought,#edc291,random,जल प्रतिबंध,2026-01-15T10:20:00+00:00,,0.25669966665781385,0,1,hi,,
+'95b2881221',extremes,Precipitation,#d60d2b,random,वायुमंडलीय नदी,2026-01-15T10:20:00+00:00,,0.25657695119733326,0,1,hi,,
+'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,रिकॉर्ड ठंड,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,hi,,
+'633ed59c63',extremes,Iceberg,#d60d2b,random,आर्कटिक समुद्री बर्फ,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,hi,,
+'0053afc92f',extremes,Volcano,#b83202,random,लहार,2026-01-15T10:20:00+00:00,,0.2562914317228042,0,1,hi,,
+'ccefefc59e',extremes,Drought,#edc291,random,आकस्मिक सूखा,2026-01-15T10:20:00+00:00,,0.2561951224549235,0,1,hi,,
+'45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,तूफ़ान,2026-01-15T10:20:00+00:00,,0.2560990530904549,0,1,hi,,
+'f90601fa23',extremes,Volcano,#b83202,random,ज्वालामुखी विस्फोट,2026-01-15T10:20:00+00:00,,0.2556038068151502,0,1,hi,,
+'1fefacbadb',extremes,Iceberg,#d60d2b,random,ग्लेशियर का शांत होना,2026-01-15T10:20:00+00:00,,0.2545099887501987,0,1,hi,,
