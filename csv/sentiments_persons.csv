@@ -1,1 +1,13 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Acharya Balkrishna,Acharya Balkrishna,PERSON,0.13157894736842105,0.4912280701754386,en,1.9
+Gurugram Cold Wave,Gurugram Cold Wave,PERSON,-0.7083333333333333,1.1111111111111112,en,1.8
+Kartik Aryan,Kartik Aryan,PERSON,0.10833333333333334,0.5416666666666666,en,1.0
+Tu Meri Main,Tu Meri Main,PERSON,0.10833333333333334,0.5416666666666666,en,1.0
+Vijay Hazare,Vijay Hazare,PERSON,0.0,0.0,en,1.0
+Hardik Pandya,Hardik Pandya,PERSON,0.0,0.0,en,1.0
+Priyanshu Molia,Priyanshu Molia,PERSON,0.4,1.0,en,1.0
+Jitesh Sharma,Jitesh Sharma,PERSON,0.4,1.0,en,1.0
+Elon Musk,Elon Musk,PERSON,0.4000000000000001,0.9,en,1.0
+Kara Poster Release,Kara Poster Release,PERSON,0.22878787878787876,0.2626262626262626,en,1.0
+Tere Ishq Mein,Tere Ishq Mein,PERSON,0.22878787878787876,0.2626262626262626,en,1.0
+Vignesh Raja,Vignesh Raja,PERSON,0.0,0.0,en,1.0
