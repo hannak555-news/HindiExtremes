@@ -12,7 +12,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c99edce791',extremes,Cold Wave,#a7e9fa,wmo,मध्य प्रदेश के इंदौर जिले में शीतलहर,2025-12-15T03:54:00+00:00,India,0.5622312183744859,1,1,hi,SAS,Asia
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,वर्षा भारत,2025-12-16T03:47:00+00:00,India,0.5454225780363715,1,1,hi,SAS,Asia
 '61007812be',extremes,Fog,#d60d2b,wmo,पंजाब के 8 जिलों में कोहरा,2025-12-18T03:44:00+00:00,India,0.5156148648191629,2,1,hi,SAS,Asia
-'8437b1b153',extremes,Fog,#d60d2b,wmo,कोहरा एनडब्ल्यू एनसी घना कोहरा,2026-01-18T03:57:00+00:00,India,0.49974389929236684,1,1,hi,SAS,Asia
+'8437b1b153',extremes,Fog,#d60d2b,wmo,कोहरा एनडब्ल्यू एनसी घना कोहरा,2026-01-18T03:57:00+00:00,India,0.4997438992923668,1,1,hi,SAS,Asia
 'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,जंगल की आग उत्तराखंड,2026-01-15T10:56:00+00:00,India,0.495412903233949,1,1,hi,SAS,Asia
 '4609262d69',extremes,Fog,#d60d2b,wmo,आंध्र प्रदेश के बापटला जिले में कोहरा,2026-01-18T03:57:00+00:00,India,0.4941589636607346,1,1,hi,SAS,Asia
 '20741ce7eb',extremes,Tsunami,#690191,random,सुनामी,2026-01-15T10:39:00+00:00,,0.4855408725881853,1,2,hi,,
@@ -27,23 +27,23 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '26fee806c3',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश भारत,2026-01-17T03:44:00+00:00,India,0.4196485713990711,1,1,hi,SAS,Asia
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,गर्मी,2026-01-15T10:39:00+00:00,,0.4170663565412384,1,2,hi,,
 '82d648b882',extremes,Drought,#edc291,random,सूखा,2026-01-15T10:39:00+00:00,,0.4006062128191026,1,1,hi,,
-'f9f9aaa314',extremes,Earthquake,#870007,usgs,भूकंप धिंग,2026-01-15T10:56:00+00:00,India,0.3761905142293607,0,1,hi,SAS,Asia
 '35bd62c5a9',extremes,Drought,#edc291,edo,भारत में सूखा,2025-12-14T03:49:00+00:00,India,0.3676889017365067,1,2,hi,SAS,Asia
-'15a9c61e3e',extremes,Landslide,#572c03,random,चट्टानों का खिसकना,2026-01-15T12:13:00+00:00,,0.3668409517724288,0,1,hi,,
-'980a973102',extremes,Tropical Cyclone,#4f4f4f,random,बम चक्रवात,2026-01-15T10:56:00+00:00,,0.3638794102459015,0,1,hi,,
-'59b5340b69',extremes,Precipitation,#d60d2b,random,मौसम सामने,2026-01-15T10:56:00+00:00,,0.3610049868568126,0,1,hi,,
 '283b154c38',extremes,Wet Spell,#d60d2b,random,गीला जादू,2026-01-15T12:13:00+00:00,,0.3602027799732853,0,1,hi,,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,ओलावृष्टि,2026-01-15T12:13:00+00:00,,0.3560696110740966,0,1,hi,,
 'a652c78afc',extremes,Drought,#edc291,random,महासूखा,2026-01-18T03:56:00+00:00,,0.3536643231434738,0,1,hi,,
 '560b05d603',extremes,Heat Wave,#c40202,random,गर्मी की लहर,2026-01-18T03:56:00+00:00,,0.3522846892766537,0,1,hi,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,बर्फ़ीला तूफ़ान,2026-01-15T10:39:00+00:00,,0.3484588916075219,1,1,hi,,
-'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,हिमशैल अंटार्कटिका,2026-01-18T03:56:00+00:00,,0.34845562064169355,1,1,hi,,
+'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,हिमशैल अंटार्कटिका,2026-01-18T03:56:00+00:00,,0.3484556206416935,1,1,hi,,
 '1c38b19449',extremes,Storm,#b3b2b1,random,धूल के कटोरे,2026-01-15T10:39:00+00:00,,0.3484455631965196,1,1,hi,,
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,बर्फ़ीला तूफ़ान,2026-01-15T10:39:00+00:00,,0.3484157507385845,1,1,hi,,
 '3fa143a609',extremes,Storm,#b3b2b1,random,धूल भरी आंधी,2026-01-15T10:39:00+00:00,,0.3484155837900779,1,1,hi,,
-'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,राष्ट्रीय तूफान केंद्र,2026-01-15T10:39:00+00:00,,0.34758214186823955,1,1,hi,,
+'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,राष्ट्रीय तूफान केंद्र,2026-01-15T10:39:00+00:00,,0.3475821418682395,1,1,hi,,
 'ff7862e348',extremes,Drought,#edc291,edo,सूखापन भारत,2025-12-19T03:46:00+00:00,India,0.3373592454235417,1,1,hi,SAS,Asia
+'59b5340b69',extremes,Precipitation,#d60d2b,random,मौसम सामने,2026-01-15T10:56:00+00:00,,0.32757131049495736,1,2,hi,,
+'f9f9aaa314',extremes,Earthquake,#870007,usgs,भूकंप धिंग,2026-01-15T10:56:00+00:00,India,0.31976193709495654,1,1,hi,SAS,Asia
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय चक्रवात 08 बजे,2025-12-16T03:46:00+00:00,,0.3171000998359699,0,2,hi,SPO,Pacific Ocean
+'15a9c61e3e',extremes,Landslide,#572c03,random,चट्टानों का खिसकना,2026-01-15T12:13:00+00:00,,0.3118148090065645,1,1,hi,,
+'980a973102',extremes,Tropical Cyclone,#4f4f4f,random,बम चक्रवात,2026-01-15T10:56:00+00:00,,0.30929749870901624,1,1,hi,,
 'b6cef22543',extremes,Drought,#edc291,random,जल प्रतिबंध,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,hi,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,वायुमंडलीय नदी,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,hi,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,रिकॉर्ड ठंड,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,hi,,
