@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'e3e012c1ea',extremes,Snow&Ice,#d60d2b,wmo,फ्रॉस्ट इंडिया,2026-01-15T12:14:00+00:00,India,0.7406095857142209,1,2,hi,SAS,Asia
-'3f3ddd0b49',extremes,Earthquake,#870007,usgs,भूकंप भारत,2026-01-15T10:56:00+00:00,India,0.7119977793152554,0,1,hi,SAS,Asia
 'f199635353',extremes,Earthquake,#870007,usgs,भूकंप मोरीगांव,2026-01-15T10:56:00+00:00,India,0.7118541125800955,0,1,hi,SAS,Asia
 'dd346fd726',extremes,Cold Wave,#a7e9fa,wmo,राजस्थान के 5 जिलों में ठंड,2026-01-15T12:14:00+00:00,India,0.7112135918998471,1,2,hi,SAS,Asia
 '0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,ठंडा भारत,2026-01-15T10:56:00+00:00,India,0.6949609649857834,0,1,hi,SAS,Asia
@@ -44,7 +43,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '40f675561f',extremes,Heat Wave,#c40202,random,सबसे तेज़ गर्मी,2026-01-15T10:56:00+00:00,,0.3470966900262298,0,1,hi,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,चक्रवात,2026-01-15T10:56:00+00:00,,0.3453068999447984,0,1,hi,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,बवंडर,2026-01-17T03:44:00+00:00,,0.3438796635272074,0,1,hi,,
-'55c39b351d',extremes,Storm,#b3b2b1,random,धूल शैतान,2026-01-15T10:56:00+00:00,,0.34341234140124005,0,1,hi,,
+'55c39b351d',extremes,Storm,#b3b2b1,random,धूल शैतान,2026-01-15T10:56:00+00:00,,0.34341234140124,0,1,hi,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,टिड्डियाँ,2026-01-15T10:56:00+00:00,,0.3419969009279606,0,1,hi,,
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,ग्लेशियर झील का प्रकोप,2026-01-18T03:56:00+00:00,,0.3394040192593826,0,1,hi,,
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,चिलचिलाती तापमान,2026-01-15T12:13:00+00:00,,0.3378073195500063,0,1,hi,,
