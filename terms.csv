@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'e3e012c1ea',extremes,Snow&Ice,#d60d2b,wmo,फ्रॉस्ट इंडिया,2026-01-15T12:14:00+00:00,India,0.7406095857142209,1,2,hi,SAS,Asia
-'3f3ddd0b49',extremes,Earthquake,#870007,usgs,भूकंप भारत,2026-01-15T10:56:00+00:00,India,0.7119977793152554,0,1,hi,SAS,Asia
 'f199635353',extremes,Earthquake,#870007,usgs,भूकंप मोरीगांव,2026-01-15T10:56:00+00:00,India,0.7118541125800955,0,1,hi,SAS,Asia
 'dd346fd726',extremes,Cold Wave,#a7e9fa,wmo,राजस्थान के 5 जिलों में ठंड,2026-01-15T12:14:00+00:00,India,0.7112135918998471,1,2,hi,SAS,Asia
 '0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,ठंडा भारत,2026-01-15T10:56:00+00:00,India,0.6949609649857834,0,1,hi,SAS,Asia
@@ -43,7 +42,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,ओलावृष्टि,2026-01-15T12:13:00+00:00,,0.4031092144129821,1,2,hi,,
 '82d648b882',extremes,Drought,#edc291,random,सूखा,2026-01-15T10:39:00+00:00,,0.4006062128191026,1,1,hi,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,औषधि,2026-01-22T03:59:00+00:00,,0.3956642285786956,0,1,hi,,
-'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,जमना,2026-01-22T03:59:00+00:00,,0.37941372030773396,0,1,hi,,
+'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,जमना,2026-01-22T03:59:00+00:00,,0.3794137203077339,0,1,hi,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,रिकॉर्ड गर्मी,2026-01-21T03:55:00+00:00,,0.377834632528104,1,2,hi,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,पारा गिरा,2026-01-22T03:59:00+00:00,,0.3767178110878088,0,1,hi,,
 '35bd62c5a9',extremes,Drought,#edc291,edo,भारत में सूखा,2025-12-14T03:49:00+00:00,India,0.3676889017365067,1,2,hi,SAS,Asia
@@ -93,9 +92,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '26349abe17',extremes,Tsunami,#690191,usgs,सुनामी अट्टू स्टेशन,2026-01-15T12:13:00+00:00,Alaska,0.3198458782942405,0,1,hi,NPO,Pacific Ocean
 '464d595634',extremes,Earthquake,#870007,usgs,भूकंप कैमिना,2026-01-15T12:13:00+00:00,Chile,0.3198429479823136,0,1,hi,SWS,South-America
 '018b9ccc96',extremes,Earthquake,#870007,usgs,भूकंप मॉरीशस पुनर्मिलन क्षेत्र,2026-01-15T10:56:00+00:00,,0.3198426792048654,0,1,hi,SIO,Indian Ocean
-'76ad379230',extremes,Earthquake,#870007,usgs,पेट्रोपावलोव्स्क कामचात्स्की में भूकंप,2026-01-15T10:56:00+00:00,Russia,0.31984194914788205,0,1,hi,RFE,Asia
+'76ad379230',extremes,Earthquake,#870007,usgs,पेट्रोपावलोव्स्क कामचात्स्की में भूकंप,2026-01-15T10:56:00+00:00,Russia,0.319841949147882,0,1,hi,RFE,Asia
 '4d51911b1d',extremes,Earthquake,#870007,usgs,भूकंप सोला,2026-01-15T10:56:00+00:00,Vanuatu,0.319832409967632,0,1,hi,SPO,Pacific Ocean
-'6b1cc9478a',extremes,Earthquake,#870007,usgs,भूकंप माबारुमा,2026-01-15T10:56:00+00:00,Guyana,0.31983046756362477,0,1,hi,NSA,South-America
+'6b1cc9478a',extremes,Earthquake,#870007,usgs,भूकंप माबारुमा,2026-01-15T10:56:00+00:00,Guyana,0.3198304675636247,0,1,hi,NSA,South-America
 'f9f9aaa314',extremes,Earthquake,#870007,usgs,भूकंप धिंग,2026-01-15T10:56:00+00:00,India,0.3197619370949565,1,1,hi,SAS,Asia
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय चक्रवात 08 बजे,2025-12-16T03:46:00+00:00,,0.3171000998359699,0,2,hi,SPO,Pacific Ocean
 'd59a7e48d7',extremes,Drought,#edc291,random,वाष्पीकरण-उत्सर्जन,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,hi,,
