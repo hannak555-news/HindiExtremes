@@ -1,11 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'e3e012c1ea',extremes,Snow&Ice,#d60d2b,wmo,फ्रॉस्ट इंडिया,2026-01-15T12:14:00+00:00,India,0.7406095857142209,1,2,hi,SAS,Asia
+'3f3ddd0b49',extremes,Earthquake,#870007,usgs,भूकंप भारत,2026-01-15T10:56:00+00:00,India,0.7119977793152554,0,1,hi,SAS,Asia
 'f199635353',extremes,Earthquake,#870007,usgs,भूकंप मोरीगांव,2026-01-15T10:56:00+00:00,India,0.7118541125800955,0,1,hi,SAS,Asia
 'dd346fd726',extremes,Cold Wave,#a7e9fa,wmo,राजस्थान के 5 जिलों में ठंड,2026-01-15T12:14:00+00:00,India,0.7112135918998471,1,2,hi,SAS,Asia
 '0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,ठंडा भारत,2026-01-15T10:56:00+00:00,India,0.6949609649857834,0,1,hi,SAS,Asia
+'f2cea183b1',extremes,Cold Wave,#a7e9fa,wmo,राजस्थान के 5 जिलों में शीतलहर,2026-01-15T10:56:00+00:00,India,0.6949604630450735,0,1,hi,SAS,Asia
 '271200cbb0',extremes,Wildfire,#d60d2b,wmo,जंगल की आग आंध्र प्रदेश,2026-01-15T10:56:00+00:00,India,0.6946830595195244,0,1,hi,SAS,Asia
 '5e4bef8c2c',extremes,Cold Wave,#a7e9fa,wmo,शीत लहर भारत,2026-01-15T10:56:00+00:00,India,0.6946752299407346,0,1,hi,SAS,Asia
 'a8ed721e08',extremes,Fog,#d60d2b,wmo,कोहरा भारत,2026-01-15T10:56:00+00:00,India,0.6946625481587679,0,1,hi,SAS,Asia
+'84f30e1888',extremes,Cold Wave,#a7e9fa,wmo,हरियाणा के 4 जिलों में शीतलहर,2026-01-22T03:59:00+00:00,India,0.6745294678744231,0,1,hi,SAS,Asia
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,जय भारत,2026-01-22T03:59:00+00:00,India,0.6654601540831622,0,1,hi,SAS,Asia
 '4093195155',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल भारत,2026-01-22T03:59:00+00:00,India,0.6599771543384202,0,1,hi,SAS,Asia
 'fc65ba09fe',extremes,Thunderstorm,#53785a,wmo,पंजाब के 12 जिलों में ओलावृष्टि,2026-01-22T03:59:00+00:00,India,0.6524057310465137,0,1,hi,SAS,Asia
@@ -101,6 +104,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,भूकंप सैन एंटोनियो डी लॉस कोबरेस,2026-01-15T10:56:00+00:00,Argentina,0.3198285138531148,0,1,hi,SES,South-America
 'fa8badb0c3',extremes,Tsunami,#690191,usgs,सुनामी बैकुलिन,2026-01-15T10:56:00+00:00,Philippines,0.3198273270828526,0,1,hi,SEA,Asia
 '23ad2bb822',extremes,Earthquake,#870007,usgs,भूकंप रूस,2026-01-15T10:56:00+00:00,Russia,0.3198270531980787,0,1,hi,EAS,Asia
+'2617cc6cc9',extremes,Earthquake,#870007,usgs,भूकंप न्यूजीलैंड,2026-01-15T10:56:00+00:00,New Zealand,0.31982595775366973,0,1,hi,NZ,Oceania
+'73d01d320c',extremes,Earthquake,#870007,usgs,भूकंप अफगानिस्तान,2026-01-15T12:13:00+00:00,Afghanistan,0.31982132950774916,0,1,hi,WCA,Asia
+'f4e7397282',extremes,Tsunami,#690191,usgs,सुनामी बंदरगाह अल्सवर्थ,2026-01-15T10:56:00+00:00,United States,0.3198213068509887,0,1,hi,NWN,North-America
+'072f41af80',extremes,Earthquake,#870007,usgs,भूकंप अराटोका,2026-01-15T10:56:00+00:00,Colombia,0.31981706112928426,0,1,hi,NWS,South-America
+'43165fdae0',extremes,Earthquake,#870007,usgs,भूकंप विला बेसिलियो निवास,2026-01-15T12:13:00+00:00,Argentina,0.31981692308899035,0,1,hi,SWS,South-America
+'01e4b0cc71',extremes,Earthquake,#870007,usgs,भूकंप कुरीलस्क,2026-01-15T10:56:00+00:00,Russia,0.3198107857016188,0,1,hi,EAS,Asia
+'e1256a9495',extremes,Tsunami,#690191,usgs,सुनामी रैंचो वीजो,2026-01-15T10:56:00+00:00,Mexico,0.3198089224614129,0,1,hi,SCA,North-America
 'f9f9aaa314',extremes,Earthquake,#870007,usgs,भूकंप धिंग,2026-01-15T10:56:00+00:00,India,0.3197619370949565,1,1,hi,SAS,Asia
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय चक्रवात 08 बजे,2025-12-16T03:46:00+00:00,,0.3171000998359699,0,2,hi,SPO,Pacific Ocean
 'd59a7e48d7',extremes,Drought,#edc291,random,वाष्पीकरण-उत्सर्जन,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,hi,,
