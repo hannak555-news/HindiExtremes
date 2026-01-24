@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'e3e012c1ea',extremes,Snow&Ice,#d60d2b,wmo,फ्रॉस्ट इंडिया,2026-01-15T12:14:00+00:00,India,0.7406095857142209,1,2,hi,SAS,Asia
-'3f3ddd0b49',extremes,Earthquake,#870007,usgs,भूकंप भारत,2026-01-15T10:56:00+00:00,India,0.7119977793152554,0,1,hi,SAS,Asia
 'f199635353',extremes,Earthquake,#870007,usgs,भूकंप मोरीगांव,2026-01-15T10:56:00+00:00,India,0.7118541125800955,0,1,hi,SAS,Asia
 'dd346fd726',extremes,Cold Wave,#a7e9fa,wmo,राजस्थान के 5 जिलों में ठंड,2026-01-15T12:14:00+00:00,India,0.7112135918998471,1,2,hi,SAS,Asia
 '0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,ठंडा भारत,2026-01-15T10:56:00+00:00,India,0.6949609649857834,0,1,hi,SAS,Asia
@@ -20,17 +19,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8b022b84c7',extremes,Wildfire,#d60d2b,wmo,जंगल की आग मध्य प्रदेश,2026-01-15T10:56:00+00:00,India,0.5902282072139722,1,1,hi,SAS,Asia
 '6a0e9887e1',extremes,Fog,#d60d2b,wmo,उत्तर प्रदेश के 15 जिलों में कोहरा,2026-01-17T03:44:00+00:00,India,0.5786359138488434,1,2,hi,SAS,Asia
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,तूफ़ान भारत,2025-12-16T03:47:00+00:00,India,0.5656064129787228,1,1,hi,SAS,Asia
-'c99edce791',extremes,Cold Wave,#a7e9fa,wmo,मध्य प्रदेश के इंदौर जिले में शीतलहर,2025-12-15T03:54:00+00:00,India,0.5622312183744859,1,1,hi,SAS,Asia
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,वर्षा भारत,2025-12-16T03:47:00+00:00,India,0.5454225780363715,1,1,hi,SAS,Asia
 '62ede3d2ca',extremes,Thunderstorm,#53785a,wmo,पंजाब के 11 जिलों में आंधी,2026-01-22T03:59:00+00:00,India,0.5245593937451903,0,1,hi,SAS,Asia
-'61007812be',extremes,Fog,#d60d2b,wmo,पंजाब के 8 जिलों में कोहरा,2025-12-18T03:44:00+00:00,India,0.5156148648191629,2,1,hi,SAS,Asia
 '8437b1b153',extremes,Fog,#d60d2b,wmo,कोहरा एनडब्ल्यू एनसी घना कोहरा,2026-01-18T03:57:00+00:00,India,0.4997438992923668,1,1,hi,SAS,Asia
 'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,जंगल की आग उत्तराखंड,2026-01-15T10:56:00+00:00,India,0.495412903233949,1,1,hi,SAS,Asia
 '4609262d69',extremes,Fog,#d60d2b,wmo,आंध्र प्रदेश के बापटला जिले में कोहरा,2026-01-18T03:57:00+00:00,India,0.4941589636607346,1,1,hi,SAS,Asia
 '20741ce7eb',extremes,Tsunami,#690191,random,सुनामी,2026-01-15T10:39:00+00:00,,0.4855408725881853,1,2,hi,,
-'7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,जंगल की आग भारत,2025-12-19T03:46:00+00:00,India,0.484409705215414,2,1,hi,SAS,Asia
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,भारी वर्षा,2026-01-17T03:44:00+00:00,,0.4809562161238542,1,2,hi,,
-'e529a9043d',extremes,Fog,#d60d2b,wmo,हरियाणा के हिसार जिले में कोहरा,2025-12-19T03:46:00+00:00,India,0.476643993783153,2,1,hi,SAS,Asia
 '62084daeb0',extremes,Earthquake,#870007,random,भूकंप,2026-01-15T10:39:00+00:00,,0.4655401254261786,1,2,hi,,
 'bd21048a6a',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-01-15T12:14:00+00:00,United Arab Emirates,0.4552337147040567,0,1,hi,ARP,Asia
 'da77b5167a',extremes,Earthquake,#870007,usgs,भूकंप हायुलियांग,2026-01-22T03:59:00+00:00,India,0.454633203395609,0,1,hi,SAS,Asia
@@ -67,7 +62,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,ग्लेशियर झील का प्रकोप,2026-01-18T03:56:00+00:00,,0.3394040192593826,0,1,hi,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,हिमशैल आर्कटिक,2026-01-21T03:55:00+00:00,,0.3378656724753853,1,1,hi,,
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,चिलचिलाती तापमान,2026-01-15T12:13:00+00:00,,0.3378073195500063,0,1,hi,,
-'ff7862e348',extremes,Drought,#edc291,edo,सूखापन भारत,2025-12-19T03:46:00+00:00,India,0.3373592454235417,1,1,hi,SAS,Asia
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,रात की ठंढ,2026-01-15T10:56:00+00:00,,0.3358596462715496,0,1,hi,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडा दिन,2026-01-15T10:56:00+00:00,,0.3353659720171796,0,1,hi,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,हिमशैल का शांत होना,2026-01-19T04:02:00+00:00,,0.3348794352955919,1,1,hi,,
@@ -104,11 +98,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,भूकंप सैन एंटोनियो डी लॉस कोबरेस,2026-01-15T10:56:00+00:00,Argentina,0.3198285138531148,0,1,hi,SES,South-America
 'fa8badb0c3',extremes,Tsunami,#690191,usgs,सुनामी बैकुलिन,2026-01-15T10:56:00+00:00,Philippines,0.3198273270828526,0,1,hi,SEA,Asia
 '23ad2bb822',extremes,Earthquake,#870007,usgs,भूकंप रूस,2026-01-15T10:56:00+00:00,Russia,0.3198270531980787,0,1,hi,EAS,Asia
-'2617cc6cc9',extremes,Earthquake,#870007,usgs,भूकंप न्यूजीलैंड,2026-01-15T10:56:00+00:00,New Zealand,0.31982595775366973,0,1,hi,NZ,Oceania
-'73d01d320c',extremes,Earthquake,#870007,usgs,भूकंप अफगानिस्तान,2026-01-15T12:13:00+00:00,Afghanistan,0.31982132950774916,0,1,hi,WCA,Asia
+'2617cc6cc9',extremes,Earthquake,#870007,usgs,भूकंप न्यूजीलैंड,2026-01-15T10:56:00+00:00,New Zealand,0.3198259577536697,0,1,hi,NZ,Oceania
+'73d01d320c',extremes,Earthquake,#870007,usgs,भूकंप अफगानिस्तान,2026-01-15T12:13:00+00:00,Afghanistan,0.3198213295077491,0,1,hi,WCA,Asia
 'f4e7397282',extremes,Tsunami,#690191,usgs,सुनामी बंदरगाह अल्सवर्थ,2026-01-15T10:56:00+00:00,United States,0.3198213068509887,0,1,hi,NWN,North-America
-'072f41af80',extremes,Earthquake,#870007,usgs,भूकंप अराटोका,2026-01-15T10:56:00+00:00,Colombia,0.31981706112928426,0,1,hi,NWS,South-America
-'43165fdae0',extremes,Earthquake,#870007,usgs,भूकंप विला बेसिलियो निवास,2026-01-15T12:13:00+00:00,Argentina,0.31981692308899035,0,1,hi,SWS,South-America
+'072f41af80',extremes,Earthquake,#870007,usgs,भूकंप अराटोका,2026-01-15T10:56:00+00:00,Colombia,0.3198170611292842,0,1,hi,NWS,South-America
+'43165fdae0',extremes,Earthquake,#870007,usgs,भूकंप विला बेसिलियो निवास,2026-01-15T12:13:00+00:00,Argentina,0.3198169230889903,0,1,hi,SWS,South-America
 '01e4b0cc71',extremes,Earthquake,#870007,usgs,भूकंप कुरीलस्क,2026-01-15T10:56:00+00:00,Russia,0.3198107857016188,0,1,hi,EAS,Asia
 'e1256a9495',extremes,Tsunami,#690191,usgs,सुनामी रैंचो वीजो,2026-01-15T10:56:00+00:00,Mexico,0.3198089224614129,0,1,hi,SCA,North-America
 'f9f9aaa314',extremes,Earthquake,#870007,usgs,भूकंप धिंग,2026-01-15T10:56:00+00:00,India,0.3197619370949565,1,1,hi,SAS,Asia
