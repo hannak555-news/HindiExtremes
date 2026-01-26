@@ -1,33 +1,51 @@
 ,phrase,label,sentiment,subjectivity,language,count
-IMD,IMD,ORG,-0.18712121212121216,0.5193181818181819,en,7.999999999999999
-The Meteorological Department,The Meteorological Department,ORG,0.17307692307692307,0.1923076923076923,en,2.6
+IMD,IMD,ORG,-0.14595422308188266,0.5651998710509348,en,9.4
+The Meteorological Department,The Meteorological Department,ORG,0.3275862068965517,0.3448275862068966,en,2.9
+The Indian Meteorological Department,The Indian Meteorological Department,ORG,-0.0769230769230769,0.2692307692307692,en,2.6
+AQI,AQI,ORG,-0.11363636363636363,0.3134920634920635,en,2.1
 Pandya,Pandya,ORG,0.2631578947368421,0.39473684210526316,en,1.9
 the Meteorological Department,the Meteorological Department,ORG,-0.018518518518518514,0.0,en,1.8
 Mercury,Mercury,ORG,0.0,0.0,en,1.8
-AQI,AQI,ORG,0.07575757575757575,0.0,en,1.8
-The Indian Meteorological Department,The Indian Meteorological Department,ORG,-0.11111111111111108,0.38888888888888884,en,1.8
+North India Weather:,North India Weather:,ORG,-0.38804713804713803,0.40404040404040403,en,1.8
 Delhi AQI,Delhi AQI,ORG,0.2414772727272727,0.20833333333333331,en,1.6
-Elon Musk's,Elon Musk's,ORG,0.1875,0.0,en,1.0
-Greenland,Greenland,ORG,-0.25,0.0,en,1.0
-Bathinda,Bathinda,ORG,0.0,0.0,en,1.0
-Farmers,Farmers,ORG,-0.75,0.0,en,1.0
-Vidarbha,Vidarbha,ORG,0.5,0.0,en,1.0
-Baroda,Baroda,ORG,0.0,0.0,en,1.0
-The Indian Metrological Department,The Indian Metrological Department,ORG,-0.2333333333333333,0.0,en,1.0
-Indian Railways Canceled Trains,Indian Railways Canceled Trains,ORG,0.0,0.0,en,1.0
-Phivolcs,Phivolcs,ORG,0.0,0.0,en,1.0
-Offshore Tumbler',Offshore Tumbler',ORG,0.0,0.0,en,1.0
-the National Center for Seismology,the National Center for Seismology,ORG,-0.1,0.0,en,1.0
-Indigo,Indigo,ORG,-0.3,0.0,en,1.0
-India Meteorological Department,India Meteorological Department,ORG,0.0,0.0,en,1.0
-Palam,Palam,ORG,-0.16666666666666666,0.0,en,1.0
-Karthik-Ananya's,Karthik-Ananya's,ORG,-0.17777777777777773,0.0,en,1.0
+ODI,ODI,ORG,0.0,0.041666666666666664,en,1.6
+Bangladesh,Bangladesh,ORG,0.0,0.0,en,1.3
+India Meteorological Department,India Meteorological Department,ORG,0.3846153846153846,0.3846153846153846,en,1.3
+Cold,Cold,ORG,-0.3846153846153846,0.7692307692307692,en,1.3
+Rohit,Rohit,ORG,0.0,0.0,en,1.3
 TMMTMTTM Box Office Collection,TMMTMTTM Box Office Collection,ORG,-0.17777777777777773,0.0,en,1.0
+Tejas Rajdhani,Tejas Rajdhani,ORG,0.025000000000000005,0.0,en,1.0
+"Patna, Bettiah","Patna, Bettiah",ORG,0.0,0.0,en,1.0
+The Indian Metrological Department,The Indian Metrological Department,ORG,-0.2333333333333333,0.0,en,1.0
+Samur,Samur,ORG,0.5166666666666667,0.0,en,1.0
+Baroda,Baroda,ORG,0.0,0.0,en,1.0
+Vidarbha,Vidarbha,ORG,0.5,0.0,en,1.0
+Shubman Gill,Shubman Gill,ORG,0.0,0.0,en,1.0
+Duronto,Duronto,ORG,0.025000000000000005,0.0,en,1.0
+Phivolcs,Phivolcs,ORG,0.0,0.0,en,1.0
+Farmers,Farmers,ORG,-0.75,0.0,en,1.0
+the Indian Premier League (IPL,the Indian Premier League (IPL,ORG,0.0,0.0,en,1.0
+Bathinda,Bathinda,ORG,0.0,0.0,en,1.0
+Greenland,Greenland,ORG,-0.25,0.0,en,1.0
+Elon Musk's,Elon Musk's,ORG,0.1875,0.0,en,1.0
+Dhanush,Dhanush,ORG,0.22878787878787876,0.0,en,1.0
+Indian Railways Canceled Trains,Indian Railways Canceled Trains,ORG,0.0,0.0,en,1.0
+Offshore Tumbler',Offshore Tumbler',ORG,0.0,0.0,en,1.0
+Karthik-Ananya's,Karthik-Ananya's,ORG,-0.17777777777777773,0.0,en,1.0
+Bangladesh Board,Bangladesh Board,ORG,-0.125,0.0,en,1.0
 Oxford Union',Oxford Union',ORG,0.25,0.0,en,1.0
 Oxford Union Debate,Oxford Union Debate,ORG,-0.2,0.0,en,1.0
+Palam,Palam,ORG,-0.16666666666666666,0.0,en,1.0
 Oxford,Oxford,ORG,-0.05833333333333333,0.0,en,1.0
+Broccoli,Broccoli,ORG,0.2333333333333333,0.0,en,1.0
+the National Center for Seismology,the National Center for Seismology,ORG,-0.1,0.0,en,1.0
+Indigo,Indigo,ORG,-0.3,0.0,en,1.0
 Indian Embassy,Indian Embassy,ORG,0.0,0.0,en,1.0
+Delhi Air Quality: Amidst,Delhi Air Quality: Amidst,ORG,-0.375,0.0,en,1.0
+Delhi Air Quality,Delhi Air Quality,ORG,-0.5,0.0,en,1.0
+Central Pollution Control Board,Central Pollution Control Board,ORG,0.0,0.0,en,1.0
+CPCB,CPCB,ORG,0.0,0.0,en,1.0
 Sitamarhi,Sitamarhi,ORG,0.0,0.0,en,1.0
-"Patna, Bettiah","Patna, Bettiah",ORG,0.0,0.0,en,1.0
-Cold,Cold,ORG,0.10000000000000003,0.0,en,1.0
-Dhanush,Dhanush,ORG,0.22878787878787876,0.0,en,1.0
+BCB,BCB,ORG,0.0,0.0,en,1.0
+The ICC Men's T20 World Cup 2026,The ICC Men's T20 World Cup 2026,ORG,0.0,0.0,en,1.0
+Madras,Madras,ORG,0.08333333333333333,0.0,en,1.0
