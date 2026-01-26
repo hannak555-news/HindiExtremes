@@ -10,10 +10,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,जय भारत,2026-01-22T03:59:00+00:00,India,0.6617913709706877,1,2,hi,SAS,Asia
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,भूकंप भारत,2026-01-15T10:56:00+00:00,India,0.6556481574179671,1,1,hi,SAS,Asia
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,वर्षा भारत,2026-01-25T04:06:00+00:00,India,0.6317230440024421,0,1,hi,SAS,Asia
-'e635ff71fc',extremes,Cold Wave,#a7e9fa,wmo,पंजाब के 7 जिलों में ठंड,2026-01-22T03:59:00+00:00,India,0.6302388823209844,0,1,hi,SAS,Asia
 '2d4d2b3089',extremes,Snow&Ice,#d60d2b,wmo,उत्तराखंड के 11 जिलों में बर्फ,2026-01-22T03:59:00+00:00,India,0.6286517973455691,0,1,hi,SAS,Asia
 '90522631da',extremes,Precipitation,#d60d2b,wmo,भारत में वर्षा,2026-01-25T04:06:00+00:00,India,0.6266279037011909,0,1,hi,SAS,Asia
 '4ec651f142',extremes,Snow&Ice,#d60d2b,wmo,उत्तराखंड के 11 जिलों में बर्फबारी,2026-01-21T03:56:00+00:00,India,0.6136315210133759,0,1,hi,SAS,Asia
+'e635ff71fc',extremes,Cold Wave,#a7e9fa,wmo,पंजाब के 7 जिलों में ठंड,2026-01-22T03:59:00+00:00,India,0.6110030799728366,1,2,hi,SAS,Asia
 'e529a9043d',extremes,Fog,#d60d2b,wmo,हरियाणा के हिसार जिले में कोहरा,2026-01-19T04:03:00+00:00,India,0.5970397741160366,0,1,hi,SAS,Asia
 'f2cea183b1',extremes,Cold Wave,#a7e9fa,wmo,राजस्थान के 5 जिलों में शीतलहर,2026-01-15T10:56:00+00:00,India,0.5908664085883125,1,1,hi,SAS,Asia
 '0f7c486492',extremes,Wildfire,#d60d2b,wmo,जंगल की आग अरुणाचल प्रदेश,2026-01-15T12:14:00+00:00,India,0.5904656034372223,1,1,hi,SAS,Asia
@@ -131,13 +131,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8710bd49ea',extremes,Earthquake,#870007,usgs,भूकंप सेवरो कुरीलस्क,2026-01-15T10:56:00+00:00,Russia,0.3197921675817287,0,1,hi,RFE,Asia
 'db5f39549c',extremes,Earthquake,#870007,usgs,भूकंप इंडोनेशिया,2026-01-15T10:56:00+00:00,Indonesia,0.319787770621371,0,1,hi,SEA,Asia
 '85a135fac3',extremes,Earthquake,#870007,usgs,भूकंप ओज़र्नोव्स्की,2026-01-15T10:56:00+00:00,Russia,0.3197876248263615,0,1,hi,RFE,Asia
-'51dfc3f3e1',extremes,Earthquake,#870007,usgs,भूकंप कोकोपो,2026-01-15T10:56:00+00:00,Papua New Guinea,0.31978555565455874,0,1,hi,EPO,Pacific Ocean
+'51dfc3f3e1',extremes,Earthquake,#870007,usgs,भूकंप कोकोपो,2026-01-15T10:56:00+00:00,Papua New Guinea,0.3197855556545587,0,1,hi,EPO,Pacific Ocean
 'fc0fd225f3',extremes,Earthquake,#870007,usgs,भूकंप बर्मा म्यांमार,2026-01-15T12:13:00+00:00,Burma (Myanmar),0.3197854094247633,0,1,hi,SAS,Asia
 '066ed457ed',extremes,Earthquake,#870007,usgs,भूकंप उत्तरी मारियाना द्वीप,2026-01-15T12:13:00+00:00,Northern Mariana Islands,0.3197822395529101,0,1,hi,NPO,Pacific Ocean
 '4ea40cfaf4',extremes,Earthquake,#870007,usgs,भूकंप प्रिंस एडवर्ड द्वीप क्षेत्र,2026-01-15T10:56:00+00:00,,0.3197749182823346,0,1,hi,SOO,Antarctica
 'f7921ef009',extremes,Earthquake,#870007,usgs,भूकंप vilyuchinsk,2026-01-15T10:56:00+00:00,Russia,0.3197735132787656,0,1,hi,RFE,Asia
-'1133ce1349',extremes,Earthquake,#870007,usgs,भूकंप कोस्टा रिका,2026-01-15T12:13:00+00:00,Costa Rica,0.31977305475664575,0,1,hi,SCA,South-America
-'c685705bbd',extremes,Earthquake,#870007,usgs,भूकंप चीन,2026-01-15T10:56:00+00:00,China,0.31977260661763446,0,1,hi,EAS,Asia
+'1133ce1349',extremes,Earthquake,#870007,usgs,भूकंप कोस्टा रिका,2026-01-15T12:13:00+00:00,Costa Rica,0.3197730547566457,0,1,hi,SCA,South-America
+'c685705bbd',extremes,Earthquake,#870007,usgs,भूकंप चीन,2026-01-15T10:56:00+00:00,China,0.3197726066176344,0,1,hi,EAS,Asia
 'f9f9aaa314',extremes,Earthquake,#870007,usgs,भूकंप धिंग,2026-01-15T10:56:00+00:00,India,0.3197619370949565,1,1,hi,SAS,Asia
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय चक्रवात 08 बजे,2025-12-16T03:46:00+00:00,,0.3171000998359699,0,2,hi,SPO,Pacific Ocean
 'd59a7e48d7',extremes,Drought,#edc291,random,वाष्पीकरण-उत्सर्जन,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,hi,,
