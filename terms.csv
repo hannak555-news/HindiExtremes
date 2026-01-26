@@ -128,6 +128,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '957a7a09df',extremes,Earthquake,#870007,usgs,भूकंप अट्टू स्टेशन,2026-01-15T10:56:00+00:00,Alaska,0.3197938741364492,0,1,hi,NPO,Pacific Ocean
 'db2a276fc1',extremes,Earthquake,#870007,usgs,भूकंप ऐसेन,2026-01-15T12:13:00+00:00,Chile,0.3197935412133924,0,1,hi,SWS,South-America
 '7e7895dc7a',extremes,Earthquake,#870007,usgs,भूकंप ताजिकिस्तान,2026-01-15T10:56:00+00:00,Tajikistan,0.319793045756558,0,1,hi,WCA,Asia
+'8710bd49ea',extremes,Earthquake,#870007,usgs,भूकंप सेवरो कुरीलस्क,2026-01-15T10:56:00+00:00,Russia,0.3197921675817287,0,1,hi,RFE,Asia
+'db5f39549c',extremes,Earthquake,#870007,usgs,भूकंप इंडोनेशिया,2026-01-15T10:56:00+00:00,Indonesia,0.319787770621371,0,1,hi,SEA,Asia
+'85a135fac3',extremes,Earthquake,#870007,usgs,भूकंप ओज़र्नोव्स्की,2026-01-15T10:56:00+00:00,Russia,0.3197876248263615,0,1,hi,RFE,Asia
+'51dfc3f3e1',extremes,Earthquake,#870007,usgs,भूकंप कोकोपो,2026-01-15T10:56:00+00:00,Papua New Guinea,0.31978555565455874,0,1,hi,EPO,Pacific Ocean
+'fc0fd225f3',extremes,Earthquake,#870007,usgs,भूकंप बर्मा म्यांमार,2026-01-15T12:13:00+00:00,Burma (Myanmar),0.3197854094247633,0,1,hi,SAS,Asia
+'066ed457ed',extremes,Earthquake,#870007,usgs,भूकंप उत्तरी मारियाना द्वीप,2026-01-15T12:13:00+00:00,Northern Mariana Islands,0.3197822395529101,0,1,hi,NPO,Pacific Ocean
+'4ea40cfaf4',extremes,Earthquake,#870007,usgs,भूकंप प्रिंस एडवर्ड द्वीप क्षेत्र,2026-01-15T10:56:00+00:00,,0.3197749182823346,0,1,hi,SOO,Antarctica
+'f7921ef009',extremes,Earthquake,#870007,usgs,भूकंप vilyuchinsk,2026-01-15T10:56:00+00:00,Russia,0.3197735132787656,0,1,hi,RFE,Asia
+'1133ce1349',extremes,Earthquake,#870007,usgs,भूकंप कोस्टा रिका,2026-01-15T12:13:00+00:00,Costa Rica,0.31977305475664575,0,1,hi,SCA,South-America
+'c685705bbd',extremes,Earthquake,#870007,usgs,भूकंप चीन,2026-01-15T10:56:00+00:00,China,0.31977260661763446,0,1,hi,EAS,Asia
 'f9f9aaa314',extremes,Earthquake,#870007,usgs,भूकंप धिंग,2026-01-15T10:56:00+00:00,India,0.3197619370949565,1,1,hi,SAS,Asia
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय चक्रवात 08 बजे,2025-12-16T03:46:00+00:00,,0.3171000998359699,0,2,hi,SPO,Pacific Ocean
 'd59a7e48d7',extremes,Drought,#edc291,random,वाष्पीकरण-उत्सर्जन,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,hi,,
