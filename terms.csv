@@ -38,15 +38,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bd21048a6a',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-01-15T12:14:00+00:00,United Arab Emirates,0.4552337147040567,0,1,hi,ARP,Asia
 '560b05d603',extremes,Heat Wave,#c40202,random,गर्मी की लहर,2026-01-18T03:56:00+00:00,,0.4495920008851556,1,2,hi,,
 '538eadceb4',extremes,Heat Wave,#c40202,random,हल्की सर्दी,2026-01-17T03:44:00+00:00,,0.447699618127642,1,2,hi,,
-'62ede3d2ca',extremes,Thunderstorm,#53785a,wmo,पंजाब के 11 जिलों में आंधी,2026-01-22T03:59:00+00:00,India,0.44587548468341176,1,1,hi,SAS,Asia
+'62ede3d2ca',extremes,Thunderstorm,#53785a,wmo,पंजाब के 11 जिलों में आंधी,2026-01-22T03:59:00+00:00,India,0.4458754846834117,1,1,hi,SAS,Asia
 'da87fd7743',extremes,Fog,#d60d2b,wmo,आंध्र प्रदेश का एलुरु जिला,2026-01-17T03:44:00+00:00,India,0.4346706029689686,1,1,hi,SAS,Asia
 '2eb7e98146',extremes,Snow Avalanche,#deddd5,wmo,उत्तराखंड के चमोली जिले में हिमस्खलन,2026-01-25T04:06:00+00:00,India,0.4332892331995203,1,1,hi,SAS,Asia
 '18eeb50f0c',extremes,Snow&Ice,#d60d2b,wmo,स्नो इंडिया,2026-01-15T10:56:00+00:00,India,0.4279079574424665,1,1,hi,SAS,Asia
 '26fee806c3',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश भारत,2026-01-17T03:44:00+00:00,India,0.4196485713990711,1,1,hi,SAS,Asia
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,गर्मी,2026-01-15T10:39:00+00:00,,0.4170663565412384,1,2,hi,,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,ओलावृष्टि,2026-01-15T12:13:00+00:00,,0.4031092144129821,1,2,hi,,
+'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,बाढ़,2026-01-23T04:02:00+00:00,,0.40210486178235366,1,2,hi,,
 '82d648b882',extremes,Drought,#edc291,random,सूखा,2026-01-15T10:39:00+00:00,,0.4006062128191026,1,1,hi,,
-'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,बाढ़,2026-01-23T04:02:00+00:00,,0.3923739272305765,0,1,hi,,
 'da77b5167a',extremes,Earthquake,#870007,usgs,भूकंप हायुलियांग,2026-01-22T03:59:00+00:00,India,0.3864382228862676,1,1,hi,SAS,Asia
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,भारी वर्षा,2026-01-25T04:05:00+00:00,,0.3857088866428727,0,1,hi,,
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,ठंढ,2026-01-24T03:48:00+00:00,,0.3846338550803188,0,1,hi,,
@@ -58,7 +58,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8b4587c763',extremes,Storm,#b3b2b1,random,धूल भरी आँधी,2026-01-24T03:48:00+00:00,,0.3694329533406308,0,1,hi,,
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,बर्फ तैरती है,2026-01-23T04:02:00+00:00,,0.3647635969305514,0,1,hi,,
 '60bddf3351',extremes,Drought,#edc291,edo,भारत में वर्षा की कमी,2026-01-19T04:03:00+00:00,India,0.3507910197083783,1,1,hi,SAS,Asia
-'10f476720b',extremes,Insect Infestation,#d60d2b,random,टिड्डा,2026-01-26T04:08:00+00:00,,0.34850641522510445,1,1,hi,,
+'10f476720b',extremes,Insect Infestation,#d60d2b,random,टिड्डा,2026-01-26T04:08:00+00:00,,0.3485064152251044,1,1,hi,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,बर्फ़ीला तूफ़ान,2026-01-15T10:39:00+00:00,,0.3484588916075219,1,1,hi,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,हिमशैल अंटार्कटिका,2026-01-18T03:56:00+00:00,,0.3484556206416935,1,1,hi,,
 '1c38b19449',extremes,Storm,#b3b2b1,random,धूल के कटोरे,2026-01-15T10:39:00+00:00,,0.3484455631965196,1,1,hi,,
@@ -70,7 +70,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,चक्रवात,2026-01-15T10:56:00+00:00,,0.3453068999447984,0,1,hi,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,बवंडर,2026-01-17T03:44:00+00:00,,0.3438796635272074,0,1,hi,,
 '55c39b351d',extremes,Storm,#b3b2b1,random,धूल शैतान,2026-01-15T10:56:00+00:00,,0.34341234140124,0,1,hi,,
-'ff7862e348',extremes,Drought,#edc291,edo,सूखापन भारत,2026-01-26T04:09:00+00:00,India,0.34310703208637344,1,1,hi,SAS,Asia
+'ff7862e348',extremes,Drought,#edc291,edo,सूखापन भारत,2026-01-26T04:09:00+00:00,India,0.3431070320863734,1,1,hi,SAS,Asia
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,टिड्डियाँ,2026-01-15T10:56:00+00:00,,0.3419969009279606,0,1,hi,,
 '7e303c7e63',extremes,Snow Avalanche,#deddd5,random,हिम हिमस्खलन,2026-01-20T03:55:00+00:00,,0.3397097135233366,1,1,hi,,
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,ग्लेशियर झील का प्रकोप,2026-01-18T03:56:00+00:00,,0.3394040192593826,0,1,hi,,
