@@ -10,11 +10,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,जय भारत,2026-01-22T03:59:00+00:00,India,0.6617913709706877,1,2,hi,SAS,Asia
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,भूकंप भारत,2026-01-15T10:56:00+00:00,India,0.6556481574179671,1,1,hi,SAS,Asia
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,वर्षा भारत,2026-01-25T04:06:00+00:00,India,0.6317230440024421,0,1,hi,SAS,Asia
-'2d4d2b3089',extremes,Snow&Ice,#d60d2b,wmo,उत्तराखंड के 11 जिलों में बर्फ,2026-01-22T03:59:00+00:00,India,0.6286517973455691,0,1,hi,SAS,Asia
 '90522631da',extremes,Precipitation,#d60d2b,wmo,भारत में वर्षा,2026-01-25T04:06:00+00:00,India,0.6266279037011909,0,1,hi,SAS,Asia
-'4ec651f142',extremes,Snow&Ice,#d60d2b,wmo,उत्तराखंड के 11 जिलों में बर्फबारी,2026-01-21T03:56:00+00:00,India,0.6136315210133759,0,1,hi,SAS,Asia
 'e635ff71fc',extremes,Cold Wave,#a7e9fa,wmo,पंजाब के 7 जिलों में ठंड,2026-01-22T03:59:00+00:00,India,0.6110030799728366,1,2,hi,SAS,Asia
-'e529a9043d',extremes,Fog,#d60d2b,wmo,हरियाणा के हिसार जिले में कोहरा,2026-01-19T04:03:00+00:00,India,0.5970397741160366,0,1,hi,SAS,Asia
 'f2cea183b1',extremes,Cold Wave,#a7e9fa,wmo,राजस्थान के 5 जिलों में शीतलहर,2026-01-15T10:56:00+00:00,India,0.5908664085883125,1,1,hi,SAS,Asia
 '0f7c486492',extremes,Wildfire,#d60d2b,wmo,जंगल की आग अरुणाचल प्रदेश,2026-01-15T12:14:00+00:00,India,0.5904656034372223,1,1,hi,SAS,Asia
 '8b022b84c7',extremes,Wildfire,#d60d2b,wmo,जंगल की आग मध्य प्रदेश,2026-01-15T10:56:00+00:00,India,0.5902282072139722,1,1,hi,SAS,Asia
@@ -27,8 +24,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '35bd62c5a9',extremes,Drought,#edc291,edo,भारत में सूखा,2026-01-15T10:57:00+00:00,India,0.5530132499447978,0,1,hi,SAS,Asia
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,भारत में मूसलाधार वर्षा,2026-01-25T04:06:00+00:00,India,0.5495001348756136,1,1,hi,SAS,Asia
 '59c8193ccb',extremes,Thunderstorm,#53785a,wmo,हरियाणा के 7 जिलों में ओलावृष्टि,2026-01-22T03:59:00+00:00,India,0.5473130222046273,1,1,hi,SAS,Asia
+'2d4d2b3089',extremes,Snow&Ice,#d60d2b,wmo,उत्तराखंड के 11 जिलों में बर्फ,2026-01-22T03:59:00+00:00,India,0.5343540277437338,1,1,hi,SAS,Asia
 '62ede3d2ca',extremes,Thunderstorm,#53785a,wmo,पंजाब के 11 जिलों में आंधी,2026-01-22T03:59:00+00:00,India,0.5245593937451903,0,1,hi,SAS,Asia
+'4ec651f142',extremes,Snow&Ice,#d60d2b,wmo,उत्तराखंड के 11 जिलों में बर्फबारी,2026-01-21T03:56:00+00:00,India,0.5215867928613696,1,1,hi,SAS,Asia
 '2eb7e98146',extremes,Snow Avalanche,#deddd5,wmo,उत्तराखंड के चमोली जिले में हिमस्खलन,2026-01-25T04:06:00+00:00,India,0.5097520390582592,0,1,hi,SAS,Asia
+'e529a9043d',extremes,Fog,#d60d2b,wmo,हरियाणा के हिसार जिले में कोहरा,2026-01-19T04:03:00+00:00,India,0.5076338229986311,1,1,hi,SAS,Asia
 '8437b1b153',extremes,Fog,#d60d2b,wmo,कोहरा एनडब्ल्यू एनसी घना कोहरा,2026-01-18T03:57:00+00:00,India,0.4997438992923668,1,1,hi,SAS,Asia
 'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,जंगल की आग उत्तराखंड,2026-01-15T10:56:00+00:00,India,0.495412903233949,1,1,hi,SAS,Asia
 '4609262d69',extremes,Fog,#d60d2b,wmo,आंध्र प्रदेश के बापटला जिले में कोहरा,2026-01-18T03:57:00+00:00,India,0.4941589636607346,1,1,hi,SAS,Asia
