@@ -85,7 +85,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,सर्दी का मौसम,2026-01-17T03:44:00+00:00,,0.3288030269620122,0,1,hi,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,मौसम सामने,2026-01-15T10:56:00+00:00,,0.3275713104949573,1,2,hi,,
 '69791e5a17',extremes,Flood,#030ba1,random,आकस्मिक बाढ़,2026-01-17T03:44:00+00:00,,0.3273276085821974,0,1,hi,,
-'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,ठंढ,2026-01-24T03:48:00+00:00,,0.32693877681827094,1,1,hi,,
+'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,ठंढ,2026-01-24T03:48:00+00:00,,0.3269387768182709,1,1,hi,,
 '622bd2c53e',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखापन,2026-01-21T03:56:00+00:00,United Arab Emirates,0.326117796945757,0,1,hi,ARP,Asia
 '053bb10e09',extremes,Heat Wave,#c40202,random,भारतीय गर्मी,2026-01-23T04:02:00+00:00,,0.3246827185180697,0,1,hi,,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,जमना,2026-01-22T03:59:00+00:00,,0.3226516772615738,1,1,hi,,
@@ -149,6 +149,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f9f9aaa314',extremes,Earthquake,#870007,usgs,भूकंप धिंग,2026-01-15T10:56:00+00:00,India,0.3197619370949565,1,1,hi,SAS,Asia
 '03f33e230d',extremes,Earthquake,#870007,usgs,भूकंप चिली,2026-01-15T10:56:00+00:00,Chile,0.3197559514631183,0,1,hi,SWS,South-America
 '0a2120b175',extremes,Earthquake,#870007,usgs,भूकंप डिएगो डे अल्माग्रो,2026-01-15T10:56:00+00:00,Chile,0.3197547085914504,0,1,hi,SWS,South-America
+'3e797c4058',extremes,Earthquake,#870007,usgs,भूकंप फ़िजी,2026-01-15T10:56:00+00:00,Fiji,0.3197488869798659,0,1,hi,SPO,Pacific Ocean
+'d920e41c1e',extremes,Earthquake,#870007,usgs,भूकंप mek'ele,2026-01-15T12:13:00+00:00,Ethiopia,0.3197475341186085,0,1,hi,NEAF,Africa
+'3e36cbc783',extremes,Earthquake,#870007,usgs,भूकंप ला अवधारणा,2026-01-15T12:13:00+00:00,Venezuela,0.3197420361636449,0,1,hi,NWS,South-America
+'2fa9116266',extremes,Earthquake,#870007,usgs,भूकंप पोर्ट अल्सवर्थ,2026-01-15T12:13:00+00:00,United States,0.3197340735312253,0,1,hi,NWN,North-America
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय चक्रवात 08 बजे,2025-12-16T03:46:00+00:00,,0.3171000998359699,0,2,hi,SPO,Pacific Ocean
 'd59a7e48d7',extremes,Drought,#edc291,random,वाष्पीकरण-उत्सर्जन,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,hi,,
 '15a9c61e3e',extremes,Landslide,#572c03,random,चट्टानों का खिसकना,2026-01-15T12:13:00+00:00,,0.3118148090065645,1,1,hi,,
