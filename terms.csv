@@ -58,6 +58,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82fd55b965',extremes,Drought,#edc291,edo,भारत में सूखा,2026-01-24T03:49:00+00:00,India,0.3811707235930924,0,1,hi,SAS,Asia
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,भूस्खलन,2026-01-17T03:44:00+00:00,,0.3804597741545205,1,2,hi,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,रिकॉर्ड गर्मी,2026-01-21T03:55:00+00:00,,0.377834632528104,1,2,hi,,
+'3e4b341619',extremes,Storm,#b3b2b1,random,तूफ़ान,2026-01-20T03:55:00+00:00,,0.37024417774753254,1,2,hi,,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,गंभीर मौसम,2026-01-20T03:55:00+00:00,,0.350796034572185,1,2,hi,,
 '60bddf3351',extremes,Drought,#edc291,edo,भारत में वर्षा की कमी,2026-01-19T04:03:00+00:00,India,0.3507910197083783,1,1,hi,SAS,Asia
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,टिड्डा,2026-01-26T04:08:00+00:00,,0.3485064152251044,1,1,hi,,
@@ -73,7 +74,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,हिमशैल का शांत होना,2026-01-19T04:02:00+00:00,,0.3348794352955919,1,1,hi,,
 'fa761481b5',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-01-26T04:09:00+00:00,United Arab Emirates,0.3340065259090362,0,1,hi,ARP,Asia
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडा दिन,2026-01-15T10:56:00+00:00,,0.3331651173684488,1,1,hi,,
-'3e4b341619',extremes,Storm,#b3b2b1,random,तूफ़ान,2026-01-20T03:55:00+00:00,,0.3288165914676854,0,1,hi,,
 'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,सर्दी का मौसम,2026-01-17T03:44:00+00:00,,0.3288030269620122,0,1,hi,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,मौसम सामने,2026-01-15T10:56:00+00:00,,0.3275713104949573,1,2,hi,,
 '69791e5a17',extremes,Flood,#030ba1,random,आकस्मिक बाढ़,2026-01-17T03:44:00+00:00,,0.3273276085821974,0,1,hi,,
@@ -154,8 +154,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b0d647e9d3',extremes,Earthquake,#870007,usgs,भूकंप दक्षिणपूर्व भारतीय रिज,2026-01-15T10:56:00+00:00,,0.3197330455307343,0,1,hi,SOO,Antarctica
 '0f6b56852d',extremes,Earthquake,#870007,usgs,भूकंप बाकुलिन,2026-01-15T10:56:00+00:00,Philippines,0.319730831712139,0,1,hi,SEA,Asia
 '80f83e2f4e',extremes,Earthquake,#870007,usgs,भूकंप बोलीविया,2026-01-15T12:13:00+00:00,Bolivia,0.3197282945330044,0,1,hi,SES,South-America
-'c797f587a9',extremes,Flood,#030ba1,aidr,बाढ़ बूना क्वींसलैंड,2026-01-15T10:57:00+00:00,Australia,0.31972742418184474,0,1,hi,EAU,Oceania
-'daed8f4597',extremes,Earthquake,#870007,usgs,भूकंप सोमालिया,2026-01-15T12:13:00+00:00,Somalia,0.31972240885217246,0,1,hi,NEAF,Africa
+'c797f587a9',extremes,Flood,#030ba1,aidr,बाढ़ बूना क्वींसलैंड,2026-01-15T10:57:00+00:00,Australia,0.3197274241818447,0,1,hi,EAU,Oceania
+'daed8f4597',extremes,Earthquake,#870007,usgs,भूकंप सोमालिया,2026-01-15T12:13:00+00:00,Somalia,0.3197224088521724,0,1,hi,NEAF,Africa
 '997a2e2157',extremes,Earthquake,#870007,usgs,भूकंप अर्जेंटीना,2026-01-15T10:56:00+00:00,Argentina,0.3197162811068849,0,1,hi,SWS,South-America
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय चक्रवात 08 बजे,2025-12-16T03:46:00+00:00,,0.3171000998359699,0,2,hi,SPO,Pacific Ocean
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,हिमस्खलन,2026-01-23T04:02:00+00:00,,0.3168017689057704,1,1,hi,,
