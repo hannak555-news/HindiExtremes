@@ -88,6 +88,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,रिकार्ड वर्षा,2026-01-27T03:58:00+00:00,,0.3220848420292492,1,1,hi,,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,जंगल की आग,2026-01-24T03:48:00+00:00,,0.3208888226590353,0,1,hi,,
 '52af874334',extremes,Drought,#edc291,random,शुष्कता,2026-01-21T03:55:00+00:00,,0.3201609706431698,1,1,hi,,
+'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,उष्णकटिबंधीय चक्रवात इटली,2026-01-28T03:57:00+00:00,Italy,0.3200075473236523,0,1,hi,MED,Europe
 '2c38aada07',extremes,Earthquake,#870007,usgs,भूकंप कोलचेन,2026-01-15T12:13:00+00:00,Chile,0.3198596275137257,0,1,hi,SWS,South-America
 '1a17358ebb',extremes,Tsunami,#690191,usgs,सुनामी टोबेलो,2026-01-15T10:56:00+00:00,Indonesia,0.3198470378843532,0,1,hi,SEA,Asia
 '072f41af80',extremes,Earthquake,#870007,usgs,भूकंप अराटोका,2026-01-15T10:56:00+00:00,Colombia,0.3198170611292842,0,1,hi,NWS,South-America
@@ -109,10 +110,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6ff5caa4ff',extremes,Earthquake,#870007,usgs,भूकंप अटका,2026-01-15T10:56:00+00:00,Alaska,0.3196694823811283,0,1,hi,NPO,Pacific Ocean
 '8b5b4c9d3b',extremes,Earthquake,#870007,usgs,भूकंप प्यूर्टो सांता,2026-01-15T10:56:00+00:00,Peru,0.3196649023655777,0,1,hi,NWS,South-America
 '37af8de5d1',extremes,Earthquake,#870007,usgs,भूकंप पूर्वी द्वीप क्षेत्र,2026-01-15T10:56:00+00:00,,0.3196606738976758,0,1,hi,SPO,Pacific Ocean
+'d1b76ff32a',extremes,Earthquake,#870007,usgs,भूकंप मियाको,2026-01-15T10:56:00+00:00,Japan,0.3196603663022271,0,1,hi,EAS,Asia
 '7a3d1676da',extremes,Earthquake,#870007,usgs,फिलीपींस में भूकंप,2026-01-15T10:56:00+00:00,Philippines,0.3196508616073871,0,1,hi,SEA,Asia
+'53e17b7a15',extremes,Earthquake,#870007,usgs,भूकंप होउमा,2026-01-15T10:56:00+00:00,Tonga,0.31964660187957894,0,1,hi,SPO,Pacific Ocean
+'2407b3a8ab',extremes,Drought,#edc291,edo,सूखापन बुरुंडी,2026-01-15T10:57:00+00:00,Burundi,0.3196375825182323,0,1,hi,SEAF,Africa
 '485794e3d4',extremes,Earthquake,#870007,usgs,भूकंप कनाडा,2026-01-15T12:13:00+00:00,Canada,0.3196374775984123,0,1,hi,NWN,North-America
 '3ba62ce4f2',extremes,Earthquake,#870007,usgs,भूकंप ग्रीस,2026-01-15T10:56:00+00:00,Greece,0.3196343064074037,0,1,hi,MED,Europe
 '526ac614cf',extremes,Earthquake,#870007,usgs,भूकंप सैंटे मैरी,2026-01-15T12:13:00+00:00,Martinique,0.3196320647270624,0,1,hi,CAR,North-America
+'731557e0bc',extremes,Earthquake,#870007,usgs,भूकंप तिमोर लेस्ते,2026-01-15T10:56:00+00:00,Timor Leste,0.3196242788058043,0,1,hi,SEA,Asia
+'7d68920b56',extremes,Earthquake,#870007,usgs,भूकंप निकारागुआ,2026-01-15T10:56:00+00:00,Nicaragua,0.31960800063794476,0,1,hi,SCA,North-America
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,हिमस्खलन,2026-01-23T04:02:00+00:00,,0.3168017689057704,1,1,hi,,
 '8b4587c763',extremes,Storm,#b3b2b1,random,धूल भरी आँधी,2026-01-24T03:48:00+00:00,,0.3140180103395362,1,1,hi,,
 'd59a7e48d7',extremes,Drought,#edc291,random,वाष्पीकरण-उत्सर्जन,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,hi,,
@@ -200,7 +206,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'daed8f4597',extremes,Earthquake,#870007,usgs,भूकंप सोमालिया,2026-01-15T12:13:00+00:00,Somalia,0.2717640475243465,1,1,hi,NEAF,Africa
 '997a2e2157',extremes,Earthquake,#870007,usgs,भूकंप अर्जेंटीना,2026-01-15T10:56:00+00:00,Argentina,0.2717588389408521,1,1,hi,SWS,South-America
 '90e6558608',extremes,Earthquake,#870007,usgs,भूकंप दक्षिणी मध्य अटलांटिक रिज,2026-01-15T10:56:00+00:00,,0.2717570180651828,1,1,hi,SAO,Atlantic Ocean
-'ad41fee440',extremes,Earthquake,#870007,usgs,भूकंप लता,2026-01-15T10:56:00+00:00,Solomon Islands,0.27175680016441467,1,1,hi,SPO,Oceania
+'ad41fee440',extremes,Earthquake,#870007,usgs,भूकंप लता,2026-01-15T10:56:00+00:00,Solomon Islands,0.2717568001644146,1,1,hi,SPO,Oceania
 'b6cef22543',extremes,Drought,#edc291,random,जल प्रतिबंध,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,hi,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,वायुमंडलीय नदी,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,hi,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,रिकॉर्ड ठंड,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,hi,,
