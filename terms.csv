@@ -102,6 +102,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5bf34f285a',extremes,Earthquake,#870007,usgs,इटली में भूकंप,2026-01-15T10:56:00+00:00,Italy,0.3196985807356531,0,1,hi,MED,Europe
 '505a53d28b',extremes,Earthquake,#870007,usgs,भूकंप पोर्ट विला,2026-01-15T10:56:00+00:00,Vanuatu,0.3196954803184954,0,1,hi,SPO,Oceania
 '8684156e57',extremes,Earthquake,#870007,usgs,भूकंप इस देवदूत,2026-01-15T12:13:00+00:00,Vanuatu,0.3196862671084346,0,1,hi,SPO,Pacific Ocean
+'17b150a7a2',extremes,Earthquake,#870007,usgs,भूकंप तंजानिया,2026-01-15T10:56:00+00:00,Tanzania,0.3196854740944746,0,1,hi,SEAF,Africa
 'ba6e07a583',extremes,Storm,#b3b2b1,emdat,तूफ़ान अल हसाके गवर्नरेट्स,2026-01-15T10:57:00+00:00,Syria,0.3196835928337069,0,1,hi,MED,Asia
 'cc449c3731',extremes,Earthquake,#870007,usgs,भूकंप केरमाडेक द्वीप क्षेत्र,2026-01-15T10:56:00+00:00,,0.3196765422551599,0,1,hi,SPO,Pacific Ocean
 '5484f48de4',extremes,Earthquake,#870007,usgs,भूकंप मध्य भारतीय रिज,2026-01-15T10:56:00+00:00,,0.3196762612572651,0,1,hi,SIO,Indian Ocean
@@ -109,7 +110,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e98c9b3f42',extremes,Earthquake,#870007,usgs,भूकंप ड्रेक मार्ग,2026-01-15T10:56:00+00:00,,0.3196709283081229,0,1,hi,SOO,Antarctica
 '6ff5caa4ff',extremes,Earthquake,#870007,usgs,भूकंप अटका,2026-01-15T10:56:00+00:00,Alaska,0.3196694823811283,0,1,hi,NPO,Pacific Ocean
 '8b5b4c9d3b',extremes,Earthquake,#870007,usgs,भूकंप प्यूर्टो सांता,2026-01-15T10:56:00+00:00,Peru,0.3196649023655777,0,1,hi,NWS,South-America
+'37af8de5d1',extremes,Earthquake,#870007,usgs,भूकंप पूर्वी द्वीप क्षेत्र,2026-01-15T10:56:00+00:00,,0.3196606738976758,0,1,hi,SPO,Pacific Ocean
 '7a3d1676da',extremes,Earthquake,#870007,usgs,फिलीपींस में भूकंप,2026-01-15T10:56:00+00:00,Philippines,0.3196508616073871,0,1,hi,SEA,Asia
+'485794e3d4',extremes,Earthquake,#870007,usgs,भूकंप कनाडा,2026-01-15T12:13:00+00:00,Canada,0.3196374775984123,0,1,hi,NWN,North-America
+'3ba62ce4f2',extremes,Earthquake,#870007,usgs,भूकंप ग्रीस,2026-01-15T10:56:00+00:00,Greece,0.3196343064074037,0,1,hi,MED,Europe
+'526ac614cf',extremes,Earthquake,#870007,usgs,भूकंप सैंटे मैरी,2026-01-15T12:13:00+00:00,Martinique,0.3196320647270624,0,1,hi,CAR,North-America
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,हिमस्खलन,2026-01-23T04:02:00+00:00,,0.3168017689057704,1,1,hi,,
 '8b4587c763',extremes,Storm,#b3b2b1,random,धूल भरी आँधी,2026-01-24T03:48:00+00:00,,0.3140180103395362,1,1,hi,,
 'd59a7e48d7',extremes,Drought,#edc291,random,वाष्पीकरण-उत्सर्जन,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,hi,,
