@@ -42,6 +42,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '560b05d603',extremes,Heat Wave,#c40202,random,गर्मी की लहर,2026-01-18T03:56:00+00:00,,0.4495920008851556,1,2,hi,,
 '538eadceb4',extremes,Heat Wave,#c40202,random,हल्की सर्दी,2026-01-17T03:44:00+00:00,,0.447699618127642,1,2,hi,,
 '62ede3d2ca',extremes,Thunderstorm,#53785a,wmo,पंजाब के 11 जिलों में आंधी,2026-01-22T03:59:00+00:00,India,0.4458754846834117,1,1,hi,SAS,Asia
+'82fd55b965',extremes,Drought,#edc291,edo,भारत में सूखा,2026-01-24T03:49:00+00:00,India,0.44474519005412855,1,2,hi,SAS,Asia
 'da87fd7743',extremes,Fog,#d60d2b,wmo,आंध्र प्रदेश का एलुरु जिला,2026-01-17T03:44:00+00:00,India,0.4346706029689686,1,1,hi,SAS,Asia
 '2eb7e98146',extremes,Snow Avalanche,#deddd5,wmo,उत्तराखंड के चमोली जिले में हिमस्खलन,2026-01-25T04:06:00+00:00,India,0.4332892331995203,1,1,hi,SAS,Asia
 '18eeb50f0c',extremes,Snow&Ice,#d60d2b,wmo,स्नो इंडिया,2026-01-15T10:56:00+00:00,India,0.4279079574424665,1,1,hi,SAS,Asia
@@ -58,7 +59,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,शीतलहर,2026-01-27T03:58:00+00:00,,0.3975742266576298,1,3,hi,,
 'bd21048a6a',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-01-15T12:14:00+00:00,United Arab Emirates,0.3869486574984482,1,1,hi,ARP,Asia
 'da77b5167a',extremes,Earthquake,#870007,usgs,भूकंप हायुलियांग,2026-01-22T03:59:00+00:00,India,0.3864382228862676,1,1,hi,SAS,Asia
-'82fd55b965',extremes,Drought,#edc291,edo,भारत में सूखा,2026-01-24T03:49:00+00:00,India,0.3811707235930924,0,1,hi,SAS,Asia
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,भूस्खलन,2026-01-17T03:44:00+00:00,,0.3804597741545205,1,2,hi,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,रिकॉर्ड गर्मी,2026-01-21T03:55:00+00:00,,0.377834632528104,1,2,hi,,
 '3e4b341619',extremes,Storm,#b3b2b1,random,तूफ़ान,2026-01-20T03:55:00+00:00,,0.3702441777475325,1,2,hi,,
