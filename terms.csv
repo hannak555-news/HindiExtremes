@@ -65,6 +65,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,सर्दी का मौसम,2026-01-17T03:44:00+00:00,,0.3617060501904376,1,3,hi,,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,गंभीर मौसम,2026-01-20T03:55:00+00:00,,0.350796034572185,1,2,hi,,
 '60bddf3351',extremes,Drought,#edc291,edo,भारत में वर्षा की कमी,2026-01-19T04:03:00+00:00,India,0.3507910197083783,1,1,hi,SAS,Asia
+'e4c0eb1729',extremes,Wildfire,#d60d2b,random,जंगल की आग,2026-01-24T03:48:00+00:00,,0.34865558926018003,1,2,hi,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,टिड्डा,2026-01-26T04:08:00+00:00,,0.3485064152251044,1,1,hi,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,बर्फ़ीला तूफ़ान,2026-01-15T10:39:00+00:00,,0.3484588916075219,1,1,hi,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,हिमशैल अंटार्कटिका,2026-01-18T03:56:00+00:00,,0.3484556206416935,1,1,hi,,
@@ -84,7 +85,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,ठंढ,2026-01-24T03:48:00+00:00,,0.3269387768182709,1,1,hi,,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,जमना,2026-01-22T03:59:00+00:00,,0.3226516772615738,1,1,hi,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,रिकार्ड वर्षा,2026-01-27T03:58:00+00:00,,0.3220848420292492,1,1,hi,,
-'e4c0eb1729',extremes,Wildfire,#d60d2b,random,जंगल की आग,2026-01-24T03:48:00+00:00,,0.3208888226590353,0,1,hi,,
 '52af874334',extremes,Drought,#edc291,random,शुष्कता,2026-01-21T03:55:00+00:00,,0.3201609706431698,1,1,hi,,
 '6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,उत्तरी अमेरिकी शीतकालीन तूफान न्यूयॉर्क,2026-01-31T04:17:00+00:00,United States,0.3200075473236523,0,1,hi,ENA,North-America
 '2c38aada07',extremes,Earthquake,#870007,usgs,भूकंप कोलचेन,2026-01-15T12:13:00+00:00,Chile,0.3198596275137257,0,1,hi,SWS,South-America
@@ -212,8 +212,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '505a53d28b',extremes,Earthquake,#870007,usgs,भूकंप पोर्ट विला,2026-01-15T10:56:00+00:00,Vanuatu,0.271741158270721,1,1,hi,SPO,Oceania
 'f200ff28aa',extremes,Earthquake,#870007,usgs,संयुक्त राज्य अमेरिका में भूकंप,2026-01-15T10:56:00+00:00,United States,0.2717228865411429,1,1,hi,WNA,North-America
 '2407b3a8ab',extremes,Drought,#edc291,edo,सूखापन बुरुंडी,2026-01-15T10:57:00+00:00,Burundi,0.2716919451404975,1,1,hi,SEAF,Africa
-'526ac614cf',extremes,Earthquake,#870007,usgs,भूकंप सैंटे मैरी,2026-01-15T12:13:00+00:00,Martinique,0.27168725501800306,1,1,hi,CAR,North-America
-'731557e0bc',extremes,Earthquake,#870007,usgs,भूकंप तिमोर लेस्ते,2026-01-15T10:56:00+00:00,Timor Leste,0.27168063698493367,1,1,hi,SEA,Asia
+'526ac614cf',extremes,Earthquake,#870007,usgs,भूकंप सैंटे मैरी,2026-01-15T12:13:00+00:00,Martinique,0.271687255018003,1,1,hi,CAR,North-America
+'731557e0bc',extremes,Earthquake,#870007,usgs,भूकंप तिमोर लेस्ते,2026-01-15T10:56:00+00:00,Timor Leste,0.2716806369849336,1,1,hi,SEA,Asia
 'f6ff301646',extremes,Drought,#edc291,edo,सूखा सोमालिया,2026-01-15T10:57:00+00:00,Somalia,0.2716307595277647,1,1,hi,NEAF,Africa
 'd9cc56f031',extremes,Drought,#edc291,edo,सूखा जादू ताजिकिस्तान,2026-01-15T10:57:00+00:00,Tajikistan,0.2716294396510521,1,1,hi,WCA,Asia
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,रिकॉर्ड ठंड,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,hi,,
@@ -225,4 +225,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडा वर्ष,2026-01-15T10:20:00+00:00,,0.2187463352419774,1,1,hi,,
 'b6cef22543',extremes,Drought,#edc291,random,जल प्रतिबंध,2026-01-15T10:20:00+00:00,,0.2181947166591417,1,1,hi,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,वायुमंडलीय नदी,2026-01-15T10:20:00+00:00,,0.2180904085177332,1,1,hi,,
-'0053afc92f',extremes,Volcano,#b83202,random,लहार,2026-01-15T10:20:00+00:00,,0.21784771696438357,1,1,hi,,
+'0053afc92f',extremes,Volcano,#b83202,random,लहार,2026-01-15T10:20:00+00:00,,0.2178477169643835,1,1,hi,,
