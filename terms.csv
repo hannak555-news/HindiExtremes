@@ -109,6 +109,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cce4634973',extremes,Drought,#edc291,edo,सूखा जादू केन्या,2026-01-15T10:57:00+00:00,Kenya,0.3195427369737428,0,1,hi,SEAF,Africa
 '08226562a9',extremes,Earthquake,#870007,usgs,भूकंप फ़ैस,2026-01-15T10:56:00+00:00,Micronesia,0.3195394583161646,0,1,hi,NPO,Pacific Ocean
 '43540d11be',extremes,Earthquake,#870007,usgs,भूकंप अक्केशी,2026-01-15T10:56:00+00:00,Japan,0.319536041667731,0,1,hi,EAS,Asia
+'2725619969',extremes,Earthquake,#870007,usgs,भूकंप हनावा,2026-01-15T12:13:00+00:00,Japan,0.3195356071355527,0,1,hi,EAS,Asia
+'74236bd182',extremes,Drought,#edc291,edo,आइसलैंड में बारिश की कमी,2026-01-15T10:57:00+00:00,Iceland,0.3195301763658332,0,1,hi,GIC,Europe
 '40a849aef3',extremes,Earthquake,#870007,usgs,भूकंप zhaotong,2026-01-15T12:13:00+00:00,China,0.3195106860766282,0,1,hi,EAS,Asia
 '982d97b8ec',extremes,Earthquake,#870007,usgs,भूकंप सुसानविले,2026-01-15T12:13:00+00:00,United States,0.3194977377164754,0,1,hi,WNA,North-America
 'a6144d1f04',extremes,Earthquake,#870007,usgs,भूकंप चूहा द्वीप अलेउतियन द्वीप अलास्का,2026-01-15T10:56:00+00:00,,0.3194963093664921,0,1,hi,NPO,Pacific Ocean
@@ -116,6 +118,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f986f74559',extremes,Earthquake,#870007,usgs,भूकंप योनाकुनी,2026-01-15T10:56:00+00:00,Japan,0.3194878129364829,0,1,hi,EAS,Asia
 '0e39632695',extremes,Drought,#edc291,edo,ईरान में बारिश की कमी,2026-01-15T10:57:00+00:00,Iran,0.3194737814584171,0,1,hi,WCA,Asia
 'e1559df16c',extremes,Earthquake,#870007,usgs,भूकंप तोबेलो,2026-01-15T10:56:00+00:00,Indonesia,0.3194694374992225,0,1,hi,SEA,Asia
+'c29a12e099',extremes,Earthquake,#870007,usgs,भूकंप सैन विसेंट डे कैनेटे,2026-01-15T12:13:00+00:00,Peru,0.3194607973701726,0,1,hi,NWS,South-America
+'34799f2163',extremes,Drought,#edc291,edo,कांगो गणराज्य का सूखा,2026-01-15T10:57:00+00:00,Republic of the Congo,0.31945158796918816,0,1,hi,CAF,Africa
+'eb91bf9344',extremes,Earthquake,#870007,usgs,केरमाडेक द्वीप के दक्षिण में भूकंप,2026-01-15T10:56:00+00:00,,0.3194433959116101,0,1,hi,SPO,Pacific Ocean
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,हिमस्खलन,2026-01-23T04:02:00+00:00,,0.3168017689057704,1,1,hi,,
 '8b4587c763',extremes,Storm,#b3b2b1,random,धूल भरी आँधी,2026-01-24T03:48:00+00:00,,0.3140180103395362,1,1,hi,,
 'd59a7e48d7',extremes,Drought,#edc291,random,वाष्पीकरण-उत्सर्जन,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,hi,,
@@ -140,8 +145,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '69791e5a17',extremes,Flood,#030ba1,random,आकस्मिक बाढ़,2026-01-17T03:44:00+00:00,,0.2782284672948678,1,1,hi,,
 '622bd2c53e',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखापन,2026-01-21T03:56:00+00:00,United Arab Emirates,0.2772001274038934,1,1,hi,ARP,Asia
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,उष्णकटिबंधीय चक्रवात इटली,2026-01-28T03:57:00+00:00,Italy,0.2720064152251044,1,1,hi,MED,Europe
-'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,उत्तरी अमेरिकी शीतकालीन तूफान न्यूयॉर्क,2026-01-31T04:17:00+00:00,United States,0.2720064152251044,1,1,hi,ENA,North-America
 '45f861329d',extremes,Landslide,#572c03,aidr,भूस्खलन एडिलेड पहाड़ियाँ दक्षिण ऑस्ट्रेलिया,2026-01-15T10:57:00+00:00,Australia,0.2720064152251044,1,1,hi,SAU,Oceania
+'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,उत्तरी अमेरिकी शीतकालीन तूफान न्यूयॉर्क,2026-01-31T04:17:00+00:00,United States,0.2720064152251044,1,1,hi,ENA,North-America
 'a241cba1ba',extremes,Volcano,#b83202,eonet,एम्ब्रीम ज्वालामुखी वानुअतु,2026-01-15T10:56:00+00:00,Vanuatu,0.271990453362115,1,1,hi,SPO,Oceania
 '6f7179aa00',extremes,Volcano,#b83202,eonet,ज्वालामुखी फिलीपींस,2026-01-15T10:56:00+00:00,Philippines,0.2719808606448024,1,1,hi,SEA,Asia
 '4594f1a372',extremes,Earthquake,#870007,usgs,भूकंप ईरान,2026-01-15T10:56:00+00:00,Iran,0.2719749894588121,1,1,hi,WCA,Asia
