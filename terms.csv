@@ -43,6 +43,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'da87fd7743',extremes,Fog,#d60d2b,wmo,आंध्र प्रदेश का एलुरु जिला,2026-01-17T03:44:00+00:00,India,0.4346706029689686,1,1,hi,SAS,Asia
 'e529a9043d',extremes,Fog,#d60d2b,wmo,हरियाणा के हिसार जिले में कोहरा,2026-01-19T04:03:00+00:00,India,0.4316387645488364,2,1,hi,SAS,Asia
 '18eeb50f0c',extremes,Snow&Ice,#d60d2b,wmo,स्नो इंडिया,2026-01-15T10:56:00+00:00,India,0.4279079574424665,1,1,hi,SAS,Asia
+'3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,भारी वर्षा,2026-01-17T03:44:00+00:00,,0.4227909216494846,3,2,hi,,
 'c685705bbd',extremes,Earthquake,#870007,usgs,भूकंप चीन,2026-01-15T10:56:00+00:00,China,0.4221067456249892,1,2,hi,EAS,Asia
 '17c827a010',extremes,Earthquake,#870007,usgs,भूकंप जापान,2026-01-15T10:56:00+00:00,Japan,0.4221001758866999,1,2,hi,EAS,Asia
 '23ad2bb822',extremes,Earthquake,#870007,usgs,भूकंप रूस,2026-01-15T10:56:00+00:00,Russia,0.4220030102183668,1,2,hi,EAS,Asia
@@ -51,7 +52,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,औषधि,2026-01-22T03:59:00+00:00,,0.4137500033981076,2,1,hi,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,पारा गिरा,2026-01-22T03:59:00+00:00,,0.4109602144246374,1,2,hi,,
 'a5ff1cde4a',extremes,Drought,#edc291,random,मिट्टी की नमी,2026-01-28T03:56:00+00:00,,0.408845874478175,1,2,hi,,
-'3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,भारी वर्षा,2026-01-17T03:44:00+00:00,,0.408812813705276,2,1,hi,,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,ओलावृष्टि,2026-01-15T12:13:00+00:00,,0.4031092144129821,1,2,hi,,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,बाढ़,2026-01-23T04:02:00+00:00,,0.4021048617823536,1,2,hi,,
 '82d648b882',extremes,Drought,#edc291,random,सूखा,2026-01-15T10:39:00+00:00,,0.4006062128191026,1,1,hi,,
@@ -222,7 +222,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ba6e07a583',extremes,Storm,#b3b2b1,emdat,तूफ़ान अल हसाके गवर्नरेट्स,2026-01-15T10:57:00+00:00,Syria,0.2717310539086509,1,1,hi,MED,Asia
 'f200ff28aa',extremes,Earthquake,#870007,usgs,संयुक्त राज्य अमेरिका में भूकंप,2026-01-15T10:56:00+00:00,United States,0.2717228865411429,1,1,hi,WNA,North-America
 '6ff5caa4ff',extremes,Earthquake,#870007,usgs,भूकंप अटका,2026-01-15T10:56:00+00:00,Alaska,0.271719060023959,1,1,hi,NPO,Pacific Ocean
-'27bfeaeef2',extremes,Earthquake,#870007,usgs,भूकंप कुरील द्वीप समूह,2026-01-15T10:56:00+00:00,,0.27169373647451844,1,1,hi,RFE,Asia
+'27bfeaeef2',extremes,Earthquake,#870007,usgs,भूकंप कुरील द्वीप समूह,2026-01-15T10:56:00+00:00,,0.2716937364745184,1,1,hi,RFE,Asia
 '2407b3a8ab',extremes,Drought,#edc291,edo,सूखापन बुरुंडी,2026-01-15T10:57:00+00:00,Burundi,0.2716919451404975,1,1,hi,SEAF,Africa
 '526ac614cf',extremes,Earthquake,#870007,usgs,भूकंप सैंटे मैरी,2026-01-15T12:13:00+00:00,Martinique,0.271687255018003,1,1,hi,CAR,North-America
 '909be204f9',extremes,Earthquake,#870007,usgs,लॉयल्टी द्वीप के दक्षिण-पूर्व में भूकंप,2026-01-15T10:56:00+00:00,,0.271681119031828,1,1,hi,SPO,Pacific Ocean
@@ -238,7 +238,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,तूफ़ान,2026-01-15T10:20:00+00:00,,0.2560990530904549,0,1,hi,,
 'f90601fa23',extremes,Volcano,#b83202,random,ज्वालामुखी विस्फोट,2026-01-15T10:20:00+00:00,,0.2556038068151502,0,1,hi,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,ग्लेशियर का शांत होना,2026-01-15T10:20:00+00:00,,0.2545099887501987,0,1,hi,,
-'6852666385',extremes,Earthquake,#870007,usgs,भूकंप बंदरगाह मथुरिन,2026-01-15T12:13:00+00:00,Mauritius,0.23109989738225645,2,1,hi,SIO,Indian Ocean
+'6852666385',extremes,Earthquake,#870007,usgs,भूकंप बंदरगाह मथुरिन,2026-01-15T12:13:00+00:00,Mauritius,0.2310998973822564,2,1,hi,SIO,Indian Ocean
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडा वर्ष,2026-01-15T10:20:00+00:00,,0.2187463352419774,1,1,hi,,
 'b6cef22543',extremes,Drought,#edc291,random,जल प्रतिबंध,2026-01-15T10:20:00+00:00,,0.2181947166591417,1,1,hi,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,वायुमंडलीय नदी,2026-01-15T10:20:00+00:00,,0.2180904085177332,1,1,hi,,
