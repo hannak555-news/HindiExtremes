@@ -1,7 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'f199635353',extremes,Earthquake,#870007,usgs,भूकंप मोरीगांव,2026-01-15T10:56:00+00:00,India,0.630876734063251,3,2,hi,SAS,Asia
 'e3e012c1ea',extremes,Snow&Ice,#d60d2b,wmo,फ्रॉस्ट इंडिया,2026-01-15T12:14:00+00:00,India,0.6295181628570877,2,1,hi,SAS,Asia
-'5aac2a6d30',extremes,Storm,#b3b2b1,wmo,तूफ़ान भारत,2026-01-27T03:58:00+00:00,India,0.6084316068675656,2,1,hi,SAS,Asia
 '5e4bef8c2c',extremes,Cold Wave,#a7e9fa,wmo,शीत लहर भारत,2026-01-15T10:56:00+00:00,India,0.6079102043367262,2,1,hi,SAS,Asia
 'dd346fd726',extremes,Cold Wave,#a7e9fa,wmo,राजस्थान के 5 जिलों में ठंड,2026-01-15T12:14:00+00:00,India,0.6045316431148701,2,1,hi,SAS,Asia
 '0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,ठंडा भारत,2026-01-15T10:56:00+00:00,India,0.592366985237916,1,1,hi,SAS,Asia
@@ -23,6 +22,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '35bd62c5a9',extremes,Drought,#edc291,edo,भारत में सूखा,2026-01-15T10:57:00+00:00,India,0.5308113374530782,1,1,hi,SAS,Asia
 '4ec651f142',extremes,Snow&Ice,#d60d2b,wmo,उत्तराखंड के 11 जिलों में बर्फबारी,2026-01-21T03:56:00+00:00,India,0.5215867928613696,1,1,hi,SAS,Asia
 'e635ff71fc',extremes,Cold Wave,#a7e9fa,wmo,पंजाब के 7 जिलों में ठंड,2026-01-22T03:59:00+00:00,India,0.5193526779769111,2,1,hi,SAS,Asia
+'5aac2a6d30',extremes,Storm,#b3b2b1,wmo,तूफ़ान भारत,2026-01-27T03:58:00+00:00,India,0.5173168808374308,3,1,hi,SAS,Asia
 '271200cbb0',extremes,Wildfire,#d60d2b,wmo,जंगल की आग आंध्र प्रदेश,2026-01-15T10:56:00+00:00,India,0.5019085105028563,2,1,hi,SAS,Asia
 '0f7c486492',extremes,Wildfire,#d60d2b,wmo,जंगल की आग अरुणाचल प्रदेश,2026-01-15T12:14:00+00:00,India,0.501895762921639,2,1,hi,SAS,Asia
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,भारत में गंभीर मौसम,2026-01-27T03:58:00+00:00,India,0.5017634610170437,1,1,hi,SAS,Asia
@@ -247,9 +247,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,आर्कटिक समुद्री बर्फ,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,hi,,
 'ccefefc59e',extremes,Drought,#edc291,random,आकस्मिक सूखा,2026-01-15T10:20:00+00:00,,0.2561951224549235,0,1,hi,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,ग्लेशियर का शांत होना,2026-01-15T10:20:00+00:00,,0.2545099887501987,0,1,hi,,
-'45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,तूफ़ान,2026-01-15T10:20:00+00:00,,0.24843427012688662,1,1,hi,,
+'45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,तूफ़ान,2026-01-15T10:20:00+00:00,,0.2484342701268866,1,1,hi,,
 '6852666385',extremes,Earthquake,#870007,usgs,भूकंप बंदरगाह मथुरिन,2026-01-15T12:13:00+00:00,Mauritius,0.2310998973822564,2,1,hi,SIO,Indian Ocean
-'e551102071',extremes,Earthquake,#870007,usgs,भूकंप वानुअतु,2026-01-15T10:56:00+00:00,Vanuatu,0.23106097815736165,2,1,hi,SPO,Pacific Ocean
+'e551102071',extremes,Earthquake,#870007,usgs,भूकंप वानुअतु,2026-01-15T10:56:00+00:00,Vanuatu,0.2310609781573616,2,1,hi,SPO,Pacific Ocean
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडा वर्ष,2026-01-15T10:20:00+00:00,,0.2187463352419774,1,1,hi,,
 'b6cef22543',extremes,Drought,#edc291,random,जल प्रतिबंध,2026-01-15T10:20:00+00:00,,0.2181947166591417,1,1,hi,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,वायुमंडलीय नदी,2026-01-15T10:20:00+00:00,,0.2180904085177332,1,1,hi,,
