@@ -6,7 +6,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,ठंडा भारत,2026-01-15T10:56:00+00:00,India,0.592366985237916,1,1,hi,SAS,Asia
 'f2cea183b1',extremes,Cold Wave,#a7e9fa,wmo,राजस्थान के 5 जिलों में शीतलहर,2026-01-15T10:56:00+00:00,India,0.5778365073000656,2,2,hi,SAS,Asia
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,वर्षा भारत,2026-01-25T04:06:00+00:00,India,0.5750646474020757,1,1,hi,SAS,Asia
-'b2bc2d0c7f',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन भारत,2026-01-25T04:06:00+00:00,India,0.5718691533182316,1,1,hi,SAS,Asia
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,जय भारत,2026-01-22T03:59:00+00:00,India,0.5710838781652108,3,3,hi,SAS,Asia
 '7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,जंगल की आग भारत,2026-01-15T10:56:00+00:00,India,0.5693458298976558,1,1,hi,SAS,Asia
 '7e6c45f3ef',extremes,Snow Avalanche,#deddd5,wmo,हिमाचल प्रदेश के कुल्लू जिले में हिमस्खलन,2026-01-26T04:09:00+00:00,India,0.5686089049905365,1,1,hi,SAS,Asia
@@ -30,6 +29,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,जंगल की आग उत्तराखंड,2026-01-15T10:56:00+00:00,India,0.495412903233949,1,1,hi,SAS,Asia
 '4609262d69',extremes,Fog,#d60d2b,wmo,आंध्र प्रदेश के बापटला जिले में कोहरा,2026-01-18T03:57:00+00:00,India,0.4941589636607346,1,1,hi,SAS,Asia
 '6a0e9887e1',extremes,Fog,#d60d2b,wmo,उत्तर प्रदेश के 15 जिलों में कोहरा,2026-01-17T03:44:00+00:00,India,0.4922905717715168,2,2,hi,SAS,Asia
+'b2bc2d0c7f',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन भारत,2026-01-25T04:06:00+00:00,India,0.48638881032049686,2,1,hi,SAS,Asia
 '20741ce7eb',extremes,Tsunami,#690191,random,सुनामी,2026-01-15T10:39:00+00:00,,0.4855408725881853,1,2,hi,,
 'd6786cc958',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन लेह लद्दाख जिला,2026-01-27T03:58:00+00:00,India,0.4846163207519086,2,1,hi,SAS,Asia
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,भारत में मूसलाधार वर्षा,2026-01-25T04:06:00+00:00,India,0.4670751146442715,2,1,hi,SAS,Asia
@@ -104,7 +104,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '43540d11be',extremes,Earthquake,#870007,usgs,भूकंप अक्केशी,2026-01-15T10:56:00+00:00,Japan,0.319536041667731,0,1,hi,EAS,Asia
 '2725619969',extremes,Earthquake,#870007,usgs,भूकंप हनावा,2026-01-15T12:13:00+00:00,Japan,0.3195356071355527,0,1,hi,EAS,Asia
 '74236bd182',extremes,Drought,#edc291,edo,आइसलैंड में बारिश की कमी,2026-01-15T10:57:00+00:00,Iceland,0.3195301763658332,0,1,hi,GIC,Europe
-'40a849aef3',extremes,Earthquake,#870007,usgs,भूकंप zhaotong,2026-01-15T12:13:00+00:00,China,0.3195106860766282,0,1,hi,EAS,Asia
 '982d97b8ec',extremes,Earthquake,#870007,usgs,भूकंप सुसानविले,2026-01-15T12:13:00+00:00,United States,0.3194977377164754,0,1,hi,WNA,North-America
 'a6144d1f04',extremes,Earthquake,#870007,usgs,भूकंप चूहा द्वीप अलेउतियन द्वीप अलास्का,2026-01-15T10:56:00+00:00,,0.3194963093664921,0,1,hi,NPO,Pacific Ocean
 '0816dd344b',extremes,Earthquake,#870007,usgs,भूकंप लाए,2026-01-15T10:56:00+00:00,Papua New Guinea,0.3194929068163263,0,1,hi,SEA,Asia
@@ -247,6 +246,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd9cc56f031',extremes,Drought,#edc291,edo,सूखा जादू ताजिकिस्तान,2026-01-15T10:57:00+00:00,Tajikistan,0.2716294396510521,1,1,hi,WCA,Asia
 'cce4634973',extremes,Drought,#edc291,edo,सूखा जादू केन्या,2026-01-15T10:57:00+00:00,Kenya,0.2716113264276814,1,1,hi,SEAF,Africa
 '08226562a9',extremes,Earthquake,#870007,usgs,भूकंप फ़ैस,2026-01-15T10:56:00+00:00,Micronesia,0.2716085395687398,1,1,hi,NPO,Pacific Ocean
+'40a849aef3',extremes,Earthquake,#870007,usgs,भूकंप zhaotong,2026-01-15T12:13:00+00:00,China,0.27158408316513394,1,1,hi,EAS,Asia
 '0e39632695',extremes,Drought,#edc291,edo,ईरान में बारिश की कमी,2026-01-15T10:57:00+00:00,Iran,0.2715527142396545,1,1,hi,WCA,Asia
 'c25ecb1005',extremes,Earthquake,#870007,usgs,भूकंप यिलान,2026-01-15T10:56:00+00:00,Taiwan,0.2715366301428277,1,1,hi,EAS,Asia
 '34799f2163',extremes,Drought,#edc291,edo,कांगो गणराज्य का सूखा,2026-01-15T10:57:00+00:00,Republic of the Congo,0.2715338497738099,1,1,hi,CAF,Africa
