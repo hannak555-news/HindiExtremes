@@ -1,9 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'e3e012c1ea',extremes,Snow&Ice,#d60d2b,wmo,फ्रॉस्ट इंडिया,2026-01-15T12:14:00+00:00,India,0.6852404534285246,3,2,hi,SAS,Asia
 '84f30e1888',extremes,Cold Wave,#a7e9fa,wmo,हरियाणा के 4 जिलों में शीतलहर,2026-01-22T03:59:00+00:00,India,0.6376250682892707,2,2,hi,SAS,Asia
 '5e4bef8c2c',extremes,Cold Wave,#a7e9fa,wmo,शीत लहर भारत,2026-01-15T10:56:00+00:00,India,0.6079102043367262,2,1,hi,SAS,Asia
 'dd346fd726',extremes,Cold Wave,#a7e9fa,wmo,राजस्थान के 5 जिलों में ठंड,2026-01-15T12:14:00+00:00,India,0.6045316431148701,2,1,hi,SAS,Asia
 '0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,ठंडा भारत,2026-01-15T10:56:00+00:00,India,0.592366985237916,1,1,hi,SAS,Asia
+'e3e012c1ea',extremes,Snow&Ice,#d60d2b,wmo,फ्रॉस्ट इंडिया,2026-01-15T12:14:00+00:00,India,0.5826044004142459,4,2,hi,SAS,Asia
 'f2cea183b1',extremes,Cold Wave,#a7e9fa,wmo,राजस्थान के 5 जिलों में शीतलहर,2026-01-15T10:56:00+00:00,India,0.5778365073000656,2,2,hi,SAS,Asia
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,वर्षा भारत,2026-01-25T04:06:00+00:00,India,0.5750646474020757,1,1,hi,SAS,Asia
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,जय भारत,2026-01-22T03:59:00+00:00,India,0.5710838781652108,3,3,hi,SAS,Asia
@@ -29,7 +29,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,जंगल की आग उत्तराखंड,2026-01-15T10:56:00+00:00,India,0.495412903233949,1,1,hi,SAS,Asia
 '4609262d69',extremes,Fog,#d60d2b,wmo,आंध्र प्रदेश के बापटला जिले में कोहरा,2026-01-18T03:57:00+00:00,India,0.4941589636607346,1,1,hi,SAS,Asia
 '6a0e9887e1',extremes,Fog,#d60d2b,wmo,उत्तर प्रदेश के 15 जिलों में कोहरा,2026-01-17T03:44:00+00:00,India,0.4922905717715168,2,2,hi,SAS,Asia
-'b2bc2d0c7f',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन भारत,2026-01-25T04:06:00+00:00,India,0.48638881032049686,2,1,hi,SAS,Asia
+'b2bc2d0c7f',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन भारत,2026-01-25T04:06:00+00:00,India,0.4863888103204968,2,1,hi,SAS,Asia
 '20741ce7eb',extremes,Tsunami,#690191,random,सुनामी,2026-01-15T10:39:00+00:00,,0.4855408725881853,1,2,hi,,
 'd6786cc958',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन लेह लद्दाख जिला,2026-01-27T03:58:00+00:00,India,0.4846163207519086,2,1,hi,SAS,Asia
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,भारत में मूसलाधार वर्षा,2026-01-25T04:06:00+00:00,India,0.4670751146442715,2,1,hi,SAS,Asia
@@ -88,9 +88,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,रिकार्ड वर्षा,2026-01-27T03:58:00+00:00,,0.3220848420292492,1,1,hi,,
 '52af874334',extremes,Drought,#edc291,random,शुष्कता,2026-01-21T03:55:00+00:00,,0.3201609706431698,1,1,hi,,
 'f9f9aaa314',extremes,Earthquake,#870007,usgs,भूकंप धिंग,2026-01-15T10:56:00+00:00,India,0.3197619370949565,1,1,hi,SAS,Asia
-'95694d19cf',extremes,Earthquake,#870007,usgs,भूकंप यमन,2026-01-15T12:13:00+00:00,Yemen,0.3196785588064959,0,1,hi,NEAF,Africa
-'cc449c3731',extremes,Earthquake,#870007,usgs,भूकंप केरमाडेक द्वीप क्षेत्र,2026-01-15T10:56:00+00:00,,0.3196765422551599,0,1,hi,SPO,Pacific Ocean
-'8b5b4c9d3b',extremes,Earthquake,#870007,usgs,भूकंप प्यूर्टो सांता,2026-01-15T10:56:00+00:00,Peru,0.3196649023655777,0,1,hi,NWS,South-America
 '37af8de5d1',extremes,Earthquake,#870007,usgs,भूकंप पूर्वी द्वीप क्षेत्र,2026-01-15T10:56:00+00:00,,0.3196606738976758,0,1,hi,SPO,Pacific Ocean
 'd1b76ff32a',extremes,Earthquake,#870007,usgs,भूकंप मियाको,2026-01-15T10:56:00+00:00,Japan,0.3196603663022271,0,1,hi,EAS,Asia
 '7a3d1676da',extremes,Earthquake,#870007,usgs,फिलीपींस में भूकंप,2026-01-15T10:56:00+00:00,Philippines,0.3196508616073871,0,1,hi,SEA,Asia
@@ -105,7 +102,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2725619969',extremes,Earthquake,#870007,usgs,भूकंप हनावा,2026-01-15T12:13:00+00:00,Japan,0.3195356071355527,0,1,hi,EAS,Asia
 '74236bd182',extremes,Drought,#edc291,edo,आइसलैंड में बारिश की कमी,2026-01-15T10:57:00+00:00,Iceland,0.3195301763658332,0,1,hi,GIC,Europe
 '982d97b8ec',extremes,Earthquake,#870007,usgs,भूकंप सुसानविले,2026-01-15T12:13:00+00:00,United States,0.3194977377164754,0,1,hi,WNA,North-America
-'a6144d1f04',extremes,Earthquake,#870007,usgs,भूकंप चूहा द्वीप अलेउतियन द्वीप अलास्का,2026-01-15T10:56:00+00:00,,0.3194963093664921,0,1,hi,NPO,Pacific Ocean
 '0816dd344b',extremes,Earthquake,#870007,usgs,भूकंप लाए,2026-01-15T10:56:00+00:00,Papua New Guinea,0.3194929068163263,0,1,hi,SEA,Asia
 'f986f74559',extremes,Earthquake,#870007,usgs,भूकंप योनाकुनी,2026-01-15T10:56:00+00:00,Japan,0.3194878129364829,0,1,hi,EAS,Asia
 '1a5e4bce35',extremes,Drought,#edc291,edo,बारिश की कमी कुवैत,2026-01-15T10:57:00+00:00,Kuwait,0.3194730257656478,0,1,hi,ARP,Asia
@@ -232,10 +228,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8684156e57',extremes,Earthquake,#870007,usgs,भूकंप इस देवदूत,2026-01-15T12:13:00+00:00,Vanuatu,0.2717333270421694,1,1,hi,SPO,Pacific Ocean
 '17b150a7a2',extremes,Earthquake,#870007,usgs,भूकंप तंजानिया,2026-01-15T10:56:00+00:00,Tanzania,0.2717326529803034,1,1,hi,SEAF,Africa
 'ba6e07a583',extremes,Storm,#b3b2b1,emdat,तूफ़ान अल हसाके गवर्नरेट्स,2026-01-15T10:57:00+00:00,Syria,0.2717310539086509,1,1,hi,MED,Asia
+'95694d19cf',extremes,Earthquake,#870007,usgs,भूकंप यमन,2026-01-15T12:13:00+00:00,Yemen,0.27172677498552156,1,1,hi,NEAF,Africa
+'cc449c3731',extremes,Earthquake,#870007,usgs,भूकंप केरमाडेक द्वीप क्षेत्र,2026-01-15T10:56:00+00:00,,0.2717250609168859,1,1,hi,SPO,Pacific Ocean
 '5484f48de4',extremes,Earthquake,#870007,usgs,भूकंप मध्य भारतीय रिज,2026-01-15T10:56:00+00:00,,0.2717248220686753,1,1,hi,SIO,Indian Ocean
 'f200ff28aa',extremes,Earthquake,#870007,usgs,संयुक्त राज्य अमेरिका में भूकंप,2026-01-15T10:56:00+00:00,United States,0.2717228865411429,1,1,hi,WNA,North-America
 'e98c9b3f42',extremes,Earthquake,#870007,usgs,भूकंप ड्रेक मार्ग,2026-01-15T10:56:00+00:00,,0.2717202890619044,1,1,hi,SOO,Antarctica
 '6ff5caa4ff',extremes,Earthquake,#870007,usgs,भूकंप अटका,2026-01-15T10:56:00+00:00,Alaska,0.271719060023959,1,1,hi,NPO,Pacific Ocean
+'8b5b4c9d3b',extremes,Earthquake,#870007,usgs,भूकंप प्यूर्टो सांता,2026-01-15T10:56:00+00:00,Peru,0.27171516701074105,1,1,hi,NWS,South-America
 '27bfeaeef2',extremes,Earthquake,#870007,usgs,भूकंप कुरील द्वीप समूह,2026-01-15T10:56:00+00:00,,0.2716937364745184,1,1,hi,RFE,Asia
 '2407b3a8ab',extremes,Drought,#edc291,edo,सूखापन बुरुंडी,2026-01-15T10:57:00+00:00,Burundi,0.2716919451404975,1,1,hi,SEAF,Africa
 '3ba62ce4f2',extremes,Earthquake,#870007,usgs,भूकंप ग्रीस,2026-01-15T10:56:00+00:00,Greece,0.2716891604462931,1,1,hi,MED,Europe
@@ -246,7 +245,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd9cc56f031',extremes,Drought,#edc291,edo,सूखा जादू ताजिकिस्तान,2026-01-15T10:57:00+00:00,Tajikistan,0.2716294396510521,1,1,hi,WCA,Asia
 'cce4634973',extremes,Drought,#edc291,edo,सूखा जादू केन्या,2026-01-15T10:57:00+00:00,Kenya,0.2716113264276814,1,1,hi,SEAF,Africa
 '08226562a9',extremes,Earthquake,#870007,usgs,भूकंप फ़ैस,2026-01-15T10:56:00+00:00,Micronesia,0.2716085395687398,1,1,hi,NPO,Pacific Ocean
-'40a849aef3',extremes,Earthquake,#870007,usgs,भूकंप zhaotong,2026-01-15T12:13:00+00:00,China,0.27158408316513394,1,1,hi,EAS,Asia
+'40a849aef3',extremes,Earthquake,#870007,usgs,भूकंप zhaotong,2026-01-15T12:13:00+00:00,China,0.2715840831651339,1,1,hi,EAS,Asia
+'a6144d1f04',extremes,Earthquake,#870007,usgs,भूकंप चूहा द्वीप अलेउतियन द्वीप अलास्का,2026-01-15T10:56:00+00:00,,0.27157186296151825,1,1,hi,NPO,Pacific Ocean
 '0e39632695',extremes,Drought,#edc291,edo,ईरान में बारिश की कमी,2026-01-15T10:57:00+00:00,Iran,0.2715527142396545,1,1,hi,WCA,Asia
 'c25ecb1005',extremes,Earthquake,#870007,usgs,भूकंप यिलान,2026-01-15T10:56:00+00:00,Taiwan,0.2715366301428277,1,1,hi,EAS,Asia
 '34799f2163',extremes,Drought,#edc291,edo,कांगो गणराज्य का सूखा,2026-01-15T10:57:00+00:00,Republic of the Congo,0.2715338497738099,1,1,hi,CAF,Africa
