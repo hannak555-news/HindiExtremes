@@ -45,7 +45,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0816dd344b',extremes,Earthquake,#870007,usgs,भूकंप लाए,2026-01-15T10:56:00+00:00,Papua New Guinea,0.4217189857938773,1,2,hi,SEA,Asia
 'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,जंगल की आग उत्तराखंड,2026-01-15T10:56:00+00:00,India,0.4212509827488566,2,1,hi,SAS,Asia
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,गर्मी,2026-01-15T10:39:00+00:00,,0.4170663565412384,1,2,hi,,
-'b2bc2d0c7f',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन भारत,2026-01-25T04:06:00+00:00,India,0.41572097095655897,4,2,hi,SAS,Asia
+'b2bc2d0c7f',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन भारत,2026-01-25T04:06:00+00:00,India,0.4157209709565589,4,2,hi,SAS,Asia
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,पारा गिरा,2026-01-22T03:59:00+00:00,,0.4109602144246374,1,2,hi,,
 '7e6c45f3ef',extremes,Snow Avalanche,#deddd5,wmo,हिमाचल प्रदेश के कुल्लू जिले में हिमस्खलन,2026-01-26T04:09:00+00:00,India,0.4108199338556626,3,1,hi,SAS,Asia
 'a5ff1cde4a',extremes,Drought,#edc291,random,मिट्टी की नमी,2026-01-28T03:56:00+00:00,,0.408845874478175,1,2,hi,,
@@ -134,6 +134,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9a84ac4373',extremes,Tsunami,#690191,usgs,सुनामी अलास्का,2026-02-05T04:27:00+00:00,Alaska,0.3140848681264619,0,1,hi,NPO,Pacific Ocean
 '8b4587c763',extremes,Storm,#b3b2b1,random,धूल भरी आँधी,2026-01-24T03:48:00+00:00,,0.3140180103395362,1,1,hi,,
 'ba8fd53a17',extremes,Earthquake,#870007,usgs,भूकंप कार्ल्सबर्ग रिज,2026-01-21T03:55:00+00:00,,0.3139898537784237,0,1,hi,EIO,Indian Ocean
+'3017638745',extremes,Earthquake,#870007,usgs,भूकंप उस्त' कामचत्स्क स्टारी,2026-02-05T04:27:00+00:00,Russia,0.3139623148136632,0,1,hi,RFE,Europe
 '685995fcc4',extremes,Earthquake,#870007,usgs,मैक्वेरी द्वीप के पश्चिम में भूकंप,2026-02-05T04:27:00+00:00,,0.3137478705269341,0,1,hi,SOO,Antarctica
 '9044bc0335',extremes,Earthquake,#870007,usgs,भूकंप जॉर्जटाउन,2026-01-21T03:55:00+00:00,Saint Helena,0.313740053953542,0,1,hi,SAO,Atlantic Ocean
 'd9e53070b4',extremes,Flood,#030ba1,aidr,बाढ़ मैके क्वींसलैंड 2008,2026-01-20T03:57:00+00:00,,0.3134301733095393,0,1,hi,EAU,Oceania
@@ -142,6 +143,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd59a7e48d7',extremes,Drought,#edc291,random,वाष्पीकरण-उत्सर्जन,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,hi,,
 'a0068b2b6b',extremes,Flood,#030ba1,aidr,बाढ़ वर्षा और बाढ़ क्वींसलैंड फरवरी मार्च 2022,2026-02-05T04:28:00+00:00,Australia,0.3127534347774909,0,1,hi,EAU,Oceania
 '34fd30e809',extremes,Earthquake,#870007,usgs,भूकंप कालमा,2026-02-05T04:27:00+00:00,Chile,0.3126127943362571,0,1,hi,SWS,South-America
+'3e5f311da7',extremes,Drought,#edc291,edo,साओ टोम और प्रिंसिपे में सूखा,2026-02-05T04:28:00+00:00,Sao Tome and Principe,0.31249066671842546,0,1,hi,WAF,Africa
+'521b639732',extremes,Tropical Cyclone,#4f4f4f,aidr,चक्रवात ओसवाल्ड क्वींसलैंड न्यू साउथ वेल्स 2013,2026-02-05T04:28:00+00:00,Australia,0.3123106631925409,0,1,hi,NAU,Oceania
+'aef4c7cec9',extremes,Earthquake,#870007,aidr,भूकंप क्राइस्टचर्च न्यूजीलैंड 2011,2026-01-29T04:19:00+00:00,New Zealand,0.31204638638859006,0,1,hi,NZ,Oceania
+'ba920c05ae',extremes,Earthquake,#870007,usgs,भूकंप रिवर्टन,2026-02-03T04:27:00+00:00,New Zealand,0.3118625577241554,0,1,hi,NZ,Oceania
 '15a9c61e3e',extremes,Landslide,#572c03,random,चट्टानों का खिसकना,2026-01-15T12:13:00+00:00,,0.3118148090065645,1,1,hi,,
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,अंटार्कटिक समुद्री बर्फ,2026-01-21T03:55:00+00:00,,0.3108999208214229,1,1,hi,,
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,बर्फ तैरती है,2026-01-23T04:02:00+00:00,,0.3100490573909686,1,1,hi,,
@@ -163,8 +168,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '69791e5a17',extremes,Flood,#030ba1,random,आकस्मिक बाढ़,2026-01-17T03:44:00+00:00,,0.2782284672948678,1,1,hi,,
 '622bd2c53e',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखापन,2026-01-21T03:56:00+00:00,United Arab Emirates,0.2772001274038934,1,1,hi,ARP,Asia
 '4d9577e33d',extremes,Volcano,#b83202,random,ज्वालामुखी,2026-02-06T04:27:00+00:00,,0.2752933499075616,1,1,hi,,
-'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,उत्तरी अमेरिकी शीतकालीन तूफान न्यूयॉर्क,2026-01-31T04:17:00+00:00,United States,0.2720064152251044,1,1,hi,ENA,North-America
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,उष्णकटिबंधीय चक्रवात इटली,2026-01-28T03:57:00+00:00,Italy,0.2720064152251044,1,1,hi,MED,Europe
+'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,उत्तरी अमेरिकी शीतकालीन तूफान न्यूयॉर्क,2026-01-31T04:17:00+00:00,United States,0.2720064152251044,1,1,hi,ENA,North-America
 '45f861329d',extremes,Landslide,#572c03,aidr,भूस्खलन एडिलेड पहाड़ियाँ दक्षिण ऑस्ट्रेलिया,2026-01-15T10:57:00+00:00,Australia,0.2720064152251044,1,1,hi,SAU,Oceania
 'a241cba1ba',extremes,Volcano,#b83202,eonet,एम्ब्रीम ज्वालामुखी वानुअतु,2026-01-15T10:56:00+00:00,Vanuatu,0.271990453362115,1,1,hi,SPO,Oceania
 '6f7179aa00',extremes,Volcano,#b83202,eonet,ज्वालामुखी फिलीपींस,2026-01-15T10:56:00+00:00,Philippines,0.2719808606448024,1,1,hi,SEA,Asia
@@ -279,7 +284,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eb91bf9344',extremes,Earthquake,#870007,usgs,केरमाडेक द्वीप के दक्षिण में भूकंप,2026-01-15T10:56:00+00:00,,0.2715268865248685,1,1,hi,SPO,Pacific Ocean
 'bef1a25283',extremes,Drought,#edc291,edo,सीरिया में सूखा,2026-01-15T10:57:00+00:00,Syria,0.2715241383175806,1,1,hi,MED,Asia
 '16348a6786',extremes,Drought,#edc291,edo,शुष्क मौसम ट्यूनीशिया,2026-01-15T10:57:00+00:00,Tunisia,0.2715226301443713,1,1,hi,MED,Africa
-'a627698ed3',extremes,Earthquake,#870007,usgs,भूकंप सैंटियागो,2026-01-15T10:56:00+00:00,Philippines,0.27151874133743736,1,1,hi,SEA,Asia
+'a627698ed3',extremes,Earthquake,#870007,usgs,भूकंप सैंटियागो,2026-01-15T10:56:00+00:00,Philippines,0.2715187413374373,1,1,hi,SEA,Asia
 'ebe3f8a23f',extremes,Drought,#edc291,edo,बारिश की कमी किरिबाती,2026-01-15T10:57:00+00:00,Kiribati,0.2715159284283015,1,1,hi,EAO,Atlantic Ocean
 '49e564d95b',extremes,Drought,#edc291,edo,स्वालबार्ड और जान मायेन द्वीप समूह में सूखा,2026-01-15T10:57:00+00:00,Svalbard and Jan Mayen Islands,0.2715001708451968,1,1,hi,ARO,Arctica
 '5c82519f0a',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय चक्रवात 17s,2026-01-24T03:48:00+00:00,,0.2679484859511865,1,1,hi,NAU,Oceania
