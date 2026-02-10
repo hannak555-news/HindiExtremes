@@ -50,12 +50,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '67d2701c5b',extremes,Earthquake,#870007,usgs,भूकंप फेक,2026-02-05T04:27:00+00:00,India,0.3937051083551026,2,1,hi,SAS,Asia
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,औषधि,2026-01-22T03:59:00+00:00,,0.3897875628883914,3,1,hi,,
 'bd21048a6a',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-01-15T12:14:00+00:00,United Arab Emirates,0.3869486574984482,1,1,hi,ARP,Asia
-'90522631da',extremes,Precipitation,#d60d2b,wmo,भारत में वर्षा,2026-01-25T04:06:00+00:00,India,0.38652153071049383,3,1,hi,SAS,Asia
+'90522631da',extremes,Precipitation,#d60d2b,wmo,भारत में वर्षा,2026-01-25T04:06:00+00:00,India,0.3865215307104938,3,1,hi,SAS,Asia
 'da77b5167a',extremes,Earthquake,#870007,usgs,भूकंप हायुलियांग,2026-01-22T03:59:00+00:00,India,0.3864382228862676,1,1,hi,SAS,Asia
 '560b05d603',extremes,Heat Wave,#c40202,random,गर्मी की लहर,2026-01-18T03:56:00+00:00,,0.3821532007523822,2,1,hi,,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,भूस्खलन,2026-01-17T03:44:00+00:00,,0.3804597741545205,1,2,hi,,
 '62ede3d2ca',extremes,Thunderstorm,#53785a,wmo,पंजाब के 11 जिलों में आंधी,2026-01-22T03:59:00+00:00,India,0.3791441769808999,2,1,hi,SAS,Asia
-'9aceadd432',extremes,Heat Wave,#c40202,random,रिकॉर्ड गर्मी,2026-01-21T03:55:00+00:00,,0.377834632528104,1,2,hi,,
 'e25c6dc644',extremes,Earthquake,#870007,usgs,भूकंप ग्यालशिंग,2026-02-08T04:43:00+00:00,India,0.3756896128887084,2,1,hi,TIB,Asia
 '3e4b341619',extremes,Storm,#b3b2b1,random,तूफ़ान,2026-01-20T03:55:00+00:00,,0.3702441777475325,1,2,hi,,
 'da87fd7743',extremes,Fog,#d60d2b,wmo,आंध्र प्रदेश का एलुरु जिला,2026-01-17T03:44:00+00:00,India,0.3694700125236232,2,1,hi,SAS,Asia
@@ -91,6 +90,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,ठंढ,2026-01-24T03:48:00+00:00,,0.3269387768182709,1,1,hi,,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,जमना,2026-01-22T03:59:00+00:00,,0.3226516772615738,1,1,hi,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,रिकार्ड वर्षा,2026-01-27T03:58:00+00:00,,0.3220848420292492,1,1,hi,,
+'9aceadd432',extremes,Heat Wave,#c40202,random,रिकॉर्ड गर्मी,2026-01-21T03:55:00+00:00,,0.3214594676488884,2,2,hi,,
 '52af874334',extremes,Drought,#edc291,random,शुष्कता,2026-01-21T03:55:00+00:00,,0.3201609706431698,1,1,hi,,
 'f9f9aaa314',extremes,Earthquake,#870007,usgs,भूकंप धिंग,2026-01-15T10:56:00+00:00,India,0.3197619370949565,1,1,hi,SAS,Asia
 'e1559df16c',extremes,Earthquake,#870007,usgs,भूकंप तोबेलो,2026-01-15T10:56:00+00:00,Indonesia,0.3194694374992225,0,1,hi,SEA,Asia
@@ -307,7 +307,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'de55985e54',extremes,Earthquake,#870007,usgs,भूकंप हदीबू,2026-01-21T03:55:00+00:00,Yemen,0.2673954845890531,1,1,hi,ARS,Indian Ocean
 '06972a2776',extremes,Flood,#030ba1,acwe,आकस्मिक बाढ़ न्यू साउथ वेल्स,2026-01-31T04:17:00+00:00,Australia,0.266100968065277,1,1,hi,EAU,Oceania
 '053bb10e09',extremes,Heat Wave,#c40202,random,भारतीय गर्मी,2026-01-23T04:02:00+00:00,,0.2653875944904164,2,2,hi,,
-'d389bc4f63',extremes,Earthquake,#870007,usgs,भूकंप मेक्सिको,2026-02-05T04:27:00+00:00,Mexico,0.26343750927441417,1,1,hi,SCA,North-America
+'d389bc4f63',extremes,Earthquake,#870007,usgs,भूकंप मेक्सिको,2026-02-05T04:27:00+00:00,Mexico,0.2634375092744141,1,1,hi,SCA,North-America
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,रिकॉर्ड ठंड,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,hi,,
 '6852666385',extremes,Earthquake,#870007,usgs,भूकंप बंदरगाह मथुरिन,2026-01-15T12:13:00+00:00,Mauritius,0.2310998973822564,2,1,hi,SIO,Indian Ocean
 '2617cc6cc9',extremes,Earthquake,#870007,usgs,भूकंप न्यूजीलैंड,2026-01-15T10:56:00+00:00,New Zealand,0.2310742544770263,2,1,hi,NZ,Oceania
@@ -319,7 +319,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b6cef22543',extremes,Drought,#edc291,random,जल प्रतिबंध,2026-01-15T10:20:00+00:00,,0.2181947166591417,1,1,hi,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,वायुमंडलीय नदी,2026-01-15T10:20:00+00:00,,0.2180904085177332,1,1,hi,,
 '0053afc92f',extremes,Volcano,#b83202,random,लहार,2026-01-15T10:20:00+00:00,,0.2178477169643835,1,1,hi,,
-'ccefefc59e',extremes,Drought,#edc291,random,आकस्मिक सूखा,2026-01-15T10:20:00+00:00,,0.21776585408668495,1,1,hi,,
+'ccefefc59e',extremes,Drought,#edc291,random,आकस्मिक सूखा,2026-01-15T10:20:00+00:00,,0.2177658540866849,1,1,hi,,
 'f90601fa23',extremes,Volcano,#b83202,random,ज्वालामुखी विस्फोट,2026-01-15T10:20:00+00:00,,0.2172632357928776,1,1,hi,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,ग्लेशियर का शांत होना,2026-01-15T10:20:00+00:00,,0.2163334904376689,1,1,hi,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,तूफ़ान,2026-01-15T10:20:00+00:00,,0.2119192046078536,2,1,hi,,
