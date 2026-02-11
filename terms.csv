@@ -153,7 +153,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dba9977fc1',extremes,Drought,#edc291,edo,फ़रो द्वीपसमूह में वर्षा की कमी,2026-02-07T04:19:00+00:00,Faroe Islands,0.308539521612019,0,1,hi,NEU,Europe
 '02f4a27a12',extremes,Earthquake,#870007,usgs,भूकंप मेंडी,2026-02-05T04:27:00+00:00,Papua New Guinea,0.3083462618499812,0,1,hi,SEA,Oceania
 '7054c01ed8',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में बारिश की कमी,2026-01-15T10:57:00+00:00,United Arab Emirates,0.3081073677967173,1,1,hi,ARP,Asia
-'74e664d18f',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय चक्रवात 16पी,2026-01-22T03:59:00+00:00,,0.3080971887313565,0,1,hi,SPO,Pacific Ocean
 '0d261f252d',extremes,Storm,#b3b2b1,random,शीत ऋतु की आंधी,2026-01-26T04:08:00+00:00,,0.308071468206377,0,1,hi,,
 '0f0c46c2b9',extremes,Precipitation,#d60d2b,acwe,दक्षिण ऑस्ट्रेलिया में वर्षा,2026-01-28T03:57:00+00:00,Australia,0.3079471104686876,0,1,hi,SAU,Oceania
 '7b672dbbe2',extremes,Earthquake,#870007,usgs,भूकंप दक्षिणी पूर्व प्रशांत उत्थान,2026-02-05T04:27:00+00:00,,0.3079063278340997,0,1,hi,SPO,Pacific Ocean
@@ -318,14 +317,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b9418001ff',extremes,Earthquake,#870007,usgs,भूकंप बिटुंग,2026-01-15T10:56:00+00:00,Indonesia,0.2715185884509042,1,1,hi,SEA,Asia
 'ebe3f8a23f',extremes,Drought,#edc291,edo,बारिश की कमी किरिबाती,2026-01-15T10:57:00+00:00,Kiribati,0.2715159284283015,1,1,hi,EAO,Atlantic Ocean
 '3f59d8a7a4',extremes,Drought,#edc291,edo,सूखा अर्मेनिया,2026-01-15T10:57:00+00:00,Armenia,0.2715086451845088,1,1,hi,WCA,Asia
-'1613eab3ee',extremes,Drought,#edc291,edo,इथियोपिया में बारिश की कमी,2026-01-15T10:57:00+00:00,Ethiopia,0.27150587174322327,1,1,hi,NEAF,Africa
-'f1493fbbc1',extremes,Drought,#edc291,edo,बौवेट द्वीप में बारिश की कमी,2026-01-15T10:57:00+00:00,Bouvet Island,0.27150183506828945,1,1,hi,SOO,Antarctica
+'1613eab3ee',extremes,Drought,#edc291,edo,इथियोपिया में बारिश की कमी,2026-01-15T10:57:00+00:00,Ethiopia,0.2715058717432232,1,1,hi,NEAF,Africa
+'f1493fbbc1',extremes,Drought,#edc291,edo,बौवेट द्वीप में बारिश की कमी,2026-01-15T10:57:00+00:00,Bouvet Island,0.2715018350682894,1,1,hi,SOO,Antarctica
 '49e564d95b',extremes,Drought,#edc291,edo,स्वालबार्ड और जान मायेन द्वीप समूह में सूखा,2026-01-15T10:57:00+00:00,Svalbard and Jan Mayen Islands,0.2715001708451968,1,1,hi,ARO,Arctica
 '9845e6aafe',extremes,Drought,#edc291,edo,उत्तरी मारियाना द्वीप समूह में सूखा,2026-01-15T10:57:00+00:00,Northern Mariana Islands,0.2714943265773762,1,1,hi,NPO,Pacific Ocean
-'63aea37e6c',extremes,Earthquake,#870007,usgs,भूकंप मुत्सु,2026-01-15T10:56:00+00:00,Japan,0.27148951199902244,1,1,hi,EAS,Asia
+'63aea37e6c',extremes,Earthquake,#870007,usgs,भूकंप मुत्सु,2026-01-15T10:56:00+00:00,Japan,0.2714895119990224,1,1,hi,EAS,Asia
 'b5bfafc451',extremes,Drought,#edc291,edo,"बारिश की कमी, संयुक्त राज्य अमेरिका के छोटे दूरस्थ द्वीप",2026-01-15T10:57:00+00:00,United States Minor Outlying Islands,0.2714888961554242,1,1,hi,WAF,Africa
-'69a64e0e6b',extremes,Drought,#edc291,edo,सूखापन इराक,2026-01-15T10:57:00+00:00,Iraq,0.27148588587892314,1,1,hi,WCA,Asia
-'c660d659ce',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय चक्रवात फाइटिया,2026-01-31T04:16:00+00:00,,0.27094665338935964,1,1,hi,ESAF,Africa
+'69a64e0e6b',extremes,Drought,#edc291,edo,सूखापन इराक,2026-01-15T10:57:00+00:00,Iraq,0.2714858858789231,1,1,hi,WCA,Asia
+'c660d659ce',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय चक्रवात फाइटिया,2026-01-31T04:16:00+00:00,,0.2709466533893596,1,1,hi,ESAF,Africa
 'c1c906585f',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय चक्रवात 18पी,2026-01-29T04:18:00+00:00,,0.2705833282606931,1,1,hi,SPO,Pacific Ocean
 'f9a3abc8c2',extremes,Landslide,#572c03,random,कीचड़ का प्रवाह,2026-01-17T03:44:00+00:00,,0.2700651057659132,1,1,hi,,
 '3296e9a239',extremes,Flood,#030ba1,aidr,ऑस्ट्रेलिया में मूसलाधार बारिश,2026-02-05T04:28:00+00:00,Australia,0.2683145188852114,1,1,hi,SAU,Oceania
@@ -336,14 +335,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'de55985e54',extremes,Earthquake,#870007,usgs,भूकंप हदीबू,2026-01-21T03:55:00+00:00,Yemen,0.2673954845890531,1,1,hi,ARS,Indian Ocean
 '3336c980ab',extremes,Earthquake,#870007,usgs,भूकंप सेंट हेलेना,2026-01-21T03:55:00+00:00,Saint Helena,0.2664005189741036,1,1,hi,EAO,Atlantic Ocean
 '06972a2776',extremes,Flood,#030ba1,acwe,आकस्मिक बाढ़ न्यू साउथ वेल्स,2026-01-31T04:17:00+00:00,Australia,0.266100968065277,1,1,hi,EAU,Oceania
-'053bb10e09',extremes,Heat Wave,#c40202,random,भारतीय गर्मी,2026-01-23T04:02:00+00:00,,0.2653875944904164,2,2,hi,,
 'd389bc4f63',extremes,Earthquake,#870007,usgs,भूकंप मेक्सिको,2026-02-05T04:27:00+00:00,Mexico,0.2634375092744141,1,1,hi,SCA,North-America
+'74e664d18f',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय चक्रवात 16पी,2026-01-22T03:59:00+00:00,,0.261882610421653,1,1,hi,SPO,Pacific Ocean
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,रिकॉर्ड ठंड,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,hi,,
 '6852666385',extremes,Earthquake,#870007,usgs,भूकंप बंदरगाह मथुरिन,2026-01-15T12:13:00+00:00,Mauritius,0.2310998973822564,2,1,hi,SIO,Indian Ocean
 '2617cc6cc9',extremes,Earthquake,#870007,usgs,भूकंप न्यूजीलैंड,2026-01-15T10:56:00+00:00,New Zealand,0.2310742544770263,2,1,hi,NZ,Oceania
 'e551102071',extremes,Earthquake,#870007,usgs,भूकंप वानुअतु,2026-01-15T10:56:00+00:00,Vanuatu,0.2310609781573616,2,1,hi,SPO,Pacific Ocean
 '29aa7b93c5',extremes,Earthquake,#870007,usgs,फिजी द्वीप समूह के दक्षिण में भूकंप,2026-01-15T10:56:00+00:00,,0.2310166286275143,2,1,hi,SPO,Pacific Ocean
 '8abf2def70',extremes,Earthquake,#870007,usgs,भूकंप ज्वालामुखी द्वीप जापान क्षेत्र,2026-01-15T10:56:00+00:00,,0.230983556267997,2,1,hi,NPO,Pacific Ocean
+'053bb10e09',extremes,Heat Wave,#c40202,random,भारतीय गर्मी,2026-01-23T04:02:00+00:00,,0.22932983031685392,3,2,hi,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडा वर्ष,2026-01-15T10:20:00+00:00,,0.2187463352419774,1,1,hi,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,आर्कटिक समुद्री बर्फ,2026-01-15T10:20:00+00:00,,0.2184047667680758,1,1,hi,,
 'b6cef22543',extremes,Drought,#edc291,random,जल प्रतिबंध,2026-01-15T10:20:00+00:00,,0.2181947166591417,1,1,hi,,
