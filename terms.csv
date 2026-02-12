@@ -11,7 +11,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f199635353',extremes,Earthquake,#870007,usgs,भूकंप मोरीगांव,2026-01-15T10:56:00+00:00,India,0.5362452539537633,4,1,hi,SAS,Asia
 '35bd62c5a9',extremes,Drought,#edc291,edo,भारत में सूखा,2026-01-15T10:57:00+00:00,India,0.5308113374530782,1,1,hi,SAS,Asia
 'e635ff71fc',extremes,Cold Wave,#a7e9fa,wmo,पंजाब के 7 जिलों में ठंड,2026-01-22T03:59:00+00:00,India,0.5193526779769111,2,1,hi,SAS,Asia
-'5aac2a6d30',extremes,Storm,#b3b2b1,wmo,तूफ़ान भारत,2026-01-27T03:58:00+00:00,India,0.5173168808374308,3,1,hi,SAS,Asia
 '0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,ठंडा भारत,2026-01-15T10:56:00+00:00,India,0.5045620424522286,2,1,hi,SAS,Asia
 '271200cbb0',extremes,Wildfire,#d60d2b,wmo,जंगल की आग आंध्र प्रदेश,2026-01-15T10:56:00+00:00,India,0.5019085105028563,2,1,hi,SAS,Asia
 '0f7c486492',extremes,Wildfire,#d60d2b,wmo,जंगल की आग अरुणाचल प्रदेश,2026-01-15T12:14:00+00:00,India,0.501895762921639,2,1,hi,SAS,Asia
@@ -33,6 +32,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '538eadceb4',extremes,Heat Wave,#c40202,random,हल्की सर्दी,2026-01-17T03:44:00+00:00,,0.447699618127642,1,2,hi,,
 '82fd55b965',extremes,Drought,#edc291,edo,भारत में सूखा,2026-01-24T03:49:00+00:00,India,0.4447451900541285,1,2,hi,SAS,Asia
 '4ec651f142',extremes,Snow&Ice,#d60d2b,wmo,उत्तराखंड के 11 जिलों में बर्फबारी,2026-01-21T03:56:00+00:00,India,0.4433487739321641,2,1,hi,SAS,Asia
+'5aac2a6d30',extremes,Storm,#b3b2b1,wmo,तूफ़ान भारत,2026-01-27T03:58:00+00:00,India,0.4398693637118161,4,1,hi,SAS,Asia
 '82d648b882',extremes,Drought,#edc291,random,सूखा,2026-01-15T10:39:00+00:00,,0.4376199913507826,2,2,hi,,
 '18eeb50f0c',extremes,Snow&Ice,#d60d2b,wmo,स्नो इंडिया,2026-01-15T10:56:00+00:00,India,0.4279079574424665,1,1,hi,SAS,Asia
 '8437b1b153',extremes,Fog,#d60d2b,wmo,कोहरा एनडब्ल्यू एनसी घना कोहरा,2026-01-18T03:57:00+00:00,India,0.4247823143985118,2,1,hi,SAS,Asia
@@ -117,7 +117,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3017638745',extremes,Earthquake,#870007,usgs,भूकंप उस्त' कामचत्स्क स्टारी,2026-02-05T04:27:00+00:00,Russia,0.3139623148136632,0,1,hi,RFE,Europe
 '685995fcc4',extremes,Earthquake,#870007,usgs,मैक्वेरी द्वीप के पश्चिम में भूकंप,2026-02-05T04:27:00+00:00,,0.3137478705269341,0,1,hi,SOO,Antarctica
 '9044bc0335',extremes,Earthquake,#870007,usgs,भूकंप जॉर्जटाउन,2026-01-21T03:55:00+00:00,Saint Helena,0.313740053953542,0,1,hi,SAO,Atlantic Ocean
-'4e0167deb4',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय चक्रवात 20s,2026-02-07T04:19:00+00:00,,0.31371797958157904,0,1,hi,NAU,Oceania
+'4e0167deb4',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय चक्रवात 20s,2026-02-07T04:19:00+00:00,,0.313717979581579,0,1,hi,NAU,Oceania
 'd9e53070b4',extremes,Flood,#030ba1,aidr,बाढ़ मैके क्वींसलैंड 2008,2026-01-20T03:57:00+00:00,,0.3134301733095393,0,1,hi,EAU,Oceania
 'd59a7e48d7',extremes,Drought,#edc291,random,वाष्पीकरण-उत्सर्जन,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,hi,,
 'a0068b2b6b',extremes,Flood,#030ba1,aidr,बाढ़ वर्षा और बाढ़ क्वींसलैंड फरवरी मार्च 2022,2026-02-05T04:28:00+00:00,Australia,0.3127534347774909,0,1,hi,EAU,Oceania
