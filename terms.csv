@@ -1,6 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,वर्षा भारत,2026-01-25T04:06:00+00:00,India,0.5750646474020757,1,1,hi,SAS,Asia
 '77a82da512',extremes,Thunderstorm,#53785a,wmo,ताडेपल्ले मंडल में ओलावृष्टि,2026-02-11T04:41:00+00:00,India,0.5729862592268804,1,1,hi,SAS,Asia
+'0816dd344b',extremes,Earthquake,#870007,usgs,भूकंप लाए,2026-01-15T10:56:00+00:00,Papua New Guinea,0.57098423787744,5,2,hi,SEA,Asia
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,तूफ़ान भारत,2026-01-27T03:58:00+00:00,India,0.5522517956794991,1,1,hi,SAS,Asia
 'a8ed721e08',extremes,Fog,#d60d2b,wmo,कोहरा भारत,2026-01-15T10:56:00+00:00,India,0.5490521900447098,2,2,hi,SAS,Asia
 '5e4bef8c2c',extremes,Cold Wave,#a7e9fa,wmo,शीत लहर भारत,2026-01-15T10:56:00+00:00,India,0.5366737936862171,3,1,hi,SAS,Asia
@@ -12,7 +13,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8b022b84c7',extremes,Wildfire,#d60d2b,wmo,जंगल की आग मध्य प्रदेश,2026-01-15T10:56:00+00:00,India,0.5016939761318764,2,1,hi,SAS,Asia
 '84f30e1888',extremes,Cold Wave,#a7e9fa,wmo,हरियाणा के 4 जिलों में शीतलहर,2026-01-22T03:59:00+00:00,India,0.5002149086506484,5,1,hi,SAS,Asia
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,भूकंप भारत,2026-01-15T10:56:00+00:00,India,0.499218579024309,4,1,hi,SAS,Asia
-'0816dd344b',extremes,Earthquake,#870007,usgs,भूकंप लाए,2026-01-15T10:56:00+00:00,Papua New Guinea,0.4950990857381648,4,1,hi,SEA,Asia
 '6a0e9887e1',extremes,Fog,#d60d2b,wmo,उत्तर प्रदेश के 15 जिलों में कोहरा,2026-01-17T03:44:00+00:00,India,0.4922905717715168,2,2,hi,SAS,Asia
 'f2cea183b1',extremes,Cold Wave,#a7e9fa,wmo,राजस्थान के 5 जिलों में शीतलहर,2026-01-15T10:56:00+00:00,India,0.4916110762050558,3,2,hi,SAS,Asia
 '8bb788b602',extremes,Wildfire,#d60d2b,wmo,जंगल की आग असम,2026-02-11T04:41:00+00:00,India,0.4908442171023224,2,1,hi,SAS,Asia
