@@ -1,6 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,जंगल की आग उत्तराखंड,2026-02-11T04:41:00+00:00,India,0.6787891611719212,0,1,hi,SAS,Asia
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,भूकंप भारत,2026-02-05T04:27:00+00:00,India,0.6415282424504732,0,1,hi,WCA,Asia
+'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,जंगल की आग उत्तराखंड,2026-02-11T04:41:00+00:00,India,0.577120801996133,1,1,hi,SAS,Asia
 '77a82da512',extremes,Thunderstorm,#53785a,wmo,ताडेपल्ले मंडल में ओलावृष्टि,2026-02-11T04:41:00+00:00,India,0.5729862592268804,1,1,hi,SAS,Asia
 '0816dd344b',extremes,Earthquake,#870007,usgs,भूकंप लाए,2026-01-15T10:56:00+00:00,Papua New Guinea,0.57098423787744,5,2,hi,SEA,Asia
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,तूफ़ान भारत,2026-01-27T03:58:00+00:00,India,0.5522517956794991,1,1,hi,SAS,Asia
@@ -202,13 +202,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd3631dea16',extremes,Thunderstorm,#53785a,wmo,जय जमैका,2026-02-05T04:27:00+00:00,Jamaica,0.3049450771663745,0,1,hi,CAR,North-America
 '14578d9922',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन लोफ़ोटेन और वेस्टरलेन,2026-02-05T04:27:00+00:00,Norway,0.3049422916787112,0,1,hi,NEU,Europe
 'c46f2a69e5',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन नॉर्ड ट्रोम्स,2026-02-05T04:27:00+00:00,Norway,0.3049357115758203,0,1,hi,NEU,Europe
-'dbb4a974dd',extremes,Storm,#b3b2b1,wmo,तूफान बोस्निया और हर्जेगोविना,2026-02-03T04:27:00+00:00,Bosnia and Herzegovina,0.30492796261864585,0,1,hi,MED,Europe
+'dbb4a974dd',extremes,Storm,#b3b2b1,wmo,तूफान बोस्निया और हर्जेगोविना,2026-02-03T04:27:00+00:00,Bosnia and Herzegovina,0.3049279626186458,0,1,hi,MED,Europe
 'd61de81685',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल चिली,2026-02-10T04:43:00+00:00,Chile,0.3049188359128184,0,1,hi,SWS,South-America
-'23c3deb0ec',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश तंजानिया,2026-02-07T04:19:00+00:00,Tanzania,0.30487435581734623,0,1,hi,SEAF,Africa
-'3229be0606',extremes,Snow Avalanche,#deddd5,wmo,कराचाय चर्केस गणराज्य में हिमस्खलन,2026-02-05T04:27:00+00:00,Russia,0.30486600669258873,0,1,hi,ESB,Europe
-'30e68a3b40',extremes,Storm,#b3b2b1,wmo,तूफ़ान लिटोरल सिएरा,2026-02-08T04:43:00+00:00,Ecuador,0.30486329585813254,0,1,hi,NWS,South-America
-'60c561f711',extremes,Thunderstorm,#53785a,wmo,न्यूज़ीलैंड में गंभीर मौसम,2026-02-11T04:41:00+00:00,New Zealand,0.30485821296514015,0,1,hi,NZ,Oceania
-'80d50b76c6',extremes,Storm,#b3b2b1,wmo,सऊदी अरब में तूफ़ान की लहर,2026-02-05T04:27:00+00:00,Saudi Arabia,0.30484961621116674,0,1,hi,ARP,Asia
+'23c3deb0ec',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश तंजानिया,2026-02-07T04:19:00+00:00,Tanzania,0.3048743558173462,0,1,hi,SEAF,Africa
+'3229be0606',extremes,Snow Avalanche,#deddd5,wmo,कराचाय चर्केस गणराज्य में हिमस्खलन,2026-02-05T04:27:00+00:00,Russia,0.3048660066925887,0,1,hi,ESB,Europe
+'30e68a3b40',extremes,Storm,#b3b2b1,wmo,तूफ़ान लिटोरल सिएरा,2026-02-08T04:43:00+00:00,Ecuador,0.3048632958581325,0,1,hi,NWS,South-America
+'60c561f711',extremes,Thunderstorm,#53785a,wmo,न्यूज़ीलैंड में गंभीर मौसम,2026-02-11T04:41:00+00:00,New Zealand,0.3048582129651401,0,1,hi,NZ,Oceania
+'80d50b76c6',extremes,Storm,#b3b2b1,wmo,सऊदी अरब में तूफ़ान की लहर,2026-02-05T04:27:00+00:00,Saudi Arabia,0.3048496162111667,0,1,hi,ARP,Asia
 'a652c78afc',extremes,Drought,#edc291,random,महासूखा,2026-01-18T03:56:00+00:00,,0.3006146746719527,1,1,hi,,
 '40f675561f',extremes,Heat Wave,#c40202,random,सबसे तेज़ गर्मी,2026-01-15T10:56:00+00:00,,0.2950321865222953,1,1,hi,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,चक्रवात,2026-01-15T10:56:00+00:00,,0.2935108649530786,1,1,hi,,
