@@ -99,7 +99,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd59a7e48d7',extremes,Drought,#edc291,random,वाष्पीकरण-उत्सर्जन,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,hi,,
 '15a9c61e3e',extremes,Landslide,#572c03,random,चट्टानों का खिसकना,2026-01-15T12:13:00+00:00,,0.3118148090065645,1,1,hi,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,तापमान में गिरावट,2026-02-12T04:36:00+00:00,,0.3113982718525999,1,2,hi,,
-'51b14c1443',extremes,Flood,#030ba1,aidr,बाढ़ जिलॉन्ग विक्टोरिया 2016,2026-02-07T04:20:00+00:00,Australia,0.3112734591513348,0,1,hi,SAU,Oceania
+'51b14c1443',extremes,Flood,#030ba1,aidr,बाढ़ जिलॉन्ग विक्टोरिया 2016,2026-02-07T04:20:00+00:00,Australia,0.3112734591513348,1,1,hi,SAU,Oceania
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,अंटार्कटिक समुद्री बर्फ,2026-01-21T03:55:00+00:00,,0.3108999208214229,1,1,hi,,
 '56dca2743f',extremes,Drought,#edc291,edo,शुष्क अवधि भूमध्यरेखीय गिनी,2026-02-06T04:28:00+00:00,Equatorial Guinea,0.3108065060068075,0,1,hi,WAF,Africa
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,पारा गिरा,2026-01-23T04:02:00+00:00,,0.3105291037025085,0,1,hi,,
@@ -381,15 +381,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd9e53070b4',extremes,Flood,#030ba1,aidr,बाढ़ मैके क्वींसलैंड 2008,2026-01-20T03:57:00+00:00,,0.2664156473131084,1,1,hi,EAU,Oceania
 '3336c980ab',extremes,Earthquake,#870007,usgs,भूकंप सेंट हेलेना,2026-01-21T03:55:00+00:00,Saint Helena,0.2664005189741036,1,1,hi,EAO,Atlantic Ocean
 '06972a2776',extremes,Flood,#030ba1,acwe,आकस्मिक बाढ़ न्यू साउथ वेल्स,2026-01-31T04:17:00+00:00,Australia,0.266100968065277,1,1,hi,EAU,Oceania
-'a0068b2b6b',extremes,Flood,#030ba1,aidr,बाढ़ वर्षा और बाढ़ क्वींसलैंड फरवरी मार्च 2022,2026-02-05T04:28:00+00:00,Australia,0.26584041956086724,1,1,hi,EAU,Oceania
+'a0068b2b6b',extremes,Flood,#030ba1,aidr,बाढ़ वर्षा और बाढ़ क्वींसलैंड फरवरी मार्च 2022,2026-02-05T04:28:00+00:00,Australia,0.2658404195608672,1,1,hi,EAU,Oceania
 '34fd30e809',extremes,Earthquake,#870007,usgs,भूकंप कालमा,2026-02-05T04:27:00+00:00,Chile,0.2657208751858185,1,1,hi,SWS,South-America
 'f7e4598a47',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय चक्रवात इवेत्से,2026-01-21T03:55:00+00:00,,0.2656827750482364,1,1,hi,MDG,Africa
 '3e5f311da7',extremes,Drought,#edc291,edo,साओ टोम और प्रिंसिपे में सूखा,2026-02-05T04:28:00+00:00,Sao Tome and Principe,0.2656170667106616,1,1,hi,WAF,Africa
 '42f9f7020d',extremes,Heat Wave,#c40202,acwe,गर्म मौसम न्यू साउथ वेल्स,2026-02-02T04:37:00+00:00,Australia,0.2655294680960365,1,1,hi,EAU,Oceania
 '521b639732',extremes,Tropical Cyclone,#4f4f4f,aidr,चक्रवात ओसवाल्ड क्वींसलैंड न्यू साउथ वेल्स 2013,2026-02-05T04:28:00+00:00,Australia,0.2654640637136597,1,1,hi,NAU,Oceania
 'aef4c7cec9',extremes,Earthquake,#870007,aidr,भूकंप क्राइस्टचर्च न्यूजीलैंड 2011,2026-01-29T04:19:00+00:00,New Zealand,0.2652394284303015,1,1,hi,NZ,Oceania
-'ba920c05ae',extremes,Earthquake,#870007,usgs,भूकंप रिवर्टन,2026-02-03T04:27:00+00:00,New Zealand,0.26508317406553206,1,1,hi,NZ,Oceania
-'17c827a010',extremes,Earthquake,#870007,usgs,भूकंप जापान,2026-02-05T04:27:00+00:00,Japan,0.26498815045118057,1,1,hi,EAS,Asia
+'ba920c05ae',extremes,Earthquake,#870007,usgs,भूकंप रिवर्टन,2026-02-03T04:27:00+00:00,New Zealand,0.265083174065532,1,1,hi,NZ,Oceania
+'17c827a010',extremes,Earthquake,#870007,usgs,भूकंप जापान,2026-02-05T04:27:00+00:00,Japan,0.2649881504511805,1,1,hi,EAS,Asia
 'aa704a9a6b',extremes,Earthquake,#870007,usgs,भूकंप गिज़ो,2026-02-02T04:36:00+00:00,Solomon Islands,0.264113671985043,1,1,hi,EPO,Pacific Ocean
 'd389bc4f63',extremes,Earthquake,#870007,usgs,भूकंप मेक्सिको,2026-02-05T04:27:00+00:00,Mexico,0.2634375092744141,1,1,hi,SCA,North-America
 '20d3210be7',extremes,Heat Wave,#c40202,wmo,हीट वेव बर्नार्डो डी इरिगोयेन वाई अल्रेडेडोरेस,2026-01-30T04:21:00+00:00,Argentina,0.26206265487081,1,1,hi,SES,South-America
