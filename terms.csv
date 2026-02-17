@@ -108,7 +108,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fcc3f80d6b',extremes,Heat Wave,#c40202,wmo,हीट वेव पैराग्वे,2026-01-24T03:48:00+00:00,Paraguay,0.3093991540358694,0,1,hi,SES,South-America
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,बम चक्रवात,2026-01-15T10:56:00+00:00,,0.3092974987090162,1,1,hi,,
 '7054c01ed8',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में बारिश की कमी,2026-01-15T10:57:00+00:00,United Arab Emirates,0.3081073677967173,1,1,hi,ARP,Asia
-'b40495b93f',extremes,Precipitation,#d60d2b,wmo,वर्षा न्यूज़ीलैंड,2026-02-12T04:37:00+00:00,New Zealand,0.3075762304921123,0,1,hi,NZ,Oceania
+'b40495b93f',extremes,Precipitation,#d60d2b,wmo,वर्षा न्यूज़ीलैंड,2026-02-12T04:37:00+00:00,New Zealand,0.3075762304921123,1,1,hi,NZ,Oceania
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन फ़्रांस,2026-02-05T04:27:00+00:00,France,0.3075750673862922,0,1,hi,WCE,Europe
 'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,सर्दी का मौसम,2026-01-17T03:44:00+00:00,,0.307450742661872,2,2,hi,,
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,न्यूजीलैंड में भारी बारिश,2026-02-10T04:43:00+00:00,New Zealand,0.3073951995183608,0,1,hi,NZ,Oceania
@@ -182,7 +182,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e989c7f7d',extremes,Precipitation,#d60d2b,wmo,मालदीव में वर्षा,2026-02-08T04:43:00+00:00,Maldives,0.305007966539102,0,1,hi,EIO,Indian Ocean
 '3c909564eb',extremes,Thunderstorm,#53785a,wmo,"तूफ़ान रविवार, नदी घाटी एडो",2026-02-05T04:27:00+00:00,South Africa,0.3049877504405255,0,1,hi,WSAF,Africa
 'd716590c30',extremes,Storm,#b3b2b1,wmo,तूफ़ान क्षेत्र पैसिफिको नॉर्टे।,2026-01-30T04:21:00+00:00,Costa Rica,0.3049866565447749,0,1,hi,SCA,North-America
-'9bfe6adaf5',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन चेचन गणराज्य,2026-02-06T04:27:00+00:00,Russia,0.30497164065149734,0,1,hi,ESB,Europe
+'9bfe6adaf5',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन चेचन गणराज्य,2026-02-06T04:27:00+00:00,Russia,0.3049716406514973,0,1,hi,ESB,Europe
 '9d4815fd24',extremes,Storm,#b3b2b1,wmo,तूफ़ान अमेज़ोनिया,2026-02-08T04:43:00+00:00,Ecuador,0.3049588031290691,0,1,hi,NWS,South-America
 'd3631dea16',extremes,Thunderstorm,#53785a,wmo,जय जमैका,2026-02-05T04:27:00+00:00,Jamaica,0.3049450771663745,0,1,hi,CAR,North-America
 '14578d9922',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन लोफ़ोटेन और वेस्टरलेन,2026-02-05T04:27:00+00:00,Norway,0.3049422916787112,0,1,hi,NEU,Europe
@@ -195,11 +195,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '60c561f711',extremes,Thunderstorm,#53785a,wmo,न्यूज़ीलैंड में गंभीर मौसम,2026-02-11T04:41:00+00:00,New Zealand,0.3048582129651401,0,1,hi,NZ,Oceania
 '80d50b76c6',extremes,Storm,#b3b2b1,wmo,सऊदी अरब में तूफ़ान की लहर,2026-02-05T04:27:00+00:00,Saudi Arabia,0.3048496162111667,0,1,hi,ARP,Asia
 'ffcbb36b12',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल लिटोरल,2026-02-16T04:38:00+00:00,Ecuador,0.3048393378939423,0,1,hi,NWS,South-America
-'471cc2e78f',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश लिटोरल वाई सिएरा,2026-02-07T04:19:00+00:00,Ecuador,0.30483293296896924,0,1,hi,NWS,South-America
-'0d8e0e222f',extremes,Storm,#b3b2b1,wmo,रा एटोल से अलिफ़ ढाल एटोल तक तूफ़ान,2026-02-07T04:19:00+00:00,Maldives,0.30481872477991756,0,1,hi,EIO,Indian Ocean
+'471cc2e78f',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश लिटोरल वाई सिएरा,2026-02-07T04:19:00+00:00,Ecuador,0.3048329329689692,0,1,hi,NWS,South-America
+'0d8e0e222f',extremes,Storm,#b3b2b1,wmo,रा एटोल से अलिफ़ ढाल एटोल तक तूफ़ान,2026-02-07T04:19:00+00:00,Maldives,0.3048187247799175,0,1,hi,EIO,Indian Ocean
 'ee113d9ba2',extremes,Heat Wave,#c40202,wmo,हीट वेव इगाज़ु वाई अल्रेडेडोरेस,2026-02-07T04:19:00+00:00,Argentina,0.3048137232868567,0,1,hi,SES,South-America
 '61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,तूफान संयुक्त राज्य अमेरिका,2026-02-10T04:43:00+00:00,United States,0.3048102929383698,0,1,hi,CNA,North-America
-'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,तूफ़ान बहरीन,2026-02-09T04:39:00+00:00,Bahrain,0.30480225063235317,0,1,hi,ARP,Asia
+'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,तूफ़ान बहरीन,2026-02-09T04:39:00+00:00,Bahrain,0.3048022506323531,0,1,hi,ARP,Asia
 '105ee03aff',extremes,Earthquake,#870007,usgs,भूकंप अल साल्वाडोर,2026-01-29T04:18:00+00:00,El Salvador,0.3047762820235085,0,1,hi,SCA,North-America
 '614aacfa91',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम ईरान,2026-01-29T04:19:00+00:00,Iran,0.3047707176442851,0,1,hi,WCA,Asia
 '039582a476',extremes,Storm,#b3b2b1,wmo,स्टॉर्म सर्ज लिटोरल डे ला प्रोविंसिया डे हुआस्को,2026-02-16T04:38:00+00:00,Chile,0.3047449499833663,0,1,hi,SWS,South-America
@@ -219,9 +219,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '69791e5a17',extremes,Flood,#030ba1,random,आकस्मिक बाढ़,2026-01-17T03:44:00+00:00,,0.2782284672948678,1,1,hi,,
 '622bd2c53e',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखापन,2026-01-21T03:56:00+00:00,United Arab Emirates,0.2772001274038934,1,1,hi,ARP,Asia
 '4d9577e33d',extremes,Volcano,#b83202,random,ज्वालामुखी,2026-02-06T04:27:00+00:00,,0.2752933499075616,1,1,hi,,
+'45f861329d',extremes,Landslide,#572c03,aidr,भूस्खलन एडिलेड पहाड़ियाँ दक्षिण ऑस्ट्रेलिया,2026-01-15T10:57:00+00:00,Australia,0.2720064152251044,1,1,hi,SAU,Oceania
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,उष्णकटिबंधीय चक्रवात इटली,2026-01-28T03:57:00+00:00,Italy,0.2720064152251044,1,1,hi,MED,Europe
 '6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,उत्तरी अमेरिकी शीतकालीन तूफान न्यूयॉर्क,2026-01-31T04:17:00+00:00,United States,0.2720064152251044,1,1,hi,ENA,North-America
-'45f861329d',extremes,Landslide,#572c03,aidr,भूस्खलन एडिलेड पहाड़ियाँ दक्षिण ऑस्ट्रेलिया,2026-01-15T10:57:00+00:00,Australia,0.2720064152251044,1,1,hi,SAU,Oceania
 'a241cba1ba',extremes,Volcano,#b83202,eonet,एम्ब्रीम ज्वालामुखी वानुअतु,2026-01-15T10:56:00+00:00,Vanuatu,0.271990453362115,1,1,hi,SPO,Oceania
 '6f7179aa00',extremes,Volcano,#b83202,eonet,ज्वालामुखी फिलीपींस,2026-01-15T10:56:00+00:00,Philippines,0.2719808606448024,1,1,hi,SEA,Asia
 '4594f1a372',extremes,Earthquake,#870007,usgs,भूकंप ईरान,2026-01-15T10:56:00+00:00,Iran,0.2719749894588121,1,1,hi,WCA,Asia
