@@ -99,10 +99,20 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0053afc92f',extremes,Volcano,#b83202,random,लहार,2026-02-05T04:27:00+00:00,,0.3183242775108461,1,1,hi,,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,हिमस्खलन,2026-01-23T04:02:00+00:00,,0.3168017689057704,1,1,hi,,
 '3e4b341619',extremes,Storm,#b3b2b1,random,तूफ़ान,2026-01-20T03:55:00+00:00,,0.3154576260854026,2,2,hi,,
+'fc0fd225f3',extremes,Earthquake,#870007,usgs,भूकंप बर्मा म्यांमार,2026-02-05T04:27:00+00:00,Burma (Myanmar),0.31542122347531004,0,1,hi,SAS,Asia
+'95694d19cf',extremes,Earthquake,#870007,usgs,भूकंप यमन,2026-02-05T04:27:00+00:00,Yemen,0.3146765776723637,0,1,hi,ARS,Indian Ocean
 'f7921ef009',extremes,Earthquake,#870007,usgs,भूकंप vilyuchinsk,2026-02-05T04:27:00+00:00,Russia,0.3142556818983282,0,1,hi,RFE,Asia
 '53e17b7a15',extremes,Earthquake,#870007,usgs,भूकंप होउमा,2026-02-05T04:27:00+00:00,Tonga,0.3142062016441617,0,1,hi,SPO,Pacific Ocean
 '8b4587c763',extremes,Storm,#b3b2b1,random,धूल भरी आँधी,2026-01-24T03:48:00+00:00,,0.3140180103395362,1,1,hi,,
+'997a2e2157',extremes,Earthquake,#870007,usgs,भूकंप अर्जेंटीना,2026-02-05T04:27:00+00:00,Argentina,0.3139374809123158,0,1,hi,SWS,South-America
+'ad41fee440',extremes,Earthquake,#870007,usgs,भूकंप लता,2026-02-05T04:27:00+00:00,Solomon Islands,0.31305761973308155,0,1,hi,SPO,Pacific Ocean
 'd59a7e48d7',extremes,Drought,#edc291,random,वाष्पीकरण-उत्सर्जन,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,hi,,
+'03f33e230d',extremes,Earthquake,#870007,usgs,भूकंप चिली,2026-02-05T04:27:00+00:00,Chile,0.31292300365750814,0,1,hi,SWS,South-America
+'85a135fac3',extremes,Earthquake,#870007,usgs,भूकंप ओज़र्नोव्स्की,2026-02-05T04:27:00+00:00,Russia,0.3127341842794927,0,1,hi,NPO,Pacific Ocean
+'3894a694d1',extremes,Flood,#030ba1,aidr,ऑस्ट्रेलिया में आकस्मिक बाढ़,2026-02-05T04:28:00+00:00,Australia,0.31267627392194786,0,1,hi,NAU,Oceania
+'8710bd49ea',extremes,Earthquake,#870007,usgs,भूकंप सेवरो कुरिलस्क,2026-02-05T04:27:00+00:00,Russia,0.3122152887555452,0,1,hi,NPO,Pacific Ocean
+'51dfc3f3e1',extremes,Earthquake,#870007,usgs,भूकंप कोकोपो,2026-02-05T04:27:00+00:00,Papua New Guinea,0.312081541659678,0,1,hi,EPO,Pacific Ocean
+'7e7895dc7a',extremes,Earthquake,#870007,usgs,भूकंप ताजिकिस्तान,2026-02-05T04:27:00+00:00,Tajikistan,0.3120615341736481,0,1,hi,WCA,Asia
 '15a9c61e3e',extremes,Landslide,#572c03,random,चट्टानों का खिसकना,2026-01-15T12:13:00+00:00,,0.3118148090065645,1,1,hi,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,तापमान में गिरावट,2026-02-12T04:36:00+00:00,,0.3113982718525999,1,2,hi,,
 '51b14c1443',extremes,Flood,#030ba1,aidr,बाढ़ जिलॉन्ग विक्टोरिया 2016,2026-02-07T04:20:00+00:00,Australia,0.3112734591513348,1,1,hi,SAU,Oceania
