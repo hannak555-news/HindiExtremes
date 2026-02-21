@@ -111,16 +111,26 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,सर्दी का मौसम,2026-01-17T03:44:00+00:00,,0.307450742661872,2,2,hi,,
 'cce4634973',extremes,Drought,#edc291,edo,सूखा जादू केन्या,2026-02-05T04:28:00+00:00,Kenya,0.307369242449349,0,1,hi,SEAF,Africa
 'f6ff301646',extremes,Drought,#edc291,edo,सूखा सोमालिया,2026-02-07T04:19:00+00:00,Somalia,0.3069664205434397,0,1,hi,NEAF,Africa
+'054f4c1126',extremes,Fog,#d60d2b,wmo,कोहरा इजराइल घाटी,2026-02-05T04:27:00+00:00,Israel,0.30687673838743446,0,1,hi,MED,Asia
+'8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,जमने वाला आइसलैंड,2026-02-18T04:34:00+00:00,Iceland,0.3068718313985285,0,1,hi,GIC,Europe
+'4efa147b2d',extremes,Precipitation,#d60d2b,wmo,वर्षा माचे या मकोआ वा रुवुमा।,2026-02-18T04:34:00+00:00,Tanzania,0.3068266467072088,0,1,hi,SEAF,Africa
+'854af57bd3',extremes,Fog,#d60d2b,wmo,कनाडा में कोहरा,2026-02-05T04:27:00+00:00,Canada,0.3067429422170217,0,1,hi,NEN,North-America
+'157e8ae8a6',extremes,Precipitation,#d60d2b,wmo,रुवुमा क्षेत्र के मूसलाधार बारिश वाले क्षेत्र।,2026-02-18T04:34:00+00:00,Tanzania,0.30640168075424085,0,1,hi,SEAF,Africa
+'ebb6251556',extremes,Snow&Ice,#d60d2b,wmo,बर्फ दक्षिण आइसलैंड,2026-02-20T04:27:00+00:00,Iceland,0.30549473426930135,0,1,hi,GIC,Europe
 '264992dbdd',extremes,Snow&Ice,#d60d2b,wmo,ठंढ सर्बिया,2026-02-08T04:43:00+00:00,Serbia,0.3053450543678733,0,1,hi,MED,Europe
 '416d23061d',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन जोतुनहेमेन,2026-02-05T04:27:00+00:00,Norway,0.3053351071160157,0,1,hi,NEU,Europe
 '5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन रूस,2026-02-05T04:27:00+00:00,Russia,0.3053321323129854,0,1,hi,ESB,Europe
+'a28c87399b',extremes,Heat Wave,#c40202,wmo,हीट वेव रेग. 4 प्रीकोर्डिलेरा,2026-02-18T04:34:00+00:00,Chile,0.3053299971559237,0,1,hi,SWS,South-America
+'9adb4dd6c5',extremes,Precipitation,#d60d2b,wmo,"मूसलाधार बारिश, माचे या मकोआ वा रुवुमा।",2026-02-17T04:31:00+00:00,Tanzania,0.3052936404746463,0,1,hi,SEAF,Africa
 '12775cc05a',extremes,Drought,#edc291,wmo,ब्राज़ील में सूखा,2026-02-05T04:27:00+00:00,Brazil,0.3052869086208064,0,1,hi,SAM,South-America
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,ब्राज़ील में मूसलाधार बारिश,2026-02-07T04:19:00+00:00,Brazil,0.3052644247460467,0,1,hi,SAM,South-America
 '3c2108148e',extremes,Earthquake,#870007,usgs,भूकंप बुतपरस्त क्षेत्र उत्तरी मारियाना द्वीप,2026-02-05T04:27:00+00:00,,0.3052540098088987,0,1,hi,NPO,Pacific Ocean
 '5cb766f03d',extremes,Storm,#b3b2b1,wmo,तूफ़ान वृद्धि क्षेत्र 2 - मध्यम,2026-02-01T04:41:00+00:00,Paraguay,0.305248351647356,0,1,hi,SES,South-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,तूफ़ान इक्वाडोर,2026-01-26T04:09:00+00:00,Ecuador,0.3052438615503191,0,1,hi,NWS,South-America
+'1fefacbadb',extremes,Iceberg,#d60d2b,random,ग्लेशियर का शांत होना,2026-02-07T04:19:00+00:00,,0.3052406517136603,0,1,hi,,
 'd04f754034',extremes,Thunderstorm,#53785a,wmo,दक्षिण अफ़्रीका में तूफ़ान,2026-02-07T04:19:00+00:00,South Africa,0.3052265357945408,0,1,hi,WSAF,Africa
 'aba9de13df',extremes,Wildfire,#d60d2b,wmo,दक्षिण अफ्रीका में जंगल की आग,2026-02-05T04:27:00+00:00,South Africa,0.3052139719129037,0,1,hi,WSAF,Africa
+'a715281618',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल वानुअतु,2026-02-17T04:31:00+00:00,Vanuatu,0.30520977081704564,0,1,hi,SPO,Oceania
 '8f29727ea9',extremes,Drought,#edc291,edo,सूखा भूमध्यरेखीय गिनी,2026-02-08T04:43:00+00:00,Equatorial Guinea,0.3051878065789239,0,1,hi,WAF,Africa
 'e91f56dabe',extremes,Wildfire,#d60d2b,wmo,जंगल की आग रोगालैंड,2026-01-26T04:09:00+00:00,Norway,0.30517035543783,0,1,hi,NEU,Europe
 '07f5003376',extremes,Storm,#b3b2b1,wmo,तूफ़ान इक्वाडोर महाद्वीपीय,2026-02-13T04:34:00+00:00,Ecuador,0.3051655974303641,0,1,hi,NWS,South-America
@@ -175,8 +185,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '69791e5a17',extremes,Flood,#030ba1,random,आकस्मिक बाढ़,2026-01-17T03:44:00+00:00,,0.2782284672948678,1,1,hi,,
 '622bd2c53e',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखापन,2026-01-21T03:56:00+00:00,United Arab Emirates,0.2772001274038934,1,1,hi,ARP,Asia
 '4d9577e33d',extremes,Volcano,#b83202,random,ज्वालामुखी,2026-02-06T04:27:00+00:00,,0.2752933499075616,1,1,hi,,
-'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,उत्तरी अमेरिकी शीतकालीन तूफान न्यूयॉर्क,2026-01-31T04:17:00+00:00,United States,0.2720064152251044,1,1,hi,ENA,North-America
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,उष्णकटिबंधीय चक्रवात इटली,2026-01-28T03:57:00+00:00,Italy,0.2720064152251044,1,1,hi,MED,Europe
+'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,उत्तरी अमेरिकी शीतकालीन तूफान न्यूयॉर्क,2026-01-31T04:17:00+00:00,United States,0.2720064152251044,1,1,hi,ENA,North-America
 'c660d659ce',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय चक्रवात फाइटिया,2026-01-31T04:16:00+00:00,,0.2709466533893596,1,1,hi,ESAF,Africa
 'c1c906585f',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय चक्रवात 18पी,2026-01-29T04:18:00+00:00,,0.2705833282606931,1,1,hi,SPO,Pacific Ocean
 'f314bb7747',extremes,Flood,#030ba1,aidr,आस्ट्रेलिया में बाढ़,2026-02-05T04:28:00+00:00,Australia,0.2686524423700649,1,1,hi,CAU,Oceania
