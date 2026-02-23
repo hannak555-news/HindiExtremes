@@ -143,14 +143,24 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '60c561f711',extremes,Thunderstorm,#53785a,wmo,न्यूज़ीलैंड में गंभीर मौसम,2026-02-11T04:41:00+00:00,New Zealand,0.3048582129651401,0,1,hi,NZ,Oceania
 '80d50b76c6',extremes,Storm,#b3b2b1,wmo,सऊदी अरब में तूफ़ान की लहर,2026-02-05T04:27:00+00:00,Saudi Arabia,0.3048496162111667,0,1,hi,ARP,Asia
 'ffcbb36b12',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल लिटोरल,2026-02-16T04:38:00+00:00,Ecuador,0.3048393378939423,0,1,hi,NWS,South-America
+'885597e0f4',extremes,Wildfire,#d60d2b,wmo,ऑस्ट्रेलिया के जंगल की आग,2026-02-05T04:27:00+00:00,Australia,0.30483538198186655,0,1,hi,CAU,Oceania
 '471cc2e78f',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश लिटोरल वाई सिएरा,2026-02-07T04:19:00+00:00,Ecuador,0.3048329329689692,0,1,hi,NWS,South-America
+'468d60ef3d',extremes,Snow&Ice,#d60d2b,wmo,जमने वाली टैलोयोक गोआ हेवन,2026-02-21T04:18:00+00:00,Canada,0.30482143567633835,0,1,hi,NEN,North-America
 '0d8e0e222f',extremes,Storm,#b3b2b1,wmo,रा एटोल से अलिफ़ ढाल एटोल तक तूफ़ान,2026-02-07T04:19:00+00:00,Maldives,0.3048187247799175,0,1,hi,EIO,Indian Ocean
 'ee113d9ba2',extremes,Heat Wave,#c40202,wmo,हीट वेव इगाज़ु वाई अल्रेडेडोरेस,2026-02-07T04:19:00+00:00,Argentina,0.3048137232868567,0,1,hi,SES,South-America
 '61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,तूफान संयुक्त राज्य अमेरिका,2026-02-10T04:43:00+00:00,United States,0.3048102929383698,0,1,hi,CNA,North-America
 'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,तूफ़ान बहरीन,2026-02-09T04:39:00+00:00,Bahrain,0.3048022506323531,0,1,hi,ARP,Asia
+'f2c0c2874a',extremes,Snow&Ice,#d60d2b,wmo,जमने वाला पॉलटुक,2026-02-22T04:30:00+00:00,Canada,0.30479550526338506,0,1,hi,NEN,North-America
 '105ee03aff',extremes,Earthquake,#870007,usgs,भूकंप अल साल्वाडोर,2026-01-29T04:18:00+00:00,El Salvador,0.3047762820235085,0,1,hi,SCA,North-America
 '614aacfa91',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम ईरान,2026-01-29T04:19:00+00:00,Iran,0.3047707176442851,0,1,hi,WCA,Asia
+'b46d43381d',extremes,Snow&Ice,#d60d2b,wmo,स्नो ग्रैंड फॉल्स विंडसर और आसपास,2026-02-21T04:18:00+00:00,Canada,0.3047605695454427,0,1,hi,NEN,North-America
 '039582a476',extremes,Storm,#b3b2b1,wmo,स्टॉर्म सर्ज लिटोरल डे ला प्रोविंसिया डे हुआस्को,2026-02-16T04:38:00+00:00,Chile,0.3047449499833663,0,1,hi,SWS,South-America
+'730507950b',extremes,Fog,#d60d2b,wmo,कोहरा कलमीकिया गणराज्य,2026-02-13T04:34:00+00:00,Russia,0.3047392407160806,0,1,hi,ESB,Europe
+'0f4e772c66',extremes,Storm,#b3b2b1,wmo,तूफ़ान उत्तरी आधा भाग,2026-02-19T04:32:00+00:00,Ghana,0.30473838374423146,0,1,hi,WAF,Africa
+'d7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,ठंडा ब्राजील,2026-02-08T04:43:00+00:00,Brazil,0.30470655438636196,0,1,hi,SAM,South-America
+'3bacdb81c7',extremes,Flood,#030ba1,wmo,कनाडा में अचानक आई बाढ़,2026-02-03T04:27:00+00:00,Canada,0.3047030943124038,0,1,hi,NEN,North-America
+'2015d8e837',extremes,Precipitation,#d60d2b,wmo,वर्षा कतर,2026-02-08T04:43:00+00:00,Qatar,0.30469758419874243,0,1,hi,ARP,Asia
+'f8714a698d',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश इक्वेडोर,2026-02-16T04:38:00+00:00,Ecuador,0.3046959753215231,0,1,hi,NWS,South-America
 '15a9c61e3e',extremes,Landslide,#572c03,random,चट्टानों का खिसकना,2026-02-12T04:36:00+00:00,,0.3036288732555353,1,1,hi,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,बम चक्रवात,2026-02-09T04:38:00+00:00,,0.3030730175758979,1,1,hi,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,हिमशैल का शांत होना,2026-02-09T04:38:00+00:00,,0.3011173067389521,1,1,hi,,
@@ -159,7 +169,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f9a3abc8c2',extremes,Landslide,#572c03,random,कीचड़ का बहाव,2026-02-06T04:27:00+00:00,,0.2954553412981449,2,1,hi,,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,बर्फ कीचड़,2026-02-10T04:42:00+00:00,,0.2920290505453786,1,1,hi,,
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,उष्णकटिबंधीय तूफान,2026-02-16T04:37:00+00:00,,0.2916245802954439,1,1,hi,,
-'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,शीतलहर,2026-01-27T03:58:00+00:00,,0.28873409268929867,4,2,hi,,
+'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,शीतलहर,2026-01-27T03:58:00+00:00,,0.2887340926892986,4,2,hi,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,रात की ठंढ,2026-02-17T04:30:00+00:00,,0.2868793606071867,1,1,hi,,
 'bd21048a6a',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-02-10T04:43:00+00:00,United Arab Emirates,0.284219418049833,1,1,hi,ARP,Asia
 '283b154c38',extremes,Wet Spell,#d60d2b,random,गीला जादू,2026-02-05T04:27:00+00:00,,0.2840431812683601,2,1,hi,,
