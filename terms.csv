@@ -19,6 +19,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd6786cc958',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन लेह लद्दाख जिला,2026-01-27T03:58:00+00:00,India,0.4846163207519086,2,1,hi,SAS,Asia
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,तूफ़ान भारत,2026-01-27T03:58:00+00:00,India,0.4697140563275742,2,1,hi,SAS,Asia
 '62084daeb0',extremes,Earthquake,#870007,random,भूकंप,2026-01-15T10:39:00+00:00,,0.4655401254261786,1,2,hi,,
+'3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,भारी वर्षा,2026-02-11T04:41:00+00:00,,0.464443937245002,1,2,hi,,
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,भारत में गंभीर मौसम,2026-01-27T03:58:00+00:00,India,0.4554218341372144,2,1,hi,SAS,Asia
 '2d4d2b3089',extremes,Snow&Ice,#d60d2b,wmo,उत्तराखंड के 11 जिलों में बर्फ,2026-01-22T03:59:00+00:00,India,0.4542009235821737,2,1,hi,SAS,Asia
 'f37139fe2d',extremes,Landslide,#572c03,random,भूस्खलन,2026-02-12T04:36:00+00:00,,0.4529752574506147,2,2,hi,,
@@ -43,7 +44,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '62ede3d2ca',extremes,Thunderstorm,#53785a,wmo,पंजाब के 11 जिलों में आंधी,2026-01-22T03:59:00+00:00,India,0.3791441769808999,2,1,hi,SAS,Asia
 '84febdd06c',extremes,Thunderstorm,#53785a,random,तूफ़ान,2026-02-23T04:36:00+00:00,,0.3785435815122018,1,1,hi,,
 'e25c6dc644',extremes,Earthquake,#870007,usgs,भूकंप ग्यालशिंग,2026-02-08T04:43:00+00:00,India,0.3756896128887084,2,1,hi,TIB,Asia
-'3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,भारी वर्षा,2026-02-11T04:41:00+00:00,,0.369404579111767,0,1,hi,,
 '40f675561f',extremes,Heat Wave,#c40202,random,सबसे तेज़ गर्मी,2026-02-13T04:33:00+00:00,,0.3651562625952464,2,2,hi,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,पारा गिरा,2026-02-13T04:33:00+00:00,,0.3527332107699903,0,1,hi,,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,गंभीर मौसम,2026-01-20T03:55:00+00:00,,0.350796034572185,1,2,hi,,
