@@ -54,7 +54,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ff7862e348',extremes,Drought,#edc291,edo,सूखापन भारत,2026-01-26T04:09:00+00:00,India,0.3431070320863734,1,1,hi,SAS,Asia
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,हिमशैल आर्कटिक,2026-01-21T03:55:00+00:00,,0.3378656724753853,1,1,hi,,
 '8a2620177f',extremes,Earthquake,#870007,usgs,भूकंप तसरार शरीफ़,2026-02-04T04:21:00+00:00,India,0.3353681487401526,2,1,hi,WCA,Asia
-'c0ea0632ba',extremes,Heat Wave,#c40202,random,गर्मी,2026-02-13T04:33:00+00:00,,0.33479865867533515,1,2,hi,,
+'c0ea0632ba',extremes,Heat Wave,#c40202,random,गर्मी,2026-02-13T04:33:00+00:00,,0.3347986586753351,1,2,hi,,
 '776fe47817',extremes,Wildfire,#d60d2b,random,जंगल की आग,2026-02-18T04:33:00+00:00,,0.3333546298315642,1,1,hi,,
 '1405131905',extremes,Thunderstorm,#53785a,random,ओले,2026-01-22T03:59:00+00:00,,0.3318299463560875,2,1,hi,,
 '20716f3471',extremes,Earthquake,#870007,usgs,भूकंप सोयाबग,2026-02-20T04:27:00+00:00,India,0.3316744242873475,1,1,hi,WCA,Asia
@@ -80,7 +80,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8b4587c763',extremes,Storm,#b3b2b1,random,धूल भरी आँधी,2026-01-24T03:48:00+00:00,,0.3140180103395362,1,1,hi,,
 '2eb7e98146',extremes,Snow Avalanche,#deddd5,wmo,उत्तराखंड के चमोली जिले में हिमस्खलन,2026-01-25T04:06:00+00:00,India,0.3130514709866533,3,1,hi,SAS,Asia
 'd59a7e48d7',extremes,Drought,#edc291,random,वाष्पीकरण-उत्सर्जन,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,hi,,
-'82d648b882',extremes,Drought,#edc291,random,सूखा,2026-02-08T04:43:00+00:00,,0.3119864204821927,0,1,hi,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,तापमान में गिरावट,2026-02-12T04:36:00+00:00,,0.3113982718525999,1,2,hi,,
 '51b14c1443',extremes,Flood,#030ba1,aidr,बाढ़ जिलॉन्ग विक्टोरिया 2016,2026-02-07T04:20:00+00:00,Australia,0.3112734591513348,1,1,hi,SAU,Oceania
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,अंटार्कटिक समुद्री बर्फ,2026-01-21T03:55:00+00:00,,0.3108999208214229,1,1,hi,,
@@ -122,7 +121,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '14578d9922',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन लोफ़ोटेन और वेस्टरलेन,2026-02-05T04:27:00+00:00,Norway,0.3049422916787112,0,1,hi,NEU,Europe
 'c46f2a69e5',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन नॉर्ड ट्रोम्स,2026-02-05T04:27:00+00:00,Norway,0.3049357115758203,0,1,hi,NEU,Europe
 'dbb4a974dd',extremes,Storm,#b3b2b1,wmo,तूफान बोस्निया और हर्जेगोविना,2026-02-03T04:27:00+00:00,Bosnia and Herzegovina,0.3049279626186458,0,1,hi,MED,Europe
-'d61de81685',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल चिली,2026-02-10T04:43:00+00:00,Chile,0.3049188359128184,0,1,hi,SWS,South-America
 '852eb2b733',extremes,Snow&Ice,#d60d2b,wmo,जमने वाला एवलॉन प्रायद्वीप दक्षिणपूर्व,2026-02-21T04:18:00+00:00,Canada,0.3049120631537407,0,1,hi,NEN,North-America
 '23c3deb0ec',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश तंजानिया,2026-02-07T04:19:00+00:00,Tanzania,0.3048743558173462,0,1,hi,SEAF,Africa
 '68c5837832',extremes,Fog,#d60d2b,wmo,कोहरा मरमंस्क क्षेत्र,2026-02-18T04:34:00+00:00,Russia,0.304871198239852,0,1,hi,ESB,Europe
@@ -222,6 +220,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '685995fcc4',extremes,Earthquake,#870007,usgs,मैक्वेरी द्वीप के पश्चिम में भूकंप,2026-02-05T04:27:00+00:00,,0.266685689947894,1,1,hi,SOO,Antarctica
 '4e0167deb4',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय चक्रवात 20s,2026-02-07T04:19:00+00:00,,0.2666602826443421,1,1,hi,NAU,Oceania
 '3336c980ab',extremes,Earthquake,#870007,usgs,भूकंप सेंट हेलेना,2026-01-21T03:55:00+00:00,Saint Helena,0.2664005189741036,1,1,hi,EAO,Atlantic Ocean
+'82d648b882',extremes,Drought,#edc291,random,सूखा,2026-02-08T04:43:00+00:00,,0.2663885774098638,1,1,hi,,
 'ccefefc59e',extremes,Drought,#edc291,random,आकस्मिक सूखा,2026-02-16T04:37:00+00:00,,0.2662158666734182,1,1,hi,,
 '06972a2776',extremes,Flood,#030ba1,acwe,आकस्मिक बाढ़ न्यू साउथ वेल्स,2026-01-31T04:17:00+00:00,Australia,0.266100968065277,1,1,hi,EAU,Oceania
 'ad41fee440',extremes,Earthquake,#870007,usgs,भूकंप लता,2026-02-05T04:27:00+00:00,Solomon Islands,0.2660989767731193,1,1,hi,SPO,Pacific Ocean
@@ -375,6 +374,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3aa88c5699',extremes,Thunderstorm,#53785a,wmo,जय हो ईरान,2026-02-04T04:21:00+00:00,Iran,0.2593562727941116,1,1,hi,WCA,Asia
 'fa84ab2ea0',extremes,Thunderstorm,#53785a,wmo,दक्षिण अफ़्रीका में गंभीर मौसम,2026-02-07T04:19:00+00:00,South Africa,0.2592679868485627,1,1,hi,WSAF,Africa
 'd3631dea16',extremes,Thunderstorm,#53785a,wmo,जय जमैका,2026-02-05T04:27:00+00:00,Jamaica,0.2592033155914183,1,1,hi,CAR,North-America
+'d61de81685',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल चिली,2026-02-10T04:43:00+00:00,Chile,0.2591810105258956,1,1,hi,SWS,South-America
 '80d50b76c6',extremes,Storm,#b3b2b1,wmo,सऊदी अरब में तूफ़ान की लहर,2026-02-05T04:27:00+00:00,Saudi Arabia,0.2591221737794916,1,1,hi,ARP,Asia
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,ठंडा ब्राजील,2026-02-08T04:43:00+00:00,Brazil,0.2590005712284076,1,1,hi,SAM,South-America
 '053bb10e09',extremes,Heat Wave,#c40202,random,भारतीय गर्मी,2026-01-23T04:02:00+00:00,,0.2293298303168539,3,2,hi,,
