@@ -152,6 +152,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '55688ac94f',extremes,Tropical Cyclone,#4f4f4f,wmo,उष्णकटिबंधीय चक्रवात फिलीपींस,2026-02-06T04:27:00+00:00,Philippines,0.3046836041468381,0,1,hi,SEA,Asia
 '895007d2de',extremes,Snow Avalanche,#deddd5,wmo,नॉर्वे में हिमस्खलन,2026-02-05T04:27:00+00:00,Norway,0.3046832500775369,0,1,hi,NEU,Europe
 '10cef2007d',extremes,Storm,#b3b2b1,wmo,तूफ़ान का उभार क्षेत्र 2 - गंभीर,2026-02-21T04:18:00+00:00,Paraguay,0.3046798246492691,0,1,hi,SES,South-America
+'349b9f9026',extremes,Heat Wave,#c40202,wmo,हीट वेव क्षेत्र 3 - लघु,2026-02-17T04:31:00+00:00,Paraguay,0.30467313839526344,0,1,hi,SES,South-America
+'7064a46f70',extremes,Precipitation,#d60d2b,wmo,वर्षा सिएरा और अमेज़ॅनिया,2026-02-07T04:19:00+00:00,Ecuador,0.3046605700353793,0,1,hi,NWS,South-America
+'18ec1601d2',extremes,Storm,#b3b2b1,wmo,तूफ़ान चैथम द्वीप,2026-02-16T04:38:00+00:00,New Zealand,0.3046554907517611,0,1,hi,NZ,Oceania
+'530909dfe4',extremes,Heat Wave,#c40202,wmo,हीट वेव रूस,2026-02-08T04:43:00+00:00,Russia,0.30464561747070323,0,1,hi,ESB,Europe
+'649be03eb1',extremes,Storm,#b3b2b1,wmo,तूफ़ान का उछाल क्षेत्र 1 - मध्यम,2026-02-20T04:27:00+00:00,Paraguay,0.3046417860480479,0,1,hi,SES,South-America
+'75828940c9',extremes,Storm,#b3b2b1,wmo,तूफान उछाल इक्वाडोर महाद्वीपीय,2026-02-12T04:37:00+00:00,Ecuador,0.3046383009471136,0,1,hi,NWS,South-America
+'2e0a87f8c0',extremes,Thunderstorm,#53785a,wmo,वानुअतु के दक्षिणी द्वीपों पर ओलावृष्टि,2026-02-16T04:38:00+00:00,Vanuatu,0.3046345200737386,0,1,hi,SPO,Oceania
+'560d242cd5',extremes,Storm,#b3b2b1,wmo,तूफ़ान कनाडा,2026-02-08T04:43:00+00:00,Canada,0.30462654554983803,0,1,hi,NEN,North-America
+'a41044fcd0',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन वॉस,2026-02-05T04:27:00+00:00,Norway,0.3046215075785847,0,1,hi,NEU,Europe
+'1512f21012',extremes,Precipitation,#d60d2b,wmo,वर्षण शाब्दिक,2026-02-16T04:38:00+00:00,Ecuador,0.3046052908001678,0,1,hi,NWS,South-America
 '15a9c61e3e',extremes,Landslide,#572c03,random,चट्टानों का खिसकना,2026-02-12T04:36:00+00:00,,0.3036288732555353,1,1,hi,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,बम चक्रवात,2026-02-09T04:38:00+00:00,,0.3030730175758979,1,1,hi,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,हिमशैल का शांत होना,2026-02-09T04:38:00+00:00,,0.3011173067389521,1,1,hi,,
