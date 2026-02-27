@@ -55,22 +55,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e4b341619',extremes,Storm,#b3b2b1,random,तूफ़ान,2026-01-20T03:55:00+00:00,,0.3154576260854026,2,2,hi,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,तापमान में गिरावट,2026-02-12T04:36:00+00:00,,0.3113982718525999,1,2,hi,,
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,ओले,2026-02-21T04:17:00+00:00,,0.3072568432409079,1,1,hi,,
-'f4c5564b25',extremes,Snow&Ice,#d60d2b,wmo,बर्फ उत्तरी प्रायद्वीप पूर्व,2026-02-12T04:37:00+00:00,Canada,0.3044742581541223,0,1,hi,NEN,North-America
-'432bab655c',extremes,Wildfire,#d60d2b,eonet,संयुक्त राज्य अमेरिका में जंगल की आग,2026-02-06T04:27:00+00:00,United States,0.3044604597739018,0,1,hi,ENA,North-America
-'286dc3a4c3',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन इसेरे सावोई हाउते सावोई,2026-02-17T04:31:00+00:00,France,0.3044599296524248,0,1,hi,WCE,Europe
-'eeacc80474',extremes,Storm,#b3b2b1,wmo,तूफ़ान वानुअतु,2026-02-18T04:34:00+00:00,Vanuatu,0.3044508270846068,0,1,hi,SPO,Oceania
-'2d209aedfc',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल सिएरा,2026-02-16T04:38:00+00:00,Ecuador,0.304444480596876,0,1,hi,NWS,South-America
-'52e589d51e',extremes,Precipitation,#d60d2b,wmo,न्यूजीलैंड में वर्षा,2026-02-12T04:37:00+00:00,New Zealand,0.3044428615232266,0,1,hi,NZ,Oceania
-'97185764af',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन इंद्रे फजॉर्डेन,2026-02-08T04:43:00+00:00,Norway,0.3044410909240779,0,1,hi,NEU,Europe
-'4196612fd2',extremes,Wildfire,#d60d2b,wmo,जंगल की आग निंगलांग यी स्वायत्त काउंटी,2026-02-06T04:27:00+00:00,China,0.3044243148757857,0,1,hi,EAS,Asia
-'b5dab6daa1',extremes,Tropical Cyclone,#4f4f4f,wmo,टाइफून अदक से किस्का प्रशांत क्षेत्र तक,2026-02-10T04:43:00+00:00,United States,0.3044046182083085,0,1,hi,CNA,North-America
-'5bb4b700e7',extremes,Drought,#edc291,edo,सूखापन इथियोपिया,2026-02-11T04:42:00+00:00,Ethiopia,0.3044018734756013,0,1,hi,NEAF,Africa
-'ad35c87422',extremes,Wildfire,#d60d2b,wmo,जंगल की आग jingdong यी स्वायत्त काउंटी,2026-02-06T04:27:00+00:00,China,0.3043991089666931,0,1,hi,EAS,Asia
-'2d0fb12d74',extremes,Storm,#b3b2b1,wmo,तूफ़ान ने डीजेल को उड़ा दिया,2026-02-12T04:37:00+00:00,Algeria,0.3043701139569063,0,1,hi,SAH,Africa
-'5c657726ab',extremes,Drought,#edc291,edo,सूखा लातविया,2026-02-11T04:42:00+00:00,Latvia,0.3043538232281095,0,1,hi,WCE,Europe
-'b9e5a5873a',extremes,Flood,#030ba1,wmo,कनाडा में बाढ़,2026-02-23T04:37:00+00:00,Canada,0.3043495431244978,0,1,hi,NEN,North-America
-'abd942a5b1',extremes,Storm,#b3b2b1,wmo,तूफ़ान लिटोरल डे ला प्रोविंसिया डे हुआस्को,2026-02-14T04:21:00+00:00,Chile,0.3043357317507055,0,1,hi,SWS,South-America
-'6b6e3b7c81',extremes,Wildfire,#d60d2b,wmo,जंगल की आग जुआनवेई शहर,2026-02-16T04:38:00+00:00,China,0.3043325188560065,0,1,hi,EAS,Asia
 'fadc367829',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि ओरान,2026-02-09T04:39:00+00:00,Algeria,0.3043291797546095,0,1,hi,SAH,Africa
 '83354d3f6e',extremes,Wildfire,#d60d2b,wmo,जंगल की आग शिज़ोंग काउंटी,2026-02-19T04:32:00+00:00,China,0.3043246491035716,0,1,hi,EAS,Asia
 '240affaefb',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश इक्वेडोर महाद्वीपीय,2026-02-15T04:35:00+00:00,Ecuador,0.3042976129699625,0,1,hi,NWS,South-America
@@ -109,8 +93,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,आर्कटिक समुद्री बर्फ,2026-02-07T04:19:00+00:00,,0.2743504169833733,2,1,hi,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,रिकार्ड वर्षा,2026-01-27T03:58:00+00:00,,0.2737721157248618,2,1,hi,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,राष्ट्रीय तूफान केंद्र,2026-02-08T04:43:00+00:00,,0.2734693278127575,2,1,hi,,
-'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,उत्तरी अमेरिकी शीतकालीन तूफान न्यूयॉर्क,2026-01-31T04:17:00+00:00,United States,0.2720064152251044,1,1,hi,ENA,North-America
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,उष्णकटिबंधीय चक्रवात इटली,2026-01-28T03:57:00+00:00,Italy,0.2720064152251044,1,1,hi,MED,Europe
+'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,उत्तरी अमेरिकी शीतकालीन तूफान न्यूयॉर्क,2026-01-31T04:17:00+00:00,United States,0.2720064152251044,1,1,hi,ENA,North-America
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडा दिन,2026-02-17T04:30:00+00:00,,0.2718688785625385,1,1,hi,,
 'c660d659ce',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय चक्रवात फाइटिया,2026-01-31T04:16:00+00:00,,0.2709466533893596,1,1,hi,ESAF,Africa
 'eced4efa71',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय चक्रवात होरासियो,2026-02-21T04:17:00+00:00,,0.2708114983547025,1,1,hi,SIO,Indian Ocean
@@ -392,21 +376,37 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,तूफ़ान कनाडा,2026-02-08T04:43:00+00:00,Canada,0.2589325637173623,1,1,hi,NEN,North-America
 'a41044fcd0',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन वॉस,2026-02-05T04:27:00+00:00,Norway,0.2589282814417969,1,1,hi,NEU,Europe
 '1512f21012',extremes,Precipitation,#d60d2b,wmo,वर्षण शाब्दिक,2026-02-16T04:38:00+00:00,Ecuador,0.2589144971801426,1,1,hi,NWS,South-America
-'bd2a31b00c',extremes,Snow&Ice,#d60d2b,wmo,बर्फ अचार झील बिल्ली झील,2026-02-21T04:18:00+00:00,Canada,0.25891422442521445,1,1,hi,NEN,North-America
+'bd2a31b00c',extremes,Snow&Ice,#d60d2b,wmo,बर्फ अचार झील बिल्ली झील,2026-02-21T04:18:00+00:00,Canada,0.2589142244252144,1,1,hi,NEN,North-America
 'be7b309c2b',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन स्वार्टिसन,2026-02-05T04:27:00+00:00,Norway,0.2589099643976814,1,1,hi,NEU,Europe
 '3d204af14f',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन लिंगेन,2026-02-05T04:27:00+00:00,Norway,0.2589077659410487,1,1,hi,NEU,Europe
-'6902568f9a',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश,2026-02-16T04:38:00+00:00,Ecuador,0.25890142983605335,1,1,hi,NWS,South-America
-'d7de784867',extremes,Flood,#030ba1,wmo,फिलीपींस में बाढ़,2026-02-05T04:27:00+00:00,Philippines,0.25888207941720176,1,1,hi,SEA,Asia
-'93134788d8',extremes,Tropical Cyclone,#4f4f4f,aidr,टाइफून ऑस्ट्रेलिया,2026-02-05T04:28:00+00:00,Australia,0.25887381466900555,1,1,hi,CAU,Oceania
+'6902568f9a',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश,2026-02-16T04:38:00+00:00,Ecuador,0.2589014298360533,1,1,hi,NWS,South-America
+'d7de784867',extremes,Flood,#030ba1,wmo,फिलीपींस में बाढ़,2026-02-05T04:27:00+00:00,Philippines,0.2588820794172017,1,1,hi,SEA,Asia
+'93134788d8',extremes,Tropical Cyclone,#4f4f4f,aidr,टाइफून ऑस्ट्रेलिया,2026-02-05T04:28:00+00:00,Australia,0.2588738146690055,1,1,hi,CAU,Oceania
 '3d6bde5b08',extremes,Storm,#b3b2b1,wmo,तूफ़ान की लहर सेशेल्स,2026-02-19T04:32:00+00:00,Seychelles,0.2588601529698158,1,1,hi,EIO,Africa
 'd865632948',extremes,Tropical Cyclone,#4f4f4f,aidr,उष्णकटिबंधीय चक्रवात ऑस्ट्रेलिया,2026-02-06T04:28:00+00:00,Australia,0.258858353335468,1,1,hi,EAU,Oceania
 '9c373151bb',extremes,Storm,#b3b2b1,wmo,तूफ़ान क्षेत्र 1 - भीषण,2026-02-14T04:21:00+00:00,Paraguay,0.2588558422562552,1,1,hi,SES,South-America
-'d21e7e3d87',extremes,Fog,#d60d2b,wmo,कोहरा बहरीन,2026-02-09T04:39:00+00:00,Bahrain,0.25883452373447463,1,1,hi,ARP,Asia
-'388a6dbadc',extremes,Storm,#b3b2b1,wmo,तूफान अल्जीरिया,2026-02-11T04:41:00+00:00,Algeria,0.25883131598223397,1,1,hi,SAH,Africa
+'d21e7e3d87',extremes,Fog,#d60d2b,wmo,कोहरा बहरीन,2026-02-09T04:39:00+00:00,Bahrain,0.2588345237344746,1,1,hi,ARP,Asia
+'388a6dbadc',extremes,Storm,#b3b2b1,wmo,तूफान अल्जीरिया,2026-02-11T04:41:00+00:00,Algeria,0.2588313159822339,1,1,hi,SAH,Africa
 '298c01d6b6',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन बनियान टेलीमार्क,2026-02-08T04:43:00+00:00,Norway,0.2588276730944365,1,1,hi,NEU,Europe
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल कनाडा,2026-02-12T04:37:00+00:00,Canada,0.2588213956144316,1,1,hi,NEN,North-America
-'f0f6b033ff',extremes,Precipitation,#d60d2b,wmo,वर्षा तंजानिया,2026-02-23T04:37:00+00:00,Tanzania,0.25881679413635383,1,1,hi,SEAF,Africa
+'f0f6b033ff',extremes,Precipitation,#d60d2b,wmo,वर्षा तंजानिया,2026-02-23T04:37:00+00:00,Tanzania,0.2588167941363538,1,1,hi,SEAF,Africa
 '6c5632b883',extremes,Snow Avalanche,#deddd5,wmo,इंगुशेतिया गणराज्य का हिमस्खलन,2026-02-06T04:27:00+00:00,Russia,0.2588123368553084,1,1,hi,ESB,Europe
-'ed6c88156a',extremes,Snow&Ice,#d60d2b,wmo,बर्फ दक्षिणपूर्व आइसलैंड,2026-02-23T04:37:00+00:00,Iceland,0.25880558831908196,1,1,hi,GIC,Europe
+'ed6c88156a',extremes,Snow&Ice,#d60d2b,wmo,बर्फ दक्षिणपूर्व आइसलैंड,2026-02-23T04:37:00+00:00,Iceland,0.2588055883190819,1,1,hi,GIC,Europe
+'f4c5564b25',extremes,Snow&Ice,#d60d2b,wmo,बर्फ उत्तरी प्रायद्वीप पूर्व,2026-02-12T04:37:00+00:00,Canada,0.258803119431004,1,1,hi,NEN,North-America
+'432bab655c',extremes,Wildfire,#d60d2b,eonet,संयुक्त राज्य अमेरिका में जंगल की आग,2026-02-06T04:27:00+00:00,United States,0.2587913908078165,1,1,hi,ENA,North-America
+'286dc3a4c3',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन इसेरे सावोई हाउते सावोई,2026-02-17T04:31:00+00:00,France,0.25879094020456106,1,1,hi,WCE,Europe
+'eeacc80474',extremes,Storm,#b3b2b1,wmo,तूफ़ान वानुअतु,2026-02-18T04:34:00+00:00,Vanuatu,0.25878320302191576,1,1,hi,SPO,Oceania
+'2d209aedfc',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल सिएरा,2026-02-16T04:38:00+00:00,Ecuador,0.2587778085073446,1,1,hi,NWS,South-America
+'52e589d51e',extremes,Precipitation,#d60d2b,wmo,न्यूजीलैंड में वर्षा,2026-02-12T04:37:00+00:00,New Zealand,0.25877643229474256,1,1,hi,NZ,Oceania
+'97185764af',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन इंद्रे फजॉर्डेन,2026-02-08T04:43:00+00:00,Norway,0.2587749272854662,1,1,hi,NEU,Europe
+'4196612fd2',extremes,Wildfire,#d60d2b,wmo,जंगल की आग निंगलांग यी स्वायत्त काउंटी,2026-02-06T04:27:00+00:00,China,0.25876066764441785,1,1,hi,EAS,Asia
+'b5dab6daa1',extremes,Tropical Cyclone,#4f4f4f,wmo,टाइफून अदक से किस्का प्रशांत क्षेत्र तक,2026-02-10T04:43:00+00:00,United States,0.2587439254770622,1,1,hi,CNA,North-America
+'5bb4b700e7',extremes,Drought,#edc291,edo,सूखापन इथियोपिया,2026-02-11T04:42:00+00:00,Ethiopia,0.2587415924542611,1,1,hi,NEAF,Africa
+'ad35c87422',extremes,Wildfire,#d60d2b,wmo,जंगल की आग jingdong यी स्वायत्त काउंटी,2026-02-06T04:27:00+00:00,China,0.2587392426216891,1,1,hi,EAS,Asia
+'2d0fb12d74',extremes,Storm,#b3b2b1,wmo,तूफ़ान ने डीजेल को उड़ा दिया,2026-02-12T04:37:00+00:00,Algeria,0.25871459686337034,1,1,hi,SAH,Africa
+'5c657726ab',extremes,Drought,#edc291,edo,सूखा लातविया,2026-02-11T04:42:00+00:00,Latvia,0.25870074974389307,1,1,hi,WCE,Europe
+'b9e5a5873a',extremes,Flood,#030ba1,wmo,कनाडा में बाढ़,2026-02-23T04:37:00+00:00,Canada,0.2586971116558231,1,1,hi,NEN,North-America
+'abd942a5b1',extremes,Storm,#b3b2b1,wmo,तूफ़ान लिटोरल डे ला प्रोविंसिया डे हुआस्को,2026-02-14T04:21:00+00:00,Chile,0.25868537198809965,1,1,hi,SWS,South-America
+'6b6e3b7c81',extremes,Wildfire,#d60d2b,wmo,जंगल की आग जुआनवेई शहर,2026-02-16T04:38:00+00:00,China,0.2586826410276055,1,1,hi,EAS,Asia
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,बर्फ कनाडा,2026-02-06T04:27:00+00:00,Canada,0.2223480035362706,2,1,hi,NEN,North-America
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,संयुक्त राज्य अमेरिका में बाढ़,2026-02-07T04:19:00+00:00,United States,0.2206413434772952,2,1,hi,CNA,North-America
