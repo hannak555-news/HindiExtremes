@@ -48,12 +48,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e25c6dc644',extremes,Earthquake,#870007,usgs,भूकंप ग्यालशिंग,2026-02-08T04:43:00+00:00,India,0.3194861859554021,3,1,hi,TIB,Asia
 '7054c01ed8',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में बारिश की कमी,2026-02-05T04:28:00+00:00,United Arab Emirates,0.318020802434457,2,1,hi,ARP,Asia
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,तापमान में गिरावट,2026-02-12T04:36:00+00:00,,0.3113982718525999,1,2,hi,,
-'1c38b19449',extremes,Storm,#b3b2b1,random,धूल के कटोरे,2026-03-02T04:27:00+00:00,,0.30956782248633263,0,1,hi,,
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,ओले,2026-02-21T04:17:00+00:00,,0.3072568432409079,1,1,hi,,
-'be647fc7a4',extremes,Storm,#b3b2b1,wmo,इक्वेडोर में तूफ़ान की लहर,2026-02-17T04:31:00+00:00,Ecuador,0.30538628142325064,0,1,hi,NWS,South-America
-'9fe5b0338d',extremes,Fog,#d60d2b,wmo,कोहरा क्रोएशिया,2026-03-01T04:35:00+00:00,Croatia,0.30465527874251874,0,1,hi,WCE,Europe
-'156c18e469',extremes,Storm,#b3b2b1,wmo,तूफ़ान राजा सबता दलिंदयेबो मथाथा,2026-02-23T04:37:00+00:00,South Africa,0.30401155279976405,0,1,hi,WSAF,Africa
-'5437fdf418',extremes,Storm,#b3b2b1,wmo,तूफ़ान से सारा पानी बह जाता है।,2026-02-16T04:38:00+00:00,Vanuatu,0.30393467514463024,0,1,hi,SPO,Oceania
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,पारा गिरा,2026-02-13T04:33:00+00:00,,0.2998232291544918,1,1,hi,,
 '595acbcf9f',extremes,Heat Wave,#c40202,random,सबसे गर्म दिन,2026-02-15T04:34:00+00:00,,0.2983947001013904,2,1,hi,,
 'f9a3abc8c2',extremes,Landslide,#572c03,random,कीचड़ का बहाव,2026-02-06T04:27:00+00:00,,0.2954553412981449,2,1,hi,,
@@ -71,18 +66,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0053afc92f',extremes,Volcano,#b83202,random,लहार,2026-02-05T04:27:00+00:00,,0.2705756358842192,2,1,hi,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,चक्रवात,2026-02-05T04:27:00+00:00,,0.2693012624887556,2,1,hi,,
 'eabe6169ab',extremes,Earthquake,#870007,usgs,भूकंप टोंगा,2026-02-05T04:27:00+00:00,Tonga,0.2681707930026051,1,1,hi,SPO,Pacific Ocean
-'65b4a087de',extremes,Earthquake,#870007,usgs,भूकंप क़लानसियाह,2026-02-05T04:27:00+00:00,Yemen,0.2679620714354747,1,1,hi,ARS,Indian Ocean
 '255621cc4c',extremes,Earthquake,#870007,usgs,भूकंप पंगुना,2026-01-31T04:16:00+00:00,Papua New Guinea,0.2679457138356712,1,1,hi,EPO,Pacific Ocean
-'924236ebf8',extremes,Earthquake,#870007,usgs,भूकंप येनांगयांग,2026-02-05T04:27:00+00:00,Burma (Myanmar),0.2678632364951275,1,1,hi,SAS,Asia
-'70773b5956',extremes,Earthquake,#870007,usgs,भूकंप अलास्का,2026-02-05T04:27:00+00:00,Alaska,0.267854347260812,1,1,hi,NPO,Pacific Ocean
-'57c3ca9f77',extremes,Earthquake,#870007,usgs,भूकंप अंटार्कटिका,2026-02-04T04:21:00+00:00,,0.2678317719447217,1,1,hi,EAN,
-'5c7fcfcede',extremes,Earthquake,#870007,usgs,भूकंप हायहिफो,2026-02-05T04:27:00+00:00,Tonga,0.2677984460116948,1,1,hi,SPO,Pacific Ocean
-'40726d14cc',extremes,Tsunami,#690191,usgs,सुनामी अदक,2026-01-30T04:21:00+00:00,Alaska,0.2677838570670129,1,1,hi,NPO,Pacific Ocean
-'23ad2bb822',extremes,Earthquake,#870007,usgs,भूकंप रूस,2026-02-05T04:27:00+00:00,Russia,0.267669836873011,1,1,hi,NPO,Pacific Ocean
-'22ea11191f',extremes,Earthquake,#870007,usgs,भूकंप बटागे,2026-01-31T04:16:00+00:00,Russia,0.2676292832318591,1,1,hi,RAR,Europe
-'4ea40cfaf4',extremes,Earthquake,#870007,usgs,भूकंप प्रिंस एडवर्ड द्वीप क्षेत्र,2026-02-05T04:27:00+00:00,,0.2675542887751005,1,1,hi,SOO,Antarctica
-'02f56319a7',extremes,Flood,#030ba1,aidr,ऑस्ट्रेलिया में बाढ़,2026-02-05T04:28:00+00:00,Australia,0.2675460676426519,1,1,hi,EAU,Oceania
-'381ceff412',extremes,Earthquake,#870007,usgs,भूकंप किम्बे,2026-01-29T04:18:00+00:00,Papua New Guinea,0.267504612111723,1,1,hi,EPO,Pacific Ocean
 '628c910b11',extremes,Flood,#030ba1,aidr,बाढ़ बाढ़ न्यू साउथ वेल्स 2022,2026-02-01T04:41:00+00:00,Australia,0.2674814223077838,1,1,hi,EAU,Oceania
 '95694d19cf',extremes,Earthquake,#870007,usgs,भूकंप यमन,2026-02-05T04:27:00+00:00,Yemen,0.2674750910215091,1,1,hi,ARS,Indian Ocean
 '3673682ec0',extremes,Earthquake,#870007,usgs,भूकंप उदगम द्वीप क्षेत्र,2026-01-28T03:56:00+00:00,,0.2673331648628075,1,1,hi,SAO,Atlantic Ocean
@@ -133,6 +117,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f2b29262f2',extremes,Drought,#edc291,edo,बेल्जियम में सूखा,2026-02-05T04:28:00+00:00,Belgium,0.2633289372524505,1,1,hi,WCE,Europe
 'd2e515b87c',extremes,Flood,#030ba1,cmeter,बाढ़ कोलम्बिया,2026-02-22T04:31:00+00:00,Colombia,0.263232456455023,1,1,hi,NWS,South-America
 '80a1b6ba6b',extremes,Drought,#edc291,edo,सूखा बेल्जियम,2026-02-06T04:28:00+00:00,Belgium,0.2632180787637416,1,1,hi,WCE,Europe
+'1c38b19449',extremes,Storm,#b3b2b1,random,धूल के कटोरे,2026-03-02T04:27:00+00:00,,0.2631326491133827,1,1,hi,,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,जमना,2026-02-15T04:34:00+00:00,,0.2630874961085811,1,1,hi,,
 '221e658bfd',extremes,Drought,#edc291,edo,सूखापन लक्ज़मबर्ग,2026-02-10T04:43:00+00:00,Luxembourg,0.2626694832665585,1,1,hi,WCE,Europe
 'd3353562c0',extremes,Drought,#edc291,edo,सूखापन जिबूती,2026-02-06T04:28:00+00:00,Djibouti,0.2626106963739711,1,1,hi,NEAF,Africa
@@ -224,6 +209,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a828348731',extremes,Storm,#b3b2b1,wmo,तूफ़ान कोस्टा रिका,2026-01-31T04:16:00+00:00,Costa Rica,0.2596306900455714,1,1,hi,SCA,North-America
 'b42f77f692',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन फिनमार्कस्किस्टन,2026-02-05T04:27:00+00:00,Norway,0.2596237957122256,1,1,hi,NEU,Europe
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,वर्षा ब्राज़ील,2026-02-07T04:19:00+00:00,Brazil,0.259597984389763,1,1,hi,SAM,South-America
+'be647fc7a4',extremes,Storm,#b3b2b1,wmo,इक्वेडोर में तूफ़ान की लहर,2026-02-17T04:31:00+00:00,Ecuador,0.259578339209763,1,1,hi,NWS,South-America
 'e2f2dcafbb',extremes,Storm,#b3b2b1,wmo,तूफ़ान का उभार सिएरा सुर,2026-02-12T04:37:00+00:00,Ecuador,0.2595578830501235,1,1,hi,NWS,South-America
 '264992dbdd',extremes,Snow&Ice,#d60d2b,wmo,ठंढ सर्बिया,2026-02-08T04:43:00+00:00,Serbia,0.2595432962126923,1,1,hi,MED,Europe
 '416d23061d',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन जोतुनहेमेन,2026-02-05T04:27:00+00:00,Norway,0.2595348410486133,1,1,hi,NEU,Europe
@@ -320,6 +306,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '349b9f9026',extremes,Heat Wave,#c40202,wmo,हीट वेव क्षेत्र 3 - लघु,2026-02-17T04:31:00+00:00,Paraguay,0.2589721676359738,1,1,hi,SES,South-America
 '7064a46f70',extremes,Precipitation,#d60d2b,wmo,वर्षा सिएरा और अमेज़ॅनिया,2026-02-07T04:19:00+00:00,Ecuador,0.2589614845300724,1,1,hi,NWS,South-America
 '18ec1601d2',extremes,Storm,#b3b2b1,wmo,तूफ़ान चैथम द्वीप,2026-02-16T04:38:00+00:00,New Zealand,0.2589571671389969,1,1,hi,NZ,Oceania
+'9fe5b0338d',extremes,Fog,#d60d2b,wmo,कोहरा क्रोएशिया,2026-03-01T04:35:00+00:00,Croatia,0.2589569869311409,1,1,hi,WCE,Europe
 '530909dfe4',extremes,Heat Wave,#c40202,wmo,हीट वेव रूस,2026-02-08T04:43:00+00:00,Russia,0.2589487748500977,1,1,hi,ESB,Europe
 '649be03eb1',extremes,Storm,#b3b2b1,wmo,तूफ़ान का उछाल क्षेत्र 1 - मध्यम,2026-02-20T04:27:00+00:00,Paraguay,0.2589455181408407,1,1,hi,SES,South-America
 '75828940c9',extremes,Storm,#b3b2b1,wmo,तूफान उछाल इक्वाडोर महाद्वीपीय,2026-02-12T04:37:00+00:00,Ecuador,0.2589425558050465,1,1,hi,NWS,South-America
@@ -389,10 +376,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a4ea76ca76',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल अल्जीरिया,2026-02-15T04:35:00+00:00,Algeria,0.2584304508652918,1,1,hi,SAH,Africa
 '39dd0129b1',extremes,Snow&Ice,#d60d2b,wmo,बर्फ सर्बिया,2026-02-09T04:39:00+00:00,Serbia,0.2584193857979143,1,1,hi,MED,Europe
 '7e303c7e63',extremes,Snow Avalanche,#deddd5,random,हिम हिमस्खलन,2026-02-09T04:38:00+00:00,,0.2584127143660552,1,1,hi,,
+'156c18e469',extremes,Storm,#b3b2b1,wmo,तूफ़ान राजा सबता दलिंदयेबो मथाथा,2026-02-23T04:37:00+00:00,South Africa,0.2584098198797994,1,1,hi,WSAF,Africa
 'bcb6cba683',extremes,Precipitation,#d60d2b,wmo,प्रायद्वीप के तट पर मूसलाधार वर्षा,2026-02-16T04:38:00+00:00,New Zealand,0.2583777042450987,1,1,hi,NZ,Oceania
 'ae8ec0cd04',extremes,Wildfire,#d60d2b,wmo,जंगल की आग युनलोंग काउंटी,2026-02-13T04:34:00+00:00,China,0.2583702797887745,1,1,hi,EAS,Asia
 '98923c99f8',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश शाब्दिक,2026-02-18T04:34:00+00:00,Ecuador,0.2583598773644012,1,1,hi,NWS,South-America
 '550c0ce3e3',extremes,Wildfire,#d60d2b,wmo,जंगल की आग लंकांग लाहू स्वायत्त काउंटी,2026-02-08T04:43:00+00:00,China,0.2583484418665413,1,1,hi,EAS,Asia
+'5437fdf418',extremes,Storm,#b3b2b1,wmo,तूफ़ान से सारा पानी बह जाता है।,2026-02-16T04:38:00+00:00,Vanuatu,0.25834447387293563,1,1,hi,SPO,Oceania
 '96c0ad700f',extremes,Wildfire,#d60d2b,wmo,जंगल की आग हुआपिंग काउंटी,2026-02-10T04:43:00+00:00,China,0.258329491772254,1,1,hi,EAS,Asia
 '15a9c61e3e',extremes,Landslide,#572c03,random,चट्टानों का खिसकना,2026-02-12T04:36:00+00:00,,0.258084542267205,2,1,hi,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,बम चक्रवात,2026-02-09T04:38:00+00:00,,0.2576120649395132,2,1,hi,,
@@ -422,6 +411,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '54927bfe65',extremes,Flood,#030ba1,random,तटीय बाढ़,2026-02-12T04:36:00+00:00,,0.2279624581956052,2,1,hi,,
 'fc0fd225f3',extremes,Earthquake,#870007,usgs,भूकंप बर्मा म्यांमार,2026-02-05T04:27:00+00:00,Burma (Myanmar),0.2278918339609114,2,1,hi,SAS,Asia
 'f5afb20efd',extremes,Earthquake,#870007,usgs,दक्षिण सैंडविच द्वीप क्षेत्र में भूकंप,2026-02-05T04:27:00+00:00,,0.2278326714503148,2,1,hi,SOO,Antarctica
+'65b4a087de',extremes,Earthquake,#870007,usgs,भूकंप क़लानसियाह,2026-02-05T04:27:00+00:00,Yemen,0.22776776072015348,2,1,hi,ARS,Indian Ocean
+'924236ebf8',extremes,Earthquake,#870007,usgs,भूकंप येनांगयांग,2026-02-05T04:27:00+00:00,Burma (Myanmar),0.22768375102085836,2,1,hi,SAS,Asia
+'70773b5956',extremes,Earthquake,#870007,usgs,भूकंप अलास्का,2026-02-05T04:27:00+00:00,Alaska,0.22767619517169016,2,1,hi,NPO,Pacific Ocean
+'57c3ca9f77',extremes,Earthquake,#870007,usgs,भूकंप अंटार्कटिका,2026-02-04T04:21:00+00:00,,0.22765700615301343,2,1,hi,EAN,
+'5c7fcfcede',extremes,Earthquake,#870007,usgs,भूकंप हायहिफो,2026-02-05T04:27:00+00:00,Tonga,0.22762867910994056,2,1,hi,SPO,Pacific Ocean
+'23ad2bb822',extremes,Earthquake,#870007,usgs,भूकंप रूस,2026-02-05T04:27:00+00:00,Russia,0.22751936134205933,2,1,hi,NPO,Pacific Ocean
+'22ea11191f',extremes,Earthquake,#870007,usgs,भूकंप बटागे,2026-01-31T04:16:00+00:00,Russia,0.22748489074708023,2,1,hi,RAR,Europe
+'4ea40cfaf4',extremes,Earthquake,#870007,usgs,भूकंप प्रिंस एडवर्ड द्वीप क्षेत्र,2026-02-05T04:27:00+00:00,,0.22742114545883543,2,1,hi,SOO,Antarctica
+'02f56319a7',extremes,Flood,#030ba1,aidr,ऑस्ट्रेलिया में बाढ़,2026-02-05T04:28:00+00:00,Australia,0.2274141574962541,2,1,hi,EAU,Oceania
 '957a7a09df',extremes,Earthquake,#870007,usgs,भूकंप अट्टू स्टेशन,2026-02-05T04:27:00+00:00,Alaska,0.2246026834677111,2,1,hi,NPO,Pacific Ocean
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,बर्फ कनाडा,2026-02-06T04:27:00+00:00,Canada,0.2223480035362706,2,1,hi,NEN,North-America
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,संयुक्त राज्य अमेरिका में बाढ़,2026-02-07T04:19:00+00:00,United States,0.2206413434772952,2,1,hi,CNA,North-America
