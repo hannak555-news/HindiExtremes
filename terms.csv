@@ -36,8 +36,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '40f675561f',extremes,Heat Wave,#c40202,random,सबसे तेज़ गर्मी,2026-02-13T04:33:00+00:00,,0.3651562625952464,2,2,hi,,
 '622bd2c53e',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखापन,2026-02-12T04:37:00+00:00,United Arab Emirates,0.3611056561971335,1,1,hi,ARP,Asia
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,गंभीर मौसम,2026-03-04T04:20:00+00:00,,0.3498378831166905,1,1,hi,,
+'59b5340b69',extremes,Precipitation,#d60d2b,random,मौसम सामने,2026-03-07T04:12:00+00:00,,0.3453608133197859,1,1,hi,,
 '59b529f428',extremes,Thunderstorm,#53785a,random,ओलावृष्टि,2026-03-05T04:23:00+00:00,,0.3451393671964594,1,2,hi,,
-'59b5340b69',extremes,Precipitation,#d60d2b,random,मौसम सामने,2026-03-07T04:12:00+00:00,,0.34483598625857176,0,1,hi,,
 '8a2620177f',extremes,Earthquake,#870007,usgs,भूकंप तसरार शरीफ़,2026-02-04T04:21:00+00:00,India,0.3353681487401526,2,1,hi,WCA,Asia
 '776fe47817',extremes,Wildfire,#d60d2b,random,जंगल की आग,2026-02-18T04:33:00+00:00,,0.3333546298315642,1,1,hi,,
 '1405131905',extremes,Thunderstorm,#53785a,random,ओले,2026-02-19T04:31:00+00:00,,0.3305114112146136,1,1,hi,,
@@ -45,9 +45,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9f0423d739',extremes,Drought,#edc291,random,सूखापन,2026-02-15T04:34:00+00:00,,0.3277849087864072,1,1,hi,,
 '0a8e5743d9',extremes,Landslide,#572c03,random,भूस्खलन,2026-02-17T04:30:00+00:00,,0.3255045411316914,2,1,hi,,
 '135f8534c2',extremes,Precipitation,#d60d2b,random,अधिक वर्षा,2026-03-05T04:23:00+00:00,,0.3232581050662705,2,1,hi,,
-'e593608bfa',extremes,Snow&Ice,#d60d2b,random,स्नोपैक,2026-03-06T04:20:00+00:00,,0.32013965171245684,0,1,hi,,
 'e25c6dc644',extremes,Earthquake,#870007,usgs,भूकंप ग्यालशिंग,2026-02-08T04:43:00+00:00,India,0.3194861859554021,3,1,hi,TIB,Asia
-'30406c7856',extremes,Flood,#030ba1,cmeter,ब्राज़ील बाढ़,2026-03-07T04:13:00+00:00,Brazil,0.31883397024540744,0,1,hi,SES,South-America
+'30406c7856',extremes,Flood,#030ba1,cmeter,ब्राज़ील बाढ़,2026-03-07T04:13:00+00:00,Brazil,0.3188339702454074,0,1,hi,SES,South-America
 '403ad9bf40',extremes,Iceberg,#d60d2b,eonet,हिमशैल b22g,2026-03-06T04:21:00+00:00,Antarctica,0.3181610433122801,0,1,hi,WAN,Antarctica
 '67170bdf4e',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय चक्रवात 25s,2026-03-06T04:21:00+00:00,,0.3181021894888334,0,1,hi,SIO,Indian Ocean
 '7054c01ed8',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में बारिश की कमी,2026-02-05T04:28:00+00:00,United Arab Emirates,0.318020802434457,2,1,hi,ARP,Asia
@@ -76,6 +75,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '95b2881221',extremes,Precipitation,#d60d2b,random,वायुमंडलीय नदी,2026-02-06T04:27:00+00:00,,0.2756862282087829,2,1,hi,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,आर्कटिक समुद्री बर्फ,2026-02-07T04:19:00+00:00,,0.2743504169833733,2,1,hi,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,राष्ट्रीय तूफान केंद्र,2026-02-08T04:43:00+00:00,,0.2734693278127575,2,1,hi,,
+'e593608bfa',extremes,Snow&Ice,#d60d2b,random,स्नोपैक,2026-03-06T04:20:00+00:00,,0.27211870395558824,1,1,hi,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,रिकार्ड वर्षा,2026-02-16T04:37:00+00:00,,0.2717475939761631,2,1,hi,,
 '5acb09ddba',extremes,Iceberg,#d60d2b,eonet,हिमशैल d32,2026-03-06T04:21:00+00:00,,0.270708566172708,1,1,hi,EAN,
 'c2ae664a83',extremes,Iceberg,#d60d2b,eonet,हिमशैल c18b,2026-03-06T04:21:00+00:00,,0.2706714084232571,1,1,hi,EAN,
