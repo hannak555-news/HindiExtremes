@@ -17,7 +17,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f37139fe2d',extremes,Landslide,#572c03,random,भूस्खलन,2026-02-12T04:36:00+00:00,,0.4529752574506147,2,2,hi,,
 '271200cbb0',extremes,Wildfire,#d60d2b,wmo,जंगल की आग आंध्र प्रदेश,2026-02-11T04:41:00+00:00,India,0.4483333340769185,2,1,hi,SAS,Asia
 '82fd55b965',extremes,Drought,#edc291,edo,भारत में सूखा,2026-01-24T03:49:00+00:00,India,0.4447451900541285,1,2,hi,SAS,Asia
-'a8ed721e08',extremes,Fog,#d60d2b,wmo,कोहरा भारत,2026-03-02T04:27:00+00:00,India,0.44051803397070555,3,1,hi,SAS,Asia
+'a8ed721e08',extremes,Fog,#d60d2b,wmo,कोहरा भारत,2026-03-02T04:27:00+00:00,India,0.4405180339707055,3,1,hi,SAS,Asia
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,हिमस्खलन,2026-02-22T04:30:00+00:00,,0.4279736440116274,1,2,hi,,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,ओलावृष्टि,2026-02-05T04:27:00+00:00,,0.421357740619349,1,2,hi,,
 '8bb788b602',extremes,Wildfire,#d60d2b,wmo,जंगल की आग असम,2026-02-11T04:41:00+00:00,India,0.417217584536974,3,1,hi,SAS,Asia
@@ -32,6 +32,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,भारी वर्षा,2026-02-11T04:41:00+00:00,,0.3947773916582517,2,1,hi,,
 '67d2701c5b',extremes,Earthquake,#870007,usgs,भूकंप फेक,2026-02-05T04:27:00+00:00,India,0.3937051083551026,2,1,hi,SAS,Asia
 'ad551defe3',extremes,Earthquake,#870007,usgs,भूकंप नया बाजार,2026-02-27T04:25:00+00:00,India,0.3930113467633631,2,1,hi,TIB,Asia
+'135f8534c2',extremes,Precipitation,#d60d2b,random,अधिक वर्षा,2026-03-05T04:23:00+00:00,,0.38744016860383473,0,1,hi,,
 '84febdd06c',extremes,Thunderstorm,#53785a,random,तूफ़ान,2026-02-23T04:36:00+00:00,,0.3785435815122018,1,1,hi,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडी सर्दी,2026-03-01T04:34:00+00:00,,0.373974377493758,2,2,hi,,
 '40f675561f',extremes,Heat Wave,#c40202,random,सबसे तेज़ गर्मी,2026-02-13T04:33:00+00:00,,0.3651562625952464,2,2,hi,,
@@ -47,8 +48,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a8e5743d9',extremes,Landslide,#572c03,random,भूस्खलन,2026-02-17T04:30:00+00:00,,0.3255045411316914,2,1,hi,,
 'e25c6dc644',extremes,Earthquake,#870007,usgs,भूकंप ग्यालशिंग,2026-02-08T04:43:00+00:00,India,0.3194861859554021,3,1,hi,TIB,Asia
 '7054c01ed8',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में बारिश की कमी,2026-02-05T04:28:00+00:00,United Arab Emirates,0.318020802434457,2,1,hi,ARP,Asia
+'eba0dae408',extremes,Iceberg,#d60d2b,eonet,हिमशैल b15ab,2026-03-06T04:21:00+00:00,,0.3162923766964107,0,1,hi,EAN,
+'ec6bc64ec7',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय चक्रवात उर्मिल,2026-03-06T04:21:00+00:00,,0.314400593964061,0,1,hi,SPO,Pacific Ocean
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,तापमान में गिरावट,2026-02-12T04:36:00+00:00,,0.3113982718525999,1,2,hi,,
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,ओले,2026-02-21T04:17:00+00:00,,0.3072568432409079,1,1,hi,,
+'0511e6ef31',extremes,Drought,#edc291,edo,शुष्क काल एस्तोनिया,2026-02-28T04:07:00+00:00,Estonia,0.3065622789654603,0,1,hi,NEU,Europe
+'628c910b11',extremes,Flood,#030ba1,aidr,बाढ़ बाढ़ न्यू साउथ वेल्स 2022,2026-02-23T04:37:00+00:00,Australia,0.30504160602877584,0,1,hi,EAU,Oceania
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,तूफ़ान,2026-02-26T04:28:00+00:00,,0.3016224682279067,2,1,hi,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,पारा गिरा,2026-02-13T04:33:00+00:00,,0.2998232291544918,1,1,hi,,
 '9391f481ee',extremes,Storm,#b3b2b1,random,आँधी,2026-03-06T04:20:00+00:00,,0.2986081027615567,1,1,hi,,
