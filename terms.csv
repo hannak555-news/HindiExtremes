@@ -1,13 +1,13 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'66ed778010',extremes,Wildfire,#d60d2b,wmo,जंगल की आग झारखंड,2026-03-11T04:22:00+00:00,India,0.6956311034469911,1,2,hi,SAS,Asia
-'c62fbce176',extremes,Wildfire,#d60d2b,wmo,जंगल की आग हिमाचल प्रदेश,2026-03-11T04:22:00+00:00,India,0.6384049007520697,0,1,hi,SAS,Asia
 'fecc5eb982',extremes,Wildfire,#d60d2b,wmo,जंगल की आग राजस्थान,2026-03-11T04:22:00+00:00,India,0.6370556850292731,0,1,hi,SAS,Asia
 'cc4a4faebb',extremes,Heat Wave,#c40202,wmo,गुजरात के 5 जिलों में लू,2026-03-11T04:22:00+00:00,India,0.5917675182019918,0,1,hi,SAS,Asia
+'66ed778010',extremes,Wildfire,#d60d2b,wmo,जंगल की आग झारखंड,2026-03-11T04:22:00+00:00,India,0.5914364529299424,2,2,hi,SAS,Asia
 '42a5dce9e6',extremes,Wildfire,#d60d2b,wmo,जंगल की आग मणिपुर,2026-03-11T04:22:00+00:00,India,0.5687990278978595,1,1,hi,SAS,Asia
 '1a5d7f7924',extremes,Wildfire,#d60d2b,wmo,जंगल की आग उत्तर प्रदेश,2026-03-11T04:22:00+00:00,India,0.5681736388722451,1,1,hi,SAS,Asia
 '934b8ffec8',extremes,Wildfire,#d60d2b,wmo,पंजाब में जंगल की आग,2026-03-11T04:22:00+00:00,India,0.5680249822130844,1,1,hi,SAS,Asia
 'f108280b3d',extremes,Wildfire,#d60d2b,wmo,पश्चिम बंगाल में जंगल की आग,2026-03-11T04:22:00+00:00,India,0.5678859078654419,1,1,hi,SAS,Asia
 '6ea83d2f4f',extremes,Heat Wave,#c40202,wmo,गुजरात के 4 जिलों में लू,2026-03-11T04:22:00+00:00,India,0.5644229301992574,1,1,hi,SAS,Asia
+'c62fbce176',extremes,Wildfire,#d60d2b,wmo,जंगल की आग हिमाचल प्रदेश,2026-03-11T04:22:00+00:00,India,0.5426441656392592,1,1,hi,SAS,Asia
 '35bd62c5a9',extremes,Drought,#edc291,edo,भारत में सूखा,2026-02-11T04:42:00+00:00,India,0.4899946118348153,3,1,hi,SAS,Asia
 '8b022b84c7',extremes,Wildfire,#d60d2b,wmo,जंगल की आग मध्य प्रदेश,2026-02-12T04:37:00+00:00,India,0.4899881770327975,2,1,hi,SAS,Asia
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,तूफ़ान भारत,2026-02-18T04:34:00+00:00,India,0.4898020133758368,2,1,hi,SAS,Asia
