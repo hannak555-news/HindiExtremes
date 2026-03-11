@@ -52,6 +52,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,ओले,2026-02-21T04:17:00+00:00,,0.3072568432409079,1,1,hi,,
 '622bd2c53e',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखापन,2026-02-12T04:37:00+00:00,United Arab Emirates,0.3069398077675634,2,1,hi,ARP,Asia
 '59b5340b69',extremes,Precipitation,#d60d2b,random,मौसम सामने,2026-03-07T04:12:00+00:00,,0.305331931321818,2,1,hi,,
+'b81a7e08cc',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश सांता ऐलेना।,2026-03-10T04:22:00+00:00,Ecuador,0.30481958642989115,0,1,hi,NWS,South-America
+'c6083600a3',extremes,Flood,#030ba1,acwe,उच्च जल स्तर पश्चिमी ऑस्ट्रेलिया,2026-03-10T04:22:00+00:00,Australia,0.30476318065144037,0,1,hi,CAU,Oceania
+'1073537f95',extremes,Landslide,#572c03,wmo,वेस्टलैंड फ़िल्के के चट्टानी हिस्से,2026-02-26T04:29:00+00:00,Norway,0.30347103859518065,0,1,hi,NEU,Europe
+'bf84083cec',extremes,Landslide,#572c03,wmo,नॉर्वे में भूस्खलन,2026-02-26T04:29:00+00:00,Norway,0.30342157058965086,0,1,hi,NEU,Europe
+'bf43374236',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश वानुअतु,2026-03-04T04:20:00+00:00,Vanuatu,0.3034110147758959,0,1,hi,SPO,Oceania
+'e7c015237c',extremes,Wildfire,#d60d2b,wmo,जंगल की आग लोंगयांग,2026-02-20T04:27:00+00:00,China,0.3033502237538419,0,1,hi,EAS,Asia
+'3ea76ed422',extremes,Drought,#edc291,edo,सूखा दक्षिण कोरिया,2026-02-28T04:07:00+00:00,South Korea,0.3033194472539436,0,1,hi,EAS,Asia
+'2f0d530ba3',extremes,Wildfire,#d60d2b,wmo,जंगल की आग हुइज़ काउंटी,2026-02-22T04:30:00+00:00,China,0.30331387085350187,0,1,hi,EAS,Asia
+'a843e58970',extremes,Precipitation,#d60d2b,wmo,वर्षा कॉर्डोबा जुआरेज़ सेल्मन।,2026-02-20T04:27:00+00:00,Argentina,0.30327732866008267,0,1,hi,SES,South-America
+'95436f364d',extremes,Storm,#b3b2b1,wmo,स्टॉर्म सर्ज लिटोरल वाई ऑक्सीडेंट डे सिएरा,2026-02-27T04:26:00+00:00,Ecuador,0.3032511324614753,0,1,hi,NWS,South-America
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,तूफ़ान,2026-02-26T04:28:00+00:00,,0.3016224682279067,2,1,hi,,
 '595acbcf9f',extremes,Heat Wave,#c40202,random,सबसे गर्म दिन,2026-02-15T04:34:00+00:00,,0.2983947001013904,2,1,hi,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,वायुमंडलीय नदी,2026-02-28T04:07:00+00:00,,0.2980466470453958,1,1,hi,,
@@ -399,4 +409,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '97a5343951',extremes,Precipitation,#d60d2b,wmo,वर्षा सेशेल्स,2026-02-16T04:38:00+00:00,Seychelles,0.2208222493871361,2,1,hi,EIO,Africa
 '30e68a3b40',extremes,Storm,#b3b2b1,wmo,तूफ़ान लिटोरल सिएरा,2026-02-08T04:43:00+00:00,Ecuador,0.2202637312575007,2,1,hi,NWS,South-America
 'f6d696437a',extremes,Snow&Ice,#d60d2b,wmo,दक्षिण आइसलैंड में ठंढ,2026-02-18T04:34:00+00:00,Iceland,0.2202601479853036,2,1,hi,GIC,Europe
-'ea0aa28870',extremes,Drought,#edc291,edo,फिनलैंड में बारिश की कमी,2026-02-26T04:29:00+00:00,Finland,0.22024026546964798,2,1,hi,NEU,Europe
+'ea0aa28870',extremes,Drought,#edc291,edo,फिनलैंड में बारिश की कमी,2026-02-26T04:29:00+00:00,Finland,0.2202402654696479,2,1,hi,NEU,Europe
