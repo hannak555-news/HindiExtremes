@@ -1,5 +1,12 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,जंगल की आग भारत,2026-03-04T04:20:00+00:00,India,0.6737311557623973,0,1,hi,SAS,Asia
+'3f3ddd0b49',extremes,Earthquake,#870007,usgs,भूकंप भारत,2026-02-25T04:32:00+00:00,India,0.6716599107536072,0,1,hi,TIB,Asia
+'7806e9469b',extremes,Heat Wave,#c40202,wmo,गुजरात के 12 जिलों में लू,2026-03-13T04:25:00+00:00,India,0.6636471418033719,0,1,hi,SAS,Asia
+'ecbcce771c',extremes,Fog,#d60d2b,wmo,आंध्र प्रदेश के 15 जिलों में कोहरा,2026-03-13T04:25:00+00:00,India,0.6520903583733219,0,1,hi,SAS,Asia
+'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,जय भारत,2026-03-13T04:25:00+00:00,India,0.6459540809134005,0,1,hi,SAS,Asia
+'9d230a1c12',extremes,Snow&Ice,#d60d2b,wmo,आइस इंडिया,2026-03-13T04:25:00+00:00,India,0.633219753205833,0,1,hi,SAS,Asia
 '66ed778010',extremes,Wildfire,#d60d2b,wmo,जंगल की आग झारखंड,2026-03-11T04:22:00+00:00,India,0.5914364529299424,2,2,hi,SAS,Asia
+'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,भारत में मूसलाधार वर्षा,2026-03-13T04:25:00+00:00,India,0.5812946814659887,0,1,hi,SAS,Asia
 '35bd62c5a9',extremes,Drought,#edc291,edo,भारत में सूखा,2026-02-11T04:42:00+00:00,India,0.4899946118348153,3,1,hi,SAS,Asia
 '8b022b84c7',extremes,Wildfire,#d60d2b,wmo,जंगल की आग मध्य प्रदेश,2026-02-12T04:37:00+00:00,India,0.4899881770327975,2,1,hi,SAS,Asia
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,तूफ़ान भारत,2026-02-18T04:34:00+00:00,India,0.4898020133758368,2,1,hi,SAS,Asia
@@ -37,8 +44,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,पाला,2026-02-16T04:37:00+00:00,,0.4081301376155234,2,1,hi,,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,सबसे गर्म वर्ष,2026-03-12T04:25:00+00:00,,0.4077796552822399,2,2,hi,,
 '62084daeb0',extremes,Earthquake,#870007,random,भूकंप,2026-02-27T04:25:00+00:00,,0.4034387100063496,1,2,hi,,
+'d2b5043a66',extremes,Cold Wave,#a7e9fa,random,सबसे कम न्यूनतम तापमान,2026-03-13T04:24:00+00:00,,0.39598275920228493,0,1,hi,,
 'ad551defe3',extremes,Earthquake,#870007,usgs,भूकंप नया बाजार,2026-02-27T04:25:00+00:00,India,0.3930113467633631,2,1,hi,TIB,Asia
 'c62fbce176',extremes,Wildfire,#d60d2b,wmo,जंगल की आग हिमाचल प्रदेश,2026-03-11T04:22:00+00:00,India,0.3920604096743648,3,1,hi,SAS,Asia
+'980a973102',extremes,Tropical Cyclone,#4f4f4f,random,बम चक्रवात,2026-03-07T04:12:00+00:00,,0.3844865209981116,0,1,hi,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडी सर्दी,2026-03-01T04:34:00+00:00,,0.373974377493758,2,2,hi,,
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,न्यूजीलैंड में भारी बारिश,2026-02-10T04:43:00+00:00,New Zealand,0.3726705894020156,2,2,hi,NZ,Oceania
 '84febdd06c',extremes,Thunderstorm,#53785a,random,तूफ़ान,2026-02-23T04:36:00+00:00,,0.3722120892853715,2,1,hi,,
@@ -49,6 +58,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f986239716',extremes,Wildfire,#d60d2b,wmo,जंगल की आग गुजरात,2026-03-09T04:31:00+00:00,India,0.3490210782649691,4,1,hi,SAS,Asia
 '59b529f428',extremes,Thunderstorm,#53785a,random,ओलावृष्टि,2026-03-05T04:23:00+00:00,,0.3451393671964594,1,2,hi,,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,भारी वर्षा,2026-02-11T04:41:00+00:00,,0.336010827909514,3,1,hi,,
+'5b8cf400f9',extremes,Iceberg,#d60d2b,random,हिमशैल का शांत होना,2026-03-10T04:21:00+00:00,,0.32718923375020115,0,1,hi,,
 '0a8e5743d9',extremes,Landslide,#572c03,random,भूस्खलन,2026-02-17T04:30:00+00:00,,0.3255045411316914,2,1,hi,,
 '7054c01ed8',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में बारिश की कमी,2026-02-25T04:33:00+00:00,United Arab Emirates,0.3233096824686954,2,1,hi,ARP,Asia
 '135f8534c2',extremes,Precipitation,#d60d2b,random,अधिक वर्षा,2026-03-05T04:23:00+00:00,,0.3232581050662705,2,1,hi,,
