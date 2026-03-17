@@ -1,4 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'8b022b84c7',extremes,Wildfire,#d60d2b,wmo,जंगल की आग मध्य प्रदेश,2026-03-11T04:22:00+00:00,India,0.6617099833156366,0,1,hi,SAS,Asia
+'31ec217938',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम रायदुर्ग मंडल,2026-03-17T04:30:00+00:00,India,0.6041226167167121,0,1,hi,SAS,Asia
+'7c5b048241',extremes,Thunderstorm,#53785a,wmo,तूफ़ान जी मदुगुला मंडल,2026-03-17T04:30:00+00:00,India,0.6008418788663562,0,1,hi,SAS,Asia
+'cf508361ed',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम देवरापल्ले1 दत्तिराजेरु मंडल,2026-03-17T04:30:00+00:00,India,0.5939068783976937,0,1,hi,SAS,Asia
+'b8cde961fc',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम कानेकल मंडल,2026-03-17T04:30:00+00:00,India,0.5925860067872961,0,1,hi,SAS,Asia
+'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,वर्षा भारत,2026-03-17T04:30:00+00:00,India,0.5867187238542916,0,1,hi,SAS,Asia
+'1924a5d780',extremes,Thunderstorm,#53785a,wmo,रायदुर्ग मंडल में ओलावृष्टि,2026-03-17T04:30:00+00:00,India,0.5779883854840185,0,1,hi,SAS,Asia
+'01eb136e2a',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि देवारापल्ले1 दत्तिरजेरु मंडल,2026-03-17T04:30:00+00:00,India,0.577455327450898,0,1,hi,SAS,Asia
+'3ba3704a65',extremes,Thunderstorm,#53785a,wmo,तूफ़ान कणेकल मंडल,2026-03-17T04:30:00+00:00,India,0.5730990469411762,0,1,hi,SAS,Asia
+'951569280f',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि गुम्मगट्टा मंडल,2026-03-17T04:30:00+00:00,India,0.5584694859507187,0,1,hi,SAS,Asia
 '66ed778010',extremes,Wildfire,#d60d2b,wmo,जंगल की आग झारखंड,2026-03-11T04:22:00+00:00,India,0.5027209999904511,3,1,hi,SAS,Asia
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,तूफ़ान भारत,2026-02-18T04:34:00+00:00,India,0.4898020133758368,2,1,hi,SAS,Asia
 '4093195155',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल भारत,2026-02-18T04:34:00+00:00,India,0.4889841523725882,2,1,hi,SAS,Asia
@@ -81,7 +91,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7054c01ed8',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में बारिश की कमी,2026-02-25T04:33:00+00:00,United Arab Emirates,0.2748132300983911,3,1,hi,ARP,Asia
 '776fe47817',extremes,Wildfire,#d60d2b,random,जंगल की आग,2026-02-18T04:33:00+00:00,,0.2738338310533051,3,1,hi,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,रिकार्ड वर्षा,2026-02-16T04:37:00+00:00,,0.2717475939761631,2,1,hi,,
-'9aceadd432',extremes,Heat Wave,#c40202,random,रिकॉर्ड गर्मी,2026-02-17T04:30:00+00:00,,0.27084758886725036,2,1,hi,,
+'9aceadd432',extremes,Heat Wave,#c40202,random,रिकॉर्ड गर्मी,2026-02-17T04:30:00+00:00,,0.2708475888672503,2,1,hi,,
 '0053afc92f',extremes,Volcano,#b83202,random,लहार,2026-02-27T04:25:00+00:00,,0.2674627628770998,2,1,hi,,
 'd59a7e48d7',extremes,Drought,#edc291,random,वाष्पीकरण-उत्सर्जन,2026-03-03T04:26:00+00:00,,0.2644156229343417,2,1,hi,,
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,तूफ़ान ब्राज़ील,2026-03-01T04:35:00+00:00,Brazil,0.2634937878133879,1,1,hi,SAM,South-America
