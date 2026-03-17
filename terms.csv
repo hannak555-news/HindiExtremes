@@ -1,15 +1,15 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'8b022b84c7',extremes,Wildfire,#d60d2b,wmo,जंगल की आग मध्य प्रदेश,2026-03-11T04:22:00+00:00,India,0.6617099833156366,0,1,hi,SAS,Asia
-'31ec217938',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम रायदुर्ग मंडल,2026-03-17T04:30:00+00:00,India,0.6041226167167121,0,1,hi,SAS,Asia
-'7c5b048241',extremes,Thunderstorm,#53785a,wmo,तूफ़ान जी मदुगुला मंडल,2026-03-17T04:30:00+00:00,India,0.6008418788663562,0,1,hi,SAS,Asia
-'cf508361ed',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम देवरापल्ले1 दत्तिराजेरु मंडल,2026-03-17T04:30:00+00:00,India,0.5939068783976937,0,1,hi,SAS,Asia
-'b8cde961fc',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम कानेकल मंडल,2026-03-17T04:30:00+00:00,India,0.5925860067872961,0,1,hi,SAS,Asia
-'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,वर्षा भारत,2026-03-17T04:30:00+00:00,India,0.5867187238542916,0,1,hi,SAS,Asia
 '1924a5d780',extremes,Thunderstorm,#53785a,wmo,रायदुर्ग मंडल में ओलावृष्टि,2026-03-17T04:30:00+00:00,India,0.5779883854840185,0,1,hi,SAS,Asia
 '01eb136e2a',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि देवारापल्ले1 दत्तिरजेरु मंडल,2026-03-17T04:30:00+00:00,India,0.577455327450898,0,1,hi,SAS,Asia
 '3ba3704a65',extremes,Thunderstorm,#53785a,wmo,तूफ़ान कणेकल मंडल,2026-03-17T04:30:00+00:00,India,0.5730990469411762,0,1,hi,SAS,Asia
+'8b022b84c7',extremes,Wildfire,#d60d2b,wmo,जंगल की आग मध्य प्रदेश,2026-03-11T04:22:00+00:00,India,0.562453485818291,1,1,hi,SAS,Asia
 '951569280f',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि गुम्मगट्टा मंडल,2026-03-17T04:30:00+00:00,India,0.5584694859507187,0,1,hi,SAS,Asia
+'31ec217938',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम रायदुर्ग मंडल,2026-03-17T04:30:00+00:00,India,0.5135042242092053,1,1,hi,SAS,Asia
+'7c5b048241',extremes,Thunderstorm,#53785a,wmo,तूफ़ान जी मदुगुला मंडल,2026-03-17T04:30:00+00:00,India,0.5107155970364028,1,1,hi,SAS,Asia
+'cf508361ed',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम देवरापल्ले1 दत्तिराजेरु मंडल,2026-03-17T04:30:00+00:00,India,0.5048208466380396,1,1,hi,SAS,Asia
+'b8cde961fc',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम कानेकल मंडल,2026-03-17T04:30:00+00:00,India,0.5036981057692017,1,1,hi,SAS,Asia
 '66ed778010',extremes,Wildfire,#d60d2b,wmo,जंगल की आग झारखंड,2026-03-11T04:22:00+00:00,India,0.5027209999904511,3,1,hi,SAS,Asia
+'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,वर्षा भारत,2026-03-17T04:30:00+00:00,India,0.4988609302761478,1,1,hi,SAS,Asia
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,तूफ़ान भारत,2026-02-18T04:34:00+00:00,India,0.4898020133758368,2,1,hi,SAS,Asia
 '4093195155',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल भारत,2026-02-18T04:34:00+00:00,India,0.4889841523725882,2,1,hi,SAS,Asia
 '6dbe18bed3',extremes,Wildfire,#d60d2b,wmo,जंगल की आग तेलंगाना,2026-02-21T04:18:00+00:00,India,0.4886541742762991,2,1,hi,SAS,Asia
