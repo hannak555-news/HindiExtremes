@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'271200cbb0',extremes,Wildfire,#d60d2b,wmo,जंगल की आग आंध्र प्रदेश,2026-03-11T04:22:00+00:00,India,0.6651361570613061,0,1,hi,SAS,Asia
-'35bd62c5a9',extremes,Drought,#edc291,edo,भारत में सूखा,2026-03-11T04:22:00+00:00,India,0.514175088509639,0,1,hi,SAS,Asia
+'271200cbb0',extremes,Wildfire,#d60d2b,wmo,जंगल की आग आंध्र प्रदेश,2026-03-11T04:22:00+00:00,India,0.5653657335021102,1,1,hi,SAS,Asia
 '66ed778010',extremes,Wildfire,#d60d2b,wmo,जंगल की आग झारखंड,2026-03-11T04:22:00+00:00,India,0.5027209999904511,3,1,hi,SAS,Asia
 '1924a5d780',extremes,Thunderstorm,#53785a,wmo,रायदुर्ग मंडल में ओलावृष्टि,2026-03-17T04:30:00+00:00,India,0.4912901276614157,1,1,hi,SAS,Asia
 '01eb136e2a',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि देवारापल्ले1 दत्तिरजेरु मंडल,2026-03-17T04:30:00+00:00,India,0.4908370283332633,1,1,hi,SAS,Asia
@@ -34,6 +33,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9d230a1c12',extremes,Snow&Ice,#d60d2b,wmo,आइस इंडिया,2026-03-13T04:25:00+00:00,India,0.4575012716912143,2,1,hi,SAS,Asia
 '20741ce7eb',extremes,Tsunami,#690191,random,सुनामी,2026-02-28T04:07:00+00:00,,0.4567554145628135,1,2,hi,,
 'a8ed721e08',extremes,Fog,#d60d2b,wmo,कोहरा भारत,2026-03-02T04:27:00+00:00,India,0.4405180339707055,3,1,hi,SAS,Asia
+'35bd62c5a9',extremes,Drought,#edc291,edo,भारत में सूखा,2026-03-11T04:22:00+00:00,India,0.43734885523319317,1,1,hi,SAS,Asia
 '31ec217938',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम रायदुर्ग मंडल,2026-03-17T04:30:00+00:00,India,0.4364785905778244,2,1,hi,SAS,Asia
 '7c5b048241',extremes,Thunderstorm,#53785a,wmo,तूफ़ान जी मदुगुला मंडल,2026-03-17T04:30:00+00:00,India,0.4341082574809423,2,1,hi,SAS,Asia
 '60bddf3351',extremes,Drought,#edc291,edo,भारत में वर्षा की कमी,2026-03-04T04:21:00+00:00,India,0.4310316634030817,2,1,hi,SAS,Asia
@@ -81,7 +81,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7afee2724b',extremes,Drought,#edc291,edo,सूखापन डेनमार्क,2026-02-28T04:07:00+00:00,Denmark,0.3070642014565312,0,1,hi,NEU,Europe
 '6fbc657cf9',extremes,Storm,#b3b2b1,wmo,तूफ़ान रजि. 1 शाब्दिक,2026-03-17T04:30:00+00:00,Chile,0.3059117822330246,0,1,hi,SWS,South-America
 '24e7169f97',extremes,Storm,#b3b2b1,wmo,तूफ़ान त्रिनिदाद और टोबैगो,2026-03-04T04:20:00+00:00,Trinidad and Tobago,0.3058145105321779,0,1,hi,NSA,North-America
-'7b53ac38f5',extremes,Drought,#edc291,edo,बांग्लादेश में सूखा,2026-02-27T04:26:00+00:00,Bangladesh,0.30417111462670143,0,1,hi,SAS,Asia
+'7b53ac38f5',extremes,Drought,#edc291,edo,बांग्लादेश में सूखा,2026-02-27T04:26:00+00:00,Bangladesh,0.3041711146267014,0,1,hi,SAS,Asia
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,न्यूजीलैंड में वर्षा,2026-03-05T04:24:00+00:00,New Zealand,0.3040609440158224,0,1,hi,NZ,Oceania
 '6c91162e45',extremes,Precipitation,#d60d2b,wmo,वर्षा इक्वाडोर महाद्वीपीय,2026-03-11T04:22:00+00:00,Ecuador,0.3036253174122929,0,1,hi,NWS,South-America
 '2096f9b691',extremes,Drought,#edc291,edo,बारिश की कमी भूटान,2026-03-10T04:22:00+00:00,Bhutan,0.3033168011484517,0,1,hi,TIB,Asia
