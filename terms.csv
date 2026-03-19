@@ -39,9 +39,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '26fee806c3',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश भारत,2026-03-14T04:22:00+00:00,India,0.4217797506213179,2,1,hi,SAS,Asia
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,ओलावृष्टि,2026-02-05T04:27:00+00:00,,0.421357740619349,1,2,hi,,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,शीत लहर,2026-03-12T04:25:00+00:00,,0.42020903420227,1,2,hi,,
-'1924a5d780',extremes,Thunderstorm,#53785a,wmo,रायदुर्ग मंडल में ओलावृष्टि,2026-03-17T04:30:00+00:00,India,0.41759660851220337,2,1,hi,SAS,Asia
+'1924a5d780',extremes,Thunderstorm,#53785a,wmo,रायदुर्ग मंडल में ओलावृष्टि,2026-03-17T04:30:00+00:00,India,0.4175966085122033,2,1,hi,SAS,Asia
 '01eb136e2a',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि देवारापल्ले1 दत्तिरजेरु मंडल,2026-03-17T04:30:00+00:00,India,0.4172114740832738,2,1,hi,SAS,Asia
-'3ba3704a65',extremes,Thunderstorm,#53785a,wmo,तूफ़ान कणेकल मंडल,2026-03-17T04:30:00+00:00,India,0.41406406141499974,2,1,hi,SAS,Asia
+'3ba3704a65',extremes,Thunderstorm,#53785a,wmo,तूफ़ान कणेकल मंडल,2026-03-17T04:30:00+00:00,India,0.4140640614149997,2,1,hi,SAS,Asia
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,औषधि,2026-02-11T04:41:00+00:00,,0.4140204589211476,1,2,hi,,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,सबसे कम न्यूनतम तापमान,2026-03-13T04:24:00+00:00,,0.4137250712736507,2,1,hi,,
 '60cdf9fb44',extremes,Heat Wave,#c40202,wmo,हीट वेव इंडिया,2026-03-08T04:24:00+00:00,India,0.4123695579580701,3,1,hi,SAS,Asia
@@ -52,7 +52,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,पाला,2026-02-16T04:37:00+00:00,,0.4081301376155234,2,1,hi,,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,सबसे गर्म वर्ष,2026-03-12T04:25:00+00:00,,0.4077796552822399,2,2,hi,,
 '7806e9469b',extremes,Heat Wave,#c40202,wmo,गुजरात के 12 जिलों में लू,2026-03-13T04:25:00+00:00,India,0.4075623009599958,3,1,hi,SAS,Asia
-'bd21048a6a',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-03-04T04:21:00+00:00,United Arab Emirates,0.40367943096953535,1,1,hi,ARP,Asia
+'bd21048a6a',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-03-04T04:21:00+00:00,United Arab Emirates,0.4036794309695353,1,1,hi,ARP,Asia
 '951569280f',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि गुम्मगट्टा मंडल,2026-03-17T04:30:00+00:00,India,0.4034942035993942,2,1,hi,SAS,Asia
 '62084daeb0',extremes,Earthquake,#870007,random,भूकंप,2026-02-27T04:25:00+00:00,,0.4034387100063496,1,2,hi,,
 'ad551defe3',extremes,Earthquake,#870007,usgs,भूकंप नया बाजार,2026-02-27T04:25:00+00:00,India,0.3930113467633631,2,1,hi,TIB,Asia
@@ -69,10 +69,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '59b529f428',extremes,Thunderstorm,#53785a,random,ओलावृष्टि,2026-03-05T04:23:00+00:00,,0.3451393671964594,1,2,hi,,
 '0a8e5743d9',extremes,Landslide,#572c03,random,भूस्खलन,2026-02-17T04:30:00+00:00,,0.3255045411316914,2,1,hi,,
 '135f8534c2',extremes,Precipitation,#d60d2b,random,अधिक वर्षा,2026-03-05T04:23:00+00:00,,0.3232581050662705,2,1,hi,,
-'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,पारा गिरा,2026-03-12T04:25:00+00:00,,0.3202803280991449,0,1,hi,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,भारतीय गर्मी,2026-03-10T04:21:00+00:00,,0.3192602474518705,1,2,hi,,
-'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,रिकॉर्ड ठंड,2026-03-17T04:30:00+00:00,,0.3153327996790475,1,1,hi,,
-'83923f83ef',extremes,Storm,#b3b2b1,aidr,तूफ़ान ऑस्ट्रेलिया,2026-03-17T04:31:00+00:00,Australia,0.3133346984513983,0,1,hi,SAU,Oceania
 '81df5b3034',extremes,Storm,#b3b2b1,aidr,तूफान उत्तरी सिडनी ओलावृष्टि 2017,2026-03-06T04:21:00+00:00,,0.3132754658741309,0,1,hi,EAU,Oceania
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,गंभीर मौसम,2026-03-04T04:20:00+00:00,,0.3116623806491869,2,1,hi,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,तापमान में गिरावट,2026-02-12T04:36:00+00:00,,0.3113982718525999,1,2,hi,,
@@ -94,7 +91,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,तूफ़ान,2026-03-01T04:34:00+00:00,,0.2930876289116203,1,1,hi,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,मौसम सामने,2026-03-07T04:12:00+00:00,,0.2917823666235453,3,1,hi,,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,भूस्खलन,2026-03-15T04:44:00+00:00,,0.2881800582833336,1,1,hi,,
-'3e2894fd0c',extremes,Iceberg,#d60d2b,random,अंटार्कटिक समुद्री बर्फ,2026-03-17T04:30:00+00:00,,0.28697988599565816,1,1,hi,,
+'3e2894fd0c',extremes,Iceberg,#d60d2b,random,अंटार्कटिक समुद्री बर्फ,2026-03-17T04:30:00+00:00,,0.2869798859956581,1,1,hi,,
 '560b05d603',extremes,Heat Wave,#c40202,random,गर्मी की लहर,2026-03-17T04:30:00+00:00,,0.2866769151237006,1,1,hi,,
 'c948617fef',extremes,Heat Wave,#c40202,random,अत्यधिक गर्मी का जोखिम,2026-02-26T04:28:00+00:00,,0.2864978260503917,2,1,hi,,
 'f9a3abc8c2',extremes,Landslide,#572c03,random,कीचड़ का बहाव,2026-02-27T04:25:00+00:00,,0.2858436184113583,2,1,hi,,
@@ -109,9 +106,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '40f675561f',extremes,Heat Wave,#c40202,random,सबसे तेज़ गर्मी,2026-03-09T04:30:00+00:00,,0.2762463435359886,2,1,hi,,
 '7054c01ed8',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में बारिश की कमी,2026-02-25T04:33:00+00:00,United Arab Emirates,0.2748132300983911,3,1,hi,ARP,Asia
 '776fe47817',extremes,Wildfire,#d60d2b,random,जंगल की आग,2026-02-18T04:33:00+00:00,,0.2738338310533051,3,1,hi,,
+'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,पारा गिरा,2026-03-12T04:25:00+00:00,,0.27223827888427315,1,1,hi,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,रिकार्ड वर्षा,2026-02-16T04:37:00+00:00,,0.2717475939761631,2,1,hi,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,रिकॉर्ड गर्मी,2026-02-17T04:30:00+00:00,,0.2708475888672503,2,1,hi,,
+'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,रिकॉर्ड ठंड,2026-03-17T04:30:00+00:00,,0.26818289472719037,2,1,hi,,
 '0053afc92f',extremes,Volcano,#b83202,random,लहार,2026-02-27T04:25:00+00:00,,0.2674627628770998,2,1,hi,,
+'83923f83ef',extremes,Storm,#b3b2b1,aidr,तूफ़ान ऑस्ट्रेलिया,2026-03-17T04:31:00+00:00,Australia,0.2663344936836885,1,1,hi,SAU,Oceania
 'd59a7e48d7',extremes,Drought,#edc291,random,वाष्पीकरण-उत्सर्जन,2026-03-03T04:26:00+00:00,,0.2644156229343417,2,1,hi,,
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,तूफ़ान ब्राज़ील,2026-03-01T04:35:00+00:00,Brazil,0.2634937878133879,1,1,hi,SAM,South-America
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,ओले,2026-02-21T04:17:00+00:00,,0.2613183317547717,2,1,hi,,
