@@ -82,6 +82,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2096f9b691',extremes,Drought,#edc291,edo,बारिश की कमी भूटान,2026-03-10T04:22:00+00:00,Bhutan,0.3033168011484517,0,1,hi,TIB,Asia
 '0cdbf4ad8d',extremes,Snow&Ice,#d60d2b,wmo,ठंढा आइसलैंड,2026-03-07T04:12:00+00:00,Iceland,0.3028560460190475,0,1,hi,GIC,Europe
 'dbc5704393',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश मलावी,2026-03-15T04:45:00+00:00,Malawi,0.3025800196311244,0,1,hi,ESAF,Africa
+'f1e7b52954',extremes,Flood,#030ba1,wmo,फ्लैशफ्लड लातविया,2026-02-28T04:07:00+00:00,Latvia,0.3025368911535508,0,1,hi,WCE,Europe
+'300c9d7114',extremes,Snow&Ice,#d60d2b,wmo,बर्फ उत्तर पश्चिमी आइसलैंड,2026-03-10T04:22:00+00:00,Iceland,0.30248682817919986,0,1,hi,GIC,Europe
+'a042df04f6',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश थाईलैंड,2026-03-12T04:26:00+00:00,Thailand,0.3024270172917733,0,1,hi,SEA,Asia
+'b1d851a406',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल एल बयाध,2026-03-02T04:27:00+00:00,Algeria,0.3023644376620933,0,1,hi,SAH,Africa
+'6b471a0f5b',extremes,Storm,#b3b2b1,wmo,दक्षिण अफ़्रीका में तूफ़ान की लहर,2026-03-01T04:35:00+00:00,South Africa,0.30236060159049816,0,1,hi,WSAF,Africa
+'eec215cb6d',extremes,Heat Wave,#c40202,wmo,हीट वेव क्षेत्र 2 - गंभीर,2026-03-04T04:20:00+00:00,Paraguay,0.30232783882249603,0,1,hi,SES,South-America
+'2267094058',extremes,Snow&Ice,#d60d2b,wmo,बर्फ न्यूजीलैंड,2026-03-01T04:35:00+00:00,New Zealand,0.3022835942248303,0,1,hi,NZ,Oceania
+'41a496b9d7',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम लेटसेमेंग कॉफ़ीफ़ोन्टेन,2026-03-01T04:35:00+00:00,South Africa,0.3022740520665376,0,1,hi,WSAF,Africa
+'dfbb2a2a1d',extremes,Drought,#edc291,edo,उरुग्वे में बारिश की कमी,2026-02-28T04:07:00+00:00,Uruguay,0.3022365944249418,0,1,hi,SES,South-America
+'530909dfe4',extremes,Heat Wave,#c40202,wmo,हीट वेव रूस,2026-03-02T04:27:00+00:00,Russia,0.3022352723239532,0,1,hi,ESB,Europe
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,तूफ़ान,2026-02-26T04:28:00+00:00,,0.3016224682279067,2,1,hi,,
 '82fd55b965',extremes,Drought,#edc291,edo,भारत में सूखा,2026-03-10T04:22:00+00:00,India,0.2994565342896298,3,1,hi,SAS,Asia
 '595acbcf9f',extremes,Heat Wave,#c40202,random,सबसे गर्म दिन,2026-02-15T04:34:00+00:00,,0.2983947001013904,2,1,hi,,
@@ -106,10 +116,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '40f675561f',extremes,Heat Wave,#c40202,random,सबसे तेज़ गर्मी,2026-03-09T04:30:00+00:00,,0.2762463435359886,2,1,hi,,
 '7054c01ed8',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में बारिश की कमी,2026-02-25T04:33:00+00:00,United Arab Emirates,0.2748132300983911,3,1,hi,ARP,Asia
 '776fe47817',extremes,Wildfire,#d60d2b,random,जंगल की आग,2026-02-18T04:33:00+00:00,,0.2738338310533051,3,1,hi,,
-'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,पारा गिरा,2026-03-12T04:25:00+00:00,,0.27223827888427315,1,1,hi,,
+'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,पारा गिरा,2026-03-12T04:25:00+00:00,,0.2722382788842731,1,1,hi,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,रिकार्ड वर्षा,2026-02-16T04:37:00+00:00,,0.2717475939761631,2,1,hi,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,रिकॉर्ड गर्मी,2026-02-17T04:30:00+00:00,,0.2708475888672503,2,1,hi,,
-'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,रिकॉर्ड ठंड,2026-03-17T04:30:00+00:00,,0.26818289472719037,2,1,hi,,
+'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,रिकॉर्ड ठंड,2026-03-17T04:30:00+00:00,,0.2681828947271903,2,1,hi,,
 '0053afc92f',extremes,Volcano,#b83202,random,लहार,2026-02-27T04:25:00+00:00,,0.2674627628770998,2,1,hi,,
 '83923f83ef',extremes,Storm,#b3b2b1,aidr,तूफ़ान ऑस्ट्रेलिया,2026-03-17T04:31:00+00:00,Australia,0.2663344936836885,1,1,hi,SAU,Oceania
 'd59a7e48d7',extremes,Drought,#edc291,random,वाष्पीकरण-उत्सर्जन,2026-03-03T04:26:00+00:00,,0.2644156229343417,2,1,hi,,
