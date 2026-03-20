@@ -55,7 +55,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bd21048a6a',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-03-04T04:21:00+00:00,United Arab Emirates,0.4036794309695353,1,1,hi,ARP,Asia
 '951569280f',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि गुम्मगट्टा मंडल,2026-03-17T04:30:00+00:00,India,0.4034942035993942,2,1,hi,SAS,Asia
 '62084daeb0',extremes,Earthquake,#870007,random,भूकंप,2026-02-27T04:25:00+00:00,,0.4034387100063496,1,2,hi,,
-'256519f3eb',extremes,Storm,#b3b2b1,wmo,तूफान साखिनेटिपल्ले नरसापुरम मंडल,2026-03-19T04:35:00+00:00,India,0.39812909070852376,2,1,hi,SAS,Asia
+'256519f3eb',extremes,Storm,#b3b2b1,wmo,तूफान साखिनेटिपल्ले नरसापुरम मंडल,2026-03-19T04:35:00+00:00,India,0.3981290907085237,2,1,hi,SAS,Asia
 'ad551defe3',extremes,Earthquake,#870007,usgs,भूकंप नया बाजार,2026-02-27T04:25:00+00:00,India,0.3930113467633631,2,1,hi,TIB,Asia
 'c62fbce176',extremes,Wildfire,#d60d2b,wmo,जंगल की आग हिमाचल प्रदेश,2026-03-11T04:22:00+00:00,India,0.3920604096743648,3,1,hi,SAS,Asia
 'b52307201b',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम हुकुमपेटा मंडल,2026-03-16T05:05:00+00:00,India,0.3870873449105519,2,1,hi,SAS,Asia
@@ -73,6 +73,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '053bb10e09',extremes,Heat Wave,#c40202,random,भारतीय गर्मी,2026-03-10T04:21:00+00:00,,0.3192602474518705,1,2,hi,,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,गंभीर मौसम,2026-03-04T04:20:00+00:00,,0.3116623806491869,2,1,hi,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,तापमान में गिरावट,2026-02-12T04:36:00+00:00,,0.3113982718525999,1,2,hi,,
+'7df06bbaca',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय चक्रवात नरेल्ले,2026-03-19T04:35:00+00:00,,0.3017998525163985,0,1,hi,SPO,Pacific Ocean
+'4079790e60',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल कॉर्डोबा ग्राल रोका रियो कुआर्टो।,2026-03-02T04:27:00+00:00,Argentina,0.3017892342826407,0,1,hi,SES,South-America
+'a0c7ef0ee4',extremes,Cold Wave,#a7e9fa,wmo,शीत लहर बोले,2026-03-13T04:25:00+00:00,China,0.3017128989307816,0,1,hi,EAS,Asia
+'5a36105e4d',extremes,Snow&Ice,#d60d2b,wmo,जमा देने वाला स्विट्ज़रलैंड,2026-03-13T04:25:00+00:00,Switzerland,0.3017065406582078,0,1,hi,WCE,Europe
+'f9537ece5c',extremes,Iceberg,#d60d2b,eonet,हिमशैल c18c,2026-03-06T04:21:00+00:00,,0.30169822652692535,0,1,hi,EAN,
+'72f5c4a92f',extremes,Landslide,#572c03,wmo,लुशान शहर में चट्टानें खिसकना,2026-03-02T04:27:00+00:00,China,0.30168946150514997,0,1,hi,EAS,Asia
+'6914a1f869',extremes,Snow Avalanche,#deddd5,wmo,ओफ़ोटेन और ट्रोम्स के दक्षिणी भागों में हिमस्खलन,2026-03-18T04:36:00+00:00,Norway,0.3016881380934522,0,1,hi,NEU,Europe
+'5f8393ea03',extremes,Storm,#b3b2b1,wmo,तूफ़ान वृद्धि लिटोरल वाई एस्ट्रिबेशन,2026-03-12T04:26:00+00:00,Ecuador,0.30168639537246894,0,1,hi,NWS,South-America
+'9a99aaf69a',extremes,Snow&Ice,#d60d2b,wmo,जमने वाली ईस्टफ़जॉर्ड्स,2026-03-02T04:27:00+00:00,Iceland,0.3016475953922032,0,1,hi,GIC,Europe
+'d46c388af4',extremes,Tropical Cyclone,#4f4f4f,aidr,उष्णकटिबंधीय चक्रवात डेबी क्वींसलैंड 2017,2026-03-03T04:27:00+00:00,Australia,0.3016449227582043,0,1,hi,EAU,Oceania
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,तूफ़ान,2026-02-26T04:28:00+00:00,,0.3016224682279067,2,1,hi,,
 '82fd55b965',extremes,Drought,#edc291,edo,भारत में सूखा,2026-03-10T04:22:00+00:00,India,0.2994565342896298,3,1,hi,SAS,Asia
 'a5ff1cde4a',extremes,Drought,#edc291,random,मिट्टी की नमी,2026-02-22T04:30:00+00:00,,0.2982095747158998,3,1,hi,,
