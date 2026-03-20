@@ -1,6 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'fc335e869f',extremes,Thunderstorm,#53785a,wmo,तूफ़ान भारत,2026-02-18T04:34:00+00:00,India,0.4898020133758368,2,1,hi,SAS,Asia
-'4093195155',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल भारत,2026-02-18T04:34:00+00:00,India,0.4889841523725882,2,1,hi,SAS,Asia
 '6dbe18bed3',extremes,Wildfire,#d60d2b,wmo,जंगल की आग तेलंगाना,2026-02-21T04:18:00+00:00,India,0.4886541742762991,2,1,hi,SAS,Asia
 'e43a127d61',extremes,Cold Wave,#a7e9fa,wmo,शीत लहर जोशीमठ,2026-02-18T04:34:00+00:00,India,0.4878907831202812,2,1,hi,SAS,Asia
 '7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,जंगल की आग भारत,2026-03-04T04:20:00+00:00,India,0.486770760038332,2,1,hi,SAS,Asia
@@ -26,7 +24,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9d230a1c12',extremes,Snow&Ice,#d60d2b,wmo,आइस इंडिया,2026-03-13T04:25:00+00:00,India,0.4575012716912143,2,1,hi,SAS,Asia
 '20741ce7eb',extremes,Tsunami,#690191,random,सुनामी,2026-02-28T04:07:00+00:00,,0.4567554145628135,1,2,hi,,
 'a8ed721e08',extremes,Fog,#d60d2b,wmo,कोहरा भारत,2026-03-02T04:27:00+00:00,India,0.4405180339707055,3,1,hi,SAS,Asia
-'35bd62c5a9',extremes,Drought,#edc291,edo,भारत में सूखा,2026-03-11T04:22:00+00:00,India,0.4373488552331931,1,1,hi,SAS,Asia
 '31ec217938',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम रायदुर्ग मंडल,2026-03-17T04:30:00+00:00,India,0.4364785905778244,2,1,hi,SAS,Asia
 '7c5b048241',extremes,Thunderstorm,#53785a,wmo,तूफ़ान जी मदुगुला मंडल,2026-03-17T04:30:00+00:00,India,0.4341082574809423,2,1,hi,SAS,Asia
 '60bddf3351',extremes,Drought,#edc291,edo,भारत में वर्षा की कमी,2026-03-04T04:21:00+00:00,India,0.4310316634030817,2,1,hi,SAS,Asia
@@ -39,6 +36,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,शीत लहर,2026-03-12T04:25:00+00:00,,0.42020903420227,1,2,hi,,
 '1924a5d780',extremes,Thunderstorm,#53785a,wmo,रायदुर्ग मंडल में ओलावृष्टि,2026-03-17T04:30:00+00:00,India,0.4175966085122033,2,1,hi,SAS,Asia
 '01eb136e2a',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि देवारापल्ले1 दत्तिरजेरु मंडल,2026-03-17T04:30:00+00:00,India,0.4172114740832738,2,1,hi,SAS,Asia
+'fc335e869f',extremes,Thunderstorm,#53785a,wmo,तूफ़ान भारत,2026-02-18T04:34:00+00:00,India,0.41633171136946123,3,1,hi,SAS,Asia
+'4093195155',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल भारत,2026-02-18T04:34:00+00:00,India,0.41563652951669994,3,1,hi,SAS,Asia
 '3ba3704a65',extremes,Thunderstorm,#53785a,wmo,तूफ़ान कणेकल मंडल,2026-03-17T04:30:00+00:00,India,0.4140640614149997,2,1,hi,SAS,Asia
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,औषधि,2026-02-11T04:41:00+00:00,,0.4140204589211476,1,2,hi,,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,सबसे कम न्यूनतम तापमान,2026-03-13T04:24:00+00:00,,0.4137250712736507,2,1,hi,,
@@ -61,6 +60,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडी सर्दी,2026-03-01T04:34:00+00:00,,0.373974377493758,2,2,hi,,
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,न्यूजीलैंड में भारी बारिश,2026-02-10T04:43:00+00:00,New Zealand,0.3726705894020156,2,2,hi,NZ,Oceania
 '84febdd06c',extremes,Thunderstorm,#53785a,random,तूफ़ान,2026-02-23T04:36:00+00:00,,0.3722120892853715,2,1,hi,,
+'35bd62c5a9',extremes,Drought,#edc291,edo,भारत में सूखा,2026-03-11T04:22:00+00:00,India,0.37204655694821415,2,1,hi,SAS,Asia
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,हिमस्खलन,2026-02-22T04:30:00+00:00,,0.3637775974098833,2,1,hi,,
 '622bd2c53e',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखापन,2026-03-07T04:13:00+00:00,United Arab Emirates,0.3578934731404582,1,1,hi,ARP,Asia
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,भारत में मूसलाधार वर्षा,2026-03-13T04:25:00+00:00,India,0.3569875962553002,3,1,hi,SAS,Asia
@@ -102,7 +102,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '74236bd182',extremes,Drought,#edc291,edo,आइसलैंड में बारिश की कमी,2026-03-03T04:27:00+00:00,Iceland,0.2606862529625613,1,1,hi,GIC,Europe
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश अर्जेंटीना,2026-02-27T04:26:00+00:00,Argentina,0.2604434417060022,1,1,hi,SES,South-America
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,बवंडर,2026-03-14T04:22:00+00:00,,0.2600436802081279,2,1,hi,,
-'dbc72b57f2',extremes,Heat Wave,#c40202,wmo,हीट वेव क्षेत्र 1 - गंभीर,2026-02-17T04:31:00+00:00,Paraguay,0.2599195539490846,1,1,hi,SES,South-America
 'c27e209239',extremes,Precipitation,#d60d2b,wmo,वर्षा माचे या मकोआ वा रुवुमा।,2026-02-26T04:29:00+00:00,Tanzania,0.2598356276326179,2,1,hi,SEAF,Africa
 '3421a57149',extremes,Storm,#b3b2b1,wmo,तूफ़ान इक्वाडोर,2026-02-17T04:31:00+00:00,Ecuador,0.2597609570904238,1,1,hi,NWS,South-America
 'a28c87399b',extremes,Heat Wave,#c40202,wmo,हीट वेव रेग. 4 प्रीकोर्डिलेरा,2026-02-18T04:34:00+00:00,Chile,0.2595304975825351,1,1,hi,SWS,South-America
@@ -110,7 +109,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'db0dc2e604',extremes,Precipitation,#d60d2b,wmo,वर्षा सेशेल्स,2026-03-12T04:26:00+00:00,Seychelles,0.2594939095267279,1,1,hi,EIO,Africa
 '3e44561d4c',extremes,Snow&Ice,#d60d2b,wmo,मोल्दोवा का बर्फ गणराज्य,2026-02-18T04:34:00+00:00,Republic of Moldova,0.2593272549832078,1,1,hi,WCE,Europe
 'e7eb516918',extremes,Snow&Ice,#d60d2b,wmo,मोल्दोवा का बर्फ गणराज्य,2026-02-18T04:34:00+00:00,Republic of Moldova,0.2593156886465473,1,1,hi,WCE,Europe
-'9bfe6adaf5',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन चेचन गणराज्य,2026-02-26T04:29:00+00:00,Russia,0.2592691266038304,1,1,hi,ESB,Europe
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल पराग्वे,2026-02-22T04:30:00+00:00,Paraguay,0.2592499327239946,1,1,hi,SES,South-America
 'fcc3f80d6b',extremes,Heat Wave,#c40202,wmo,हीट वेव पैराग्वे,2026-02-18T04:34:00+00:00,Paraguay,0.2592373206239165,1,1,hi,SES,South-America
 'c893beb51c',extremes,Snow&Ice,#d60d2b,wmo,बर्फ कुगारुक,2026-02-21T04:18:00+00:00,Canada,0.2592292565891439,1,1,hi,NEN,North-America
@@ -270,11 +268,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a0c7ef0ee4',extremes,Cold Wave,#a7e9fa,wmo,शीत लहर बोले,2026-03-13T04:25:00+00:00,China,0.2564559640911644,1,1,hi,EAS,Asia
 '5a36105e4d',extremes,Snow&Ice,#d60d2b,wmo,जमा देने वाला स्विट्ज़रलैंड,2026-03-13T04:25:00+00:00,Switzerland,0.2564505595594766,1,1,hi,WCE,Europe
 'f9537ece5c',extremes,Iceberg,#d60d2b,eonet,हिमशैल c18c,2026-03-06T04:21:00+00:00,,0.2564434925478865,1,1,hi,EAN,
-'72f5c4a92f',extremes,Landslide,#572c03,wmo,लुशान शहर में चट्टानें खिसकना,2026-03-02T04:27:00+00:00,China,0.25643604227937744,1,1,hi,EAS,Asia
-'6914a1f869',extremes,Snow Avalanche,#deddd5,wmo,ओफ़ोटेन और ट्रोम्स के दक्षिणी भागों में हिमस्खलन,2026-03-18T04:36:00+00:00,Norway,0.25643491737943436,1,1,hi,NEU,Europe
+'72f5c4a92f',extremes,Landslide,#572c03,wmo,लुशान शहर में चट्टानें खिसकना,2026-03-02T04:27:00+00:00,China,0.2564360422793774,1,1,hi,EAS,Asia
+'6914a1f869',extremes,Snow Avalanche,#deddd5,wmo,ओफ़ोटेन और ट्रोम्स के दक्षिणी भागों में हिमस्खलन,2026-03-18T04:36:00+00:00,Norway,0.2564349173794343,1,1,hi,NEU,Europe
 '5f8393ea03',extremes,Storm,#b3b2b1,wmo,तूफ़ान वृद्धि लिटोरल वाई एस्ट्रिबेशन,2026-03-12T04:26:00+00:00,Ecuador,0.2564334360665985,1,1,hi,NWS,South-America
 '9a99aaf69a',extremes,Snow&Ice,#d60d2b,wmo,जमने वाली ईस्टफ़जॉर्ड्स,2026-03-02T04:27:00+00:00,Iceland,0.2564004560833727,1,1,hi,GIC,Europe
-'d46c388af4',extremes,Tropical Cyclone,#4f4f4f,aidr,उष्णकटिबंधीय चक्रवात डेबी क्वींसलैंड 2017,2026-03-03T04:27:00+00:00,Australia,0.25639818434447365,1,1,hi,EAU,Oceania
+'d46c388af4',extremes,Tropical Cyclone,#4f4f4f,aidr,उष्णकटिबंधीय चक्रवात डेबी क्वींसलैंड 2017,2026-03-03T04:27:00+00:00,Australia,0.2563981843444736,1,1,hi,EAU,Oceania
 '9391f481ee',extremes,Storm,#b3b2b1,random,आँधी,2026-03-06T04:20:00+00:00,,0.2538168873473231,2,1,hi,,
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,मूसलाधार बारिश,2026-03-04T04:20:00+00:00,,0.2537557155623345,2,1,hi,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,वायुमंडलीय नदी,2026-02-28T04:07:00+00:00,,0.2533396499885864,2,1,hi,,
@@ -379,8 +377,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9f6910b9f3',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश सेशेल्स,2026-03-07T04:12:00+00:00,Seychelles,0.2205430580273071,2,1,hi,EIO,Africa
 '0c9a570bb1',extremes,Storm,#b3b2b1,aidr,बवंडर मुर्रे नदी टाउनशिप विक्टोरिया 2013,2026-02-26T04:29:00+00:00,Australia,0.2205321944927688,2,1,hi,SAU,Oceania
 'ca1f8ee565',extremes,Drought,#edc291,edo,नेपाल में सूखा,2026-03-04T04:21:00+00:00,Nepal,0.2204565539470954,2,1,hi,TIB,Asia
-'4299cdd13a',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल घाना,2026-02-18T04:34:00+00:00,Ghana,0.22045197138485984,2,1,hi,WAF,Africa
+'4299cdd13a',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल घाना,2026-02-18T04:34:00+00:00,Ghana,0.2204519713848598,2,1,hi,WAF,Africa
 '628c910b11',extremes,Flood,#030ba1,aidr,बाढ़ बाढ़ न्यू साउथ वेल्स 2022,2026-02-23T04:37:00+00:00,Australia,0.2203925603557904,2,1,hi,EAU,Oceania
+'9bfe6adaf5',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन चेचन गणराज्य,2026-02-26T04:29:00+00:00,Russia,0.22037875761325582,2,1,hi,ESB,Europe
 'f6d696437a',extremes,Snow&Ice,#d60d2b,wmo,दक्षिण आइसलैंड में ठंढ,2026-02-18T04:34:00+00:00,Iceland,0.2202601479853036,2,1,hi,GIC,Europe
 '5a404b2b5a',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश तंजानिया,2026-02-23T04:37:00+00:00,Tanzania,0.2202345255625019,2,1,hi,SEAF,Africa
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,कनाडा में बाढ़,2026-02-23T04:37:00+00:00,Canada,0.2198925449074496,2,1,hi,NEN,North-America
