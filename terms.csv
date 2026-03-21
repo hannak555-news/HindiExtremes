@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'90522631da',extremes,Precipitation,#d60d2b,wmo,वर्षा भारत,2026-03-20T04:26:00+00:00,India,0.5968478110215636,0,1,hi,SAS,Asia
+'90522631da',extremes,Precipitation,#d60d2b,wmo,वर्षा भारत,2026-03-20T04:26:00+00:00,India,0.507470654368329,1,1,hi,SAS,Asia
 '2556650bb0',extremes,Thunderstorm,#53785a,wmo,मध्य में ऊपर की ओर ओलावृष्टि,2026-03-20T04:26:00+00:00,India,0.5037001646385532,1,1,hi,SAS,Asia
 '6dbe18bed3',extremes,Wildfire,#d60d2b,wmo,जंगल की आग तेलंगाना,2026-02-21T04:18:00+00:00,India,0.4886541742762991,2,1,hi,SAS,Asia
 'e43a127d61',extremes,Cold Wave,#a7e9fa,wmo,शीत लहर जोशीमठ,2026-02-18T04:34:00+00:00,India,0.4878907831202812,2,1,hi,SAS,Asia
@@ -74,7 +74,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '053bb10e09',extremes,Heat Wave,#c40202,random,भारतीय गर्मी,2026-03-10T04:21:00+00:00,,0.3192602474518705,1,2,hi,,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,गंभीर मौसम,2026-03-04T04:20:00+00:00,,0.3116623806491869,2,1,hi,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,तापमान में गिरावट,2026-02-12T04:36:00+00:00,,0.3113982718525999,1,2,hi,,
-'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,वर्षा तंजानिया,2026-03-09T04:31:00+00:00,Tanzania,0.3038907413361917,0,1,hi,SEAF,Africa
 'fcb1daa9f9',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन तुवा गणराज्य,2026-03-19T04:35:00+00:00,Russia,0.3023499646538952,0,1,hi,ESB,Europe
 '9c373151bb',extremes,Storm,#b3b2b1,wmo,तूफ़ान क्षेत्र 1 - भीषण,2026-03-19T04:35:00+00:00,Paraguay,0.3023187912308874,0,1,hi,SES,South-America
 '9ede3b1c93',extremes,Heat Wave,#c40202,wmo,हीट वेव ऑरेंज काउंटी तटीय,2026-03-20T04:26:00+00:00,United States,0.3020459285221188,0,1,hi,CNA,North-America
@@ -101,7 +100,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '40f675561f',extremes,Heat Wave,#c40202,random,सबसे तेज़ गर्मी,2026-03-09T04:30:00+00:00,,0.2762463435359886,2,1,hi,,
 '7054c01ed8',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में बारिश की कमी,2026-02-25T04:33:00+00:00,United Arab Emirates,0.2748132300983911,3,1,hi,ARP,Asia
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,पारा गिरा,2026-03-12T04:25:00+00:00,,0.2722382788842731,1,1,hi,,
-'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडा दिन,2026-03-18T04:35:00+00:00,,0.27143486856433957,1,1,hi,,
+'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडा दिन,2026-03-18T04:35:00+00:00,,0.2714348685643395,1,1,hi,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,रिकॉर्ड गर्मी,2026-02-17T04:30:00+00:00,,0.2708475888672503,2,1,hi,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,रिकॉर्ड ठंड,2026-03-17T04:30:00+00:00,,0.2681828947271903,2,1,hi,,
 '0053afc92f',extremes,Volcano,#b83202,random,लहार,2026-02-27T04:25:00+00:00,,0.2674627628770998,2,1,hi,,
@@ -196,6 +195,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '883b43737e',extremes,Precipitation,#d60d2b,wmo,वर्षा कॉर्डोबा जुआरेज़ सेलमैन।,2026-02-19T04:32:00+00:00,Argentina,0.2583366796682775,1,1,hi,SES,South-America
 '994fe03563',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन स्लोवेनिया,2026-02-19T04:32:00+00:00,Slovenia,0.2583325026787067,1,1,hi,WCE,Europe
 '9330418237',extremes,Precipitation,#d60d2b,wmo,वर्षा उरुग्वे,2026-02-24T04:31:00+00:00,Uruguay,0.2583074072457606,1,1,hi,SES,South-America
+'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,वर्षा तंजानिया,2026-03-09T04:31:00+00:00,Tanzania,0.25830713013576295,1,1,hi,SEAF,Africa
 '0a54633be0',extremes,Drought,#edc291,edo,बारिश की कमी लक्ज़मबर्ग,2026-02-28T04:07:00+00:00,Luxembourg,0.2583009726957718,1,1,hi,WCE,Europe
 'a3bf116e36',extremes,Wildfire,#d60d2b,wmo,जंगल की आग मालोंग जिला,2026-02-16T04:38:00+00:00,China,0.2582734588072158,1,1,hi,EAS,Asia
 '9fb010255c',extremes,Precipitation,#d60d2b,wmo,वर्षा कॉर्डोबा ग्राल रोका रियो कुआर्टो।,2026-03-06T04:21:00+00:00,Argentina,0.2582630593943665,1,1,hi,SES,South-America
