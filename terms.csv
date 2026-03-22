@@ -82,6 +82,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f9dfdaae17',extremes,Precipitation,#d60d2b,wmo,सोलोमन द्वीप में मूसलाधार बारिश,2026-03-21T04:17:00+00:00,Solomon Islands,0.301653113678046,0,1,hi,EPO,Oceania
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,तूफ़ान,2026-02-26T04:28:00+00:00,,0.3016224682279067,2,1,hi,,
 'b2c023909a',extremes,Storm,#b3b2b1,wmo,तूफ़ान क्षेत्र 2 - मध्यम,2026-03-21T04:17:00+00:00,Paraguay,0.3014854858082922,0,1,hi,SES,South-America
+'68c777ad04',extremes,Heat Wave,#c40202,wmo,हीट वेव यावापई काउंटी घाटियाँ और घाटियाँ,2026-03-19T04:35:00+00:00,United States,0.30143919471314073,0,1,hi,CNA,North-America
+'f760624a54',extremes,Earthquake,#870007,usgs,भूकंप वैलेनार,2026-03-09T04:30:00+00:00,Chile,0.30143689096306525,0,1,hi,SWS,South-America
+'27fd81d198',extremes,Storm,#b3b2b1,wmo,तूफ़ान सोलोमन द्वीप,2026-03-21T04:17:00+00:00,Solomon Islands,0.3014366871381726,0,1,hi,EPO,Oceania
+'e52ebb2900',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश अल्जीरिया,2026-03-21T04:17:00+00:00,Algeria,0.3014269212765595,0,1,hi,SAH,Africa
+'816f369677',extremes,Heat Wave,#c40202,wmo,हीट वेव कैटालिना और सांता बारबरा द्वीप समूह,2026-03-20T04:26:00+00:00,United States,0.3014092667123609,0,1,hi,CNA,North-America
+'f872d27104',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन काबर्डिनो बल्कर गणराज्य,2026-03-01T04:35:00+00:00,Russia,0.3013948045499623,0,1,hi,ESB,Europe
+'be647fc7a4',extremes,Storm,#b3b2b1,wmo,इक्वेडोर में तूफ़ान की लहर,2026-03-09T04:31:00+00:00,Ecuador,0.3013524912942709,0,1,hi,NWS,South-America
+'9fc62ce49b',extremes,Earthquake,#870007,usgs,भूकंप एंगुइला,2026-03-20T04:26:00+00:00,Anguilla,0.30134924086952974,0,1,hi,NAO,Atlantic Ocean
+'aa37cddd19',extremes,Snow&Ice,#d60d2b,wmo,पूर्वोत्तर आइसलैंड में ठंढ,2026-03-11T04:22:00+00:00,Iceland,0.3012934122156923,0,1,hi,GIC,Europe
+'f471382829',extremes,Heat Wave,#c40202,wmo,हीट वेव सांता एना पहाड़ और तलहटी,2026-03-14T04:22:00+00:00,United States,0.30129335690138126,0,1,hi,CNA,North-America
 '82fd55b965',extremes,Drought,#edc291,edo,भारत में सूखा,2026-03-10T04:22:00+00:00,India,0.2994565342896298,3,1,hi,SAS,Asia
 'a5ff1cde4a',extremes,Drought,#edc291,random,मिट्टी की नमी,2026-02-22T04:30:00+00:00,,0.2982095747158998,3,1,hi,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,टिड्डियाँ,2026-03-08T04:24:00+00:00,,0.2962304529413387,2,1,hi,,
@@ -240,7 +250,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd865632948',extremes,Tropical Cyclone,#4f4f4f,aidr,उष्णकटिबंधीय चक्रवात ऑस्ट्रेलिया,2026-02-27T04:26:00+00:00,Australia,0.2575516213686201,1,1,hi,EAU,Oceania
 '8d1767f806',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल आइसलैंड,2026-02-27T04:26:00+00:00,Iceland,0.2575405902640496,1,1,hi,GIC,Europe
 '53fda39314',extremes,Drought,#edc291,edo,लिथुआनिया में बारिश की कमी,2026-03-04T04:21:00+00:00,Lithuania,0.2575339833091412,1,1,hi,WCE,Europe
-'0a64ea35d9',extremes,Tropical Cyclone,#4f4f4f,wmo,तूफान ऑस्ट्रेलिया,2026-03-17T04:30:00+00:00,Australia,0.25751598369803674,1,1,hi,CAU,Oceania
+'0a64ea35d9',extremes,Tropical Cyclone,#4f4f4f,wmo,तूफान ऑस्ट्रेलिया,2026-03-17T04:30:00+00:00,Australia,0.2575159836980367,1,1,hi,CAU,Oceania
 '432bab655c',extremes,Wildfire,#d60d2b,wmo,संयुक्त राज्य अमेरिका में जंगल की आग,2026-02-26T04:29:00+00:00,United States,0.2575016293139791,1,1,hi,CNA,North-America
 '7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,बर्फ आइसलैंड,2026-02-26T04:29:00+00:00,Iceland,0.2574982666706725,1,1,hi,GIC,Europe
 'b4368e26f0',extremes,Snow Avalanche,#deddd5,wmo,खकासिया गणराज्य का हिमस्खलन,2026-02-25T04:32:00+00:00,Russia,0.257494730402497,1,1,hi,ESB,Europe
