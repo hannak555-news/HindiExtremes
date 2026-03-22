@@ -77,7 +77,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,गंभीर मौसम,2026-03-04T04:20:00+00:00,,0.3116623806491869,2,1,hi,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,तापमान में गिरावट,2026-02-12T04:36:00+00:00,,0.3113982718525999,1,2,hi,,
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,जमने वाला कनाडा,2026-03-20T04:26:00+00:00,Canada,0.3049227973235697,0,1,hi,NEN,North-America
-'0a64ea35d9',extremes,Tropical Cyclone,#4f4f4f,wmo,तूफान ऑस्ट्रेलिया,2026-03-17T04:30:00+00:00,Australia,0.3027834925859256,0,1,hi,CAU,Oceania
 'd04f754034',extremes,Thunderstorm,#53785a,wmo,दक्षिण अफ़्रीका में तूफ़ान,2026-03-05T04:24:00+00:00,South Africa,0.3022376112572211,0,1,hi,WSAF,Africa
 'c332197203',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन इंद्रे सोगन,2026-03-04T04:20:00+00:00,Norway,0.3017476183613105,0,1,hi,NEU,Europe
 'f9dfdaae17',extremes,Precipitation,#d60d2b,wmo,सोलोमन द्वीप में मूसलाधार बारिश,2026-03-21T04:17:00+00:00,Solomon Islands,0.301653113678046,0,1,hi,EPO,Oceania
@@ -218,7 +217,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1073537f95',extremes,Landslide,#572c03,wmo,वेस्टलैंड फ़िल्के के चट्टानी हिस्से,2026-02-26T04:29:00+00:00,Norway,0.2579503828059035,1,1,hi,NEU,Europe
 '1ec98711db',extremes,Snow&Ice,#d60d2b,wmo,बर्फ आइसलैंड,2026-03-02T04:27:00+00:00,Iceland,0.2579358391857304,1,1,hi,GIC,Europe
 '9bd86172ae',extremes,Storm,#b3b2b1,wmo,तूफ़ान लिटोरल और एस्ट्रीबासिओन,2026-03-13T04:25:00+00:00,Ecuador,0.2579357952548026,1,1,hi,NWS,South-America
-'bd5d88d4fc',extremes,Flood,#030ba1,wmo,बाढ़ बोत्सवाना,2026-03-21T04:17:00+00:00,Botswana,0.25792868590337475,1,1,hi,WSAF,Africa
+'bd5d88d4fc',extremes,Flood,#030ba1,wmo,बाढ़ बोत्सवाना,2026-03-21T04:17:00+00:00,Botswana,0.2579286859033747,1,1,hi,WSAF,Africa
 'bf84083cec',extremes,Landslide,#572c03,wmo,नॉर्वे में भूस्खलन,2026-02-26T04:29:00+00:00,Norway,0.2579083350012032,1,1,hi,NEU,Europe
 'bf43374236',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश वानुअतु,2026-03-04T04:20:00+00:00,Vanuatu,0.2578993625595115,1,1,hi,SPO,Oceania
 'cda3b95773',extremes,Storm,#b3b2b1,wmo,तूफ़ान सऊदी अरब,2026-02-26T04:29:00+00:00,Saudi Arabia,0.2578899293064328,1,1,hi,ARP,Asia
@@ -241,6 +240,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd865632948',extremes,Tropical Cyclone,#4f4f4f,aidr,उष्णकटिबंधीय चक्रवात ऑस्ट्रेलिया,2026-02-27T04:26:00+00:00,Australia,0.2575516213686201,1,1,hi,EAU,Oceania
 '8d1767f806',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल आइसलैंड,2026-02-27T04:26:00+00:00,Iceland,0.2575405902640496,1,1,hi,GIC,Europe
 '53fda39314',extremes,Drought,#edc291,edo,लिथुआनिया में बारिश की कमी,2026-03-04T04:21:00+00:00,Lithuania,0.2575339833091412,1,1,hi,WCE,Europe
+'0a64ea35d9',extremes,Tropical Cyclone,#4f4f4f,wmo,तूफान ऑस्ट्रेलिया,2026-03-17T04:30:00+00:00,Australia,0.25751598369803674,1,1,hi,CAU,Oceania
 '432bab655c',extremes,Wildfire,#d60d2b,wmo,संयुक्त राज्य अमेरिका में जंगल की आग,2026-02-26T04:29:00+00:00,United States,0.2575016293139791,1,1,hi,CNA,North-America
 '7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,बर्फ आइसलैंड,2026-02-26T04:29:00+00:00,Iceland,0.2574982666706725,1,1,hi,GIC,Europe
 'b4368e26f0',extremes,Snow Avalanche,#deddd5,wmo,खकासिया गणराज्य का हिमस्खलन,2026-02-25T04:32:00+00:00,Russia,0.257494730402497,1,1,hi,ESB,Europe
