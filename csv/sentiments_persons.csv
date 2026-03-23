@@ -1,78 +1,148 @@
 ,phrase,label,sentiment,subjectivity,language,count
-AR Rahman,AR Rahman,PERSON,-0.0456349206349206,1.6398809523809526,en,2.8
+Jai Somnath,Jai Somnath,PERSON,0.0,0.0,en,3.4000000000000004
+Gautam Gambhir,Gautam Gambhir,PERSON,0.0,0.0,en,3.4000000000000004
+Jai Shah,Jai Shah,PERSON,-0.1552287581699346,0.5212418300653594,en,3.4000000000000004
+Bharat Mata ki Jai,Bharat Mata ki Jai,PERSON,0.0049019607843137246,0.009803921568627449,en,3.4000000000000004
+Suryakumar Yadav,Suryakumar Yadav,PERSON,0.13235294117647062,0.26470588235294124,en,3.3999999999999995
 Varun Dhawan,Varun Dhawan,PERSON,0.36607142857142855,0.5535714285714286,en,2.8
-Suryakumar Yadav,Suryakumar Yadav,PERSON,0.16071428571428573,0.32142857142857145,en,2.8
+AR Rahman,AR Rahman,PERSON,-0.0456349206349206,1.6398809523809526,en,2.8
 Bharat Mata Ki Jai,Bharat Mata Ki Jai,PERSON,0.0,0.019230769230769232,en,2.6
-Rahul Gandhi,Rahul Gandhi,PERSON,0.303030303030303,0.45454545454545453,en,2.2
+Rohit Sharma,Rohit Sharma,PERSON,0.0,0.13333333333333333,en,2.5
+Delhi AQI,Delhi AQI,PERSON,-0.47266666666666685,0.9440000000000002,en,2.4999999999999996
 Jagdambika Pal,Jagdambika Pal,PERSON,0.303030303030303,0.45454545454545453,en,2.2
-Rohit Sharma,Rohit Sharma,PERSON,0.0,0.1515151515151515,en,2.2
-Acharya Balkrishna,Acharya Balkrishna,PERSON,0.13157894736842105,0.4912280701754386,en,1.9
+Ishan Kishan,Ishan Kishan,PERSON,0.7727272727272726,0.9090909090909091,en,2.2
+Rahul Gandhi,Rahul Gandhi,PERSON,0.303030303030303,0.45454545454545453,en,2.2
+Sunny Deol,Sunny Deol,PERSON,0.42857142857142855,0.8571428571428571,en,2.1
+Choti Holi,Choti Holi,PERSON,0.0,0.0,en,1.9000000000000001
+Sheetala Ashtami,Sheetala Ashtami,PERSON,0.07894736842105264,1.2017543859649125,en,1.9000000000000001
 Methi Ladoo,Methi Ladoo,PERSON,0.2105263157894737,0.7631578947368423,en,1.9
-Delhi AQI,Delhi AQI,PERSON,-0.5342105263157896,0.9043859649122807,en,1.9
-Niagara Falls,Niagara Falls,PERSON,-0.20138888888888887,0.6597222222222222,en,1.8
-Gurugram Cold Wave,Gurugram Cold Wave,PERSON,-0.7083333333333333,1.1111111111111112,en,1.8
+Acharya Balkrishna,Acharya Balkrishna,PERSON,0.13157894736842105,0.4912280701754386,en,1.9
 Varsha Gaikwad,Varsha Gaikwad,PERSON,0.0,0.0,en,1.8
-Bharat Mata ki Jai,Bharat Mata ki Jai,PERSON,0.009259259259259259,0.018518518518518517,en,1.8
-Sunny Deol,Sunny Deol,PERSON,0.2777777777777778,0.4444444444444445,en,1.8
+Jay Shah,Jay Shah,PERSON,0.02777777777777777,0.25,en,1.8
+Gurugram Cold Wave,Gurugram Cold Wave,PERSON,-0.7083333333333333,1.1111111111111112,en,1.8
+Niagara Falls,Niagara Falls,PERSON,-0.20138888888888887,0.6597222222222222,en,1.8
+Shivraj Singh,Shivraj Singh,PERSON,0.0,0.0,en,1.8
+Jai Ho,Jai Ho,PERSON,0.06944444444444445,0.25925925925925924,en,1.8
+Sheetl Ashtami,Sheetl Ashtami,PERSON,0.0,0.0,en,1.6
 Girish Mahajan,Girish Mahajan,PERSON,0.0,0.10416666666666666,en,1.6
+Neena Gupta,Neena Gupta,PERSON,0.08854166666666666,0.21614583333333331,en,1.6
+Priya Bakshi,Priya Bakshi,PERSON,-0.35833333333333334,1.3708333333333333,en,1.6
+Vijay Deverakonda,Vijay Deverakonda,PERSON,0.5467032967032968,0.9029304029304029,en,1.3
+Akshay Oberoi,Akshay Oberoi,PERSON,-0.2692307692307692,0.9487179487179487,en,1.3
+Balendra Shah,Balendra Shah,PERSON,0.22494172494172499,0.5168997668997669,en,1.3
+Hania Aamir,Hania Aamir,PERSON,0.05769230769230769,0.10256410256410256,en,1.3
+Amitabh Bachchan,Amitabh Bachchan,PERSON,0.18919968919968919,0.7816627816627817,en,1.3
+Farhan Akhtar,Farhan Akhtar,PERSON,0.36217948717948717,0.7852564102564104,en,1.3
+Rashmika Mandanna,Rashmika Mandanna,PERSON,0.5467032967032968,0.9029304029304029,en,1.3
 Donald Trump,Donald Trump,PERSON,-0.07167832167832167,0.43181818181818177,en,1.3
 Saraswati Puja,Saraswati Puja,PERSON,-0.014245014245014252,0.43304843304843305,en,1.3
+Narendra Modi,Narendra Modi,PERSON,0.5,0.7307692307692307,en,1.3
+Vijay Hazare,Vijay Hazare,PERSON,0.0,0.0,en,1.0
+Shitala Ashtami,Shitala Ashtami,PERSON,0.0,0.0,en,1.0
+Ashtami Tithi,Ashtami Tithi,PERSON,0.35,0.75,en,1.0
+Vignesh Raja,Vignesh Raja,PERSON,0.0,0.0,en,1.0
+Abhijeet Bhattacharya,Abhijeet Bhattacharya,PERSON,0.5,1.0,en,1.0
+Hardik Pandya,Hardik Pandya,PERSON,0.0,0.0,en,1.0
+Jai Bhattacharya,Jai Bhattacharya,PERSON,-0.08333333333333333,0.25,en,1.0
+Sharif Usman Hadi,Sharif Usman Hadi,PERSON,0.0,0.6,en,1.0
+Sudha Gautamle,Sudha Gautamle,PERSON,0.27777777777777773,0.3972222222222222,en,1.0
+Holika Dahan,Holika Dahan,PERSON,0.0,0.0,en,1.0
+Benjamin Netanyahu,Benjamin Netanyahu,PERSON,0.0,0.0,en,1.0
+Rashtriya Swayamsevak Sangh,Rashtriya Swayamsevak Sangh,PERSON,0.0,0.0,en,1.0
+Sunil Ambekar Sangh,Sunil Ambekar Sangh,PERSON,0.0,0.125,en,1.0
+Sheetla Mata,Sheetla Mata,PERSON,0.0,0.0,en,1.0
+Jai India,Jai India,PERSON,0.0,0.0,en,1.0
+Jai Palestine,Jai Palestine,PERSON,0.0,0.0,en,1.0
+Jharkhand Plane Crash,Jharkhand Plane Crash,PERSON,0.0,0.0,en,1.0
+England Vs,England Vs,PERSON,0.13636363636363635,0.5,en,1.0
+Shibani Dandekar,Shibani Dandekar,PERSON,0.2833333333333333,0.5833333333333334,en,1.0
+Farhan Akhtar-Shibani Dandekar,Farhan Akhtar-Shibani Dandekar,PERSON,0.175,0.625,en,1.0
+Sanjay Leela Bhansali,Sanjay Leela Bhansali,PERSON,0.0,0.0,en,1.0
+Somnath Temple,Somnath Temple,PERSON,0.0,0.0,en,1.0
+Mother Sheetla,Mother Sheetla,PERSON,0.0,0.0,en,1.0
+Anand Vihar,Anand Vihar,PERSON,0.0,0.0,en,1.0
+Mata Shitala,Mata Shitala,PERSON,-0.125,0.375,en,1.0
+Kareena Kapoor,Kareena Kapoor,PERSON,0.5,0.5,en,1.0
+Anupama Spoiler,Anupama Spoiler,PERSON,0.0,0.1,en,1.0
+Hind Mahasa,Hind Mahasa,PERSON,0.0,0.0,en,1.0
+Mother Sheetala,Mother Sheetala,PERSON,-0.15,0.55,en,1.0
+Basoda Puja,Basoda Puja,PERSON,-0.15,0.55,en,1.0
+Mata Sheetala,Mata Sheetala,PERSON,-0.09999999999999999,0.5333333333333333,en,1.0
+Kirti Azad,Kirti Azad,PERSON,0.016666666666666666,0.03333333333333333,en,1.0
+Harbhajan Singh,Harbhajan Singh,PERSON,-0.5,1.0,en,1.0
+Aditya Dhar,Aditya Dhar,PERSON,0.0,0.0,en,1.0
+Gopal Varma,Gopal Varma,PERSON,0.0,0.0,en,1.0
+Vicky Kaushal,Vicky Kaushal,PERSON,0.5,0.5,en,1.0
+Alia Bhatt,Alia Bhatt,PERSON,0.5,0.5,en,1.0
+Shahrukh Khan,Shahrukh Khan,PERSON,0.5,0.5,en,1.0
+Somnath temple,Somnath temple,PERSON,0.0,0.0,en,1.0
+Ajit Agarkar,Ajit Agarkar,PERSON,0.0,0.0,en,1.0
+VVS Laxman,VVS Laxman,PERSON,0.0,0.0,en,1.0
+Rahul Dravid,Rahul Dravid,PERSON,0.0,0.0,en,1.0
+Tu Meri Main,Tu Meri Main,PERSON,0.10833333333333334,0.5416666666666666,en,1.0
+Karan Johar,Karan Johar,PERSON,0.575,0.575,en,1.0
+Anushka Sharma,Anushka Sharma,PERSON,0.575,0.575,en,1.0
+Jio Hotstar,Jio Hotstar,PERSON,0.0,1.0,en,1.0
+Virat Kohli,Virat Kohli,PERSON,0.225,0.925,en,1.0
+Jai Jai,Jai Jai,PERSON,0.0,0.0,en,1.0
+Lord Ram,Lord Ram,PERSON,0.0,0.0,en,1.0
+Ranbir Kapoor,Ranbir Kapoor,PERSON,0.0,0.0,en,1.0
+Mahmud Ghaznavi,Mahmud Ghaznavi,PERSON,0.0,0.0,en,1.0
+Gorakh Aidi,Gorakh Aidi,PERSON,0.0,0.0,en,1.0
+Priyanshu Molia,Priyanshu Molia,PERSON,0.4,1.0,en,1.0
+Mohsin Naqvi,Mohsin Naqvi,PERSON,0.0,0.1,en,1.0
 Assam BJP,Assam BJP,PERSON,0.325,0.525,en,1.0
+Puffer Jacket,Puffer Jacket,PERSON,0.0,0.0,en,1.0
+PM Modi,PM Modi,PERSON,0.0,0.0,en,1.0
+West Bengal,West Bengal,PERSON,-0.016666666666666663,0.35000000000000003,en,1.0
+Abhishek Banerjee,Abhishek Banerjee,PERSON,0.05000000000000002,0.5,en,1.0
 Indira Gandhi,Indira Gandhi,PERSON,-0.16666666666666666,0.43333333333333335,en,1.0
 Rain Alert,Rain Alert,PERSON,0.0,0.0,en,1.0
 Kalka ji,Kalka ji,PERSON,0.0,0.0,en,1.0
-Narendra Modi,Narendra Modi,PERSON,0.65,0.95,en,1.0
-PM Modi,PM Modi,PERSON,0.0,0.0,en,1.0
 Fenugreek Ladoo,Fenugreek Ladoo,PERSON,0.6,0.8,en,1.0
-Puffer Jacket,Puffer Jacket,PERSON,0.0,0.0,en,1.0
-Motilal Oswal,Motilal Oswal,PERSON,0.0,0.0,en,1.0
-Assam BJP AI,Assam BJP AI,PERSON,0.275,0.475,en,1.0
-the Lok Sabha,the Lok Sabha,PERSON,0.3333333333333333,0.5,en,1.0
-Navneet Damani,Navneet Damani,PERSON,0.0,0.0,en,1.0
-rittai farkio,rittai farkio,PERSON,0.0,0.0,en,1.0
-Darchulaco Naugad Municipality-1,Darchulaco Naugad Municipality-1,PERSON,0.0,0.0,en,1.0
-Chandra Soudley,Chandra Soudley,PERSON,0.2,0.4083333333333333,en,1.0
-Mahesh Babu,Mahesh Babu,PERSON,0.0,0.0,en,1.0
-Abhishek Nama,Abhishek Nama,PERSON,0.2,0.2,en,1.0
-Virat Karna,Virat Karna,PERSON,0.0,0.0,en,1.0
-Kishore Annapureddy,Kishore Annapureddy,PERSON,0.0,0.0,en,1.0
-Nishita Nagi,Nishita Nagi,PERSON,0.0,0.0,en,1.0
-Ishan Kishan,Ishan Kishan,PERSON,0.16666666666666666,0.3333333333333333,en,1.0
-Abhishek Sharma,Abhishek Sharma,PERSON,0.5,0.5,en,1.0
-Tilak Verma,Tilak Verma,PERSON,0.5,0.5,en,1.0
-Gorakh Aidi,Gorakh Aidi,PERSON,0.0,0.0,en,1.0
-M Nazmul Islam,M Nazmul Islam,PERSON,0.55,0.95,en,1.0
-Panchami Tithi,Panchami Tithi,PERSON,0.0,0.0,en,1.0
-Neeraj Ghaywan,Neeraj Ghaywan,PERSON,0.3333333333333333,0.43333333333333335,en,1.0
-Abhishek Banerjee,Abhishek Banerjee,PERSON,0.05000000000000002,0.5,en,1.0
-Tu Meri Main,Tu Meri Main,PERSON,0.10833333333333334,0.5416666666666666,en,1.0
-Anand Vihar,Anand Vihar,PERSON,0.0,0.0,en,1.0
-Sudha Gautamle,Sudha Gautamle,PERSON,0.27777777777777773,0.3972222222222222,en,1.0
-Sharif Usman Hadi,Sharif Usman Hadi,PERSON,0.0,0.6,en,1.0
-Vijay Hazare,Vijay Hazare,PERSON,0.0,0.0,en,1.0
-Hardik Pandya,Hardik Pandya,PERSON,0.0,0.0,en,1.0
-Priyanshu Molia,Priyanshu Molia,PERSON,0.4,1.0,en,1.0
-Jitesh Sharma,Jitesh Sharma,PERSON,0.4,1.0,en,1.0
-Jai Shah,Jai Shah,PERSON,0.0,0.0,en,1.0
-Jay Shah Rohit Sharma,Jay Shah Rohit Sharma,PERSON,0.0,0.0,en,1.0
-Jay Shah,Jay Shah,PERSON,0.0,0.0,en,1.0
-Aaj Ki,Aaj Ki,PERSON,-0.04999999999999999,0.85,en,1.0
-Mohsin Naqvi,Mohsin Naqvi,PERSON,0.0,0.1,en,1.0
-West Bengal,West Bengal,PERSON,-0.016666666666666663,0.35000000000000003,en,1.0
 Sun God,Sun God,PERSON,0.0,0.0,en,1.0
-Magh Shukla Panchami,Magh Shukla Panchami,PERSON,0.35,0.75,en,1.0
 Elon Musk,Elon Musk,PERSON,0.4000000000000001,0.9,en,1.0
 Kara Poster Release,Kara Poster Release,PERSON,0.22878787878787876,0.2626262626262626,en,1.0
+M Nazmul Islam,M Nazmul Islam,PERSON,0.55,0.95,en,1.0
 Tere Ishq Mein,Tere Ishq Mein,PERSON,0.22878787878787876,0.2626262626262626,en,1.0
-Vignesh Raja,Vignesh Raja,PERSON,0.0,0.0,en,1.0
-Vishal Mishra,Vishal Mishra,PERSON,0.0,0.0,en,1.0
-Manoj Tiwari,Manoj Tiwari,PERSON,0.0,0.1,en,1.0
-Shubman Gill,Shubman Gill,PERSON,0.0,0.0,en,1.0
-Chinmayi Sripada,Chinmayi Sripada,PERSON,-0.5,0.9,en,1.0
-Meera Chopra,Meera Chopra,PERSON,-0.5,0.9,en,1.0
-Jai Shri Ram,Jai Shri Ram,PERSON,-0.125,0.125,en,1.0
-Pudhu Vellai Mazhai,Pudhu Vellai Mazhai,PERSON,-0.3333333333333333,0.6666666666666666,en,1.0
-Kartik Aryan,Kartik Aryan,PERSON,0.10833333333333334,0.5416666666666666,en,1.0
-Magh Shukla Paksha,Magh Shukla Paksha,PERSON,0.0,0.0,en,1.0
+Neeraj Ghaywan,Neeraj Ghaywan,PERSON,0.3333333333333333,0.43333333333333335,en,1.0
+Magh Shukla Panchami,Magh Shukla Panchami,PERSON,0.35,0.75,en,1.0
 Mother Saraswati,Mother Saraswati,PERSON,0.0,0.0,en,1.0
+Magh Shukla Paksha,Magh Shukla Paksha,PERSON,0.0,0.0,en,1.0
+Panchami Tithi,Panchami Tithi,PERSON,0.0,0.0,en,1.0
+Pudhu Vellai Mazhai,Pudhu Vellai Mazhai,PERSON,-0.3333333333333333,0.6666666666666666,en,1.0
+Jai Shri Ram,Jai Shri Ram,PERSON,-0.125,0.125,en,1.0
+Meera Chopra,Meera Chopra,PERSON,-0.5,0.9,en,1.0
+Chinmayi Sripada,Chinmayi Sripada,PERSON,-0.5,0.9,en,1.0
+Shubman Gill,Shubman Gill,PERSON,0.0,0.0,en,1.0
+Manoj Tiwari,Manoj Tiwari,PERSON,0.0,0.1,en,1.0
+Assam BJP AI,Assam BJP AI,PERSON,0.275,0.475,en,1.0
+Aaj Ki,Aaj Ki,PERSON,-0.04999999999999999,0.85,en,1.0
 Toliko Jumli Dandasamm,Toliko Jumli Dandasamm,PERSON,0.0,0.0,en,1.0
+the Lok Sabha,the Lok Sabha,PERSON,0.3333333333333333,0.5,en,1.0
+Vishal Mishra,Vishal Mishra,PERSON,0.0,0.0,en,1.0
+Emmanuel Macron,Emmanuel Macron,PERSON,0.0,0.0,en,1.0
+Ananth Raj,Ananth Raj,PERSON,0.0,0.0,en,1.0
+Tilak Verma,Tilak Verma,PERSON,0.5,0.5,en,1.0
+Abhishek Sharma,Abhishek Sharma,PERSON,0.5,0.5,en,1.0
+Jitesh Sharma,Jitesh Sharma,PERSON,0.4,1.0,en,1.0
+Jay Shah Rohit Sharma,Jay Shah Rohit Sharma,PERSON,0.0,0.0,en,1.0
+Bharat Mandapam,Bharat Mandapam,PERSON,0.13636363636363635,0.45454545454545453,en,1.0
+Salman Ali Aga,Salman Ali Aga,PERSON,0.0,0.0,en,1.0
+Wasim Akram,Wasim Akram,PERSON,0.0,0.0,en,1.0
+Anupam Kher,Anupam Kher,PERSON,0.35,0.75,en,1.0
+Arjun Rampal,Arjun Rampal,PERSON,0.35,0.75,en,1.0
+Asim Azhar,Asim Azhar,PERSON,0.041666666666666664,0.06666666666666667,en,1.0
+Kartik Aryan,Kartik Aryan,PERSON,0.10833333333333334,0.5416666666666666,en,1.0
+Nishita Nagi,Nishita Nagi,PERSON,0.0,0.0,en,1.0
+Kishore Annapureddy,Kishore Annapureddy,PERSON,0.0,0.0,en,1.0
+Virat Karna,Virat Karna,PERSON,0.0,0.0,en,1.0
+Abhishek Nama,Abhishek Nama,PERSON,0.2,0.2,en,1.0
+Mahesh Babu,Mahesh Babu,PERSON,0.0,0.0,en,1.0
+Jensen Huang,Jensen Huang,PERSON,0.0,0.4,en,1.0
+Chandra Soudley,Chandra Soudley,PERSON,0.2,0.4083333333333333,en,1.0
+Darchulaco Naugad Municipality-1,Darchulaco Naugad Municipality-1,PERSON,0.0,0.0,en,1.0
+rittai farkio,rittai farkio,PERSON,0.0,0.0,en,1.0
+Navneet Damani,Navneet Damani,PERSON,0.0,0.0,en,1.0
+Motilal Oswal,Motilal Oswal,PERSON,0.0,0.0,en,1.0
+Niti Vihar,Niti Vihar,PERSON,0.0,1.0,en,1.0
