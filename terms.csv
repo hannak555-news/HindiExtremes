@@ -1,7 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'5aac2a6d30',extremes,Storm,#b3b2b1,wmo,तूफ़ान भारत,2026-03-15T04:45:00+00:00,India,0.6675974675066451,0,1,hi,SAS,Asia
-'9e25a471df',extremes,Snow Avalanche,#deddd5,wmo,सिक्किम के मंगन जिले में हिमस्खलन,2026-03-23T04:42:00+00:00,India,0.6671476734722216,0,1,hi,SAS,Asia
-'c95e885889',extremes,Thunderstorm,#53785a,wmo,भारत में गंभीर मौसम,2026-03-13T04:25:00+00:00,India,0.6462352115863806,0,1,hi,SAS,Asia
+'c95e885889',extremes,Thunderstorm,#53785a,wmo,भारत में गंभीर मौसम,2026-03-13T04:25:00+00:00,India,0.5873999898484236,1,1,hi,SAS,Asia
+'5aac2a6d30',extremes,Storm,#b3b2b1,wmo,तूफ़ान भारत,2026-03-15T04:45:00+00:00,India,0.5674578473806483,1,1,hi,SAS,Asia
+'9e25a471df',extremes,Snow Avalanche,#deddd5,wmo,सिक्किम के मंगन जिले में हिमस्खलन,2026-03-23T04:42:00+00:00,India,0.5670755224513884,1,1,hi,SAS,Asia
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,तूफ़ान भारत,2026-03-14T04:22:00+00:00,India,0.5348366969172423,1,1,hi,SAS,Asia
 '90522631da',extremes,Precipitation,#d60d2b,wmo,वर्षा भारत,2026-03-20T04:26:00+00:00,India,0.507470654368329,1,1,hi,SAS,Asia
 'ff7862e348',extremes,Drought,#edc291,edo,सूखापन भारत,2026-03-08T04:24:00+00:00,India,0.4959695558546269,1,1,hi,SAS,Asia
@@ -70,7 +70,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,आंधी तूफान,2026-03-16T05:04:00+00:00,,0.3470356427078094,2,2,hi,,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,सबसे गर्म वर्ष,2026-03-12T04:25:00+00:00,,0.3467627219899039,3,2,hi,,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,ओलावृष्टि,2026-03-21T04:17:00+00:00,,0.3405573464654463,1,1,hi,,
-'82d648b882',extremes,Drought,#edc291,random,सूखा,2026-03-23T04:41:00+00:00,,0.33907774672685254,0,1,hi,,
+'82d648b882',extremes,Drought,#edc291,random,सूखा,2026-03-23T04:41:00+00:00,,0.3390777467268525,0,1,hi,,
 '9f0423d739',extremes,Drought,#edc291,random,सूखापन,2026-03-08T04:24:00+00:00,,0.3268054713511324,1,1,hi,,
 '135f8534c2',extremes,Precipitation,#d60d2b,random,अधिक वर्षा,2026-03-05T04:23:00+00:00,,0.3232581050662705,2,1,hi,,
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,रेतीला तूफ़ान,2026-03-12T04:25:00+00:00,,0.3200266494312776,0,1,hi,,
