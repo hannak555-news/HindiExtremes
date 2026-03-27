@@ -88,10 +88,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4a4ee6b9d7',extremes,Storm,#b3b2b1,wmo,तूफ़ान का उभार विएन वेरिंग,2026-03-25T04:33:00+00:00,Austria,0.3073227471149911,0,1,hi,WCE,Europe
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,न्यूज़ीलैंड में तूफ़ान की लहर,2026-03-25T04:33:00+00:00,New Zealand,0.3073017129476323,0,1,hi,NZ,Oceania
 '9883dfe0ae',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल वोल्करमार्केट,2026-03-25T04:33:00+00:00,Austria,0.3072736921832093,0,1,hi,WCE,Europe
-'ee09381e1f',extremes,Snow&Ice,#d60d2b,wmo,ठंढा चेकिया,2026-03-26T04:56:00+00:00,Czechia,0.30724760437654086,0,1,hi,WCE,Europe
+'ee09381e1f',extremes,Snow&Ice,#d60d2b,wmo,ठंढा चेकिया,2026-03-26T04:56:00+00:00,Czechia,0.3072476043765408,0,1,hi,WCE,Europe
 '9443ce57dd',extremes,Snow&Ice,#d60d2b,wmo,जमने वाला श्वाज़,2026-03-25T04:33:00+00:00,Austria,0.3071105483636682,0,1,hi,WCE,Europe
 '92615c8656',extremes,Snow&Ice,#d60d2b,wmo,बर्फ़ीली गमुंडेन,2026-03-25T04:33:00+00:00,Austria,0.3070853725836008,0,1,hi,WCE,Europe
+'7ea2c869dc',extremes,Snow&Ice,#d60d2b,wmo,जमने वाली किर्चडोर्फ एन डेर क्रेम्स,2026-03-25T04:33:00+00:00,Austria,0.3070813246008601,0,1,hi,WCE,Europe
 'a84fc06e39',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल रुटे,2026-03-25T04:33:00+00:00,Austria,0.3070474130848392,0,1,hi,WCE,Europe
+'c62db23b0d',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल लिलिएनफ़ेल्ड,2026-03-25T04:33:00+00:00,Austria,0.3070366672655601,0,1,hi,WCE,Europe
 'fa761481b5',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-03-18T04:36:00+00:00,United Arab Emirates,0.3055427215200305,1,1,hi,ARP,Asia
 '1405131905',extremes,Thunderstorm,#53785a,random,ओले,2026-03-14T04:22:00+00:00,,0.3048221133150152,1,1,hi,,
 '622bd2c53e',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखापन,2026-03-07T04:13:00+00:00,United Arab Emirates,0.3042094521693895,2,1,hi,ARP,Asia
