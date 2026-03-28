@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'519c58c063',extremes,Flood,#030ba1,wmo,बाढ़ भारत,2026-03-26T04:56:00+00:00,India,0.6715679977645146,0,1,hi,SAS,Asia
 '64cec73f31',extremes,Flood,#030ba1,wmo,असम के बजली जिले में बाढ़,2026-03-26T04:56:00+00:00,India,0.6273983989532982,0,1,hi,SAS,Asia
 '9504cbb9e3',extremes,Thunderstorm,#53785a,wmo,तूफ़ान श्रीशैलम मंडल,2026-03-26T04:56:00+00:00,India,0.5838364818114058,0,1,hi,SAS,Asia
 'ef80604c0d',extremes,Flood,#030ba1,wmo,असम के बजली जिले में बाढ़,2026-03-26T04:56:00+00:00,India,0.580383817383632,0,1,hi,SAS,Asia
@@ -61,6 +62,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c62fbce176',extremes,Wildfire,#d60d2b,wmo,जंगल की आग हिमाचल प्रदेश,2026-03-11T04:22:00+00:00,India,0.3920604096743648,3,1,hi,SAS,Asia
 'b52307201b',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम हुकुमपेटा मंडल,2026-03-16T05:05:00+00:00,India,0.3870873449105519,2,1,hi,SAS,Asia
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडा दिन,2026-03-18T04:35:00+00:00,,0.3851944445377352,3,2,hi,,
+'8447ef896b',extremes,Snow&Ice,#d60d2b,random,बर्फ कीचड़,2026-03-27T04:56:00+00:00,,0.38287652317156057,0,1,hi,,
+'54927bfe65',extremes,Flood,#030ba1,random,तटीय बाढ़,2026-03-27T04:56:00+00:00,,0.377126579578721,0,1,hi,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडी सर्दी,2026-03-01T04:34:00+00:00,,0.373974377493758,2,2,hi,,
 '84febdd06c',extremes,Thunderstorm,#53785a,random,तूफ़ान,2026-02-23T04:36:00+00:00,,0.3722120892853715,2,1,hi,,
 '35bd62c5a9',extremes,Drought,#edc291,edo,भारत में सूखा,2026-03-11T04:22:00+00:00,India,0.3720465569482141,2,1,hi,SAS,Asia
@@ -87,6 +90,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e7e7fc0a58',extremes,Snow&Ice,#d60d2b,wmo,फ्रॉस्ट ब्रेगेंज़,2026-03-25T04:33:00+00:00,Austria,0.3073919949138848,0,1,hi,WCE,Europe
 '4a4ee6b9d7',extremes,Storm,#b3b2b1,wmo,तूफ़ान का उभार विएन वेरिंग,2026-03-25T04:33:00+00:00,Austria,0.3073227471149911,0,1,hi,WCE,Europe
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,न्यूज़ीलैंड में तूफ़ान की लहर,2026-03-25T04:33:00+00:00,New Zealand,0.3073017129476323,0,1,hi,NZ,Oceania
+'ddcce350d3',extremes,Storm,#b3b2b1,wmo,तूफान ऑकलैंड और ग्रेट बैरियर द्वीप,2026-03-26T04:56:00+00:00,New Zealand,0.30728467476872445,0,1,hi,NZ,Oceania
 '9883dfe0ae',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल वोल्करमार्केट,2026-03-25T04:33:00+00:00,Austria,0.3072736921832093,0,1,hi,WCE,Europe
 'ee09381e1f',extremes,Snow&Ice,#d60d2b,wmo,ठंढा चेकिया,2026-03-26T04:56:00+00:00,Czechia,0.3072476043765408,0,1,hi,WCE,Europe
 '9443ce57dd',extremes,Snow&Ice,#d60d2b,wmo,जमने वाला श्वाज़,2026-03-25T04:33:00+00:00,Austria,0.3071105483636682,0,1,hi,WCE,Europe
