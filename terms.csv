@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'c0c49a9063',extremes,Wildfire,#d60d2b,wmo,केरल की जंगल की आग,2026-03-29T05:00:00+00:00,India,0.6742983086049666,0,1,hi,SAS,Asia
 '519c58c063',extremes,Flood,#030ba1,wmo,बाढ़ भारत,2026-03-26T04:56:00+00:00,India,0.6715679977645146,0,1,hi,SAS,Asia
 '64cec73f31',extremes,Flood,#030ba1,wmo,असम के बजली जिले में बाढ़,2026-03-26T04:56:00+00:00,India,0.6273983989532982,0,1,hi,SAS,Asia
 '9504cbb9e3',extremes,Thunderstorm,#53785a,wmo,तूफ़ान श्रीशैलम मंडल,2026-03-26T04:56:00+00:00,India,0.5838364818114058,0,1,hi,SAS,Asia
@@ -85,6 +86,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b1f61292dd',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय चक्रवात 28पी,2026-03-24T04:31:00+00:00,,0.3156444609984395,0,1,hi,SPO,Pacific Ocean
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,गंभीर मौसम,2026-03-04T04:20:00+00:00,,0.3116623806491869,2,1,hi,,
 'dba9977fc1',extremes,Drought,#edc291,edo,फ़रो द्वीपसमूह में वर्षा की कमी,2026-03-20T04:26:00+00:00,Faroe Islands,0.311445665446138,0,1,hi,NEU,Europe
+'ed806b22f8',extremes,Drought,#edc291,edo,सूखापन भूटान,2026-03-19T04:35:00+00:00,Bhutan,0.31073939053974886,0,1,hi,TIB,Asia
 '7e68dc4baa',extremes,Drought,#edc291,edo,सूखा भूटान,2026-03-20T04:26:00+00:00,Bhutan,0.308200872080606,0,1,hi,TIB,Asia
 '1512e9c6b2',extremes,Drought,#edc291,edo,सूखा मंत्र सूरीनाम,2026-03-25T04:33:00+00:00,Suriname,0.3079867827810443,0,1,hi,NSA,South-America
 'c47d7a4f90',extremes,Snow&Ice,#d60d2b,wmo,बर्फ ऑस्ट्रिया,2026-03-25T04:33:00+00:00,Austria,0.3075731661603725,0,1,hi,WCE,Europe
@@ -100,14 +102,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7ea2c869dc',extremes,Snow&Ice,#d60d2b,wmo,जमने वाली किर्चडोर्फ एन डेर क्रेम्स,2026-03-25T04:33:00+00:00,Austria,0.3070813246008601,0,1,hi,WCE,Europe
 'a84fc06e39',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल रुटे,2026-03-25T04:33:00+00:00,Austria,0.3070474130848392,0,1,hi,WCE,Europe
 'c62db23b0d',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल लिलिएनफ़ेल्ड,2026-03-25T04:33:00+00:00,Austria,0.3070366672655601,0,1,hi,WCE,Europe
+'3f5d4b9ffe',extremes,Storm,#b3b2b1,wmo,तूफ़ान स्पिटल एन डेर ड्रू,2026-03-25T04:33:00+00:00,Austria,0.30694846495075995,0,1,hi,WCE,Europe
 'b0903e574b',extremes,Storm,#b3b2b1,wmo,तूफ़ान आयरलैंड,2026-03-25T04:33:00+00:00,Ireland,0.3069179904982869,0,1,hi,NEU,Europe
+'2a1438957e',extremes,Snow&Ice,#d60d2b,wmo,बर्फ हैलीन,2026-03-25T04:33:00+00:00,Austria,0.30685824655219757,0,1,hi,WCE,Europe
 '2db1256b65',extremes,Storm,#b3b2b1,wmo,उत्तरी मैसेडोनिया में तूफ़ान की लहर,2026-03-26T04:56:00+00:00,North Macedonia,0.3066240679014336,0,1,hi,MED,Europe
 '25908560bf',extremes,Snow&Ice,#d60d2b,wmo,जमने वाला सऊदी अरब,2026-03-25T04:33:00+00:00,Saudi Arabia,0.3065257524642164,0,1,hi,ARP,Asia
-'39afca9687',extremes,Storm,#b3b2b1,wmo,स्कोप्जे क्षेत्र में तूफ़ान का उछाल,2026-03-26T04:56:00+00:00,North Macedonia,0.30625169294225174,0,1,hi,MED,Europe
+'39afca9687',extremes,Storm,#b3b2b1,wmo,स्कोप्जे क्षेत्र में तूफ़ान का उछाल,2026-03-26T04:56:00+00:00,North Macedonia,0.3062516929422517,0,1,hi,MED,Europe
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,बर्फ कनाडा,2026-03-18T04:36:00+00:00,Canada,0.3060357270000287,0,1,hi,NEN,North-America
 '283b154c38',extremes,Wet Spell,#d60d2b,random,गीला जादू,2026-03-25T04:33:00+00:00,,0.3060267968518284,0,1,hi,,
-'c8dd7549e0',extremes,Storm,#b3b2b1,wmo,तूफ़ान दक्षिणपूर्वी क्षेत्र,2026-03-26T04:56:00+00:00,North Macedonia,0.30595149406355693,0,1,hi,MED,Europe
+'c8dd7549e0',extremes,Storm,#b3b2b1,wmo,तूफ़ान दक्षिणपूर्वी क्षेत्र,2026-03-26T04:56:00+00:00,North Macedonia,0.3059514940635569,0,1,hi,MED,Europe
 'fa761481b5',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-03-18T04:36:00+00:00,United Arab Emirates,0.3055427215200305,1,1,hi,ARP,Asia
+'395db40dcf',extremes,Heat Wave,#c40202,wmo,हीट वेव कोरिएंटेस वाई अलरेडेडोर्स,2026-03-29T05:00:00+00:00,Argentina,0.3053496845951178,0,1,hi,SES,South-America
+'a29729e148',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल इसराइल,2026-03-11T04:22:00+00:00,Israel,0.3050181552192062,0,1,hi,MED,Asia
 '1405131905',extremes,Thunderstorm,#53785a,random,ओले,2026-03-14T04:22:00+00:00,,0.3048221133150152,1,1,hi,,
 '622bd2c53e',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखापन,2026-03-07T04:13:00+00:00,United Arab Emirates,0.3042094521693895,2,1,hi,ARP,Asia
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,तूफ़ान,2026-02-26T04:28:00+00:00,,0.3016224682279067,2,1,hi,,
