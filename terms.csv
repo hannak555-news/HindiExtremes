@@ -97,13 +97,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '053bb10e09',extremes,Heat Wave,#c40202,random,भारतीय गर्मी,2026-03-10T04:21:00+00:00,,0.3192602474518705,1,2,hi,,
 'ce3fbb6f5f',extremes,Cold Wave,#a7e9fa,acwe,ऑस्ट्रेलिया में शीत लहर,2026-03-30T05:12:00+00:00,Australia,0.3179883897050091,0,1,hi,CAU,Oceania
 'b1f61292dd',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय चक्रवात 28पी,2026-03-24T04:31:00+00:00,,0.3156444609984395,0,1,hi,SPO,Pacific Ocean
-'a275910137',extremes,Cold Wave,#a7e9fa,acwe,शीत लहर न्यू साउथ वेल्स,2026-03-31T05:00:00+00:00,Australia,0.31461164576712486,0,1,hi,EAU,Oceania
-'91377cc2a9',extremes,Drought,#edc291,acwe,दक्षिण ऑस्ट्रेलिया में सूखा,2026-03-31T05:00:00+00:00,Australia,0.31436903151030826,0,1,hi,SAU,Oceania
+'a275910137',extremes,Cold Wave,#a7e9fa,acwe,शीत लहर न्यू साउथ वेल्स,2026-03-31T05:00:00+00:00,Australia,0.3146116457671248,0,1,hi,EAU,Oceania
+'91377cc2a9',extremes,Drought,#edc291,acwe,दक्षिण ऑस्ट्रेलिया में सूखा,2026-03-31T05:00:00+00:00,Australia,0.3143690315103082,0,1,hi,SAU,Oceania
+'6a814a5817',extremes,Drought,#edc291,acwe,निम्न जल स्तर न्यू साउथ वेल्स,2026-03-25T04:34:00+00:00,Australia,0.3141888685951871,0,1,hi,EAU,Oceania
+'79e930cd7f',extremes,Cold Wave,#a7e9fa,acwe,दक्षिण ऑस्ट्रेलिया में बर्फीला तापमान,2026-03-31T05:00:00+00:00,Australia,0.31414977501209984,0,1,hi,SAU,Oceania
+'b6c613d063',extremes,Drought,#edc291,acwe,क्वींसलैंड में बारिश की कमी,2026-03-28T04:34:00+00:00,Australia,0.3128850144086549,0,1,hi,CAU,Oceania
 '39670c8999',extremes,Drought,#edc291,acwe,दक्षिण ऑस्ट्रेलिया में बारिश की कमी,2026-03-25T04:34:00+00:00,Australia,0.3128718467676712,0,1,hi,CAU,Oceania
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,गंभीर मौसम,2026-03-04T04:20:00+00:00,,0.3116623806491869,2,1,hi,,
 'dba9977fc1',extremes,Drought,#edc291,edo,फ़रो द्वीपसमूह में वर्षा की कमी,2026-03-20T04:26:00+00:00,Faroe Islands,0.311445665446138,0,1,hi,NEU,Europe
 'ed806b22f8',extremes,Drought,#edc291,edo,सूखापन भूटान,2026-03-19T04:35:00+00:00,Bhutan,0.3107393905397488,0,1,hi,TIB,Asia
+'62dc5cf511',extremes,Storm,#b3b2b1,aidr,तूफ़ान भीषण तूफ़ान मेलबोर्न विक्टोरिया 2010,2026-03-25T04:34:00+00:00,Australia,0.3106532539141498,0,1,hi,SAU,Oceania
 '9ca1eb0a20',extremes,Drought,#edc291,edo,ऑस्ट्रेलिया में सूखा,2026-03-20T04:26:00+00:00,Australia,0.3105618430622348,0,1,hi,SAU,Oceania
+'4508810067',extremes,Storm,#b3b2b1,wmo,तूफ़ान लिटोरल नॉर्ट ई इंटीरियर,2026-03-31T04:59:00+00:00,Ecuador,0.30885761760333763,0,1,hi,NWS,South-America
 '7e68dc4baa',extremes,Drought,#edc291,edo,सूखा भूटान,2026-03-20T04:26:00+00:00,Bhutan,0.308200872080606,0,1,hi,TIB,Asia
 '1512e9c6b2',extremes,Drought,#edc291,edo,सूखा मंत्र सूरीनाम,2026-03-25T04:33:00+00:00,Suriname,0.3079867827810443,0,1,hi,NSA,South-America
 'c47d7a4f90',extremes,Snow&Ice,#d60d2b,wmo,बर्फ ऑस्ट्रिया,2026-03-25T04:33:00+00:00,Austria,0.3075731661603725,0,1,hi,WCE,Europe
@@ -116,6 +121,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ee09381e1f',extremes,Snow&Ice,#d60d2b,wmo,ठंढा चेकिया,2026-03-26T04:56:00+00:00,Czechia,0.3072476043765408,0,1,hi,WCE,Europe
 '0eea90a85e',extremes,Snow&Ice,#d60d2b,wmo,फ्रॉस्ट ओबरवार्ट,2026-03-25T04:33:00+00:00,Austria,0.3071618131606328,0,1,hi,WCE,Europe
 '9443ce57dd',extremes,Snow&Ice,#d60d2b,wmo,जमने वाला श्वाज़,2026-03-25T04:33:00+00:00,Austria,0.3071105483636682,0,1,hi,WCE,Europe
+'17a0212ee2',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल मिस्टेलबैक,2026-03-25T04:33:00+00:00,Austria,0.3071019545980102,0,1,hi,WCE,Europe
 '92615c8656',extremes,Snow&Ice,#d60d2b,wmo,बर्फ़ीली गमुंडेन,2026-03-25T04:33:00+00:00,Austria,0.3070853725836008,0,1,hi,WCE,Europe
 '7ea2c869dc',extremes,Snow&Ice,#d60d2b,wmo,जमने वाली किर्चडोर्फ एन डेर क्रेम्स,2026-03-25T04:33:00+00:00,Austria,0.3070813246008601,0,1,hi,WCE,Europe
 'a84fc06e39',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल रुटे,2026-03-25T04:33:00+00:00,Austria,0.3070474130848392,0,1,hi,WCE,Europe
