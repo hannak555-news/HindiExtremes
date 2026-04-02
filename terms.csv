@@ -115,10 +115,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '62dc5cf511',extremes,Storm,#b3b2b1,aidr,तूफ़ान भीषण तूफ़ान मेलबोर्न विक्टोरिया 2010,2026-03-25T04:34:00+00:00,Australia,0.3106532539141498,0,1,hi,SAU,Oceania
 '9ca1eb0a20',extremes,Drought,#edc291,edo,ऑस्ट्रेलिया में सूखा,2026-03-20T04:26:00+00:00,Australia,0.3105618430622348,0,1,hi,SAU,Oceania
 '136998b302',extremes,Cold Wave,#a7e9fa,acwe,ठंडा मौसम क्वींसलैंड,2026-03-31T05:00:00+00:00,Australia,0.310529476902571,0,1,hi,CAU,Oceania
+'352775dd3c',extremes,Drought,#edc291,edo,सूखापन नेपाल,2026-04-02T04:42:00+00:00,Nepal,0.309616930047449,0,1,hi,TIB,Asia
 '4508810067',extremes,Storm,#b3b2b1,wmo,तूफ़ान लिटोरल नॉर्ट ई इंटीरियर,2026-03-31T04:59:00+00:00,Ecuador,0.3088576176033376,0,1,hi,NWS,South-America
 'ca64be4528',extremes,Storm,#b3b2b1,wmo,तूफान बेलारूस,2026-03-24T04:31:00+00:00,Belarus,0.3082598547552654,0,1,hi,WCE,Europe
 '7e68dc4baa',extremes,Drought,#edc291,edo,सूखा भूटान,2026-03-20T04:26:00+00:00,Bhutan,0.308200872080606,0,1,hi,TIB,Asia
 '1512e9c6b2',extremes,Drought,#edc291,edo,सूखा मंत्र सूरीनाम,2026-03-25T04:33:00+00:00,Suriname,0.3079867827810443,0,1,hi,NSA,South-America
+'a715281618',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल वानुअतु,2026-04-02T04:42:00+00:00,Vanuatu,0.30791452194758534,0,1,hi,SPO,Oceania
 'c47d7a4f90',extremes,Snow&Ice,#d60d2b,wmo,बर्फ ऑस्ट्रिया,2026-03-25T04:33:00+00:00,Austria,0.3075731661603725,0,1,hi,WCE,Europe
 'e7e7fc0a58',extremes,Snow&Ice,#d60d2b,wmo,फ्रॉस्ट ब्रेगेंज़,2026-03-25T04:33:00+00:00,Austria,0.3073919949138848,0,1,hi,WCE,Europe
 '4a4ee6b9d7',extremes,Storm,#b3b2b1,wmo,तूफ़ान का उभार विएन वेरिंग,2026-03-25T04:33:00+00:00,Austria,0.3073227471149911,0,1,hi,WCE,Europe
@@ -146,8 +148,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,बर्फ कनाडा,2026-03-18T04:36:00+00:00,Canada,0.3060357270000287,0,1,hi,NEN,North-America
 '283b154c38',extremes,Wet Spell,#d60d2b,random,गीला जादू,2026-03-25T04:33:00+00:00,,0.3060267968518284,0,1,hi,,
 'cb68d1153d',extremes,Storm,#b3b2b1,wmo,तूफ़ान सिएरा नॉर्टे वाई सेंट्रो,2026-04-01T05:12:00+00:00,Ecuador,0.3060226239895141,0,1,hi,NWS,South-America
+'9131f8e093',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश सिएरा नॉर्टे वाई सेंट्रो,2026-03-31T04:59:00+00:00,Ecuador,0.3059620150943005,0,1,hi,NWS,South-America
 'c8dd7549e0',extremes,Storm,#b3b2b1,wmo,तूफ़ान दक्षिणपूर्वी क्षेत्र,2026-03-26T04:56:00+00:00,North Macedonia,0.3059514940635569,0,1,hi,MED,Europe
+'2b54723d48',extremes,Precipitation,#d60d2b,wmo,अमेज़ॅनिया में भारी बारिश,2026-03-31T04:59:00+00:00,Ecuador,0.30586614845156623,0,1,hi,NWS,South-America
 'fa761481b5',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-03-18T04:36:00+00:00,United Arab Emirates,0.3055427215200305,1,1,hi,ARP,Asia
+'f5a98ca4eb',extremes,Storm,#b3b2b1,wmo,तूफान वृद्धि लिटोरल नॉर्ट ई इंटीरियर,2026-03-30T05:12:00+00:00,Ecuador,0.30553419190661624,0,1,hi,NWS,South-America
 '395db40dcf',extremes,Heat Wave,#c40202,wmo,हीट वेव कोरिएंटेस वाई अलरेडेडोर्स,2026-03-29T05:00:00+00:00,Argentina,0.3053496845951178,0,1,hi,SES,South-America
 'a29729e148',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल इसराइल,2026-03-11T04:22:00+00:00,Israel,0.3050181552192062,0,1,hi,MED,Asia
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,ठंढ,2026-03-27T04:56:00+00:00,,0.3048577872373129,0,1,hi,,
