@@ -2,12 +2,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c0c49a9063',extremes,Wildfire,#d60d2b,wmo,केरल की जंगल की आग,2026-03-29T05:00:00+00:00,India,0.6742983086049666,0,1,hi,SAS,Asia
 '519c58c063',extremes,Flood,#030ba1,wmo,बाढ़ भारत,2026-03-26T04:56:00+00:00,India,0.6715679977645146,0,1,hi,SAS,Asia
 '5e777062e4',extremes,Storm,#b3b2b1,wmo,तूफ़ान पूर्व की ओर,2026-04-01T05:12:00+00:00,India,0.6539638790846225,0,1,hi,SAS,Asia
+'32a4e0f35f',extremes,Thunderstorm,#53785a,wmo,तूफ़ान सांगली कोल्हापुर,2026-04-02T04:42:00+00:00,India,0.6448325122150184,0,1,hi,SAS,Asia
 '64cec73f31',extremes,Flood,#030ba1,wmo,असम के बजली जिले में बाढ़,2026-03-26T04:56:00+00:00,India,0.6273983989532982,0,1,hi,SAS,Asia
 'd9686e5652',extremes,Precipitation,#d60d2b,wmo,हुगली जिले के कुछ भागों में वर्षा,2026-03-31T04:59:00+00:00,India,0.5962754914163739,0,1,hi,SAS,Asia
 '41d2c67555',extremes,Thunderstorm,#53785a,wmo,तूफ़ान चंडीगढ़,2026-03-30T05:12:00+00:00,India,0.590249397864699,0,1,hi,SAS,Asia
 '9504cbb9e3',extremes,Thunderstorm,#53785a,wmo,तूफ़ान श्रीशैलम मंडल,2026-03-26T04:56:00+00:00,India,0.5838364818114058,0,1,hi,SAS,Asia
 'ef80604c0d',extremes,Flood,#030ba1,wmo,असम के बजली जिले में बाढ़,2026-03-26T04:56:00+00:00,India,0.580383817383632,0,1,hi,SAS,Asia
 '2900da77fc',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम सांगली कोल्हापुर,2026-04-02T04:42:00+00:00,India,0.5777092206150429,0,1,hi,SAS,Asia
+'91258c23af',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम नंदुरबार जलगांव बीड पुणे,2026-04-02T04:42:00+00:00,India,0.5757948838450291,0,1,hi,SAS,Asia
 'c6ae9f064a',extremes,Thunderstorm,#53785a,wmo,गरज के साथ रोशनी,2026-03-25T04:33:00+00:00,India,0.5639458971560155,0,1,hi,SAS,Asia
 '1c3ef71cd1',extremes,Thunderstorm,#53785a,wmo,त्रिपुरा के खोवाई जिले में ओले गिरे,2026-04-01T05:12:00+00:00,India,0.5441048406545377,0,1,hi,SAS,Asia
 '01a596f125',extremes,Thunderstorm,#53785a,wmo,त्रिपुरा के धलाई गोमती जिलों में मौसम खराब,2026-03-30T05:12:00+00:00,India,0.5021873674643808,0,1,hi,SAS,Asia
@@ -88,7 +90,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bd21048a6a',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-03-04T04:21:00+00:00,United Arab Emirates,0.343127516324105,2,1,hi,ARP,Asia
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,भारी वर्षा,2026-03-26T04:56:00+00:00,,0.3412463241800087,0,1,hi,,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,ओलावृष्टि,2026-03-21T04:17:00+00:00,,0.3405573464654463,1,1,hi,,
-'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,शीतलहर,2026-04-01T05:12:00+00:00,,0.33994740490945696,0,1,hi,,
+'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,शीतलहर,2026-04-01T05:12:00+00:00,,0.3399474049094569,0,1,hi,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,ग्लेशियर का शांत होना,2026-03-24T04:31:00+00:00,,0.3373634309054719,1,1,hi,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,तापमान में गिरावट,2026-03-06T04:20:00+00:00,,0.3279652971560943,0,1,hi,,
 '9f0423d739',extremes,Drought,#edc291,random,सूखापन,2026-03-08T04:24:00+00:00,,0.3268054713511324,1,1,hi,,
@@ -124,6 +126,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7e68dc4baa',extremes,Drought,#edc291,edo,सूखा भूटान,2026-03-20T04:26:00+00:00,Bhutan,0.308200872080606,0,1,hi,TIB,Asia
 '1512e9c6b2',extremes,Drought,#edc291,edo,सूखा मंत्र सूरीनाम,2026-03-25T04:33:00+00:00,Suriname,0.3079867827810443,0,1,hi,NSA,South-America
 'a715281618',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल वानुअतु,2026-04-02T04:42:00+00:00,Vanuatu,0.3079145219475853,0,1,hi,SPO,Oceania
+'eeacc80474',extremes,Storm,#b3b2b1,wmo,तूफ़ान वानुअतु,2026-04-03T04:43:00+00:00,Vanuatu,0.3078225662309529,0,1,hi,SPO,Oceania
 'c47d7a4f90',extremes,Snow&Ice,#d60d2b,wmo,बर्फ ऑस्ट्रिया,2026-03-25T04:33:00+00:00,Austria,0.3075731661603725,0,1,hi,WCE,Europe
 'e7e7fc0a58',extremes,Snow&Ice,#d60d2b,wmo,फ्रॉस्ट ब्रेगेंज़,2026-03-25T04:33:00+00:00,Austria,0.3073919949138848,0,1,hi,WCE,Europe
 '4a4ee6b9d7',extremes,Storm,#b3b2b1,wmo,तूफ़ान का उभार विएन वेरिंग,2026-03-25T04:33:00+00:00,Austria,0.3073227471149911,0,1,hi,WCE,Europe
@@ -133,6 +136,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9883dfe0ae',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल वोल्करमार्केट,2026-03-25T04:33:00+00:00,Austria,0.3072736921832093,0,1,hi,WCE,Europe
 'ee09381e1f',extremes,Snow&Ice,#d60d2b,wmo,ठंढा चेकिया,2026-03-26T04:56:00+00:00,Czechia,0.3072476043765408,0,1,hi,WCE,Europe
 '0eea90a85e',extremes,Snow&Ice,#d60d2b,wmo,फ्रॉस्ट ओबरवार्ट,2026-03-25T04:33:00+00:00,Austria,0.3071618131606328,0,1,hi,WCE,Europe
+'a28c8ef428',extremes,Storm,#b3b2b1,wmo,तूफ़ान यूनाइटेड किंगडम,2026-04-03T04:43:00+00:00,United Kingdom,0.3071108737152888,0,1,hi,NEU,Europe
 '9443ce57dd',extremes,Snow&Ice,#d60d2b,wmo,जमने वाला श्वाज़,2026-03-25T04:33:00+00:00,Austria,0.3071105483636682,0,1,hi,WCE,Europe
 '17a0212ee2',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल मिस्टेलबैक,2026-03-25T04:33:00+00:00,Austria,0.3071019545980102,0,1,hi,WCE,Europe
 '92615c8656',extremes,Snow&Ice,#d60d2b,wmo,बर्फ़ीली गमुंडेन,2026-03-25T04:33:00+00:00,Austria,0.3070853725836008,0,1,hi,WCE,Europe
@@ -157,7 +161,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fa761481b5',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-03-18T04:36:00+00:00,United Arab Emirates,0.3055427215200305,1,1,hi,ARP,Asia
 'f5a98ca4eb',extremes,Storm,#b3b2b1,wmo,तूफान वृद्धि लिटोरल नॉर्ट ई इंटीरियर,2026-03-30T05:12:00+00:00,Ecuador,0.3055341919066162,0,1,hi,NWS,South-America
 'a5a19a733b',extremes,Flood,#030ba1,wmo,फ्लैशफ्लड इथियोपिया,2026-03-29T05:00:00+00:00,Ethiopia,0.3055273488989083,0,1,hi,NEAF,Africa
-'c7c86df95e',extremes,Storm,#b3b2b1,wmo,तूफ़ान इसराइल,2026-03-31T04:59:00+00:00,Israel,0.30546674713786515,0,1,hi,MED,Asia
+'e1048c4180',extremes,Drought,#edc291,edo,सूखापन उरुग्वे,2026-03-22T04:33:00+00:00,Uruguay,0.30552329063843686,0,1,hi,SES,South-America
+'c7c86df95e',extremes,Storm,#b3b2b1,wmo,तूफ़ान इसराइल,2026-03-31T04:59:00+00:00,Israel,0.3054667471378651,0,1,hi,MED,Asia
 'b7410cf0a8',extremes,Precipitation,#d60d2b,wmo,भारी बारिश सिएरा नॉर्टे वाई सेंट्रो,2026-03-30T05:12:00+00:00,Ecuador,0.3054121607074903,0,1,hi,NWS,South-America
 '395db40dcf',extremes,Heat Wave,#c40202,wmo,हीट वेव कोरिएंटेस वाई अलरेडेडोर्स,2026-03-29T05:00:00+00:00,Argentina,0.3053496845951178,0,1,hi,SES,South-America
 'a29729e148',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल इसराइल,2026-03-11T04:22:00+00:00,Israel,0.3050181552192062,0,1,hi,MED,Asia
