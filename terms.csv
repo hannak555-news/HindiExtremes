@@ -1,4 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'b3805b8a4c',extremes,Heat Wave,#c40202,wmo,लू 53 मंडल,2026-04-03T04:43:00+00:00,India,0.678725214538087,0,1,hi,SAS,Asia
+'97cf231a2f',extremes,Wildfire,#d60d2b,wmo,जंगल की आग ओडिशा,2026-04-03T04:43:00+00:00,India,0.6758591393452538,0,1,hi,SAS,Asia
+'8180415a6e',extremes,Storm,#b3b2b1,wmo,सोलापुर में तूफ़ान,2026-04-03T04:43:00+00:00,India,0.6755540755952829,0,1,hi,SAS,Asia
 'c0c49a9063',extremes,Wildfire,#d60d2b,wmo,केरल की जंगल की आग,2026-03-29T05:00:00+00:00,India,0.6742983086049666,0,1,hi,SAS,Asia
 '519c58c063',extremes,Flood,#030ba1,wmo,बाढ़ भारत,2026-03-26T04:56:00+00:00,India,0.6715679977645146,0,1,hi,SAS,Asia
 '5e777062e4',extremes,Storm,#b3b2b1,wmo,तूफ़ान पूर्व की ओर,2026-04-01T05:12:00+00:00,India,0.6539638790846225,0,1,hi,SAS,Asia
@@ -69,8 +72,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '951569280f',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि गुम्मगट्टा मंडल,2026-03-17T04:30:00+00:00,India,0.4034942035993942,2,1,hi,SAS,Asia
 '62084daeb0',extremes,Earthquake,#870007,random,भूकंप,2026-02-27T04:25:00+00:00,,0.4034387100063496,1,2,hi,,
 '256519f3eb',extremes,Storm,#b3b2b1,wmo,तूफान साखिनेटिपल्ले नरसापुरम मंडल,2026-03-19T04:35:00+00:00,India,0.3981290907085237,2,1,hi,SAS,Asia
+'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,हिमशैल आर्कटिक,2026-04-03T04:42:00+00:00,,0.39740671276353323,0,1,hi,,
 'ad551defe3',extremes,Earthquake,#870007,usgs,भूकंप नया बाजार,2026-02-27T04:25:00+00:00,India,0.3930113467633631,2,1,hi,TIB,Asia
 'c62fbce176',extremes,Wildfire,#d60d2b,wmo,जंगल की आग हिमाचल प्रदेश,2026-03-11T04:22:00+00:00,India,0.3920604096743648,3,1,hi,SAS,Asia
+'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,हिमशैल अंटार्कटिका,2026-04-03T04:42:00+00:00,,0.3918777351204041,0,1,hi,,
 'b52307201b',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम हुकुमपेटा मंडल,2026-03-16T05:05:00+00:00,India,0.3870873449105519,2,1,hi,SAS,Asia
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडा दिन,2026-03-18T04:35:00+00:00,,0.3851944445377352,3,2,hi,,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,बर्फ कीचड़,2026-03-27T04:56:00+00:00,,0.3828765231715605,0,1,hi,,
@@ -161,10 +166,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fa761481b5',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-03-18T04:36:00+00:00,United Arab Emirates,0.3055427215200305,1,1,hi,ARP,Asia
 'f5a98ca4eb',extremes,Storm,#b3b2b1,wmo,तूफान वृद्धि लिटोरल नॉर्ट ई इंटीरियर,2026-03-30T05:12:00+00:00,Ecuador,0.3055341919066162,0,1,hi,NWS,South-America
 'a5a19a733b',extremes,Flood,#030ba1,wmo,फ्लैशफ्लड इथियोपिया,2026-03-29T05:00:00+00:00,Ethiopia,0.3055273488989083,0,1,hi,NEAF,Africa
-'e1048c4180',extremes,Drought,#edc291,edo,सूखापन उरुग्वे,2026-03-22T04:33:00+00:00,Uruguay,0.30552329063843686,0,1,hi,SES,South-America
+'e1048c4180',extremes,Drought,#edc291,edo,सूखापन उरुग्वे,2026-03-22T04:33:00+00:00,Uruguay,0.3055232906384368,0,1,hi,SES,South-America
 'c7c86df95e',extremes,Storm,#b3b2b1,wmo,तूफ़ान इसराइल,2026-03-31T04:59:00+00:00,Israel,0.3054667471378651,0,1,hi,MED,Asia
 'b7410cf0a8',extremes,Precipitation,#d60d2b,wmo,भारी बारिश सिएरा नॉर्टे वाई सेंट्रो,2026-03-30T05:12:00+00:00,Ecuador,0.3054121607074903,0,1,hi,NWS,South-America
 '395db40dcf',extremes,Heat Wave,#c40202,wmo,हीट वेव कोरिएंटेस वाई अलरेडेडोर्स,2026-03-29T05:00:00+00:00,Argentina,0.3053496845951178,0,1,hi,SES,South-America
+'9801f8158e',extremes,Precipitation,#d60d2b,wmo,इक्वाडोर में वर्षा,2026-04-01T05:12:00+00:00,Ecuador,0.3052032435730108,0,1,hi,NWS,South-America
+'1260f3a52f',extremes,Heat Wave,#c40202,wmo,हीट वेव मॉस्को,2026-04-01T05:12:00+00:00,Russia,0.3051991349493278,0,1,hi,ESB,Europe
 'a29729e148',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल इसराइल,2026-03-11T04:22:00+00:00,Israel,0.3050181552192062,0,1,hi,MED,Asia
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,ठंढ,2026-03-27T04:56:00+00:00,,0.3048577872373129,0,1,hi,,
 '1405131905',extremes,Thunderstorm,#53785a,random,ओले,2026-03-14T04:22:00+00:00,,0.3048221133150152,1,1,hi,,
