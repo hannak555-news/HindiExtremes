@@ -13,38 +13,23 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c0c49a9063',extremes,Wildfire,#d60d2b,wmo,केरल की जंगल की आग,2026-03-29T05:00:00+00:00,India,0.5731535623142217,1,1,hi,SAS,Asia
 '519c58c063',extremes,Flood,#030ba1,wmo,बाढ़ भारत,2026-03-26T04:56:00+00:00,India,0.5709828130998373,1,1,hi,SAS,Asia
 '612ef3a548',extremes,Wildfire,#d60d2b,wmo,जंगल की आग महाराष्ट्र,2026-04-10T05:13:00+00:00,India,0.5695931648398624,1,1,hi,SAS,Asia
-'a7ea503b25',extremes,Thunderstorm,#53785a,wmo,11 मंडलों में ओलावृष्टि,2026-04-06T05:11:00+00:00,India,0.5609222254831622,0,1,hi,SAS,Asia
-'fd4b9a3c16',extremes,Thunderstorm,#53785a,wmo,जय इरगावरम निंदर अत्तिली मंडल,2026-04-06T05:11:00+00:00,India,0.5596789288081044,0,1,hi,SAS,Asia
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,भारत में मूसलाधार वर्षा,2026-04-02T04:42:00+00:00,India,0.5561787076443307,1,1,hi,SAS,Asia
 '5e777062e4',extremes,Storm,#b3b2b1,wmo,तूफ़ान पूर्व की ओर,2026-04-01T05:12:00+00:00,India,0.5558692972219291,1,1,hi,SAS,Asia
 '7f8475f455',extremes,Thunderstorm,#53785a,wmo,12 मंडलों में मौसम बेहद खराब,2026-04-06T05:11:00+00:00,India,0.548767590639545,1,1,hi,SAS,Asia
 '32a4e0f35f',extremes,Thunderstorm,#53785a,wmo,तूफ़ान सांगली कोल्हापुर,2026-04-02T04:42:00+00:00,India,0.5481076353827656,1,1,hi,SAS,Asia
-'1c3ef71cd1',extremes,Thunderstorm,#53785a,wmo,त्रिपुरा के खोवाई जिले में ओले गिरे,2026-04-01T05:12:00+00:00,India,0.5441048406545377,0,1,hi,SAS,Asia
 '35bd62c5a9',extremes,Drought,#edc291,edo,भारत में सूखा,2026-04-04T04:30:00+00:00,India,0.5439168860275715,0,1,hi,SAS,Asia
 '4fa16684f4',extremes,Thunderstorm,#53785a,wmo,उत्तराखंड के सभी जिलों में अंधड़,2026-04-08T05:01:00+00:00,India,0.5378362797998075,1,1,hi,SAS,Asia
-'e30345a61c',extremes,Thunderstorm,#53785a,wmo,तूफान नागपुर भंडारा वाशिम,2026-04-04T04:30:00+00:00,India,0.5366486243614453,0,1,hi,SAS,Asia
-'9a8c6ec17a',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि नागपुर भंडारा वाशिम,2026-04-04T04:30:00+00:00,India,0.5354979158663125,0,1,hi,SAS,Asia
 '64cec73f31',extremes,Flood,#030ba1,wmo,असम के बजली जिले में बाढ़,2026-03-26T04:56:00+00:00,India,0.5332886391103034,1,1,hi,SAS,Asia
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,भूकंप भारत,2026-04-06T05:11:00+00:00,India,0.5328542779555011,0,1,hi,SEA,Asia
-'d8049cc4bf',extremes,Thunderstorm,#53785a,wmo,18 मंडलों में ओलावृष्टि,2026-04-06T05:11:00+00:00,India,0.5307722404900458,0,1,hi,SAS,Asia
 '778d256165',extremes,Flood,#030ba1,wmo,फ्लैशफ्लड इंडिया,2026-04-04T04:30:00+00:00,India,0.5298341943718659,1,1,hi,SAS,Asia
-'981efe9ba6',extremes,Thunderstorm,#53785a,wmo,पश्चिम बंगाल के कोलकाता जिले में मौसम गंभीर,2026-04-08T05:01:00+00:00,India,0.528648032676741,0,1,hi,SAS,Asia
 '82fd55b965',extremes,Drought,#edc291,edo,भारत में सूखा,2026-04-03T04:43:00+00:00,India,0.5278048058553252,0,1,hi,SAS,Asia
-'84898297da',extremes,Thunderstorm,#53785a,wmo,तूफान 6 मंडल,2026-04-06T05:11:00+00:00,India,0.5273335573847924,0,1,hi,SAS,Asia
-'9c41746a57',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश,2026-04-05T05:01:00+00:00,India,0.5259271725405587,0,1,hi,SAS,Asia
 'ddfc1801c4',extremes,Thunderstorm,#53785a,wmo,7 मंडलों में ओलावृष्टि,2026-04-06T05:11:00+00:00,India,0.525197412776149,1,1,hi,SAS,Asia
-'4b4d43ad12',extremes,Thunderstorm,#53785a,wmo,तूफान वाशिम अकोला बीड,2026-04-04T04:30:00+00:00,India,0.5240712715323556,0,1,hi,SAS,Asia
 '7e60aa6fee',extremes,Thunderstorm,#53785a,wmo,20 मंडलों में मौसम बेहद खराब,2026-04-06T05:11:00+00:00,India,0.5227703995890262,1,1,hi,SAS,Asia
 '1f354a34b8',extremes,Wildfire,#d60d2b,wmo,जंगल की आग छत्तीसगढ़,2026-04-10T05:13:00+00:00,India,0.5225708859757279,1,1,hi,SAS,Asia
-'493919bc60',extremes,Thunderstorm,#53785a,wmo,18 मंडलों में मौसम बेहद खराब,2026-04-06T05:11:00+00:00,India,0.518864707969278,0,1,hi,SAS,Asia
-'3d7dbfad00',extremes,Thunderstorm,#53785a,wmo,तूफ़ान मंडपेटा मंडल,2026-04-06T05:11:00+00:00,India,0.5104614569451686,0,1,hi,SAS,Asia
 'd9686e5652',extremes,Precipitation,#d60d2b,wmo,हुगली जिले के कुछ भागों में वर्षा,2026-03-31T04:59:00+00:00,India,0.5068341677039179,1,1,hi,SAS,Asia
-'a7a893f3e8',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम सोलापुर हिंगोली,2026-04-04T04:30:00+00:00,India,0.5038443324635921,0,1,hi,SAS,Asia
-'01a596f125',extremes,Thunderstorm,#53785a,wmo,त्रिपुरा के धलाई गोमती जिलों में मौसम खराब,2026-03-30T05:12:00+00:00,India,0.5021873674643808,0,1,hi,SAS,Asia
 '41d2c67555',extremes,Thunderstorm,#53785a,wmo,तूफ़ान चंडीगढ़,2026-03-30T05:12:00+00:00,India,0.5017119881849941,1,1,hi,SAS,Asia
-'9504cbb9e3',extremes,Thunderstorm,#53785a,wmo,तूफ़ान श्रीशैलम मंडल,2026-03-26T04:56:00+00:00,India,0.49626100953969493,1,1,hi,SAS,Asia
-'1b10a30c96',extremes,Thunderstorm,#53785a,wmo,हरियाणा के हिसार जिले में आंधी तूफान,2026-03-30T05:12:00+00:00,India,0.4935696233120094,0,1,hi,SAS,Asia
-'ef80604c0d',extremes,Flood,#030ba1,wmo,असम के बजली जिले में बाढ़,2026-03-26T04:56:00+00:00,India,0.49332624477608716,1,1,hi,SAS,Asia
+'9504cbb9e3',extremes,Thunderstorm,#53785a,wmo,तूफ़ान श्रीशैलम मंडल,2026-03-26T04:56:00+00:00,India,0.4962610095396949,1,1,hi,SAS,Asia
+'ef80604c0d',extremes,Flood,#030ba1,wmo,असम के बजली जिले में बाढ़,2026-03-26T04:56:00+00:00,India,0.4933262447760871,1,1,hi,SAS,Asia
 '2900da77fc',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम सांगली कोल्हापुर,2026-04-02T04:42:00+00:00,India,0.4910528375227865,1,1,hi,SAS,Asia
 '91258c23af',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम नंदुरबार जलगांव बीड पुणे,2026-04-02T04:42:00+00:00,India,0.4894256512682747,1,1,hi,SAS,Asia
 '42a5dce9e6',extremes,Wildfire,#d60d2b,wmo,जंगल की आग मणिपुर,2026-03-11T04:22:00+00:00,India,0.4834791737131805,2,1,hi,SAS,Asia
@@ -59,28 +44,42 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c6ae9f064a',extremes,Thunderstorm,#53785a,wmo,गरज के साथ रोशनी,2026-03-25T04:33:00+00:00,India,0.4795040275826132,1,1,hi,SAS,Asia
 '8b022b84c7',extremes,Wildfire,#d60d2b,wmo,जंगल की आग मध्य प्रदेश,2026-03-11T04:22:00+00:00,India,0.4780854629455474,2,1,hi,SAS,Asia
 'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,जंगल की आग उत्तराखंड,2026-03-11T04:22:00+00:00,India,0.4770106629551212,2,1,hi,SAS,Asia
+'a7ea503b25',extremes,Thunderstorm,#53785a,wmo,11 मंडलों में ओलावृष्टि,2026-04-06T05:11:00+00:00,India,0.47678389166068785,1,1,hi,SAS,Asia
+'fd4b9a3c16',extremes,Thunderstorm,#53785a,wmo,जय इरगावरम निंदर अत्तिली मंडल,2026-04-06T05:11:00+00:00,India,0.47572708948688874,1,1,hi,SAS,Asia
 '4093195155',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल भारत,2026-03-12T04:26:00+00:00,India,0.4756152339990287,2,1,hi,SAS,Asia
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,बाढ़,2026-03-15T04:44:00+00:00,,0.4750394560010756,1,3,hi,,
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,जय भारत,2026-03-13T04:25:00+00:00,India,0.4731807031718145,4,2,hi,SAS,Asia
 '8bb788b602',extremes,Wildfire,#d60d2b,wmo,जंगल की आग असम,2026-03-11T04:22:00+00:00,India,0.4728710463115292,2,1,hi,SAS,Asia
 'ecbcce771c',extremes,Fog,#d60d2b,wmo,आंध्र प्रदेश के 15 जिलों में कोहरा,2026-03-13T04:25:00+00:00,India,0.471135283924725,2,1,hi,SAS,Asia
+'1c3ef71cd1',extremes,Thunderstorm,#53785a,wmo,त्रिपुरा के खोवाई जिले में ओले गिरे,2026-04-01T05:12:00+00:00,India,0.462489114556357,1,1,hi,SAS,Asia
 'fecc5eb982',extremes,Wildfire,#d60d2b,wmo,जंगल की आग राजस्थान,2026-03-11T04:22:00+00:00,India,0.4602727324336498,2,1,hi,SAS,Asia
 '9293b0f660',extremes,Wildfire,#d60d2b,wmo,जंगल की आग कर्नाटक,2026-03-11T04:22:00+00:00,India,0.4600774911687991,2,1,hi,SAS,Asia
 '9d230a1c12',extremes,Snow&Ice,#d60d2b,wmo,आइस इंडिया,2026-03-13T04:25:00+00:00,India,0.4575012716912143,2,1,hi,SAS,Asia
+'e30345a61c',extremes,Thunderstorm,#53785a,wmo,तूफान नागपुर भंडारा वाशिम,2026-04-04T04:30:00+00:00,India,0.4561513307072285,1,1,hi,SAS,Asia
+'9a8c6ec17a',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि नागपुर भंडारा वाशिम,2026-04-04T04:30:00+00:00,India,0.4551732284863656,1,1,hi,SAS,Asia
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,तूफ़ान भारत,2026-03-14T04:22:00+00:00,India,0.4546111923796559,2,1,hi,SAS,Asia
+'d8049cc4bf',extremes,Thunderstorm,#53785a,wmo,18 मंडलों में ओलावृष्टि,2026-04-06T05:11:00+00:00,India,0.4511564044165389,1,1,hi,SAS,Asia
+'981efe9ba6',extremes,Thunderstorm,#53785a,wmo,पश्चिम बंगाल के कोलकाता जिले में मौसम गंभीर,2026-04-08T05:01:00+00:00,India,0.44935082777522983,1,1,hi,SAS,Asia
+'84898297da',extremes,Thunderstorm,#53785a,wmo,तूफान 6 मंडल,2026-04-06T05:11:00+00:00,India,0.4482335237770735,1,1,hi,SAS,Asia
 '9d7d2c2207',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि,2026-03-21T04:17:00+00:00,India,0.4481822695601147,2,1,hi,SAS,Asia
-'ca647bd12b',extremes,Earthquake,#870007,usgs,भूकंप सिलचर,2026-04-08T05:00:00+00:00,India,0.4453464800791595,0,1,hi,SAS,Asia
+'9c41746a57',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश,2026-04-05T05:01:00+00:00,India,0.44703809665947486,1,1,hi,SAS,Asia
+'4b4d43ad12',extremes,Thunderstorm,#53785a,wmo,तूफान वाशिम अकोला बीड,2026-04-04T04:30:00+00:00,India,0.4454605808025022,1,1,hi,SAS,Asia
+'493919bc60',extremes,Thunderstorm,#53785a,wmo,18 मंडलों में मौसम बेहद खराब,2026-04-06T05:11:00+00:00,India,0.44103500177388627,1,1,hi,SAS,Asia
 '31ec217938',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम रायदुर्ग मंडल,2026-03-17T04:30:00+00:00,India,0.4364785905778244,2,1,hi,SAS,Asia
 '0a8e5743d9',extremes,Landslide,#572c03,random,भूस्खलन,2026-03-21T04:17:00+00:00,,0.4364476390553633,1,2,hi,,
 '7c5b048241',extremes,Thunderstorm,#53785a,wmo,तूफ़ान जी मदुगुला मंडल,2026-03-17T04:30:00+00:00,India,0.4341082574809423,2,1,hi,SAS,Asia
+'3d7dbfad00',extremes,Thunderstorm,#53785a,wmo,तूफ़ान मंडपेटा मंडल,2026-04-06T05:11:00+00:00,India,0.43389223840339336,1,1,hi,SAS,Asia
 '07403ae253',extremes,Earthquake,#870007,usgs,भूकंप पोर्ट ब्लेयर,2026-03-30T05:11:00+00:00,India,0.4293765946440294,0,1,hi,SEA,Asia
 'cf508361ed',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम देवरापल्ले1 दत्तिराजेरु मंडल,2026-03-17T04:30:00+00:00,India,0.4290977196423337,2,1,hi,SAS,Asia
 '2556650bb0',extremes,Thunderstorm,#53785a,wmo,मध्य में ऊपर की ओर ओलावृष्टि,2026-03-20T04:26:00+00:00,India,0.4282951549427701,2,1,hi,SAS,Asia
+'a7a893f3e8',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम सोलापुर हिंगोली,2026-04-04T04:30:00+00:00,India,0.42826768259405323,1,1,hi,SAS,Asia
+'01a596f125',extremes,Thunderstorm,#53785a,wmo,त्रिपुरा के धलाई गोमती जिलों में मौसम खराब,2026-03-30T05:12:00+00:00,India,0.4268592623447236,1,1,hi,SAS,Asia
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,भारत में गंभीर मौसम,2026-03-13T04:25:00+00:00,India,0.425656618665486,3,1,hi,SAS,Asia
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,वर्षा भारत,2026-03-17T04:30:00+00:00,India,0.4241818057347256,2,1,hi,SAS,Asia
 'e8cad01791',extremes,Earthquake,#870007,usgs,भूकंप बसमत,2026-04-12T05:11:00+00:00,India,0.4239228434496597,0,1,hi,SAS,Asia
 '26fee806c3',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश भारत,2026-03-14T04:22:00+00:00,India,0.4217797506213179,2,1,hi,SAS,Asia
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,शीत लहर,2026-03-12T04:25:00+00:00,,0.42020903420227,1,2,hi,,
+'1b10a30c96',extremes,Thunderstorm,#53785a,wmo,हरियाणा के हिसार जिले में आंधी तूफान,2026-03-30T05:12:00+00:00,India,0.41953417981520796,1,1,hi,SAS,Asia
 '1924a5d780',extremes,Thunderstorm,#53785a,wmo,रायदुर्ग मंडल में ओलावृष्टि,2026-03-17T04:30:00+00:00,India,0.4175966085122033,2,1,hi,SAS,Asia
 '01eb136e2a',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि देवारापल्ले1 दत्तिरजेरु मंडल,2026-03-17T04:30:00+00:00,India,0.4172114740832738,2,1,hi,SAS,Asia
 '3ba3704a65',extremes,Thunderstorm,#53785a,wmo,तूफ़ान कणेकल मंडल,2026-03-17T04:30:00+00:00,India,0.4140640614149997,2,1,hi,SAS,Asia
@@ -95,6 +94,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडा दिन,2026-03-18T04:35:00+00:00,,0.3851944445377352,3,2,hi,,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,बर्फ कीचड़,2026-03-27T04:56:00+00:00,,0.3828765231715605,0,1,hi,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,रिकॉर्ड गर्मी,2026-03-30T05:11:00+00:00,,0.3796833400487605,0,1,hi,,
+'ca647bd12b',extremes,Earthquake,#870007,usgs,भूकंप सिलचर,2026-04-08T05:00:00+00:00,India,0.37854450806728557,1,1,hi,SAS,Asia
 '54927bfe65',extremes,Flood,#030ba1,random,तटीय बाढ़,2026-03-27T04:56:00+00:00,,0.377126579578721,0,1,hi,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,टिड्डा,2026-04-06T05:11:00+00:00,,0.3649805628813269,0,1,hi,,
 'b8cde961fc',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम कानेकल मंडल,2026-03-17T04:30:00+00:00,India,0.3639218814182481,3,1,hi,SAS,Asia
