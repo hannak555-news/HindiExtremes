@@ -91,11 +91,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '256519f3eb',extremes,Storm,#b3b2b1,wmo,तूफान साखिनेटिपल्ले नरसापुरम मंडल,2026-03-19T04:35:00+00:00,India,0.3981290907085237,2,1,hi,SAS,Asia
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,हिमशैल आर्कटिक,2026-04-03T04:42:00+00:00,,0.3974067127635332,0,1,hi,,
 '4d9577e33d',extremes,Volcano,#b83202,random,ज्वालामुखी,2026-04-07T04:58:00+00:00,,0.3945797693984598,1,1,hi,,
-'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,हिमशैल अंटार्कटिका,2026-04-03T04:42:00+00:00,,0.3918777351204041,0,1,hi,,
-'da1ae5191e',extremes,Storm,#b3b2b1,random,तूफ़ान का उभार,2026-04-05T05:00:00+00:00,,0.3880701928592456,0,1,hi,,
 'b52307201b',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम हुकुमपेटा मंडल,2026-03-16T05:05:00+00:00,India,0.3870873449105519,2,1,hi,SAS,Asia
-'622bd2c53e',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखापन,2026-03-29T05:00:00+00:00,United Arab Emirates,0.3855935367363072,0,1,hi,ARP,Asia
-'7b765a4d4c',extremes,Precipitation,#d60d2b,random,मूसलाधार बारिश,2026-04-13T05:27:00+00:00,,0.3855443489501551,0,1,hi,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडा दिन,2026-03-18T04:35:00+00:00,,0.3851944445377352,3,2,hi,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडी सर्दी,2026-04-13T05:27:00+00:00,,0.3832105171190673,0,1,hi,,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,बर्फ कीचड़,2026-03-27T04:56:00+00:00,,0.3828765231715605,0,1,hi,,
@@ -127,6 +123,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,हिमशैल का शांत होना,2026-04-01T05:12:00+00:00,,0.336056295176896,1,1,hi,,
 '60bddf3351',extremes,Drought,#edc291,edo,भारत में वर्षा की कमी,2026-04-14T05:11:00+00:00,India,0.334450322024332,1,1,hi,SAS,Asia
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,टिड्डियाँ,2026-04-06T05:11:00+00:00,,0.3341317863961516,1,1,hi,,
+'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,हिमशैल अंटार्कटिका,2026-04-03T04:42:00+00:00,,0.33309607485234344,1,1,hi,,
+'da1ae5191e',extremes,Storm,#b3b2b1,random,तूफ़ान का उभार,2026-04-05T05:00:00+00:00,,0.32985966393035876,1,1,hi,,
+'7b765a4d4c',extremes,Precipitation,#d60d2b,random,मूसलाधार बारिश,2026-04-13T05:27:00+00:00,,0.3280127266076318,1,1,hi,,
+'622bd2c53e',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखापन,2026-03-29T05:00:00+00:00,United Arab Emirates,0.3277545062258611,1,1,hi,ARP,Asia
 '595acbcf9f',extremes,Heat Wave,#c40202,random,सबसे गर्म दिन,2026-04-04T04:30:00+00:00,,0.3226339267122532,0,1,hi,,
 'f37139fe2d',extremes,Landslide,#572c03,random,भूस्खलन,2026-03-29T04:59:00+00:00,,0.3222335607544052,0,1,hi,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,बवंडर,2026-03-31T04:59:00+00:00,,0.3211439890830261,0,1,hi,,
