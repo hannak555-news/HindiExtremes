@@ -221,29 +221,39 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9131f8e093',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश सिएरा नॉर्टे वाई सेंट्रो,2026-03-31T04:59:00+00:00,Ecuador,0.3059620150943005,0,1,hi,NWS,South-America
 'c8dd7549e0',extremes,Storm,#b3b2b1,wmo,तूफ़ान दक्षिणपूर्वी क्षेत्र,2026-03-26T04:56:00+00:00,North Macedonia,0.3059514940635569,0,1,hi,MED,Europe
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,तूफ़ान ब्राज़ील,2026-04-11T04:34:00+00:00,Brazil,0.3058902822320347,0,1,hi,SAM,South-America
+'d04f754034',extremes,Thunderstorm,#53785a,wmo,दक्षिण अफ़्रीका में तूफ़ान,2026-04-16T05:17:00+00:00,South Africa,0.30588741543199094,0,1,hi,WSAF,Africa
+'5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन रूस,2026-04-06T05:11:00+00:00,Russia,0.3058849903181671,0,1,hi,ESB,Europe
 '2b54723d48',extremes,Precipitation,#d60d2b,wmo,अमेज़ॅनिया में भारी बारिश,2026-03-31T04:59:00+00:00,Ecuador,0.3058661484515662,0,1,hi,NWS,South-America
+'a29729e148',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल इसराइल,2026-04-02T04:42:00+00:00,Israel,0.3058268324597389,0,1,hi,MED,Asia
 'cf93c7cea9',extremes,Storm,#b3b2b1,aidr,तूफ़ान ओलावृष्टि सिडनी न्यू साउथ वेल्स 2015,2026-04-01T05:13:00+00:00,,0.3057856716350142,0,1,hi,EAU,Oceania
 'f22d69fd3e',extremes,Storm,#b3b2b1,wmo,गुएज़म में तूफ़ान,2026-04-08T05:01:00+00:00,Algeria,0.3057155840718022,0,1,hi,SAH,Africa
 '49f364b3e2',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश फॉर्मोसा पेटिनो पिराने।,2026-04-13T05:28:00+00:00,Argentina,0.3056346795329553,0,1,hi,SES,South-America
+'530909dfe4',extremes,Heat Wave,#c40202,wmo,हीट वेव रूस,2026-04-01T05:12:00+00:00,Russia,0.3056134234594387,0,1,hi,ESB,Europe
+'596bcf1fdb',extremes,Storm,#b3b2b1,wmo,तूफ़ान का उभार क्षेत्र 1 - गंभीर,2026-04-11T04:34:00+00:00,Paraguay,0.30560020804388444,0,1,hi,SES,South-America
 'fa761481b5',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-03-18T04:36:00+00:00,United Arab Emirates,0.3055427215200305,1,1,hi,ARP,Asia
 'f5a98ca4eb',extremes,Storm,#b3b2b1,wmo,तूफान वृद्धि लिटोरल नॉर्ट ई इंटीरियर,2026-03-30T05:12:00+00:00,Ecuador,0.3055341919066162,0,1,hi,NWS,South-America
 'a5a19a733b',extremes,Flood,#030ba1,wmo,फ्लैशफ्लड इथियोपिया,2026-03-29T05:00:00+00:00,Ethiopia,0.3055273488989083,0,1,hi,NEAF,Africa
 'e1048c4180',extremes,Drought,#edc291,edo,सूखापन उरुग्वे,2026-03-22T04:33:00+00:00,Uruguay,0.3055232906384368,0,1,hi,SES,South-America
+'1ec98711db',extremes,Snow&Ice,#d60d2b,wmo,बर्फ आइसलैंड,2026-04-14T05:11:00+00:00,Iceland,0.30550107372458823,0,1,hi,GIC,Europe
 'c7c86df95e',extremes,Storm,#b3b2b1,wmo,तूफ़ान इसराइल,2026-03-31T04:59:00+00:00,Israel,0.3054667471378651,0,1,hi,MED,Asia
 'b9df18cf46',extremes,Storm,#b3b2b1,wmo,उत्तरी तट के तटीय इलाकों में तूफ़ान की लहर,2026-04-06T05:11:00+00:00,Jamaica,0.3054282285911406,0,1,hi,CAR,North-America
 'b7410cf0a8',extremes,Precipitation,#d60d2b,wmo,भारी बारिश सिएरा नॉर्टे वाई सेंट्रो,2026-03-30T05:12:00+00:00,Ecuador,0.3054121607074903,0,1,hi,NWS,South-America
+'5bbe9c0082',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल कनाडा,2026-03-31T04:59:00+00:00,Canada,0.3053907068362476,0,1,hi,NEN,North-America
 '3f340afd02',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश इक्वाडोर,2026-04-01T05:12:00+00:00,Ecuador,0.3053792269826932,0,1,hi,NWS,South-America
 '395db40dcf',extremes,Heat Wave,#c40202,wmo,हीट वेव कोरिएंटेस वाई अलरेडेडोर्स,2026-03-29T05:00:00+00:00,Argentina,0.3053496845951178,0,1,hi,SES,South-America
 '69dc5fcfc4',extremes,Heat Wave,#c40202,wmo,हीट वेव पराना वाई अलरेडेडोरेस,2026-04-03T04:43:00+00:00,Argentina,0.3053470000218471,0,1,hi,SES,South-America
 '02ef3006a3',extremes,Precipitation,#d60d2b,wmo,वर्षा सैटुन ट्रैंग,2026-04-12T05:12:00+00:00,Thailand,0.3053446879369423,0,1,hi,SEA,Asia
 '5b66901fd7',extremes,Wildfire,#d60d2b,wmo,जंगल की आग कैरीबर्ग वानविक्सवलेई,2026-03-31T04:59:00+00:00,South Africa,0.305339804916354,0,1,hi,WSAF,Africa
 '55c39b351d',extremes,Storm,#b3b2b1,random,धूल शैतान,2026-04-16T05:16:00+00:00,,0.3052415758614332,1,1,hi,,
+'560d242cd5',extremes,Storm,#b3b2b1,wmo,तूफ़ान कनाडा,2026-04-12T05:12:00+00:00,Canada,0.30521080482836815,0,1,hi,NEN,North-America
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,इक्वाडोर में वर्षा,2026-04-01T05:12:00+00:00,Ecuador,0.3052032435730108,0,1,hi,NWS,South-America
 '1260f3a52f',extremes,Heat Wave,#c40202,wmo,हीट वेव मॉस्को,2026-04-01T05:12:00+00:00,Russia,0.3051991349493278,0,1,hi,ESB,Europe
+'7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,कनाडा में गंभीर मौसम,2026-04-14T05:11:00+00:00,Canada,0.3051407404402636,0,1,hi,NEN,North-America
 '2840754e5c',extremes,Storm,#b3b2b1,wmo,लीबिया में तूफ़ान की लहर,2026-04-01T05:12:00+00:00,Libya,0.3051401221700262,0,1,hi,SAH,Africa
 '73b3077538',extremes,Drought,#edc291,edo,सूखा सूरीनाम,2026-03-19T04:35:00+00:00,Suriname,0.3051298854979094,0,1,hi,NSA,South-America
 'a93ca33fc4',extremes,Storm,#b3b2b1,wmo,तूफ़ान से चैनल और दक्षिणी पानी में उछाल आता है।,2026-04-06T05:11:00+00:00,Vanuatu,0.3051084322766826,0,1,hi,SPO,Oceania
 'c229b0919c',extremes,Precipitation,#d60d2b,wmo,सऊदी अरब में वर्षा,2026-03-19T04:35:00+00:00,Saudi Arabia,0.3050046458810007,0,1,hi,ARP,Asia
+'bed53cc600',extremes,Precipitation,#d60d2b,wmo,ब्राज़ील में भारी वर्षा,2026-04-10T05:13:00+00:00,Brazil,0.3049272632347866,0,1,hi,SAM,South-America
 '91c0c7bb02',extremes,Precipitation,#d60d2b,wmo,वर्षा लिटोरल वाई सिएरा,2026-04-03T04:43:00+00:00,Ecuador,0.3049171763010511,0,1,hi,NWS,South-America
 '9f56f3696e',extremes,Drought,#edc291,edo,सूखा मंत्र लिथुआनिया,2026-03-17T04:30:00+00:00,Lithuania,0.3049105700915545,0,1,hi,WCE,Europe
 '110d2ee2b9',extremes,Heat Wave,#c40202,wmo,हीट वेव कलुगा क्षेत्र,2026-04-02T04:42:00+00:00,Russia,0.3049083413624503,0,1,hi,ESB,Europe
@@ -367,17 +377,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3fa143a609',extremes,Storm,#b3b2b1,random,धूल भरी बर्फ़ीला तूफ़ान,2026-03-30T05:11:00+00:00,,0.2761651065687653,1,1,hi,,
 '72e8366c4b',extremes,Unknown,#d60d2b,cmeter,अज्ञात ऑरलैंडो,2026-04-17T05:16:00+00:00,United States,0.27157444286681,1,1,hi,ENA,North-America
 'c7fa466900',extremes,Cold Wave,#a7e9fa,acwe,न्यू साउथ वेल्स में ठंड का कहर,2026-03-30T05:12:00+00:00,Australia,0.2714716717364612,1,1,hi,EAU,Oceania
-'c759fb6bc1',extremes,Cold Wave,#a7e9fa,acwe,ठंडा मौसम विक्टोरिया,2026-03-30T05:12:00+00:00,Australia,0.27146951674800157,1,1,hi,SAU,Oceania
+'c759fb6bc1',extremes,Cold Wave,#a7e9fa,acwe,ठंडा मौसम विक्टोरिया,2026-03-30T05:12:00+00:00,Australia,0.2714695167480015,1,1,hi,SAU,Oceania
 'f5cbe3ea20',extremes,Drought,#edc291,acwe,न्यू साउथ वेल्स में सूखा,2026-03-19T04:36:00+00:00,Australia,0.2714623841501092,1,1,hi,EAU,Oceania
-'77611cd126',extremes,Cold Wave,#a7e9fa,acwe,दक्षिण ऑस्ट्रेलिया में ठंडा मौसम,2026-03-30T05:12:00+00:00,Australia,0.27144056318100945,1,1,hi,CAU,Oceania
+'77611cd126',extremes,Cold Wave,#a7e9fa,acwe,दक्षिण ऑस्ट्रेलिया में ठंडा मौसम,2026-03-30T05:12:00+00:00,Australia,0.2714405631810094,1,1,hi,CAU,Oceania
 'ce3fbb6f5f',extremes,Cold Wave,#a7e9fa,acwe,ऑस्ट्रेलिया में शीत लहर,2026-03-30T05:12:00+00:00,Australia,0.2702901312492577,1,1,hi,CAU,Oceania
 '129d34107e',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय चक्रवात इंदुसा,2026-04-03T04:42:00+00:00,,0.2693132651609476,1,1,hi,SIO,Indian Ocean
 'b1f61292dd',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय चक्रवात 28पी,2026-03-24T04:31:00+00:00,,0.2682977918486736,1,1,hi,SPO,Pacific Ocean
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,तूफ़ान ऑस्ट्रेलिया,2026-03-19T04:35:00+00:00,Australia,0.2682049295787759,1,1,hi,EAU,Oceania
 'a275910137',extremes,Cold Wave,#a7e9fa,acwe,शीत लहर न्यू साउथ वेल्स,2026-03-31T05:00:00+00:00,Australia,0.2674198989020561,1,1,hi,EAU,Oceania
-'91377cc2a9',extremes,Drought,#edc291,acwe,दक्षिण ऑस्ट्रेलिया में सूखा,2026-03-31T05:00:00+00:00,Australia,0.26721367678376196,1,1,hi,SAU,Oceania
-'8c548a735e',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय तूफान सिनलाकु,2026-04-11T04:34:00+00:00,,0.26710985567874357,1,1,hi,NPO,Pacific Ocean
-'6a814a5817',extremes,Drought,#edc291,acwe,निम्न जल स्तर न्यू साउथ वेल्स,2026-03-25T04:34:00+00:00,Australia,0.26706053830590903,1,1,hi,EAU,Oceania
+'91377cc2a9',extremes,Drought,#edc291,acwe,दक्षिण ऑस्ट्रेलिया में सूखा,2026-03-31T05:00:00+00:00,Australia,0.2672136767837619,1,1,hi,SAU,Oceania
+'8c548a735e',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय तूफान सिनलाकु,2026-04-11T04:34:00+00:00,,0.2671098556787435,1,1,hi,NPO,Pacific Ocean
+'6a814a5817',extremes,Drought,#edc291,acwe,निम्न जल स्तर न्यू साउथ वेल्स,2026-03-25T04:34:00+00:00,Australia,0.267060538305909,1,1,hi,EAU,Oceania
 '79e930cd7f',extremes,Cold Wave,#a7e9fa,acwe,दक्षिण ऑस्ट्रेलिया में बर्फीला तापमान,2026-03-31T05:00:00+00:00,Australia,0.2670273087602848,1,1,hi,SAU,Oceania
 '75b5c9d5e7',extremes,Cold Wave,#a7e9fa,acwe,उत्तरी क्षेत्र में शीतलहर का प्रकोप,2026-03-31T05:00:00+00:00,Australia,0.2666006737281379,1,1,hi,NAU,Oceania
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,बर्फ़ीला तूफ़ान,2026-03-22T04:32:00+00:00,,0.2600054096892966,2,1,hi,,
