@@ -155,23 +155,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e1048c4180',extremes,Drought,#edc291,edo,सूखापन उरुग्वे,2026-03-22T04:33:00+00:00,Uruguay,0.3055232906384368,0,1,hi,SES,South-America
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल कनाडा,2026-03-31T04:59:00+00:00,Canada,0.3053907068362476,0,1,hi,NEN,North-America
 '55c39b351d',extremes,Storm,#b3b2b1,random,धूल शैतान,2026-04-16T05:16:00+00:00,,0.3052415758614332,1,1,hi,,
-'2840754e5c',extremes,Storm,#b3b2b1,wmo,लीबिया में तूफ़ान की लहर,2026-04-01T05:12:00+00:00,Libya,0.3051401221700262,0,1,hi,SAH,Africa
-'73b3077538',extremes,Drought,#edc291,edo,सूखा सूरीनाम,2026-03-19T04:35:00+00:00,Suriname,0.3051298854979094,0,1,hi,NSA,South-America
-'a93ca33fc4',extremes,Storm,#b3b2b1,wmo,तूफ़ान से चैनल और दक्षिणी पानी में उछाल आता है।,2026-04-06T05:11:00+00:00,Vanuatu,0.3051084322766826,0,1,hi,SPO,Oceania
-'b40495b93f',extremes,Precipitation,#d60d2b,wmo,वर्षा न्यूज़ीलैंड,2026-04-16T05:17:00+00:00,New Zealand,0.305008846409516,0,1,hi,NZ,Oceania
-'c229b0919c',extremes,Precipitation,#d60d2b,wmo,सऊदी अरब में वर्षा,2026-03-19T04:35:00+00:00,Saudi Arabia,0.3050046458810007,0,1,hi,ARP,Asia
-'bed53cc600',extremes,Precipitation,#d60d2b,wmo,ब्राज़ील में भारी वर्षा,2026-04-10T05:13:00+00:00,Brazil,0.3049272632347866,0,1,hi,SAM,South-America
-'91c0c7bb02',extremes,Precipitation,#d60d2b,wmo,वर्षा लिटोरल वाई सिएरा,2026-04-03T04:43:00+00:00,Ecuador,0.3049171763010511,0,1,hi,NWS,South-America
-'9f56f3696e',extremes,Drought,#edc291,edo,सूखा मंत्र लिथुआनिया,2026-03-17T04:30:00+00:00,Lithuania,0.3049105700915545,0,1,hi,WCE,Europe
-'110d2ee2b9',extremes,Heat Wave,#c40202,wmo,हीट वेव कलुगा क्षेत्र,2026-04-02T04:42:00+00:00,Russia,0.3049083413624503,0,1,hi,ESB,Europe
-'ebe9220c27',extremes,Snow&Ice,#d60d2b,wmo,ठंढ बौइरा,2026-04-02T04:42:00+00:00,Algeria,0.3048987922028955,0,1,hi,SAH,Africa
-'e0317bbd00',extremes,Heat Wave,#c40202,wmo,हीट वेव ऑरेनबर्ग क्षेत्र,2026-04-01T05:12:00+00:00,Russia,0.3048917293129805,0,1,hi,ESB,Europe
-'4a4191209b',extremes,Heat Wave,#c40202,wmo,हीट वेव स्मोलेंस्क क्षेत्र,2026-04-01T05:12:00+00:00,Russia,0.3048871120735542,0,1,hi,ESB,Europe
 '3421a57149',extremes,Storm,#b3b2b1,wmo,तूफ़ान इक्वाडोर,2026-04-03T04:43:00+00:00,Ecuador,0.3048830539891154,0,1,hi,NWS,South-America
-'29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,न्यूजीलैंड में मूसलाधार बारिश,2026-04-06T05:11:00+00:00,New Zealand,0.3048631512422621,0,1,hi,NZ,Oceania
-'2aefcc58de',extremes,Tropical Cyclone,#4f4f4f,wmo,उष्णकटिबंधीय चक्रवात डेनमार्क,2026-04-04T04:30:00+00:00,Denmark,0.3048595132684648,0,1,hi,NEU,Europe
-'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,ठंढ,2026-03-27T04:56:00+00:00,,0.3048577872373129,0,1,hi,,
-'be647fc7a4',extremes,Storm,#b3b2b1,wmo,इक्वाडोर में तूफ़ान की लहर,2026-04-03T04:43:00+00:00,Ecuador,0.3048517219060076,0,1,hi,NWS,South-America
 '2866b55c37',extremes,Storm,#b3b2b1,wmo,उत्तरी मैसेडोनिया में तूफान,2026-03-26T04:56:00+00:00,North Macedonia,0.3048486177736351,0,1,hi,MED,Europe
 '5e35e9b9cc',extremes,Earthquake,#870007,usgs,भूकंप याकूइबा,2026-04-07T04:59:00+00:00,Argentina,0.3047877862176232,0,1,hi,SES,South-America
 'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,वर्षा सऊदी अरब,2026-04-08T05:01:00+00:00,Saudi Arabia,0.3046832670086912,0,1,hi,ARP,Asia
@@ -414,8 +398,23 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,कनाडा में गंभीर मौसम,2026-04-14T05:11:00+00:00,Canada,0.2595196443742241,1,1,hi,NEN,North-America
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,तूफ़ान कनाडा,2026-04-12T05:12:00+00:00,Canada,0.2594291841041128,1,1,hi,NEN,North-America
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,इक्वाडोर में वर्षा,2026-04-01T05:12:00+00:00,Ecuador,0.2594227570370592,1,1,hi,NWS,South-America
-'1260f3a52f',extremes,Heat Wave,#c40202,wmo,हीट वेव मॉस्को,2026-04-01T05:12:00+00:00,Russia,0.25941926470692867,1,1,hi,ESB,Europe
+'1260f3a52f',extremes,Heat Wave,#c40202,wmo,हीट वेव मॉस्को,2026-04-01T05:12:00+00:00,Russia,0.2594192647069286,1,1,hi,ESB,Europe
+'2840754e5c',extremes,Storm,#b3b2b1,wmo,लीबिया में तूफ़ान की लहर,2026-04-01T05:12:00+00:00,Libya,0.2593691038445222,1,1,hi,SAH,Africa
+'73b3077538',extremes,Drought,#edc291,edo,सूखा सूरीनाम,2026-03-19T04:35:00+00:00,Suriname,0.259360402673223,1,1,hi,NSA,South-America
+'a93ca33fc4',extremes,Storm,#b3b2b1,wmo,तूफ़ान से चैनल और दक्षिणी पानी में उछाल आता है।,2026-04-06T05:11:00+00:00,Vanuatu,0.2593421674351802,1,1,hi,SPO,Oceania
+'b40495b93f',extremes,Precipitation,#d60d2b,wmo,वर्षा न्यूज़ीलैंड,2026-04-16T05:17:00+00:00,New Zealand,0.25925751944808856,1,1,hi,NZ,Oceania
+'c229b0919c',extremes,Precipitation,#d60d2b,wmo,सऊदी अरब में वर्षा,2026-03-19T04:35:00+00:00,Saudi Arabia,0.25925394899885057,1,1,hi,ARP,Asia
+'bed53cc600',extremes,Precipitation,#d60d2b,wmo,ब्राज़ील में भारी वर्षा,2026-04-10T05:13:00+00:00,Brazil,0.2591881737495686,1,1,hi,SAM,South-America
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,जमने वाला कनाडा,2026-03-20T04:26:00+00:00,Canada,0.2591843777250342,1,1,hi,NEN,North-America
+'91c0c7bb02',extremes,Precipitation,#d60d2b,wmo,वर्षा लिटोरल वाई सिएरा,2026-04-03T04:43:00+00:00,Ecuador,0.2591795998558934,1,1,hi,NWS,South-America
+'110d2ee2b9',extremes,Heat Wave,#c40202,wmo,हीट वेव कलुगा क्षेत्र,2026-04-02T04:42:00+00:00,Russia,0.2591720901580828,1,1,hi,ESB,Europe
+'ebe9220c27',extremes,Snow&Ice,#d60d2b,wmo,ठंढ बौइरा,2026-04-02T04:42:00+00:00,Algeria,0.25916397337246116,1,1,hi,SAH,Africa
+'e0317bbd00',extremes,Heat Wave,#c40202,wmo,हीट वेव ऑरेनबर्ग क्षेत्र,2026-04-01T05:12:00+00:00,Russia,0.2591579699160334,1,1,hi,ESB,Europe
+'4a4191209b',extremes,Heat Wave,#c40202,wmo,हीट वेव स्मोलेंस्क क्षेत्र,2026-04-01T05:12:00+00:00,Russia,0.25915404526252106,1,1,hi,ESB,Europe
+'29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,न्यूजीलैंड में मूसलाधार बारिश,2026-04-06T05:11:00+00:00,New Zealand,0.2591336785559228,1,1,hi,NZ,Oceania
+'2aefcc58de',extremes,Tropical Cyclone,#4f4f4f,wmo,उष्णकटिबंधीय चक्रवात डेनमार्क,2026-04-04T04:30:00+00:00,Denmark,0.2591305862781951,1,1,hi,NEU,Europe
+'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,ठंढ,2026-03-27T04:56:00+00:00,,0.25912911915171594,1,1,hi,,
+'be647fc7a4',extremes,Storm,#b3b2b1,wmo,इक्वाडोर में तूफ़ान की लहर,2026-04-03T04:43:00+00:00,Ecuador,0.2591239636201065,1,1,hi,NWS,South-America
 '1f5ce6636c',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम बोत्सवाना,2026-03-23T04:42:00+00:00,Botswana,0.2584784270716894,1,1,hi,WSAF,Africa
 '3738ea4320',extremes,Precipitation,#d60d2b,wmo,वर्षा उरुग्वे,2026-03-23T04:42:00+00:00,Uruguay,0.2581860698322736,1,1,hi,SES,South-America
 'bd5d88d4fc',extremes,Flood,#030ba1,wmo,बाढ़ बोत्सवाना,2026-03-21T04:17:00+00:00,Botswana,0.2579286859033747,1,1,hi,WSAF,Africa
