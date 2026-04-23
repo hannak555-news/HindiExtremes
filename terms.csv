@@ -98,7 +98,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5295642073',extremes,Flood,#030ba1,wmo,रूस में बाढ़,2026-03-30T05:12:00+00:00,Russia,0.4084794386201694,1,2,hi,ESB,Europe
 '7054c01ed8',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में बारिश की कमी,2026-04-11T04:34:00+00:00,United Arab Emirates,0.4003334917451979,1,1,hi,ARP,Asia
 '4dc8bdbf14',extremes,Flood,#030ba1,random,नदी में बाढ़,2026-04-20T05:26:00+00:00,,0.3992086210089489,1,2,hi,,
-'980a973102',extremes,Tropical Cyclone,#4f4f4f,random,बम चक्रवात,2026-04-23T05:16:00+00:00,,0.3948872150785866,0,1,hi,,
 '4d9577e33d',extremes,Volcano,#b83202,random,ज्वालामुखी,2026-04-07T04:58:00+00:00,,0.3945797693984598,1,1,hi,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडा दिन,2026-03-18T04:35:00+00:00,,0.3851944445377352,3,2,hi,,
 'bd21048a6a',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-03-30T05:12:00+00:00,United Arab Emirates,0.3842816880829629,1,1,hi,ARP,Asia
@@ -119,6 +118,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,ग्लेशियर का शांत होना,2026-03-24T04:31:00+00:00,,0.3373634309054719,1,1,hi,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,हिमशैल का शांत होना,2026-04-01T05:12:00+00:00,,0.336056295176896,1,1,hi,,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,सबसे गर्म वर्ष,2026-04-01T05:12:00+00:00,,0.3360111758858944,1,1,hi,,
+'980a973102',extremes,Tropical Cyclone,#4f4f4f,random,बम चक्रवात,2026-04-23T05:16:00+00:00,,0.3356541328167986,1,1,hi,,
 '60bddf3351',extremes,Drought,#edc291,edo,भारत में वर्षा की कमी,2026-04-14T05:11:00+00:00,India,0.334450322024332,1,1,hi,SAS,Asia
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,टिड्डियाँ,2026-04-06T05:11:00+00:00,,0.3341317863961516,1,1,hi,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,हिमशैल अंटार्कटिका,2026-04-03T04:42:00+00:00,,0.3330960748523434,1,1,hi,,
@@ -130,7 +130,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,बर्फ कीचड़,2026-03-27T04:56:00+00:00,,0.3254450446958264,1,1,hi,,
 '595acbcf9f',extremes,Heat Wave,#c40202,random,सबसे गर्म दिन,2026-04-04T04:30:00+00:00,,0.3226339267122532,0,1,hi,,
 'f37139fe2d',extremes,Landslide,#572c03,random,भूस्खलन,2026-03-29T04:59:00+00:00,,0.3222335607544052,0,1,hi,,
-'845dd2d698',extremes,Storm,#b3b2b1,random,बवंडर,2026-03-31T04:59:00+00:00,,0.3211439890830261,0,1,hi,,
 '54927bfe65',extremes,Flood,#030ba1,random,तटीय बाढ़,2026-03-27T04:56:00+00:00,,0.3205575926419128,1,1,hi,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,तूफ़ान,2026-04-11T04:34:00+00:00,,0.3199672519219394,0,1,hi,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,औषधि,2026-03-28T04:33:00+00:00,,0.3195279864174729,0,1,hi,,
@@ -269,6 +268,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,आर्कटिक समुद्री बर्फ,2026-04-15T05:11:00+00:00,,0.2793992544128184,1,1,hi,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,राष्ट्रीय तूफान केंद्र,2026-04-11T04:34:00+00:00,,0.2766707462066292,1,1,hi,,
 '3fa143a609',extremes,Storm,#b3b2b1,random,धूल भरी बर्फ़ीला तूफ़ान,2026-03-30T05:11:00+00:00,,0.2761651065687653,1,1,hi,,
+'845dd2d698',extremes,Storm,#b3b2b1,random,बवंडर,2026-03-31T04:59:00+00:00,,0.27312240572057217,1,1,hi,,
 '72e8366c4b',extremes,Unknown,#d60d2b,cmeter,अज्ञात ऑरलैंडो,2026-04-17T05:16:00+00:00,United States,0.27157444286681,1,1,hi,ENA,North-America
 'c7fa466900',extremes,Cold Wave,#a7e9fa,acwe,न्यू साउथ वेल्स में ठंड का कहर,2026-03-30T05:12:00+00:00,Australia,0.2714716717364612,1,1,hi,EAU,Oceania
 'c759fb6bc1',extremes,Cold Wave,#a7e9fa,acwe,ठंडा मौसम विक्टोरिया,2026-03-30T05:12:00+00:00,Australia,0.2714695167480015,1,1,hi,SAU,Oceania
