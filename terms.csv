@@ -104,6 +104,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,भारी वर्षा,2026-03-26T04:56:00+00:00,,0.3808094505530074,1,2,hi,,
 '84febdd06c',extremes,Thunderstorm,#53785a,random,तूफ़ान,2026-04-18T04:56:00+00:00,,0.3805730235406221,0,1,hi,,
 'ca647bd12b',extremes,Earthquake,#870007,usgs,भूकंप सिलचर,2026-04-08T05:00:00+00:00,India,0.3785445080672855,1,1,hi,SAS,Asia
+'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,औषधि,2026-03-28T04:33:00+00:00,,0.37809893845485193,1,2,hi,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,रिकॉर्ड गर्मी,2026-03-30T05:11:00+00:00,,0.3736309290414464,1,1,hi,,
 '07403ae253',extremes,Earthquake,#870007,usgs,भूकंप पोर्ट ब्लेयर,2026-03-30T05:11:00+00:00,India,0.364970105447425,1,1,hi,SEA,Asia
 '62084daeb0',extremes,Earthquake,#870007,random,भूकंप,2026-04-11T04:34:00+00:00,,0.3647209667581304,0,1,hi,,
@@ -132,7 +133,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f37139fe2d',extremes,Landslide,#572c03,random,भूस्खलन,2026-03-29T04:59:00+00:00,,0.3222335607544052,0,1,hi,,
 '54927bfe65',extremes,Flood,#030ba1,random,तटीय बाढ़,2026-03-27T04:56:00+00:00,,0.3205575926419128,1,1,hi,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,तूफ़ान,2026-04-11T04:34:00+00:00,,0.3199672519219394,0,1,hi,,
-'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,औषधि,2026-03-28T04:33:00+00:00,,0.3195279864174729,0,1,hi,,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,जंगल की आग,2026-04-18T04:56:00+00:00,,0.3170833250209666,0,1,hi,,
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,बर्फ़ का झोंका,2026-04-19T05:16:00+00:00,,0.3166044889859142,1,1,hi,,
 '15a9c61e3e',extremes,Landslide,#572c03,random,चट्टानों का खिसकना,2026-04-20T05:26:00+00:00,,0.3159950143806126,1,1,hi,,
@@ -141,7 +141,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '59b529f428',extremes,Thunderstorm,#53785a,random,ओलावृष्टि,2026-03-28T04:33:00+00:00,,0.3109494305877612,0,1,hi,,
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,स्नोपैक,2026-03-29T04:59:00+00:00,,0.3108168046455847,1,1,hi,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,टिड्डा,2026-04-06T05:11:00+00:00,,0.3102334784491278,1,1,hi,,
-'8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,बर्फ़ीला तूफ़ान,2026-04-11T04:34:00+00:00,,0.3097074958574647,0,1,hi,,
 '9b59bee21e',extremes,Drought,#edc291,edo,पोलैंड में सूखा,2026-04-08T05:01:00+00:00,Poland,0.3096227936908408,0,1,hi,WCE,Europe
 'd59a7e48d7',extremes,Drought,#edc291,random,वाष्पीकरण-उत्सर्जन,2026-04-16T05:16:00+00:00,,0.3093673195855034,1,1,hi,,
 '04f990069a',extremes,Drought,#edc291,edo,वर्षा की कमी बेलारूस,2026-04-22T05:13:00+00:00,Belarus,0.3088568151459622,0,1,hi,WCE,Europe
@@ -268,7 +267,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,आर्कटिक समुद्री बर्फ,2026-04-15T05:11:00+00:00,,0.2793992544128184,1,1,hi,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,राष्ट्रीय तूफान केंद्र,2026-04-11T04:34:00+00:00,,0.2766707462066292,1,1,hi,,
 '3fa143a609',extremes,Storm,#b3b2b1,random,धूल भरी बर्फ़ीला तूफ़ान,2026-03-30T05:11:00+00:00,,0.2761651065687653,1,1,hi,,
-'845dd2d698',extremes,Storm,#b3b2b1,random,बवंडर,2026-03-31T04:59:00+00:00,,0.27312240572057217,1,1,hi,,
+'845dd2d698',extremes,Storm,#b3b2b1,random,बवंडर,2026-03-31T04:59:00+00:00,,0.2731224057205721,1,1,hi,,
 '72e8366c4b',extremes,Unknown,#d60d2b,cmeter,अज्ञात ऑरलैंडो,2026-04-17T05:16:00+00:00,United States,0.27157444286681,1,1,hi,ENA,North-America
 'c7fa466900',extremes,Cold Wave,#a7e9fa,acwe,न्यू साउथ वेल्स में ठंड का कहर,2026-03-30T05:12:00+00:00,Australia,0.2714716717364612,1,1,hi,EAU,Oceania
 'c759fb6bc1',extremes,Cold Wave,#a7e9fa,acwe,ठंडा मौसम विक्टोरिया,2026-03-30T05:12:00+00:00,Australia,0.2714695167480015,1,1,hi,SAU,Oceania
@@ -296,6 +295,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '62dc5cf511',extremes,Storm,#b3b2b1,aidr,तूफ़ान भीषण तूफ़ान मेलबोर्न विक्टोरिया 2010,2026-03-25T04:34:00+00:00,Australia,0.2640552658270273,1,1,hi,SAU,Oceania
 '136998b302',extremes,Cold Wave,#a7e9fa,acwe,ठंडा मौसम क्वींसलैंड,2026-03-31T05:00:00+00:00,Australia,0.2639500553671853,1,1,hi,CAU,Oceania
 'ab5d1234a0',extremes,Flood,#030ba1,aidr,बाढ़ होबार्ट फ़्लैश बाढ़ तस्मानिया 2018,2026-04-18T04:57:00+00:00,Australia,0.2634059264716479,1,1,hi,SAU,Oceania
+'8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,बर्फ़ीला तूफ़ान,2026-04-11T04:34:00+00:00,,0.263251371478845,1,1,hi,,
 'bebba26d24',extremes,Unknown,#d60d2b,cmeter,अज्ञात संयुक्त राज्य,2026-04-19T05:17:00+00:00,United States,0.2631910316921617,1,1,hi,ENA,North-America
 '352775dd3c',extremes,Drought,#edc291,edo,सूखापन नेपाल,2026-04-02T04:42:00+00:00,Nepal,0.2631743905403316,1,1,hi,TIB,Asia
 '37d08d7316',extremes,Precipitation,#d60d2b,acwe,दक्षिण ऑस्ट्रेलिया में बारिश का दौर,2026-04-12T05:12:00+00:00,Australia,0.263167353491097,1,1,hi,SAU,Oceania
