@@ -114,8 +114,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '07403ae253',extremes,Earthquake,#870007,usgs,भूकंप पोर्ट ब्लेयर,2026-03-30T05:11:00+00:00,India,0.364970105447425,1,1,hi,SEA,Asia
 '62084daeb0',extremes,Earthquake,#870007,random,भूकंप,2026-04-11T04:34:00+00:00,,0.3647209667581304,0,1,hi,,
 'e8cad01791',extremes,Earthquake,#870007,usgs,भूकंप बसमत,2026-04-12T05:11:00+00:00,India,0.3603344169322107,1,1,hi,SAS,Asia
+'84dfdca0f8',extremes,Thunderstorm,#53785a,random,ओले,2026-04-10T05:12:00+00:00,,0.3541410862087165,1,1,hi,,
 'f90601fa23',extremes,Volcano,#b83202,random,ज्वालामुखी विस्फोट,2026-04-07T04:58:00+00:00,,0.3485064152251044,1,1,hi,,
-'84dfdca0f8',extremes,Thunderstorm,#53785a,random,ओले,2026-04-10T05:12:00+00:00,,0.3425185720102547,0,1,hi,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,हिमशैल आर्कटिक,2026-04-03T04:42:00+00:00,,0.3377957058490032,1,1,hi,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,ग्लेशियर का शांत होना,2026-03-24T04:31:00+00:00,,0.3373634309054719,1,1,hi,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,रिकार्ड वर्षा,2026-04-25T05:00:00+00:00,,0.336356420446111,1,1,hi,,
@@ -144,7 +144,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd59a7e48d7',extremes,Drought,#edc291,random,वाष्पीकरण-उत्सर्जन,2026-04-16T05:16:00+00:00,,0.3093673195855034,1,1,hi,,
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,हबूब,2026-04-07T04:58:00+00:00,,0.3088546559419947,1,1,hi,,
 '776fe47817',extremes,Wildfire,#d60d2b,random,जंगल की आग,2026-04-08T05:00:00+00:00,,0.3070664895742703,1,1,hi,,
-'d68189cbca',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश अल्जीरिया,2026-04-26T05:25:00+00:00,Algeria,0.3054973815068953,0,1,hi,SAH,Africa
 '55c39b351d',extremes,Storm,#b3b2b1,random,धूल शैतान,2026-04-16T05:16:00+00:00,,0.3052415758614332,1,1,hi,,
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,बर्फ कनाडा,2026-04-08T05:01:00+00:00,Canada,0.304493576209821,0,1,hi,NEN,North-America
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,जमने वाला कनाडा,2026-04-09T04:58:00+00:00,Canada,0.3038773755613299,0,1,hi,NEN,North-America
@@ -371,6 +370,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f5a98ca4eb',extremes,Storm,#b3b2b1,wmo,तूफान वृद्धि लिटोरल नॉर्ट ई इंटीरियर,2026-03-30T05:12:00+00:00,Ecuador,0.2597040631206238,1,1,hi,NWS,South-America
 'a5a19a733b',extremes,Flood,#030ba1,wmo,फ्लैशफ्लड इथियोपिया,2026-03-29T05:00:00+00:00,Ethiopia,0.259698246564072,1,1,hi,NEAF,Africa
 '1ec98711db',extremes,Snow&Ice,#d60d2b,wmo,बर्फ आइसलैंड,2026-04-14T05:11:00+00:00,Iceland,0.2596759126658999,1,1,hi,GIC,Europe
+'d68189cbca',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश अल्जीरिया,2026-04-26T05:25:00+00:00,Algeria,0.259672774280861,1,1,hi,SAH,Africa
 'c7c86df95e',extremes,Storm,#b3b2b1,wmo,तूफ़ान इसराइल,2026-03-31T04:59:00+00:00,Israel,0.2596467350671853,1,1,hi,MED,Asia
 '46757c038c',extremes,Thunderstorm,#53785a,wmo,दक्षिण अफ़्रीका में ओलावृष्टि,2026-04-10T05:13:00+00:00,South Africa,0.2596290647067677,1,1,hi,WSAF,Africa
 'b9df18cf46',extremes,Storm,#b3b2b1,wmo,उत्तरी तट के तटीय इलाकों में तूफ़ान की लहर,2026-04-06T05:11:00+00:00,Jamaica,0.2596139943024695,1,1,hi,CAR,North-America
