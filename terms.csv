@@ -4,9 +4,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '615a4551a5',extremes,Flood,#030ba1,wmo,भारत में बाढ़,2026-04-05T05:01:00+00:00,India,0.6797429464903892,1,2,hi,SAS,Asia
 '9187e11f3e',extremes,Storm,#b3b2b1,wmo,पश्चिम बंगाल के कोलकाता जिले में तूफान,2026-04-16T05:17:00+00:00,India,0.6782222326426158,1,2,hi,SAS,Asia
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,भारत में गंभीर मौसम,2026-04-02T04:42:00+00:00,India,0.6650326264704209,1,2,hi,SAS,Asia
-'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,जय भारत,2026-04-02T04:42:00+00:00,India,0.6587429735930003,0,1,hi,SAS,Asia
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,वर्षा भारत,2026-04-09T04:58:00+00:00,India,0.6179917166199431,1,1,hi,SAS,Asia
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,भूकंप भारत,2026-04-06T05:11:00+00:00,India,0.603526196262176,1,2,hi,SEA,Asia
+'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,जय भारत,2026-04-02T04:42:00+00:00,India,0.5906816025540502,1,1,hi,SAS,Asia
 '4093195155',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल भारत,2026-04-02T04:42:00+00:00,India,0.5795336967940993,1,1,hi,SAS,Asia
 '6dbe18bed3',extremes,Wildfire,#d60d2b,wmo,जंगल की आग तेलंगाना,2026-03-29T05:00:00+00:00,India,0.577361351963022,1,1,hi,SAS,Asia
 'b2bc2d0c7f',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन भारत,2026-03-29T05:00:00+00:00,India,0.5773035778312543,1,1,hi,SAS,Asia
@@ -149,7 +149,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,जमने वाला कनाडा,2026-04-09T04:58:00+00:00,Canada,0.3038773755613299,0,1,hi,NEN,North-America
 '179c5c0d77',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन सोची,2026-03-24T04:31:00+00:00,Russia,0.3036898734760697,0,1,hi,ESB,Europe
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,पारा गिरा,2026-04-04T04:30:00+00:00,,0.303559463999939,0,1,hi,,
-'43e3252826',extremes,Storm,#b3b2b1,wmo,तूफान मोल्दोवा,2026-04-08T05:01:00+00:00,Moldova,0.3035351835768036,0,1,hi,WCE,Europe
 '895007d2de',extremes,Snow Avalanche,#deddd5,wmo,नॉर्वे में हिमस्खलन,2026-04-10T05:13:00+00:00,Norway,0.3034953160621461,0,1,hi,NEU,Europe
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,तूफ़ान पराग्वे,2026-04-12T05:12:00+00:00,Paraguay,0.3034871939336278,0,1,hi,SES,South-America
 '4849129548',extremes,Tropical Cyclone,#4f4f4f,wmo,उष्णकटिबंधीय चक्रवात सोलोमन द्वीप,2026-04-05T05:01:00+00:00,Solomon Islands,0.3034639200153801,0,1,hi,EPO,Oceania
@@ -467,3 +466,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '355605856d',extremes,Precipitation,#d60d2b,wmo,वर्षा चाड,2026-04-07T04:59:00+00:00,Chad,0.2580560658830402,1,1,hi,SAH,Africa
 'e8f2fdcc3a',extremes,Precipitation,#d60d2b,wmo,थाईलैंड में वर्षा,2026-04-11T04:34:00+00:00,Thailand,0.2580517635851109,1,1,hi,SEA,Asia
 '2f5808d63b',extremes,Storm,#b3b2b1,wmo,यूनाइटेड किंगडम में तूफ़ान की लहर,2026-04-04T04:30:00+00:00,United Kingdom,0.2580106772699024,1,1,hi,NEU,Europe
+'43e3252826',extremes,Storm,#b3b2b1,wmo,तूफान मोल्दोवा,2026-04-08T05:01:00+00:00,Moldova,0.25800490604028303,1,1,hi,WCE,Europe
