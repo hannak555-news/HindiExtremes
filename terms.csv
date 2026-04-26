@@ -83,6 +83,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0053afc92f',extremes,Volcano,#b83202,random,लहार,2026-04-21T05:14:00+00:00,,0.4337657686377933,1,2,hi,,
 '20741ce7eb',extremes,Tsunami,#690191,random,सुनामी,2026-04-10T05:12:00+00:00,,0.4287677661911354,1,3,hi,,
 'a7a893f3e8',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम सोलापुर हिंगोली,2026-04-04T04:30:00+00:00,India,0.4282676825940532,1,1,hi,SAS,Asia
+'59b5340b69',extremes,Precipitation,#d60d2b,random,मौसम सामने,2026-03-30T05:11:00+00:00,,0.42787542074346646,1,2,hi,,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,बवंडर,2026-04-08T05:00:00+00:00,,0.4268637887841818,1,2,hi,,
 '01a596f125',extremes,Thunderstorm,#53785a,wmo,त्रिपुरा के धलाई गोमती जिलों में मौसम खराब,2026-03-30T05:12:00+00:00,India,0.4268592623447236,1,1,hi,SAS,Asia
 '9cf9e7470e',extremes,Thunderstorm,#53785a,wmo,पुणे और धाराशिव में मौसम खराब,2026-04-23T05:16:00+00:00,India,0.4258128201674981,1,1,hi,SAS,Asia
@@ -113,8 +114,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e8cad01791',extremes,Earthquake,#870007,usgs,भूकंप बसमत,2026-04-12T05:11:00+00:00,India,0.3603344169322107,1,1,hi,SAS,Asia
 'f90601fa23',extremes,Volcano,#b83202,random,ज्वालामुखी विस्फोट,2026-04-07T04:58:00+00:00,,0.3485064152251044,1,1,hi,,
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,ओले,2026-04-10T05:12:00+00:00,,0.3425185720102547,0,1,hi,,
-'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,ओलावृष्टि,2026-03-21T04:17:00+00:00,,0.3405573464654463,1,1,hi,,
-'59b5340b69',extremes,Precipitation,#d60d2b,random,मौसम सामने,2026-03-30T05:11:00+00:00,,0.3381925732728565,0,1,hi,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,हिमशैल आर्कटिक,2026-04-03T04:42:00+00:00,,0.3377957058490032,1,1,hi,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,ग्लेशियर का शांत होना,2026-03-24T04:31:00+00:00,,0.3373634309054719,1,1,hi,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,रिकार्ड वर्षा,2026-04-25T05:00:00+00:00,,0.336356420446111,1,1,hi,,
@@ -144,10 +143,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,हबूब,2026-04-07T04:58:00+00:00,,0.3088546559419947,1,1,hi,,
 '776fe47817',extremes,Wildfire,#d60d2b,random,जंगल की आग,2026-04-08T05:00:00+00:00,,0.3070664895742703,1,1,hi,,
 '55c39b351d',extremes,Storm,#b3b2b1,random,धूल शैतान,2026-04-16T05:16:00+00:00,,0.3052415758614332,1,1,hi,,
-'0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,बर्फ कनाडा,2026-04-08T05:01:00+00:00,Canada,0.30449357620982104,0,1,hi,NEN,North-America
+'0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,बर्फ कनाडा,2026-04-08T05:01:00+00:00,Canada,0.304493576209821,0,1,hi,NEN,North-America
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,जमने वाला कनाडा,2026-04-09T04:58:00+00:00,Canada,0.3038773755613299,0,1,hi,NEN,North-America
 '179c5c0d77',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन सोची,2026-03-24T04:31:00+00:00,Russia,0.3036898734760697,0,1,hi,ESB,Europe
-'e8f2fdcc3a',extremes,Precipitation,#d60d2b,wmo,थाईलैंड में वर्षा,2026-04-11T04:34:00+00:00,Thailand,0.3035903101001305,0,1,hi,SEA,Asia
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,पारा गिरा,2026-04-04T04:30:00+00:00,,0.303559463999939,0,1,hi,,
 '2f5808d63b',extremes,Storm,#b3b2b1,wmo,यूनाइटेड किंगडम में तूफ़ान की लहर,2026-04-04T04:30:00+00:00,United Kingdom,0.3035419732587088,0,1,hi,NEU,Europe
 '43e3252826',extremes,Storm,#b3b2b1,wmo,तूफान मोल्दोवा,2026-04-08T05:01:00+00:00,Moldova,0.3035351835768036,0,1,hi,WCE,Europe
@@ -330,7 +328,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,तूफ़ान ऑस्ट्रेलिया,2026-04-08T05:01:00+00:00,Australia,0.2606931689746302,1,1,hi,SAU,Oceania
 '92035e2c20',extremes,Drought,#edc291,edo,सूखा मंत्र मेडागास्कर,2026-03-28T04:33:00+00:00,Madagascar,0.260673889676741,1,1,hi,MDG,Africa
 'f484ebfc83',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल बुल्गारिया,2026-04-07T04:59:00+00:00,Bulgaria,0.2606536907085245,1,1,hi,MED,Europe
-'5cb766f03d',extremes,Storm,#b3b2b1,wmo,तूफ़ान वृद्धि क्षेत्र 2 - मध्यम,2026-03-23T04:42:00+00:00,Paraguay,0.2606445296499049,1,1,hi,SES,South-America
 '2db1256b65',extremes,Storm,#b3b2b1,wmo,उत्तरी मैसेडोनिया में तूफ़ान की लहर,2026-03-26T04:56:00+00:00,North Macedonia,0.2606304577162185,1,1,hi,MED,Europe
 'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,वर्षा तंजानिया,2026-04-07T04:59:00+00:00,Tanzania,0.2606150380156588,1,1,hi,SEAF,Africa
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,अर्जेंटीना में मूसलाधार बारिश,2026-04-07T04:59:00+00:00,Argentina,0.2605756065432075,1,1,hi,SES,South-America
@@ -440,7 +437,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '69840e877f',extremes,Storm,#b3b2b1,wmo,तूफ़ान बुल्गारिया,2026-04-08T05:01:00+00:00,Bulgaria,0.2584941371725949,1,1,hi,MED,Europe
 '829105287e',extremes,Storm,#b3b2b1,wmo,तूफ़ान जमैका,2026-04-14T05:11:00+00:00,Jamaica,0.2584905020934843,1,1,hi,CAR,North-America
 '8e0ac5b7e8',extremes,Earthquake,#870007,usgs,भूकंप लुगनविले,2026-03-31T04:59:00+00:00,Vanuatu,0.2584900500249026,1,1,hi,SPO,Pacific Ocean
-'1f5ce6636c',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम बोत्सवाना,2026-03-23T04:42:00+00:00,Botswana,0.2584784270716894,1,1,hi,WSAF,Africa
 '9f56f3696e',extremes,Drought,#edc291,edo,सूखा मंत्र लिथुआनिया,2026-04-07T04:59:00+00:00,Lithuania,0.2584552076694032,1,1,hi,WCE,Europe
 '919b5ab130',extremes,Earthquake,#870007,usgs,भूकंप हां,2026-04-10T05:12:00+00:00,Federated States,0.2584207423383994,1,1,hi,NPO,Pacific Ocean
 '9a99aaf69a',extremes,Snow&Ice,#d60d2b,wmo,जमने वाली ईस्टफ़जॉर्ड्स,2026-04-13T05:28:00+00:00,Iceland,0.2584114017324415,1,1,hi,GIC,Europe
@@ -453,11 +449,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4ae75fc210',extremes,Precipitation,#d60d2b,wmo,भारी बारिश सऊदी अरब,2026-04-08T05:01:00+00:00,Saudi Arabia,0.2582488440391307,1,1,hi,ARP,Asia
 '1b2dcb2db6',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल ग्रेट बैरियर द्वीप,2026-04-12T05:12:00+00:00,New Zealand,0.2582450347982435,1,1,hi,NZ,Oceania
 '042968096b',extremes,Storm,#b3b2b1,wmo,तूफ़ान आइसलैंड,2026-04-06T05:11:00+00:00,Iceland,0.2582387235109957,1,1,hi,GIC,Europe
-'fa06cd330a',extremes,Landslide,#572c03,wmo,भूस्खलन चीन,2026-03-23T04:42:00+00:00,China,0.2582304187881188,1,1,hi,EAS,Asia
 'bd8c88b2ec',extremes,Drought,#edc291,edo,कांगो लोकतांत्रिक गणराज्य में बारिश की कमी,2026-04-11T04:34:00+00:00,Democratic Republic of the Congo,0.2582225291646463,1,1,hi,CAF,Africa
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,कनाडा में वर्षा,2026-04-17T05:16:00+00:00,Canada,0.2582221925452404,1,1,hi,NEN,North-America
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,ब्राज़ील में मूसलाधार बारिश,2026-04-10T05:13:00+00:00,Brazil,0.2582134621292699,1,1,hi,SAM,South-America
-'3738ea4320',extremes,Precipitation,#d60d2b,wmo,वर्षा उरुग्वे,2026-03-23T04:42:00+00:00,Uruguay,0.2581860698322736,1,1,hi,SES,South-America
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल पराग्वे,2026-04-06T05:11:00+00:00,Paraguay,0.2581613049072638,1,1,hi,SES,South-America
 'b265b66e10',extremes,Snow&Ice,#d60d2b,wmo,ठंढ मोंटेनेग्रो,2026-03-26T04:56:00+00:00,Montenegro,0.2581516332708164,1,1,hi,MED,Europe
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,न्यूजीलैंड में वर्षा,2026-04-17T05:16:00+00:00,New Zealand,0.2581419332048659,1,1,hi,NZ,Oceania
@@ -468,4 +462,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6c5632b883',extremes,Snow Avalanche,#deddd5,wmo,इंगुशेतिया गणराज्य का हिमस्खलन,2026-04-08T05:01:00+00:00,Russia,0.2580610083970056,1,1,hi,ESB,Europe
 'af081911d9',extremes,Precipitation,#d60d2b,wmo,पोरिरुआ को छोड़कर मूसलाधार बारिश वेलिंगटन,2026-04-20T05:27:00+00:00,New Zealand,0.2580607524749966,1,1,hi,NZ,Oceania
 '355605856d',extremes,Precipitation,#d60d2b,wmo,वर्षा चाड,2026-04-07T04:59:00+00:00,Chad,0.2580560658830402,1,1,hi,SAH,Africa
-'72b409d93a',extremes,Thunderstorm,#53785a,wmo,तूफ़ान अल्जीरिया,2026-03-23T04:42:00+00:00,Algeria,0.2574654372539017,1,1,hi,SAH,Africa
+'e8f2fdcc3a',extremes,Precipitation,#d60d2b,wmo,थाईलैंड में वर्षा,2026-04-11T04:34:00+00:00,Thailand,0.2580517635851109,1,1,hi,SEA,Asia
