@@ -135,6 +135,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,तूफ़ान,2026-04-11T04:34:00+00:00,,0.3199672519219394,0,1,hi,,
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,बर्फ़ का झोंका,2026-04-19T05:16:00+00:00,,0.3166044889859142,1,1,hi,,
 '15a9c61e3e',extremes,Landslide,#572c03,random,चट्टानों का खिसकना,2026-04-20T05:26:00+00:00,,0.3159950143806126,1,1,hi,,
+'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडा दिन,2026-04-07T04:58:00+00:00,,0.3137094110459205,0,1,hi,,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,भूस्खलन,2026-04-12T05:11:00+00:00,,0.3114993625407615,0,1,hi,,
 '59b529f428',extremes,Thunderstorm,#53785a,random,ओलावृष्टि,2026-03-28T04:33:00+00:00,,0.3109494305877612,0,1,hi,,
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,स्नोपैक,2026-03-29T04:59:00+00:00,,0.3108168046455847,1,1,hi,,
@@ -143,6 +144,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,हबूब,2026-04-07T04:58:00+00:00,,0.3088546559419947,1,1,hi,,
 '776fe47817',extremes,Wildfire,#d60d2b,random,जंगल की आग,2026-04-08T05:00:00+00:00,,0.3070664895742703,1,1,hi,,
 '55c39b351d',extremes,Storm,#b3b2b1,random,धूल शैतान,2026-04-16T05:16:00+00:00,,0.3052415758614332,1,1,hi,,
+'0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,बर्फ कनाडा,2026-04-08T05:01:00+00:00,Canada,0.30449357620982104,0,1,hi,NEN,North-America
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,जमने वाला कनाडा,2026-04-09T04:58:00+00:00,Canada,0.3038773755613299,0,1,hi,NEN,North-America
 '179c5c0d77',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन सोची,2026-03-24T04:31:00+00:00,Russia,0.3036898734760697,0,1,hi,ESB,Europe
 'e8f2fdcc3a',extremes,Precipitation,#d60d2b,wmo,थाईलैंड में वर्षा,2026-04-11T04:34:00+00:00,Thailand,0.3035903101001305,0,1,hi,SEA,Asia
@@ -231,7 +233,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '945465874b',extremes,Drought,#edc291,edo,सूखा जिबूती,2026-04-21T05:15:00+00:00,Djibouti,0.3025737677759477,0,1,hi,NEAF,Africa
 '609a79d405',extremes,Wildfire,#d60d2b,wmo,जंगल की आग Xichou काउंटी,2026-04-11T04:34:00+00:00,China,0.3025677906808454,0,1,hi,EAS,Asia
 '1c2c5da544',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल 02 03,2026-04-14T05:11:00+00:00,Chile,0.302534521771102,0,1,hi,SWS,South-America
+'b7fc06d785',extremes,Storm,#b3b2b1,wmo,तूफ़ान अमेज़ोनिया,2026-04-14T05:11:00+00:00,Ecuador,0.3025234846705083,0,1,hi,NWS,South-America
 '279d701798',extremes,Flood,#030ba1,wmo,दक्षिण ऑस्ट्रेलिया कूपर क्रीक में बाढ़,2026-04-08T05:01:00+00:00,Australia,0.3025192970226363,0,1,hi,CAU,Oceania
+'c8be322002',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन हॉलिंगडाल,2026-04-10T05:13:00+00:00,Norway,0.3024761698454896,0,1,hi,NEU,Europe
+'bee7cf7ad2',extremes,Snow&Ice,#d60d2b,wmo,आइस चिली,2026-04-14T05:11:00+00:00,Chile,0.3024428148931546,0,1,hi,SWS,South-America
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,जमना,2026-04-02T04:41:00+00:00,,0.3008639355323829,1,1,hi,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,बर्फ़ीला तूफ़ान,2026-04-22T05:13:00+00:00,,0.3000963145700744,1,1,hi,,
 '9f0423d739',extremes,Drought,#edc291,random,सूखापन,2026-03-29T04:59:00+00:00,,0.2970351998217483,1,1,hi,,
@@ -462,5 +467,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '071c3b0054',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि बोत्सवाना,2026-04-13T05:28:00+00:00,Botswana,0.2580697033561041,1,1,hi,WSAF,Africa
 '6c5632b883',extremes,Snow Avalanche,#deddd5,wmo,इंगुशेतिया गणराज्य का हिमस्खलन,2026-04-08T05:01:00+00:00,Russia,0.2580610083970056,1,1,hi,ESB,Europe
 'af081911d9',extremes,Precipitation,#d60d2b,wmo,पोरिरुआ को छोड़कर मूसलाधार बारिश वेलिंगटन,2026-04-20T05:27:00+00:00,New Zealand,0.2580607524749966,1,1,hi,NZ,Oceania
-'355605856d',extremes,Precipitation,#d60d2b,wmo,वर्षा चाड,2026-04-07T04:59:00+00:00,Chad,0.25805606588304025,1,1,hi,SAH,Africa
+'355605856d',extremes,Precipitation,#d60d2b,wmo,वर्षा चाड,2026-04-07T04:59:00+00:00,Chad,0.2580560658830402,1,1,hi,SAH,Africa
 '72b409d93a',extremes,Thunderstorm,#53785a,wmo,तूफ़ान अल्जीरिया,2026-03-23T04:42:00+00:00,Algeria,0.2574654372539017,1,1,hi,SAH,Africa
