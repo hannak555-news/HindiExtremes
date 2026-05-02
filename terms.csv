@@ -8,7 +8,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9e25a471df',extremes,Snow Avalanche,#deddd5,wmo,सिक्किम के मंगन जिले में हिमस्खलन,2026-04-22T05:13:00+00:00,India,0.5637373102858036,1,1,hi,SAS,Asia
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,तूफ़ान भारत,2026-04-03T04:43:00+00:00,India,0.5632624189289936,1,1,hi,SAS,Asia
 '35bd62c5a9',extremes,Drought,#edc291,edo,भारत में सूखा,2026-04-04T04:30:00+00:00,India,0.5627793981234357,1,2,hi,SAS,Asia
-'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,भारत में मूसलाधार वर्षा,2026-04-02T04:42:00+00:00,India,0.5561787076443307,1,1,hi,SAS,Asia
 '42a5dce9e6',extremes,Wildfire,#d60d2b,wmo,जंगल की आग मणिपुर,2026-04-03T04:43:00+00:00,India,0.5530986458642063,1,1,hi,SAS,Asia
 '7e60aa6fee',extremes,Thunderstorm,#53785a,wmo,20 मंडलों में मौसम बेहद खराब,2026-04-06T05:11:00+00:00,India,0.5227703995890262,1,1,hi,SAS,Asia
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,तूफ़ान भारत,2026-04-05T05:01:00+00:00,India,0.5157462404738186,3,1,hi,SAS,Asia
@@ -33,6 +32,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8bb788b602',extremes,Wildfire,#d60d2b,wmo,जंगल की आग असम,2026-04-24T05:22:00+00:00,India,0.4794325493120412,2,1,hi,SAS,Asia
 '6dbe18bed3',extremes,Wildfire,#d60d2b,wmo,जंगल की आग तेलंगाना,2026-04-19T05:16:00+00:00,India,0.4763895863520893,2,1,hi,SAS,Asia
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,बाढ़,2026-03-15T04:44:00+00:00,,0.4750394560010756,1,3,hi,,
+'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,भारत में मूसलाधार वर्षा,2026-04-02T04:42:00+00:00,India,0.47320194649768116,2,1,hi,SAS,Asia
 '5e777062e4',extremes,Storm,#b3b2b1,wmo,तूफ़ान पूर्व की ओर,2026-04-01T05:12:00+00:00,India,0.4724889026386397,2,1,hi,SAS,Asia
 'fecc5eb982',extremes,Wildfire,#d60d2b,wmo,जंगल की आग राजस्थान,2026-04-17T05:16:00+00:00,India,0.4714220530986841,2,1,hi,SAS,Asia
 '1d9340dcde',extremes,Heat Wave,#c40202,wmo,लू 21 मंडल,2026-04-19T05:16:00+00:00,India,0.4692527819038077,2,1,hi,SAS,Asia
@@ -82,7 +82,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fd4b9a3c16',extremes,Thunderstorm,#53785a,wmo,जय इरगावरम निंदर अत्तिली मंडल,2026-04-06T05:11:00+00:00,India,0.4043680260638553,2,1,hi,SAS,Asia
 '0afe206c83',extremes,Thunderstorm,#53785a,wmo,त्रिपुरा के पश्चिमी त्रिपुरा जिले में तूफ़ान,2026-04-27T05:40:00+00:00,India,0.4039741458525944,1,1,hi,SAS,Asia
 '80fe9deb64',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि दोर्नाला मंडल,2026-04-30T05:46:00+00:00,India,0.4020982613124686,2,1,hi,SAS,Asia
-'c789ceb8e5',extremes,Thunderstorm,#53785a,wmo,6 मंडलों में मौसम बेहद खराब,2026-05-01T05:54:00+00:00,India,0.40061000436737726,1,1,hi,SAS,Asia
+'c789ceb8e5',extremes,Thunderstorm,#53785a,wmo,6 मंडलों में मौसम बेहद खराब,2026-05-01T05:54:00+00:00,India,0.4006100043673772,1,1,hi,SAS,Asia
 '7054c01ed8',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में बारिश की कमी,2026-04-11T04:34:00+00:00,United Arab Emirates,0.4003334917451979,1,1,hi,ARP,Asia
 '934b8ffec8',extremes,Wildfire,#d60d2b,wmo,पंजाब में जंगल की आग,2026-04-17T05:16:00+00:00,India,0.4003015514342178,3,1,hi,SAS,Asia
 '4dc8bdbf14',extremes,Flood,#030ba1,random,नदी में बाढ़,2026-04-20T05:26:00+00:00,,0.3992086210089489,1,2,hi,,
@@ -93,28 +93,28 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '053bb10e09',extremes,Heat Wave,#c40202,random,भारतीय गर्मी,2026-04-01T05:12:00+00:00,,0.3940574640724108,1,3,hi,,
 '1c3ef71cd1',extremes,Thunderstorm,#53785a,wmo,त्रिपुरा के खोवाई जिले में ओले गिरे,2026-04-01T05:12:00+00:00,India,0.3931157473729034,2,1,hi,SAS,Asia
 'de35e746b9',extremes,Earthquake,#870007,usgs,भूकंप वांगजिंग,2026-04-23T05:16:00+00:00,India,0.389057962153969,1,1,hi,SAS,Asia
-'e30345a61c',extremes,Thunderstorm,#53785a,wmo,तूफान नागपुर भंडारा वाशिम,2026-04-04T04:30:00+00:00,India,0.38772863110114425,2,1,hi,SAS,Asia
-'9a8c6ec17a',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि नागपुर भंडारा वाशिम,2026-04-04T04:30:00+00:00,India,0.38689724421341076,2,1,hi,SAS,Asia
+'e30345a61c',extremes,Thunderstorm,#53785a,wmo,तूफान नागपुर भंडारा वाशिम,2026-04-04T04:30:00+00:00,India,0.3877286311011442,2,1,hi,SAS,Asia
+'9a8c6ec17a',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि नागपुर भंडारा वाशिम,2026-04-04T04:30:00+00:00,India,0.3868972442134107,2,1,hi,SAS,Asia
 'bd21048a6a',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-03-30T05:12:00+00:00,United Arab Emirates,0.3842816880829629,1,1,hi,ARP,Asia
-'d8049cc4bf',extremes,Thunderstorm,#53785a,wmo,18 मंडलों में ओलावृष्टि,2026-04-06T05:11:00+00:00,India,0.38348294375405806,2,1,hi,SAS,Asia
-'35f2f1ac38',extremes,Storm,#b3b2b1,wmo,पश्चिम बंगाल के बांकुरा जिले में तूफ़ान,2026-04-28T05:45:00+00:00,India,0.38303890609346103,2,1,hi,SAS,Asia
-'84898297da',extremes,Thunderstorm,#53785a,wmo,तूफान 6 मंडल,2026-04-06T05:11:00+00:00,India,0.38099849521051243,2,1,hi,SAS,Asia
+'d8049cc4bf',extremes,Thunderstorm,#53785a,wmo,18 मंडलों में ओलावृष्टि,2026-04-06T05:11:00+00:00,India,0.383482943754058,2,1,hi,SAS,Asia
+'35f2f1ac38',extremes,Storm,#b3b2b1,wmo,पश्चिम बंगाल के बांकुरा जिले में तूफ़ान,2026-04-28T05:45:00+00:00,India,0.383038906093461,2,1,hi,SAS,Asia
+'84898297da',extremes,Thunderstorm,#53785a,wmo,तूफान 6 मंडल,2026-04-06T05:11:00+00:00,India,0.3809984952105124,2,1,hi,SAS,Asia
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,भारी वर्षा,2026-03-26T04:56:00+00:00,,0.3808094505530074,1,2,hi,,
 '4b4d43ad12',extremes,Thunderstorm,#53785a,wmo,तूफान वाशिम अकोला बीड,2026-04-04T04:30:00+00:00,India,0.3786414936821269,2,1,hi,SAS,Asia
 'ca647bd12b',extremes,Earthquake,#870007,usgs,भूकंप सिलचर,2026-04-08T05:00:00+00:00,India,0.3785445080672855,1,1,hi,SAS,Asia
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,औषधि,2026-03-28T04:33:00+00:00,,0.3780989384548519,1,2,hi,,
-'a5857294a7',extremes,Earthquake,#870007,usgs,भूकंप भद्रवाह,2026-04-14T05:10:00+00:00,India,0.37742233843836576,2,1,hi,TIB,Asia
+'a5857294a7',extremes,Earthquake,#870007,usgs,भूकंप भद्रवाह,2026-04-14T05:10:00+00:00,India,0.3774223384383657,2,1,hi,TIB,Asia
 '493919bc60',extremes,Thunderstorm,#53785a,wmo,18 मंडलों में मौसम बेहद खराब,2026-04-06T05:11:00+00:00,India,0.3748797515078033,2,1,hi,SAS,Asia
 '84febdd06c',extremes,Thunderstorm,#53785a,random,तूफ़ान,2026-04-18T04:56:00+00:00,,0.3739371150095288,1,1,hi,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,रिकॉर्ड गर्मी,2026-03-30T05:11:00+00:00,,0.3736309290414464,1,1,hi,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,शीतलहर,2026-04-01T05:12:00+00:00,,0.3732395277970826,2,1,hi,,
-'b1b6b45dcf',extremes,Precipitation,#d60d2b,wmo,वर्षा त्रिपुरा का उत्तरी त्रिपुरा जिला,2026-04-19T05:16:00+00:00,India,0.37182391311452284,2,1,hi,SAS,Asia
-'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडा वर्ष,2026-04-06T05:11:00+00:00,,0.36992273232503453,2,1,hi,,
+'b1b6b45dcf',extremes,Precipitation,#d60d2b,wmo,वर्षा त्रिपुरा का उत्तरी त्रिपुरा जिला,2026-04-19T05:16:00+00:00,India,0.3718239131145228,2,1,hi,SAS,Asia
+'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडा वर्ष,2026-04-06T05:11:00+00:00,,0.3699227323250345,2,1,hi,,
 '3d7dbfad00',extremes,Thunderstorm,#53785a,wmo,तूफ़ान मंडपेटा मंडल,2026-04-06T05:11:00+00:00,India,0.3688084026428843,2,1,hi,SAS,Asia
 '07403ae253',extremes,Earthquake,#870007,usgs,भूकंप पोर्ट ब्लेयर,2026-03-30T05:11:00+00:00,India,0.364970105447425,1,1,hi,SEA,Asia
 '82d648b882',extremes,Drought,#edc291,random,सूखा,2026-04-24T05:21:00+00:00,,0.364925832257072,1,1,hi,,
 'a7a893f3e8',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम सोलापुर हिंगोली,2026-04-04T04:30:00+00:00,India,0.3640275302049452,2,1,hi,SAS,Asia
-'01a596f125',extremes,Thunderstorm,#53785a,wmo,त्रिपुरा के धलाई गोमती जिलों में मौसम खराब,2026-03-30T05:12:00+00:00,India,0.36283037299301507,2,1,hi,SAS,Asia
+'01a596f125',extremes,Thunderstorm,#53785a,wmo,त्रिपुरा के धलाई गोमती जिलों में मौसम खराब,2026-03-30T05:12:00+00:00,India,0.362830372993015,2,1,hi,SAS,Asia
 '9cf9e7470e',extremes,Thunderstorm,#53785a,wmo,पुणे और धाराशिव में मौसम खराब,2026-04-23T05:16:00+00:00,India,0.3619408971423734,2,1,hi,SAS,Asia
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,सबसे कम न्यूनतम तापमान,2026-04-23T05:16:00+00:00,,0.3615390529700786,2,1,hi,,
 'e8cad01791',extremes,Earthquake,#870007,usgs,भूकंप बसमत,2026-04-12T05:11:00+00:00,India,0.3603344169322107,1,1,hi,SAS,Asia
