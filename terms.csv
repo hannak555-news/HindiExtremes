@@ -40,6 +40,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '66ed778010',extremes,Wildfire,#d60d2b,wmo,जंगल की आग झारखंड,2026-04-17T05:16:00+00:00,India,0.4675363113810794,2,1,hi,SAS,Asia
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,हिमस्खलन,2026-04-05T05:00:00+00:00,,0.4670277651786549,1,2,hi,,
 '7f8475f455',extremes,Thunderstorm,#53785a,wmo,12 मंडलों में मौसम बेहद खराब,2026-04-06T05:11:00+00:00,India,0.4664524520436133,2,1,hi,SAS,Asia
+'dec663081b',extremes,Thunderstorm,#53785a,wmo,पश्चिम बंगाल के नादिया जिले में ओले गिरे,2026-05-02T05:24:00+00:00,India,0.4659210210071292,0,1,hi,SAS,Asia
 '32a4e0f35f',extremes,Thunderstorm,#53785a,wmo,तूफ़ान सांगली कोल्हापुर,2026-04-02T04:42:00+00:00,India,0.4658914900753508,2,1,hi,SAS,Asia
 'ff7862e348',extremes,Drought,#edc291,edo,सूखापन भारत,2026-04-21T05:15:00+00:00,India,0.4595477811564122,1,1,hi,SAS,Asia
 '7a0be3c781',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि मदुगुला जी मदुगुला मंडल,2026-05-01T05:54:00+00:00,India,0.457241050487358,1,1,hi,SAS,Asia
@@ -146,13 +147,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,बर्फ़ का झोंका,2026-04-19T05:16:00+00:00,,0.3166044889859142,1,1,hi,,
 '15a9c61e3e',extremes,Landslide,#572c03,random,चट्टानों का खिसकना,2026-04-20T05:26:00+00:00,,0.3159950143806126,1,1,hi,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,रात की ठंढ,2026-04-30T05:45:00+00:00,,0.3142143720858093,1,1,hi,,
+'f314bb7747',extremes,Flood,#030ba1,aidr,आस्ट्रेलिया में बाढ़,2026-04-29T05:40:00+00:00,Australia,0.3128902327855637,0,1,hi,EAU,Oceania
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,स्नोपैक,2026-03-29T04:59:00+00:00,,0.3108168046455847,1,1,hi,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,टिड्डा,2026-04-06T05:11:00+00:00,,0.3102334784491278,1,1,hi,,
 'd59a7e48d7',extremes,Drought,#edc291,random,वाष्पीकरण-उत्सर्जन,2026-04-16T05:16:00+00:00,,0.3093673195855034,1,1,hi,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडा दिन,2026-04-07T04:58:00+00:00,,0.3089032243890324,1,1,hi,,
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,हबूब,2026-04-07T04:58:00+00:00,,0.3088546559419947,1,1,hi,,
+'179c5c0d77',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन सोची,2026-04-19T05:16:00+00:00,Russia,0.30853550370874494,0,1,hi,ESB,Europe
 '776fe47817',extremes,Wildfire,#d60d2b,random,जंगल की आग,2026-04-08T05:00:00+00:00,,0.3070664895742703,1,1,hi,,
+'ac8883b5db',extremes,Drought,#edc291,edo,शुष्क मौसम बेलारूस,2026-04-18T04:57:00+00:00,Belarus,0.30587902359200764,0,1,hi,WCE,Europe
 '55c39b351d',extremes,Storm,#b3b2b1,random,धूल शैतान,2026-04-16T05:16:00+00:00,,0.3052415758614332,1,1,hi,,
+'3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,ठंढ कनाडा,2026-05-01T05:54:00+00:00,Canada,0.3049846968013258,0,1,hi,NEN,North-America
+'8e0946a5f2',extremes,Drought,#edc291,edo,बारिश की कमी एस्टोनिया,2026-04-19T05:16:00+00:00,Estonia,0.30440273027060694,0,1,hi,NEU,Europe
 '96236781fb',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश सैटुन ट्रांग,2026-04-10T05:13:00+00:00,Thailand,0.3032043746925728,0,1,hi,SEA,Asia
 '3c35edb296',extremes,Thunderstorm,#53785a,wmo,तूफ़ान बोत्सवाना,2026-04-14T05:11:00+00:00,Botswana,0.3031709050036399,0,1,hi,WSAF,Africa
 '3a67915e02',extremes,Earthquake,#870007,usgs,भूकंप पेरू,2026-04-06T05:11:00+00:00,Peru,0.3031510111231507,0,1,hi,NWS,South-America
@@ -420,7 +426,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '27fd81d198',extremes,Storm,#b3b2b1,wmo,तूफ़ान सोलोमन द्वीप,2026-04-11T04:34:00+00:00,Solomon Islands,0.2577675323323208,1,1,hi,EPO,Oceania
 '55946bf748',extremes,Drought,#edc291,edo,सूखा पराग्वे,2026-04-16T05:17:00+00:00,Paraguay,0.2577582001131181,1,1,hi,SES,South-America
 '4fe34cb23e',extremes,Precipitation,#d60d2b,wmo,वेस्टलैंड जिले की वर्षा श्रेणियाँ,2026-04-17T05:16:00+00:00,New Zealand,0.2577432335498264,1,1,hi,NZ,Oceania
-'826fa05cf0',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन नॉर्डेंसकील्ड भूमि,2026-04-10T05:13:00+00:00,Norway,0.25772453284694263,1,1,hi,NEU,Europe
+'826fa05cf0',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन नॉर्डेंसकील्ड भूमि,2026-04-10T05:13:00+00:00,Norway,0.2577245328469426,1,1,hi,NEU,Europe
 'afd06422c3',extremes,Storm,#b3b2b1,wmo,तूफान वेलिंगटन,2026-04-12T05:12:00+00:00,New Zealand,0.2577146838252068,1,1,hi,NZ,Oceania
 '9fc62ce49b',extremes,Earthquake,#870007,usgs,भूकंप एंगुइला,2026-04-09T04:57:00+00:00,Anguilla,0.2577004693119953,1,1,hi,NAO,Atlantic Ocean
 'dad4b2a07f',extremes,Snow&Ice,#d60d2b,wmo,बर्फ का घोल,2026-04-14T05:11:00+00:00,Canada,0.257648040059483,1,1,hi,NEN,North-America
