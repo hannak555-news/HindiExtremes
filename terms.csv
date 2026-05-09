@@ -1,15 +1,15 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,जंगल की आग भारत,2026-04-24T05:22:00+00:00,India,0.672941635842246,0,1,hi,SAS,Asia
-'6d64bd5d26',extremes,Snow Avalanche,#deddd5,wmo,सिक्किम के गंगटोक जिले में हिमस्खलन,2026-05-09T05:36:00+00:00,India,0.6681597714889903,0,1,hi,SAS,Asia
-'f986239716',extremes,Wildfire,#d60d2b,wmo,जंगल की आग गुजरात,2026-04-24T05:22:00+00:00,India,0.6609562751554504,0,1,hi,SAS,Asia
-'1a5d7f7924',extremes,Wildfire,#d60d2b,wmo,जंगल की आग उत्तर प्रदेश,2026-04-24T05:22:00+00:00,India,0.6574085529588756,0,1,hi,SAS,Asia
-'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,जंगल की आग उत्तराखंड,2026-04-24T05:22:00+00:00,India,0.6549953701792578,0,1,hi,SAS,Asia
-'fc335e869f',extremes,Thunderstorm,#53785a,wmo,तूफ़ान भारत,2026-04-25T05:00:00+00:00,India,0.6497598527617391,0,1,hi,SAS,Asia
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,जय भारत,2026-04-22T05:13:00+00:00,India,0.6289425026053107,0,1,hi,SAS,Asia
 '4093195155',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल भारत,2026-04-23T05:16:00+00:00,India,0.6214781120147036,0,1,hi,SAS,Asia
 '8b022b84c7',extremes,Wildfire,#d60d2b,wmo,जंगल की आग मध्य प्रदेश,2026-05-09T05:36:00+00:00,India,0.5973609673900877,0,1,hi,SAS,Asia
+'7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,जंगल की आग भारत,2026-04-24T05:22:00+00:00,India,0.5720003904659091,1,1,hi,SAS,Asia
 'b2bc2d0c7f',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन भारत,2026-04-19T05:16:00+00:00,India,0.569608845580753,1,1,hi,SAS,Asia
+'6d64bd5d26',extremes,Snow Avalanche,#deddd5,wmo,सिक्किम के गंगटोक जिले में हिमस्खलन,2026-05-09T05:36:00+00:00,India,0.5679358057656417,1,1,hi,SAS,Asia
 '42a5dce9e6',extremes,Wildfire,#d60d2b,wmo,जंगल की आग मणिपुर,2026-04-24T05:22:00+00:00,India,0.5631781925639315,1,1,hi,SAS,Asia
+'f986239716',extremes,Wildfire,#d60d2b,wmo,जंगल की आग गुजरात,2026-04-24T05:22:00+00:00,India,0.5618128338821329,1,1,hi,SAS,Asia
+'1a5d7f7924',extremes,Wildfire,#d60d2b,wmo,जंगल की आग उत्तर प्रदेश,2026-04-24T05:22:00+00:00,India,0.5587972700150442,1,1,hi,SAS,Asia
+'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,जंगल की आग उत्तराखंड,2026-04-24T05:22:00+00:00,India,0.5567460646523691,1,1,hi,SAS,Asia
+'fc335e869f',extremes,Thunderstorm,#53785a,wmo,तूफ़ान भारत,2026-04-25T05:00:00+00:00,India,0.5524458898474782,1,1,hi,SAS,Asia
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,भारत में मूसलाधार वर्षा,2026-04-25T05:00:00+00:00,India,0.552026087828291,1,1,hi,SAS,Asia
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,भारत में गंभीर मौसम,2026-04-22T05:13:00+00:00,India,0.5416424716259103,1,1,hi,SAS,Asia
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,तूफ़ान भारत,2026-04-25T05:00:00+00:00,India,0.5385587733508251,1,1,hi,SAS,Asia
