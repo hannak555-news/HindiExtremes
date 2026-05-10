@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'2d341e159e',extremes,Heat Wave,#c40202,wmo,हीट वेव अनंतगिरि के कोटापाडु मंडल,2026-05-10T05:51:00+00:00,India,0.672668184186935,0,1,hi,SAS,Asia
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,जय भारत,2026-04-22T05:13:00+00:00,India,0.5727011872145141,1,1,hi,SAS,Asia
 'b2bc2d0c7f',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन भारत,2026-04-19T05:16:00+00:00,India,0.569608845580753,1,1,hi,SAS,Asia
 '42a5dce9e6',extremes,Wildfire,#d60d2b,wmo,जंगल की आग मणिपुर,2026-04-24T05:22:00+00:00,India,0.5631781925639315,1,1,hi,SAS,Asia
@@ -25,7 +26,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '66ed778010',extremes,Wildfire,#d60d2b,wmo,जंगल की आग झारखंड,2026-04-17T05:16:00+00:00,India,0.4675363113810794,2,1,hi,SAS,Asia
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,हिमस्खलन,2026-04-05T05:00:00+00:00,,0.4670277651786549,1,2,hi,,
 '7f8475f455',extremes,Thunderstorm,#53785a,wmo,12 मंडलों में मौसम बेहद खराब,2026-04-06T05:11:00+00:00,India,0.4664524520436133,2,1,hi,SAS,Asia
-'778d256165',extremes,Flood,#030ba1,wmo,फ्लैशफ्लड इंडिया,2026-04-24T05:22:00+00:00,India,0.46384677420191395,2,1,hi,SAS,Asia
+'778d256165',extremes,Flood,#030ba1,wmo,फ्लैशफ्लड इंडिया,2026-04-24T05:22:00+00:00,India,0.4638467742019139,2,1,hi,SAS,Asia
 '9d7d2c2207',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि,2026-04-26T05:25:00+00:00,India,0.4606807148960516,2,2,hi,SAS,Asia
 '981efe9ba6',extremes,Thunderstorm,#53785a,wmo,पश्चिम बंगाल के कोलकाता जिले में मौसम गंभीर,2026-04-08T05:01:00+00:00,India,0.4493508277752298,1,1,hi,SAS,Asia
 '4093195155',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल भारत,2026-04-23T05:16:00+00:00,India,0.4490179359306233,2,1,hi,SAS,Asia
@@ -74,7 +75,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e0c0795103',extremes,Storm,#b3b2b1,wmo,तूफ़ान 11 मंडलों में उछाल,2026-05-03T05:44:00+00:00,India,0.3877797997259621,2,1,hi,SAS,Asia
 '9c30b2d09b',extremes,Storm,#b3b2b1,wmo,तूफ़ान 19 मंडलों में उछाल,2026-05-06T05:43:00+00:00,India,0.3857758438275327,2,1,hi,SAS,Asia
 '35f2f1ac38',extremes,Storm,#b3b2b1,wmo,पश्चिम बंगाल के बांकुरा जिले में तूफ़ान,2026-04-28T05:45:00+00:00,India,0.383038906093461,2,1,hi,SAS,Asia
-'da77b5167a',extremes,Earthquake,#870007,usgs,भूकंप हायुलियांग,2026-05-08T05:16:00+00:00,India,0.38213672442291285,2,1,hi,TIB,Asia
+'da77b5167a',extremes,Earthquake,#870007,usgs,भूकंप हायुलियांग,2026-05-08T05:16:00+00:00,India,0.3821367244229128,2,1,hi,TIB,Asia
 'b8410186fd',extremes,Storm,#b3b2b1,wmo,तूफ़ान 21 मंडल,2026-05-03T05:44:00+00:00,India,0.3811369101255898,2,1,hi,SAS,Asia
 '4d6c8140c1',extremes,Thunderstorm,#53785a,wmo,उत्तर पश्चिम में ओलावृष्टि,2026-05-03T05:44:00+00:00,India,0.3792101495673857,2,1,hi,SAS,Asia
 '7b1ce66e9e',extremes,Snow&Ice,#d60d2b,wmo,सिक्किम का स्नो मंगन जिला,2026-05-06T05:43:00+00:00,India,0.3776789771919985,2,1,hi,SAS,Asia
@@ -84,6 +85,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '84febdd06c',extremes,Thunderstorm,#53785a,random,तूफ़ान,2026-04-18T04:56:00+00:00,,0.3739371150095288,1,1,hi,,
 'b1b6b45dcf',extremes,Precipitation,#d60d2b,wmo,वर्षा त्रिपुरा का उत्तरी त्रिपुरा जिला,2026-04-19T05:16:00+00:00,India,0.3718239131145228,2,1,hi,SAS,Asia
 'db862c51b1',extremes,Thunderstorm,#53785a,wmo,ओले सोलापुर,2026-04-22T05:13:00+00:00,India,0.3696894650259699,3,1,hi,SAS,Asia
+'9391f481ee',extremes,Storm,#b3b2b1,random,आँधी,2026-05-06T05:43:00+00:00,,0.3678636764772002,0,1,hi,,
 '82d648b882',extremes,Drought,#edc291,random,सूखा,2026-04-24T05:21:00+00:00,,0.364925832257072,1,1,hi,,
 'ec2680c943',extremes,Thunderstorm,#53785a,wmo,पुणे और धाराशिव में ओले गिरे,2026-04-23T05:16:00+00:00,India,0.3638784352364523,3,1,hi,SAS,Asia
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,भारी वर्षा,2026-05-05T05:28:00+00:00,,0.3638488264994695,0,1,hi,,
@@ -124,8 +126,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,रिकॉर्ड ठंड,2026-04-07T04:58:00+00:00,,0.3282397477937368,1,1,hi,,
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,मूसलाधार बारिश,2026-04-13T05:27:00+00:00,,0.3280127266076318,1,1,hi,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,टिड्डियाँ,2026-04-27T05:39:00+00:00,,0.3264585973878632,0,1,hi,,
+'95b2881221',extremes,Precipitation,#d60d2b,random,वायुमंडलीय नदी,2026-05-09T05:35:00+00:00,,0.323412948879457,0,1,hi,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,तूफ़ान,2026-04-11T04:34:00+00:00,,0.3224222091336485,1,1,hi,,
 'ca647bd12b',extremes,Earthquake,#870007,usgs,भूकंप सिलचर,2026-04-08T05:00:00+00:00,India,0.3217628318571927,2,1,hi,SAS,Asia
+'0fa8bbc8c4',extremes,Wildfire,#d60d2b,emdat,जंगल की आग की मिट्टी काउंटियाँ फ्लोरिडा,2026-05-05T05:29:00+00:00,United States,0.3198870690928678,0,1,hi,WNA,North-America
+'11dee0d421',extremes,Tropical Cyclone,#4f4f4f,emdat,उष्णकटिबंधीय चक्रवात गुआम,2026-05-05T05:29:00+00:00,Guam,0.31981907955197686,0,1,hi,NPO,Oceania
+'9cb0438918',extremes,Storm,#b3b2b1,emdat,तूफ़ान मिनेसोटा,2026-05-05T05:29:00+00:00,United States,0.31975809819536355,0,1,hi,WNA,North-America
+'3ea8a9b3b3',extremes,Storm,#b3b2b1,emdat,उष्णकटिबंधीय चक्रवात उत्तरी मारियाना द्वीप,2026-05-05T05:29:00+00:00,Northern Mariana Islands,0.31974466824993586,0,1,hi,NPO,Pacific Ocean
+'96285201b2',extremes,Storm,#b3b2b1,emdat,तूफ़ान लाओ कै,2026-05-05T05:29:00+00:00,Vietnam,0.3196522804315967,0,1,hi,SEA,Asia
+'8182ed2818',extremes,Precipitation,#d60d2b,acwe,वर्षा तस्मानिया,2026-05-04T05:50:00+00:00,Australia,0.319444101092315,0,1,hi,SAU,Oceania
+'6b28028a94',extremes,Heat Wave,#c40202,acwe,हीटवेव दक्षिण ऑस्ट्रेलिया,2026-05-04T05:50:00+00:00,Australia,0.31944331363079537,0,1,hi,CAU,Oceania
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,ओलावृष्टि,2026-04-10T05:12:00+00:00,,0.3182430962143323,1,2,hi,,
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,बर्फ़ का झोंका,2026-04-19T05:16:00+00:00,,0.3166044889859142,1,1,hi,,
 '15a9c61e3e',extremes,Landslide,#572c03,random,चट्टानों का खिसकना,2026-04-20T05:26:00+00:00,,0.3159950143806126,1,1,hi,,
