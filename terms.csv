@@ -1,37 +1,34 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'8b022b84c7',extremes,Wildfire,#d60d2b,wmo,जंगल की आग मध्य प्रदेश,2026-05-09T05:36:00+00:00,India,0.5973609673900877,0,1,hi,SAS,Asia
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,जय भारत,2026-04-22T05:13:00+00:00,India,0.5727011872145141,1,1,hi,SAS,Asia
-'7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,जंगल की आग भारत,2026-04-24T05:22:00+00:00,India,0.5720003904659091,1,1,hi,SAS,Asia
 'b2bc2d0c7f',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन भारत,2026-04-19T05:16:00+00:00,India,0.569608845580753,1,1,hi,SAS,Asia
-'6d64bd5d26',extremes,Snow Avalanche,#deddd5,wmo,सिक्किम के गंगटोक जिले में हिमस्खलन,2026-05-09T05:36:00+00:00,India,0.5679358057656417,1,1,hi,SAS,Asia
 '42a5dce9e6',extremes,Wildfire,#d60d2b,wmo,जंगल की आग मणिपुर,2026-04-24T05:22:00+00:00,India,0.5631781925639315,1,1,hi,SAS,Asia
 'f986239716',extremes,Wildfire,#d60d2b,wmo,जंगल की आग गुजरात,2026-04-24T05:22:00+00:00,India,0.5618128338821329,1,1,hi,SAS,Asia
-'1a5d7f7924',extremes,Wildfire,#d60d2b,wmo,जंगल की आग उत्तर प्रदेश,2026-04-24T05:22:00+00:00,India,0.5587972700150442,1,1,hi,SAS,Asia
-'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,जंगल की आग उत्तराखंड,2026-04-24T05:22:00+00:00,India,0.5567460646523691,1,1,hi,SAS,Asia
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,तूफ़ान भारत,2026-04-25T05:00:00+00:00,India,0.5524458898474782,1,1,hi,SAS,Asia
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,भारत में मूसलाधार वर्षा,2026-04-25T05:00:00+00:00,India,0.552026087828291,1,1,hi,SAS,Asia
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,भारत में गंभीर मौसम,2026-04-22T05:13:00+00:00,India,0.5416424716259103,1,1,hi,SAS,Asia
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,तूफ़ान भारत,2026-04-25T05:00:00+00:00,India,0.5385587733508251,1,1,hi,SAS,Asia
-'da77b5167a',extremes,Earthquake,#870007,usgs,भूकंप हायुलियांग,2026-05-08T05:16:00+00:00,India,0.5289089611389798,0,1,hi,TIB,Asia
-'4093195155',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल भारत,2026-04-23T05:16:00+00:00,India,0.528256395212498,1,1,hi,SAS,Asia
 '3915f79390',extremes,Wildfire,#d60d2b,wmo,जंगल की आग दिल्ली,2026-04-17T05:16:00+00:00,India,0.510824593459684,3,1,hi,SAS,Asia
+'8b022b84c7',extremes,Wildfire,#d60d2b,wmo,जंगल की आग मध्य प्रदेश,2026-05-09T05:36:00+00:00,India,0.5077568222815745,1,1,hi,SAS,Asia
 '9187e11f3e',extremes,Storm,#b3b2b1,wmo,पश्चिम बंगाल के कोलकाता जिले में तूफान,2026-04-16T05:17:00+00:00,India,0.4900155630842899,3,1,hi,SAS,Asia
-'604b1e160a',extremes,Heat Wave,#c40202,wmo,33 मंडलों में लू,2026-04-04T04:30:00+00:00,India,0.4878565837872584,2,1,hi,SAS,Asia
+'7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,जंगल की आग भारत,2026-04-24T05:22:00+00:00,India,0.48620033189602274,2,1,hi,SAS,Asia
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,वर्षा भारत,2026-04-09T04:58:00+00:00,India,0.4844745627806361,3,1,hi,SAS,Asia
+'6d64bd5d26',extremes,Snow Avalanche,#deddd5,wmo,सिक्किम के गंगटोक जिले में हिमस्खलन,2026-05-09T05:36:00+00:00,India,0.48274543490079547,2,1,hi,SAS,Asia
 '8bb788b602',extremes,Wildfire,#d60d2b,wmo,जंगल की आग असम,2026-04-24T05:22:00+00:00,India,0.4794325493120412,2,1,hi,SAS,Asia
 '9e25a471df',extremes,Snow Avalanche,#deddd5,wmo,सिक्किम के मंगन जिले में हिमस्खलन,2026-04-22T05:13:00+00:00,India,0.4791767137429331,2,1,hi,SAS,Asia
-'35bd62c5a9',extremes,Drought,#edc291,edo,भारत में सूखा,2026-04-04T04:30:00+00:00,India,0.4783625634049203,2,1,hi,SAS,Asia
 '6dbe18bed3',extremes,Wildfire,#d60d2b,wmo,जंगल की आग तेलंगाना,2026-04-19T05:16:00+00:00,India,0.4763895863520893,2,1,hi,SAS,Asia
 '271200cbb0',extremes,Wildfire,#d60d2b,wmo,जंगल की आग आंध्र प्रदेश,2026-04-24T05:22:00+00:00,India,0.4763511544097293,2,1,hi,SAS,Asia
+'1a5d7f7924',extremes,Wildfire,#d60d2b,wmo,जंगल की आग उत्तर प्रदेश,2026-04-24T05:22:00+00:00,India,0.4749776795127876,2,1,hi,SAS,Asia
 '8ee5eff537',extremes,Snow Avalanche,#deddd5,wmo,लद्दाख के कारगिल जिले में हिमस्खलन,2026-04-19T05:16:00+00:00,India,0.474604980516667,2,1,hi,SAS,Asia
+'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,जंगल की आग उत्तराखंड,2026-04-24T05:22:00+00:00,India,0.4732341549545137,2,1,hi,SAS,Asia
 'fecc5eb982',extremes,Wildfire,#d60d2b,wmo,जंगल की आग राजस्थान,2026-04-17T05:16:00+00:00,India,0.4714220530986841,2,1,hi,SAS,Asia
 '9391f481ee',extremes,Storm,#b3b2b1,random,आँधी,2026-03-27T04:56:00+00:00,,0.468805895253359,1,2,hi,,
 '66ed778010',extremes,Wildfire,#d60d2b,wmo,जंगल की आग झारखंड,2026-04-17T05:16:00+00:00,India,0.4675363113810794,2,1,hi,SAS,Asia
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,हिमस्खलन,2026-04-05T05:00:00+00:00,,0.4670277651786549,1,2,hi,,
 '7f8475f455',extremes,Thunderstorm,#53785a,wmo,12 मंडलों में मौसम बेहद खराब,2026-04-06T05:11:00+00:00,India,0.4664524520436133,2,1,hi,SAS,Asia
 '9d7d2c2207',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि,2026-04-26T05:25:00+00:00,India,0.4606807148960516,2,2,hi,SAS,Asia
-'778d256165',extremes,Flood,#030ba1,wmo,फ्लैशफ्लड इंडिया,2026-04-04T04:30:00+00:00,India,0.450359065216086,2,1,hi,SAS,Asia
+'da77b5167a',extremes,Earthquake,#870007,usgs,भूकंप हायुलियांग,2026-05-08T05:16:00+00:00,India,0.4495726169681328,1,1,hi,TIB,Asia
 '981efe9ba6',extremes,Thunderstorm,#53785a,wmo,पश्चिम बंगाल के कोलकाता जिले में मौसम गंभीर,2026-04-08T05:01:00+00:00,India,0.4493508277752298,1,1,hi,SAS,Asia
+'4093195155',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल भारत,2026-04-23T05:16:00+00:00,India,0.4490179359306233,2,1,hi,SAS,Asia
 '9c41746a57',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश,2026-04-05T05:01:00+00:00,India,0.4470380966594748,1,1,hi,SAS,Asia
 'ddfc1801c4',extremes,Thunderstorm,#53785a,wmo,7 मंडलों में ओलावृष्टि,2026-04-06T05:11:00+00:00,India,0.4464178008597266,2,1,hi,SAS,Asia
 '1f354a34b8',extremes,Wildfire,#d60d2b,wmo,जंगल की आग छत्तीसगढ़,2026-04-10T05:13:00+00:00,India,0.4441852530793687,2,1,hi,SAS,Asia
@@ -40,6 +37,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b4bf0afc3',extremes,Wildfire,#d60d2b,wmo,जंगल की आग बिहार,2026-04-17T05:16:00+00:00,India,0.4302529666485751,2,1,hi,SAS,Asia
 '1671764c2d',extremes,Precipitation,#d60d2b,wmo,पश्चिम बंगाल के 6 जिलों में वर्षा,2026-04-26T05:25:00+00:00,India,0.4287834627255704,2,1,hi,SAS,Asia
 '20741ce7eb',extremes,Tsunami,#690191,random,सुनामी,2026-04-10T05:12:00+00:00,,0.4287677661911354,1,3,hi,,
+'056bed0dad',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडी सर्दी,2026-04-13T05:27:00+00:00,,0.42714712636852614,2,2,hi,,
 '113b8cc574',extremes,Thunderstorm,#53785a,wmo,उत्तराखंड के 8 जिलों में ओलावृष्टि,2026-05-05T05:29:00+00:00,India,0.4260942082132172,2,2,hi,SAS,Asia
 '91e4bfad02',extremes,Wildfire,#d60d2b,wmo,जंगल की आग हरियाणा,2026-04-17T05:16:00+00:00,India,0.4259062183169378,2,1,hi,SAS,Asia
 '90522631da',extremes,Precipitation,#d60d2b,wmo,भारत में वर्षा,2026-04-27T05:40:00+00:00,India,0.4238572469197638,2,1,hi,SAS,Asia
@@ -107,11 +105,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd95935e67d',extremes,Thunderstorm,#53785a,wmo,कुमाऊं क्षेत्र में भीषण मौसम,2026-05-04T05:50:00+00:00,India,0.3445929018772586,2,1,hi,SAS,Asia
 '0afe206c83',extremes,Thunderstorm,#53785a,wmo,त्रिपुरा के पश्चिमी त्रिपुरा जिले में तूफ़ान,2026-04-27T05:40:00+00:00,India,0.3433780239747052,2,1,hi,SAS,Asia
 '4ff91d3ac8',extremes,Thunderstorm,#53785a,wmo,तूफ़ान tslg,2026-04-26T05:25:00+00:00,India,0.343141109741864,2,1,hi,SAS,Asia
-'8447ef896b',extremes,Snow&Ice,#d60d2b,random,बर्फ कीचड़,2026-05-06T05:43:00+00:00,,0.3428493586995605,0,1,hi,,
 '312fe2843d',extremes,Thunderstorm,#53785a,wmo,मौसम गंभीर गढ़चिरौली,2026-05-06T05:43:00+00:00,India,0.3408814679130246,2,1,hi,SAS,Asia
 'c789ceb8e5',extremes,Thunderstorm,#53785a,wmo,6 मंडलों में मौसम बेहद खराब,2026-05-01T05:54:00+00:00,India,0.3405185037122706,2,1,hi,SAS,Asia
 '7054c01ed8',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में बारिश की कमी,2026-04-11T04:34:00+00:00,United Arab Emirates,0.3402834679834182,2,1,hi,ARP,Asia
-'16aa48504a',extremes,Cold Wave,#a7e9fa,random,पारा गिरा,2026-04-30T05:45:00+00:00,,0.3394825828034618,1,1,hi,,
 '4dc8bdbf14',extremes,Flood,#030ba1,random,नदी में बाढ़,2026-04-20T05:26:00+00:00,,0.3393273728576065,2,1,hi,,
 '63e0bd5b7a',extremes,Thunderstorm,#53785a,wmo,आंधी तूफान कैमूर रोहतास औरंगाबाद,2026-05-07T05:46:00+00:00,India,0.3386100277259233,2,1,hi,SAS,Asia
 'ccc27c0b86',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम कासिमकोटा मंडल,2026-05-03T05:44:00+00:00,India,0.338267036621662,2,1,hi,SAS,Asia
@@ -121,15 +117,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dec663081b',extremes,Thunderstorm,#53785a,wmo,पश्चिम बंगाल के नादिया जिले में ओले गिरे,2026-05-02T05:24:00+00:00,India,0.3366279376776508,2,1,hi,SAS,Asia
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,बम चक्रवात,2026-04-23T05:16:00+00:00,,0.3356541328167986,1,1,hi,,
 'bd21048a6a',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-04-23T05:17:00+00:00,United Arab Emirates,0.3348679389328254,2,1,hi,ARP,Asia
-'e593608bfa',extremes,Snow&Ice,#d60d2b,random,स्नोपैक,2026-04-20T05:26:00+00:00,,0.3321871475371254,0,1,hi,,
 'de35e746b9',extremes,Earthquake,#870007,usgs,भूकंप वांगजिंग,2026-04-23T05:16:00+00:00,India,0.3306992678308736,2,1,hi,SAS,Asia
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,तूफ़ान,2026-05-03T05:43:00+00:00,,0.3301668288202758,1,1,hi,,
-'595acbcf9f',extremes,Heat Wave,#c40202,random,सबसे गर्म दिन,2026-04-04T04:30:00+00:00,,0.3299104762768438,1,1,hi,,
-'da1ae5191e',extremes,Storm,#b3b2b1,random,तूफ़ान का उभार,2026-04-05T05:00:00+00:00,,0.3298596639303587,1,1,hi,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,चक्रवात,2026-05-03T05:43:00+00:00,,0.32920030736413,1,1,hi,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,रिकॉर्ड ठंड,2026-04-07T04:58:00+00:00,,0.3282397477937368,1,1,hi,,
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,मूसलाधार बारिश,2026-04-13T05:27:00+00:00,,0.3280127266076318,1,1,hi,,
-'056bed0dad',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडी सर्दी,2026-04-13T05:27:00+00:00,,0.3258789545512072,1,1,hi,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,तूफ़ान,2026-04-11T04:34:00+00:00,,0.3224222091336485,1,1,hi,,
 'ca647bd12b',extremes,Earthquake,#870007,usgs,भूकंप सिलचर,2026-04-08T05:00:00+00:00,India,0.3217628318571927,2,1,hi,SAS,Asia
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,ओलावृष्टि,2026-04-10T05:12:00+00:00,,0.3182430962143323,1,2,hi,,
@@ -177,14 +169,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,सबसे गर्म वर्ष,2026-04-22T05:13:00+00:00,,0.2943678934459824,1,1,hi,,
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,बर्फ तैरती है,2026-05-07T05:46:00+00:00,,0.2923671529449904,1,1,hi,,
 '52af874334',extremes,Drought,#edc291,random,शुष्कता,2026-05-07T05:46:00+00:00,,0.2919749245815708,1,1,hi,,
+'8447ef896b',extremes,Snow&Ice,#d60d2b,random,बर्फ कीचड़,2026-05-06T05:43:00+00:00,,0.2914219548946264,1,1,hi,,
 'c948617fef',extremes,Heat Wave,#c40202,random,अत्यधिक गर्मी का जोखिम,2026-04-12T05:11:00+00:00,,0.2892969156985388,1,1,hi,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,हिमशैल का शांत होना,2026-04-27T05:39:00+00:00,,0.2888892493390608,2,1,hi,,
+'16aa48504a',extremes,Cold Wave,#a7e9fa,random,पारा गिरा,2026-04-30T05:45:00+00:00,,0.2885601953829425,2,1,hi,,
 '283b154c38',extremes,Wet Spell,#d60d2b,random,गीला जादू,2026-04-17T05:15:00+00:00,,0.2880868084627881,2,1,hi,,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,भारी वर्षा,2026-04-28T05:44:00+00:00,,0.2864169248908326,2,1,hi,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,रिकार्ड वर्षा,2026-04-25T05:00:00+00:00,,0.2860529723791943,2,1,hi,,
 '07403ae253',extremes,Earthquake,#870007,usgs,भूकंप पोर्ट ब्लेयर,2026-04-22T05:13:00+00:00,India,0.2854512125431266,2,1,hi,SEA,Asia
 'a5ff1cde4a',extremes,Drought,#edc291,random,मिट्टी की नमी,2026-04-13T05:27:00+00:00,,0.2849346863862387,1,1,hi,,
 '60bddf3351',extremes,Drought,#edc291,edo,भारत में वर्षा की कमी,2026-04-14T05:11:00+00:00,India,0.2845828037206822,2,1,hi,SAS,Asia
+'e593608bfa',extremes,Snow&Ice,#d60d2b,random,स्नोपैक,2026-04-20T05:26:00+00:00,,0.2823590754065566,1,1,hi,,
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,उष्णकटिबंधीय तूफान,2026-04-06T05:11:00+00:00,,0.2814103417760271,1,1,hi,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,ग्लेशियर का शांत होना,2026-04-19T05:16:00+00:00,,0.2798796621269687,1,1,hi,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,आर्कटिक समुद्री बर्फ,2026-04-15T05:11:00+00:00,,0.2793992544128184,1,1,hi,,
