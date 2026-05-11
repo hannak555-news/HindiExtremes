@@ -1,12 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'f986239716',extremes,Wildfire,#d60d2b,wmo,जंगल की आग गुजरात,2026-04-24T05:22:00+00:00,India,0.6609562751554504,0,1,hi,SAS,Asia
-'54361a1424',extremes,Storm,#b3b2b1,wmo,तूफान उछाल मथुरा और adj,2026-05-11T06:14:00+00:00,India,0.5799916148473733,0,1,hi,SAS,Asia
+'f986239716',extremes,Wildfire,#d60d2b,wmo,जंगल की आग गुजरात,2026-04-24T05:22:00+00:00,India,0.5618128338821329,1,1,hi,SAS,Asia
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,भारत में मूसलाधार वर्षा,2026-04-25T05:00:00+00:00,India,0.552026087828291,1,1,hi,SAS,Asia
-'61934e14e0',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम चंडीगढ़,2026-05-11T06:14:00+00:00,India,0.5437955438229347,0,1,hi,SAS,Asia
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,भारत में गंभीर मौसम,2026-04-22T05:13:00+00:00,India,0.5416424716259103,1,1,hi,SAS,Asia
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,तूफ़ान भारत,2026-04-25T05:00:00+00:00,India,0.5385587733508251,1,1,hi,SAS,Asia
 '3915f79390',extremes,Wildfire,#d60d2b,wmo,जंगल की आग दिल्ली,2026-04-17T05:16:00+00:00,India,0.510824593459684,3,1,hi,SAS,Asia
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,जय भारत,2026-04-22T05:13:00+00:00,India,0.5099117187624863,3,1,hi,SAS,Asia
+'54361a1424',extremes,Storm,#b3b2b1,wmo,तूफान उछाल मथुरा और adj,2026-05-11T06:14:00+00:00,India,0.49299287262026725,1,1,hi,SAS,Asia
 '9187e11f3e',extremes,Storm,#b3b2b1,wmo,पश्चिम बंगाल के कोलकाता जिले में तूफान,2026-04-16T05:17:00+00:00,India,0.4900155630842899,3,1,hi,SAS,Asia
 '7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,जंगल की आग भारत,2026-04-24T05:22:00+00:00,India,0.4862003318960227,2,1,hi,SAS,Asia
 '2d341e159e',extremes,Heat Wave,#c40202,wmo,हीट वेव अनंतगिरि के कोटापाडु मंडल,2026-05-10T05:51:00+00:00,India,0.4860027630750604,2,1,hi,SAS,Asia
@@ -28,6 +27,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,हिमस्खलन,2026-04-05T05:00:00+00:00,,0.4670277651786549,1,2,hi,,
 '7f8475f455',extremes,Thunderstorm,#53785a,wmo,12 मंडलों में मौसम बेहद खराब,2026-04-06T05:11:00+00:00,India,0.4664524520436133,2,1,hi,SAS,Asia
 '778d256165',extremes,Flood,#030ba1,wmo,फ्लैशफ्लड इंडिया,2026-04-24T05:22:00+00:00,India,0.4638467742019139,2,1,hi,SAS,Asia
+'61934e14e0',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम चंडीगढ़,2026-05-11T06:14:00+00:00,India,0.4623762272494945,1,1,hi,SAS,Asia
 '9d7d2c2207',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि,2026-04-26T05:25:00+00:00,India,0.4606807148960516,2,2,hi,SAS,Asia
 '981efe9ba6',extremes,Thunderstorm,#53785a,wmo,पश्चिम बंगाल के कोलकाता जिले में मौसम गंभीर,2026-04-08T05:01:00+00:00,India,0.4493508277752298,1,1,hi,SAS,Asia
 '4093195155',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल भारत,2026-04-23T05:16:00+00:00,India,0.4490179359306233,2,1,hi,SAS,Asia
@@ -139,12 +139,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9f0423d739',extremes,Drought,#edc291,random,सूखापन,2026-05-10T05:51:00+00:00,,0.3178850037485913,0,1,hi,,
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,बर्फ़ का झोंका,2026-04-19T05:16:00+00:00,,0.3166044889859142,1,1,hi,,
 '15a9c61e3e',extremes,Landslide,#572c03,random,चट्टानों का खिसकना,2026-04-20T05:26:00+00:00,,0.3159950143806126,1,1,hi,,
-'f9a3abc8c2',extremes,Landslide,#572c03,random,कीचड़ का प्रवाह,2026-05-05T05:28:00+00:00,,0.31515885162446033,0,1,hi,,
+'f9a3abc8c2',extremes,Landslide,#572c03,random,कीचड़ का प्रवाह,2026-05-05T05:28:00+00:00,,0.3151588516244603,0,1,hi,,
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,अंटार्कटिक समुद्री बर्फ,2026-05-04T05:49:00+00:00,,0.3144136829627095,1,1,hi,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,रात की ठंढ,2026-04-30T05:45:00+00:00,,0.3142143720858093,1,1,hi,,
-'02f56319a7',extremes,Flood,#030ba1,aidr,ऑस्ट्रेलिया में बाढ़,2026-04-26T05:26:00+00:00,Australia,0.31400571447237363,0,1,hi,EAU,Oceania
+'02f56319a7',extremes,Flood,#030ba1,aidr,ऑस्ट्रेलिया में बाढ़,2026-04-26T05:26:00+00:00,Australia,0.3140057144723736,0,1,hi,EAU,Oceania
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,बर्फ़ीला तूफ़ान,2026-05-06T05:43:00+00:00,,0.3135193035600587,0,1,hi,,
-'42f9f7020d',extremes,Heat Wave,#c40202,acwe,गर्म मौसम न्यू साउथ वेल्स,2026-05-06T05:43:00+00:00,Australia,0.31349560318765896,0,1,hi,EAU,Oceania
+'42f9f7020d',extremes,Heat Wave,#c40202,acwe,गर्म मौसम न्यू साउथ वेल्स,2026-05-06T05:43:00+00:00,Australia,0.3134956031876589,0,1,hi,EAU,Oceania
 '9391f481ee',extremes,Storm,#b3b2b1,random,आँधी,2026-05-06T05:43:00+00:00,,0.3126841250056201,1,1,hi,,
 '622bd2c53e',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखापन,2026-04-21T05:15:00+00:00,United Arab Emirates,0.3124617841493589,1,1,hi,ARP,Asia
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,शीतलहर,2026-04-27T05:39:00+00:00,,0.3103431770480774,1,1,hi,,
