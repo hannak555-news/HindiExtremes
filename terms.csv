@@ -125,7 +125,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,टिड्डियाँ,2026-04-27T05:39:00+00:00,,0.3264585973878632,0,1,hi,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,वायुमंडलीय नदी,2026-05-09T05:35:00+00:00,,0.323412948879457,0,1,hi,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,तूफ़ान,2026-04-11T04:34:00+00:00,,0.3224222091336485,1,1,hi,,
-'3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,भारी वर्षा,2026-05-05T05:28:00+00:00,,0.32208599823883477,1,1,hi,,
+'3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,भारी वर्षा,2026-05-05T05:28:00+00:00,,0.3220859982388347,1,1,hi,,
 'ca647bd12b',extremes,Earthquake,#870007,usgs,भूकंप सिलचर,2026-04-08T05:00:00+00:00,India,0.3217628318571927,2,1,hi,SAS,Asia
 '0fa8bbc8c4',extremes,Wildfire,#d60d2b,emdat,जंगल की आग की मिट्टी काउंटियाँ फ्लोरिडा,2026-05-05T05:29:00+00:00,United States,0.3198870690928678,0,1,hi,WNA,North-America
 '11dee0d421',extremes,Tropical Cyclone,#4f4f4f,emdat,उष्णकटिबंधीय चक्रवात गुआम,2026-05-05T05:29:00+00:00,Guam,0.3198190795519768,0,1,hi,NPO,Oceania
@@ -134,12 +134,22 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '96285201b2',extremes,Storm,#b3b2b1,emdat,तूफ़ान लाओ कै,2026-05-05T05:29:00+00:00,Vietnam,0.3196522804315967,0,1,hi,SEA,Asia
 '8182ed2818',extremes,Precipitation,#d60d2b,acwe,वर्षा तस्मानिया,2026-05-04T05:50:00+00:00,Australia,0.319444101092315,0,1,hi,SAU,Oceania
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,हीटवेव दक्षिण ऑस्ट्रेलिया,2026-05-04T05:50:00+00:00,Australia,0.3194433136307953,0,1,hi,CAU,Oceania
+'d0ad361cd5',extremes,Precipitation,#d60d2b,acwe,गीला जादू विक्टोरिया,2026-05-04T05:50:00+00:00,Australia,0.31943449580158423,0,1,hi,SAU,Oceania
+'9d59b1d751',extremes,Flood,#030ba1,acwe,दक्षिण ऑस्ट्रेलिया में आकस्मिक बाढ़,2026-05-04T05:50:00+00:00,Australia,0.3194273971750887,0,1,hi,CAU,Oceania
+'a0fea22150',extremes,Heat Wave,#c40202,acwe,हीटवेव न्यू साउथ वेल्स,2026-05-04T05:50:00+00:00,Australia,0.31942244998548996,0,1,hi,EAU,Oceania
+'83b05b31d0',extremes,Precipitation,#d60d2b,acwe,आर्द्र स्पेल न्यू साउथ वेल्स,2026-05-04T05:50:00+00:00,Australia,0.3194195364855966,0,1,hi,EAU,Oceania
+'a66d6e96e1',extremes,Heat Wave,#c40202,acwe,गर्म मौसम ऑस्ट्रेलिया,2026-05-04T05:50:00+00:00,Australia,0.31925916326850523,0,1,hi,CAU,Oceania
+'2595e5c49a',extremes,Flood,#030ba1,acwe,उच्च जल स्तर ऑस्ट्रेलिया,2026-05-04T05:50:00+00:00,Australia,0.3190603070316364,0,1,hi,CAU,Oceania
+'248cc444aa',extremes,Heat Wave,#c40202,acwe,पश्चिमी ऑस्ट्रेलिया में हल्की सर्दी,2026-05-04T05:50:00+00:00,Australia,0.3189919128310656,0,1,hi,CAU,Oceania
+'ed6998ea23',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय तूफान हागुपिट,2026-05-07T05:46:00+00:00,,0.318985799718397,0,1,hi,EPO,Pacific Ocean
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,ओलावृष्टि,2026-04-10T05:12:00+00:00,,0.3182430962143323,1,2,hi,,
+'d53ef05f64',extremes,Precipitation,#d60d2b,acwe,पश्चिमी ऑस्ट्रेलिया में गीला मौसम,2026-05-04T05:50:00+00:00,Australia,0.3179863264112316,0,1,hi,CAU,Oceania
+'ffcf460c48',extremes,Heat Wave,#c40202,acwe,हीटवेव क्वींसलैंड,2026-05-04T05:50:00+00:00,Australia,0.3179722418644156,0,1,hi,CAU,Oceania
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,बर्फ़ का झोंका,2026-04-19T05:16:00+00:00,,0.3166044889859142,1,1,hi,,
 '15a9c61e3e',extremes,Landslide,#572c03,random,चट्टानों का खिसकना,2026-04-20T05:26:00+00:00,,0.3159950143806126,1,1,hi,,
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,अंटार्कटिक समुद्री बर्फ,2026-05-04T05:49:00+00:00,,0.3144136829627095,1,1,hi,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,रात की ठंढ,2026-04-30T05:45:00+00:00,,0.3142143720858093,1,1,hi,,
-'9391f481ee',extremes,Storm,#b3b2b1,random,आँधी,2026-05-06T05:43:00+00:00,,0.31268412500562015,1,1,hi,,
+'9391f481ee',extremes,Storm,#b3b2b1,random,आँधी,2026-05-06T05:43:00+00:00,,0.3126841250056201,1,1,hi,,
 '622bd2c53e',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखापन,2026-04-21T05:15:00+00:00,United Arab Emirates,0.3124617841493589,1,1,hi,ARP,Asia
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,शीतलहर,2026-04-27T05:39:00+00:00,,0.3103431770480774,1,1,hi,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,टिड्डा,2026-04-06T05:11:00+00:00,,0.3102334784491278,1,1,hi,,
