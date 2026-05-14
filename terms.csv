@@ -166,7 +166,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,न्यूजीलैंड में मूसलाधार बारिश,2026-05-06T05:43:00+00:00,New Zealand,0.3072516510598797,0,1,hi,NZ,Oceania
 'c229b0919c',extremes,Precipitation,#d60d2b,wmo,सऊदी अरब में वर्षा,2026-04-28T05:45:00+00:00,Saudi Arabia,0.3072308720638423,0,1,hi,ARP,Asia
 'b2edd21efd',extremes,Precipitation,#d60d2b,wmo,वेस्टलैंड जिले में मूसलाधार बारिश,2026-05-06T05:43:00+00:00,New Zealand,0.3071627076656484,0,1,hi,NZ,Oceania
+'f94bed33ad',extremes,Precipitation,#d60d2b,wmo,संदिग्ध ध्वनि के उत्तर में फ़िओर्डलैंड में मूसलाधार बारिश,2026-05-05T05:29:00+00:00,New Zealand,0.30678478795069103,0,1,hi,NZ,Oceania
+'983c5f75d7',extremes,Precipitation,#d60d2b,wmo,वर्षा बेचर,2026-05-10T05:51:00+00:00,Algeria,0.3066587830791596,0,1,hi,SAH,Africa
+'dc2f58f7da',extremes,Precipitation,#d60d2b,wmo,वर्षा थाईलैंड,2026-05-09T05:36:00+00:00,Thailand,0.30658768401297887,0,1,hi,SEA,Asia
+'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,वर्षा तंजानिया,2026-04-27T05:40:00+00:00,Tanzania,0.3065572945337175,0,1,hi,SEAF,Africa
+'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,जमने वाला कनाडा,2026-05-03T05:44:00+00:00,Canada,0.30653908567332455,0,1,hi,NEN,North-America
+'f0f6b033ff',extremes,Precipitation,#d60d2b,wmo,वर्षा तंजानिया,2026-05-02T05:24:00+00:00,Tanzania,0.3064425761901006,0,1,hi,SEAF,Africa
 'e8cad01791',extremes,Earthquake,#870007,usgs,भूकंप बसमत,2026-04-12T05:11:00+00:00,India,0.306284254392379,2,1,hi,SAS,Asia
+'9b59bee21e',extremes,Drought,#edc291,edo,पोलैंड में सूखा,2026-04-28T05:45:00+00:00,Poland,0.30624864441875815,0,1,hi,WCE,Europe
+'41e66be4ee',extremes,Snow&Ice,#d60d2b,wmo,जमने वाला ब्राज़ील,2026-05-11T06:14:00+00:00,Brazil,0.30614702790141163,0,1,hi,SAM,South-America
+'016d682943',extremes,Snow&Ice,#d60d2b,wmo,जमने वाला दक्षिण अफ़्रीका,2026-05-11T06:14:00+00:00,South Africa,0.3060438468889501,0,1,hi,WSAF,Africa
+'7fced7e700',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश लक्ज़मबर्ग,2026-05-10T05:51:00+00:00,Luxembourg,0.30590619678526604,0,1,hi,WCE,Europe
 '55c39b351d',extremes,Storm,#b3b2b1,random,धूल शैतान,2026-04-16T05:16:00+00:00,,0.3052415758614332,1,1,hi,,
 '62084daeb0',extremes,Earthquake,#870007,random,भूकंप,2026-04-11T04:34:00+00:00,,0.3031729896494158,2,1,hi,,
 '5a5dd83274',extremes,Fog,#d60d2b,wmo,वोल्गोग्राड क्षेत्र का कोहरा,2026-04-08T05:01:00+00:00,Russia,0.3028348763047253,0,1,hi,ESB,Europe
