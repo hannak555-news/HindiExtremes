@@ -164,9 +164,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '12775cc05a',extremes,Drought,#edc291,edo,ब्राज़ील में सूखा,2026-05-02T05:24:00+00:00,Brazil,0.3045031207401778,0,1,hi,SAM,South-America
 'efe90d3d29',extremes,Snow&Ice,#d60d2b,wmo,फ्रॉस्ट गटिन्यू,2026-05-08T05:16:00+00:00,Canada,0.3044489681954666,0,1,hi,NEN,North-America
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,तूफ़ान चिली,2026-05-04T05:50:00+00:00,Chile,0.3040789055037917,0,1,hi,SWS,South-America
+'9a93354f3b',extremes,Drought,#edc291,edo,शुष्क काल अंगोला,2026-04-27T05:40:00+00:00,Angola,0.3040599623911372,0,1,hi,WSAF,Africa
 'ffe6caf686',extremes,Snow&Ice,#d60d2b,wmo,बर्फ रूस,2026-04-27T05:40:00+00:00,Russia,0.3040306143114183,0,1,hi,ESB,Europe
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,बर्फ अर्जेंटीना,2026-05-01T05:54:00+00:00,Argentina,0.3039691969434668,0,1,hi,SES,South-America
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,तूफ़ान ब्राज़ील,2026-05-02T05:24:00+00:00,Brazil,0.3039558838015082,0,1,hi,SAM,South-America
+'02711610b5',extremes,Storm,#b3b2b1,wmo,तूफ़ान अर्जेंटीना,2026-04-26T05:25:00+00:00,Argentina,0.3038657514084334,0,1,hi,SES,South-America
+'b9e5a5873a',extremes,Flood,#030ba1,wmo,कनाडा में बाढ़,2026-04-26T05:25:00+00:00,Canada,0.3037908808975553,0,1,hi,NEN,North-America
+'563b781620',extremes,Thunderstorm,#53785a,wmo,नाइजीरिया में गंभीर मौसम,2026-05-08T05:16:00+00:00,Nigeria,0.30378100408061476,0,1,hi,WAF,Africa
+'f497a982c3',extremes,Storm,#b3b2b1,wmo,तूफ़ान की लहर सोलोमन द्वीप,2026-05-09T05:36:00+00:00,Solomon Islands,0.30372407997897594,0,1,hi,EPO,Oceania
+'48a9733a03',extremes,Storm,#b3b2b1,wmo,तूफ़ान मालदीव,2026-05-03T05:44:00+00:00,Maldives,0.30372032714977715,0,1,hi,EIO,Indian Ocean
+'596bcf1fdb',extremes,Storm,#b3b2b1,wmo,तूफ़ान का उछाल क्षेत्र 1 - गंभीर,2026-05-02T05:24:00+00:00,Paraguay,0.3036621508677689,0,1,hi,SES,South-America
+'1c0214d974',extremes,Storm,#b3b2b1,wmo,तूफ़ान दक्षिण अफ़्रीका,2026-05-05T05:29:00+00:00,South Africa,0.3036504569362573,0,1,hi,WSAF,Africa
+'b977149cad',extremes,Storm,#b3b2b1,wmo,संदिग्ध ध्वनि के उत्तर में तूफ़ान फ़िओर्डलैंड,2026-05-07T05:46:00+00:00,New Zealand,0.30362052337467865,0,1,hi,NZ,Oceania
+'d8a981c851',extremes,Earthquake,#870007,usgs,भूकंप लोरेंगौ,2026-05-02T05:23:00+00:00,Papua New Guinea,0.3035960980887154,0,1,hi,EPO,Pacific Ocean
 '5a5dd83274',extremes,Fog,#d60d2b,wmo,वोल्गोग्राड क्षेत्र का कोहरा,2026-04-08T05:01:00+00:00,Russia,0.3028348763047253,0,1,hi,ESB,Europe
 '1c38b19449',extremes,Storm,#b3b2b1,random,धूल के कटोरे,2026-04-18T04:56:00+00:00,,0.3027701500395653,1,1,hi,,
 'd709206c08',extremes,Storm,#b3b2b1,wmo,तूफ़ान रजि. 15 कॉर्डिलेरा,2026-04-13T05:28:00+00:00,Chile,0.3027437179068591,0,1,hi,SWS,South-America
@@ -343,7 +353,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c332197203',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन इंद्रे सोगन,2026-04-13T05:28:00+00:00,Norway,0.2570814185451446,1,1,hi,NEU,Europe
 '3b0e352b6e',extremes,Flood,#030ba1,wmo,दक्षिण ऑस्ट्रेलिया वारबर्टन में बाढ़,2026-04-13T05:28:00+00:00,Australia,0.2570778515676605,1,1,hi,CAU,Oceania
 '766190540a',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल तंजानिया,2026-04-30T05:46:00+00:00,Tanzania,0.2570651651552067,1,1,hi,SEAF,Africa
-'bd584a5aeb',extremes,Storm,#b3b2b1,wmo,तूफ़ान लेसेडी लेसेडी हीडलबर्ग,2026-04-28T05:45:00+00:00,South Africa,0.25698135097943486,1,1,hi,WSAF,Africa
+'bd584a5aeb',extremes,Storm,#b3b2b1,wmo,तूफ़ान लेसेडी लेसेडी हीडलबर्ग,2026-04-28T05:45:00+00:00,South Africa,0.2569813509794348,1,1,hi,WSAF,Africa
 '31919931b3',extremes,Landslide,#572c03,wmo,रॉकस्लाइड चीन,2026-04-12T05:12:00+00:00,China,0.2569373363233593,1,1,hi,EAS,Asia
 'af6965c814',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम सेशेल्स,2026-04-27T05:40:00+00:00,Seychelles,0.2568921510820417,1,1,hi,EIO,Africa
 'a57654f4ed',extremes,Earthquake,#870007,usgs,भूकंप किंग कोव,2026-04-13T05:27:00+00:00,Alaska,0.2568335889526615,1,1,hi,NWN,North-America
