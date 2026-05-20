@@ -195,6 +195,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3bb7041ef3',extremes,Heat Wave,#c40202,wmo,हीट वेव इजराइल,2026-05-09T05:36:00+00:00,Israel,0.303004789200941,0,1,hi,MED,Asia
 '3d0fc9cdaf',extremes,Storm,#b3b2b1,wmo,तूफ़ान रेनबेल मकीरा टेमोटू जल।,2026-05-08T05:16:00+00:00,Solomon Islands,0.303000446782763,0,1,hi,EPO,Oceania
 '59255472e8',extremes,Landslide,#572c03,wmo,भूस्खलन गांझोउ शहर,2026-05-15T06:09:00+00:00,China,0.3029671985007923,0,1,hi,EAS,Asia
+'895007d2de',extremes,Snow Avalanche,#deddd5,wmo,नॉर्वे में हिमस्खलन,2026-04-30T05:46:00+00:00,Norway,0.30296448550218646,0,1,hi,NEU,Europe
+'b9576a4c93',extremes,Storm,#b3b2b1,wmo,तूफानी लहर त्रिनिदाद और टोबैगो,2026-05-18T06:38:00+00:00,Trinidad and Tobago,0.30292638537021027,0,1,hi,NSA,North-America
+'ec60b7df34',extremes,Heat Wave,#c40202,wmo,संयुक्त राज्य अमेरिका में गर्मी की लहर,2026-05-02T05:24:00+00:00,United States,0.3029138162153877,0,1,hi,CNA,North-America
+'11ece58a02',extremes,Storm,#b3b2b1,wmo,बहरीन में तूफ़ान का उछाल,2026-05-17T06:01:00+00:00,Bahrain,0.3028476924759609,0,1,hi,ARP,Asia
+'fe5ac6d3b6',extremes,Drought,#edc291,edo,बारिश की कमी स्लोवाकिया,2026-05-05T05:29:00+00:00,Slovakia,0.3028363230682165,0,1,hi,WCE,Europe
+'229a544839',extremes,Precipitation,#d60d2b,wmo,केप टाउन केप टाउन शहर में मूसलाधार बारिश,2026-05-11T06:14:00+00:00,South Africa,0.30282671284275714,0,1,hi,WSAF,Africa
+'dafed8e9de',extremes,Drought,#edc291,edo,बारिश की कमी ब्रुनेई,2026-05-13T06:03:00+00:00,Brunei,0.3028214926783124,0,1,hi,SEA,Asia
+'6208652221',extremes,Wildfire,#d60d2b,wmo,जंगल की आग तुवा गणराज्य,2026-05-01T05:54:00+00:00,Russia,0.30279355644830397,0,1,hi,ESB,Europe
+'734861543c',extremes,Storm,#b3b2b1,wmo,तूफ़ान वृद्धि क्षेत्र अमेज़ॅनिका,2026-05-02T05:24:00+00:00,Ecuador,0.3027885753536578,0,1,hi,NWS,South-America
+'464c05f22e',extremes,Precipitation,#d60d2b,wmo,केप टाउन का वर्षा शहर केप टाउन शहर,2026-05-13T06:03:00+00:00,South Africa,0.30278562472841597,0,1,hi,WSAF,Africa
 '1c38b19449',extremes,Storm,#b3b2b1,random,धूल के कटोरे,2026-04-18T04:56:00+00:00,,0.3027701500395653,1,1,hi,,
 '61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,तूफान संयुक्त राज्य अमेरिका,2026-04-12T05:12:00+00:00,United States,0.3025822289873801,0,1,hi,CNA,North-America
 'bee7cf7ad2',extremes,Snow&Ice,#d60d2b,wmo,आइस चिली,2026-04-14T05:11:00+00:00,Chile,0.3024428148931546,0,1,hi,SWS,South-America
@@ -319,7 +329,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,जमने वाला कनाडा,2026-05-03T05:44:00+00:00,Canada,0.2605582228223258,1,1,hi,NEN,North-America
 '9b59bee21e',extremes,Drought,#edc291,edo,पोलैंड में सूखा,2026-04-28T05:45:00+00:00,Poland,0.2603113477559444,1,1,hi,WCE,Europe
 'f486a08b0d',extremes,Precipitation,#d60d2b,wmo,वर्षा अल्जीरिया,2026-04-29T05:40:00+00:00,Algeria,0.2602401089673866,1,1,hi,SAH,Africa
-'41e66be4ee',extremes,Snow&Ice,#d60d2b,wmo,जमने वाला ब्राज़ील,2026-05-11T06:14:00+00:00,Brazil,0.26022497371619985,1,1,hi,SAM,South-America
+'41e66be4ee',extremes,Snow&Ice,#d60d2b,wmo,जमने वाला ब्राज़ील,2026-05-11T06:14:00+00:00,Brazil,0.2602249737161998,1,1,hi,SAM,South-America
 '016d682943',extremes,Snow&Ice,#d60d2b,wmo,जमने वाला दक्षिण अफ़्रीका,2026-05-11T06:14:00+00:00,South Africa,0.2601372698556076,1,1,hi,WSAF,Africa
 'd04f754034',extremes,Thunderstorm,#53785a,wmo,दक्षिण अफ़्रीका में तूफ़ान,2026-04-16T05:17:00+00:00,South Africa,0.2600043031171922,1,1,hi,WSAF,Africa
 'ac8883b5db',extremes,Drought,#edc291,edo,शुष्क मौसम बेलारूस,2026-04-18T04:57:00+00:00,Belarus,0.2599971700532064,1,1,hi,WCE,Europe
