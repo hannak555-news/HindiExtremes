@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'519c58c063',extremes,Flood,#030ba1,wmo,बाढ़ भारत,2026-05-19T06:33:00+00:00,India,0.662330169770358,0,1,hi,SAS,Asia
+'519c58c063',extremes,Flood,#030ba1,wmo,बाढ़ भारत,2026-05-19T06:33:00+00:00,India,0.5880077623817273,1,1,hi,SAS,Asia
 'b2bc2d0c7f',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन भारत,2026-04-19T05:16:00+00:00,India,0.48416751874364,2,1,hi,SAS,Asia
 '6d64bd5d26',extremes,Snow Avalanche,#deddd5,wmo,सिक्किम के गंगटोक जिले में हिमस्खलन,2026-05-09T05:36:00+00:00,India,0.4827454349007954,2,1,hi,SAS,Asia
 '8bb788b602',extremes,Wildfire,#d60d2b,wmo,जंगल की आग असम,2026-04-24T05:22:00+00:00,India,0.4794325493120412,2,1,hi,SAS,Asia
@@ -134,7 +134,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '622bd2c53e',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखापन,2026-04-21T05:15:00+00:00,United Arab Emirates,0.3124617841493589,1,1,hi,ARP,Asia
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,बर्फ अर्जेंटीना,2026-05-04T05:50:00+00:00,Argentina,0.3073318075650983,0,1,hi,SES,South-America
 'f0f6b033ff',extremes,Precipitation,#d60d2b,wmo,वर्षा तंजानिया,2026-05-02T05:24:00+00:00,Tanzania,0.3064425761901006,0,1,hi,SEAF,Africa
-'41e66be4ee',extremes,Snow&Ice,#d60d2b,wmo,जमने वाला ब्राज़ील,2026-05-11T06:14:00+00:00,Brazil,0.3061470279014116,0,1,hi,SAM,South-America
 '7fced7e700',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश लक्ज़मबर्ग,2026-05-10T05:51:00+00:00,Luxembourg,0.305906196785266,0,1,hi,WCE,Europe
 '4dd12d0f3d',extremes,Precipitation,#d60d2b,wmo,सऊदी अरब में मूसलाधार बारिश,2026-04-28T05:45:00+00:00,Saudi Arabia,0.3058801608940542,0,1,hi,ARP,Asia
 'dc85d12fc4',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश मोंटेनेग्रो,2026-05-16T05:40:00+00:00,Montenegro,0.3057886096403002,0,1,hi,MED,Europe
@@ -288,7 +287,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '50bfa8f85d',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश theewaterskloof Grabouw,2026-05-12T05:52:00+00:00,South Africa,0.2618273906422647,1,1,hi,WSAF,Africa
 '3c01ade432',extremes,Precipitation,#d60d2b,wmo,मोल्दोवा गणराज्य में वर्षा,2026-05-09T05:36:00+00:00,Republic of Moldova,0.2618269337651684,1,1,hi,WCE,Europe
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,ब्राज़ील में भारी वर्षा,2026-04-30T05:46:00+00:00,Brazil,0.2617954429732962,1,1,hi,SAM,South-America
-'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,दक्षिण अफ़्रीका में वर्षा,2026-05-06T05:43:00+00:00,South Africa,0.26179522634666724,1,1,hi,WSAF,Africa
+'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,दक्षिण अफ़्रीका में वर्षा,2026-05-06T05:43:00+00:00,South Africa,0.2617952263466672,1,1,hi,WSAF,Africa
 '501b14a5de',extremes,Precipitation,#d60d2b,wmo,वर्षा क्षेत्र अमेज़ोनिका,2026-05-06T05:43:00+00:00,Ecuador,0.261763050608809,1,1,hi,NWS,South-America
 '3d4880a15e',extremes,Heat Wave,#c40202,acwe,दक्षिण ऑस्ट्रेलिया में गर्म हवाओं का दौर,2026-05-05T05:29:00+00:00,Australia,0.2615666183735609,1,1,hi,SAU,Oceania
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,वर्षा ब्राज़ील,2026-05-02T05:24:00+00:00,Brazil,0.2614577873304781,1,1,hi,SAM,South-America
@@ -297,29 +296,30 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1d029532ac',extremes,Snow&Ice,#d60d2b,wmo,दक्षिण अफ़्रीका में ठंढ,2026-05-06T05:43:00+00:00,South Africa,0.2613890487895663,1,1,hi,WSAF,Africa
 '5a404b2b5a',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश तंजानिया,2026-05-01T05:54:00+00:00,Tanzania,0.2613635101947453,1,1,hi,SEAF,Africa
 '5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन रूस,2026-04-26T05:25:00+00:00,Russia,0.2612790604991065,1,1,hi,ESB,Europe
-'6977541e84',extremes,Drought,#edc291,edo,सूखा मेडागास्कर,2026-04-30T05:46:00+00:00,Madagascar,0.26126253970055047,1,1,hi,MDG,Africa
+'6977541e84',extremes,Drought,#edc291,edo,सूखा मेडागास्कर,2026-04-30T05:46:00+00:00,Madagascar,0.2612625397005504,1,1,hi,MDG,Africa
 '4844b80c63',extremes,Precipitation,#d60d2b,wmo,वर्षा बुलेर जिला,2026-05-08T05:16:00+00:00,New Zealand,0.2612549063057921,1,1,hi,NZ,Oceania
 '2eb242efc8',extremes,Snow&Ice,#d60d2b,wmo,जमने वाला मोल्दोवा,2026-04-29T05:40:00+00:00,Moldova,0.2611864812172262,1,1,hi,WCE,Europe
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,अर्जेंटीना में वर्षा,2026-04-28T05:45:00+00:00,Argentina,0.2611672679086834,1,1,hi,SES,South-America
 'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,वर्षा सऊदी अरब,2026-04-28T05:45:00+00:00,Saudi Arabia,0.2611657724393919,1,1,hi,ARP,Asia
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,न्यूजीलैंड में मूसलाधार बारिश,2026-05-06T05:43:00+00:00,New Zealand,0.2611639034008977,1,1,hi,NZ,Oceania
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,इक्वाडोर में वर्षा,2026-05-18T06:38:00+00:00,Ecuador,0.2611541376780783,1,1,hi,NWS,South-America
-'c229b0919c',extremes,Precipitation,#d60d2b,wmo,सऊदी अरब में वर्षा,2026-04-28T05:45:00+00:00,Saudi Arabia,0.26114624125426594,1,1,hi,ARP,Asia
+'c229b0919c',extremes,Precipitation,#d60d2b,wmo,सऊदी अरब में वर्षा,2026-04-28T05:45:00+00:00,Saudi Arabia,0.2611462412542659,1,1,hi,ARP,Asia
 '0514da3654',extremes,Snow&Ice,#d60d2b,wmo,बर्फ ब्राज़ील,2026-04-28T05:45:00+00:00,Brazil,0.2611443923298729,1,1,hi,SAM,South-America
 'dea87e6ccd',extremes,Drought,#edc291,edo,शुष्क मौसम लातविया,2026-04-22T05:13:00+00:00,Latvia,0.2611401906801339,1,1,hi,WCE,Europe
-'d1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,जमने वाला अर्जेंटीना,2026-05-01T05:54:00+00:00,Argentina,0.26109959295978363,1,1,hi,SES,South-America
+'d1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,जमने वाला अर्जेंटीना,2026-05-01T05:54:00+00:00,Argentina,0.2610995929597836,1,1,hi,SES,South-America
 'b2edd21efd',extremes,Precipitation,#d60d2b,wmo,वेस्टलैंड जिले में मूसलाधार बारिश,2026-05-06T05:43:00+00:00,New Zealand,0.2610883015158011,1,1,hi,NZ,Oceania
 '2f7fa1d528',extremes,Precipitation,#d60d2b,wmo,अमेज़ॅनिका क्षेत्र में मूसलाधार बारिश,2026-05-04T05:50:00+00:00,Ecuador,0.2609816667609969,1,1,hi,NWS,South-America
 'f8714a698d',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश इक्वेडोर,2026-04-19T05:16:00+00:00,Ecuador,0.260848194189264,1,1,hi,NWS,South-America
-'f94bed33ad',extremes,Precipitation,#d60d2b,wmo,संदिग्ध ध्वनि के उत्तर में फ़िओर्डलैंड में मूसलाधार बारिश,2026-05-05T05:29:00+00:00,New Zealand,0.26076706975808733,1,1,hi,NZ,Oceania
-'983c5f75d7',extremes,Precipitation,#d60d2b,wmo,वर्षा बेचर,2026-05-10T05:51:00+00:00,Algeria,0.26065996561728566,1,1,hi,SAH,Africa
+'f94bed33ad',extremes,Precipitation,#d60d2b,wmo,संदिग्ध ध्वनि के उत्तर में फ़िओर्डलैंड में मूसलाधार बारिश,2026-05-05T05:29:00+00:00,New Zealand,0.2607670697580873,1,1,hi,NZ,Oceania
+'983c5f75d7',extremes,Precipitation,#d60d2b,wmo,वर्षा बेचर,2026-05-10T05:51:00+00:00,Algeria,0.2606599656172856,1,1,hi,SAH,Africa
 'dc2f58f7da',extremes,Precipitation,#d60d2b,wmo,वर्षा थाईलैंड,2026-05-09T05:36:00+00:00,Thailand,0.260599531411032,1,1,hi,SEA,Asia
-'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,ठंढा अर्जेंटीना,2026-05-01T05:54:00+00:00,Argentina,0.26059512146154074,1,1,hi,SES,South-America
-'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,वर्षा तंजानिया,2026-04-27T05:40:00+00:00,Tanzania,0.26057370035365984,1,1,hi,SEAF,Africa
+'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,ठंढा अर्जेंटीना,2026-05-01T05:54:00+00:00,Argentina,0.2605951214615407,1,1,hi,SES,South-America
+'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,वर्षा तंजानिया,2026-04-27T05:40:00+00:00,Tanzania,0.2605737003536598,1,1,hi,SEAF,Africa
 'cf828743a1',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश ओरेलाना।,2026-04-23T05:16:00+00:00,Ecuador,0.2605602691229823,1,1,hi,NWS,South-America
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,जमने वाला कनाडा,2026-05-03T05:44:00+00:00,Canada,0.2605582228223258,1,1,hi,NEN,North-America
 '9b59bee21e',extremes,Drought,#edc291,edo,पोलैंड में सूखा,2026-04-28T05:45:00+00:00,Poland,0.2603113477559444,1,1,hi,WCE,Europe
 'f486a08b0d',extremes,Precipitation,#d60d2b,wmo,वर्षा अल्जीरिया,2026-04-29T05:40:00+00:00,Algeria,0.2602401089673866,1,1,hi,SAH,Africa
+'41e66be4ee',extremes,Snow&Ice,#d60d2b,wmo,जमने वाला ब्राज़ील,2026-05-11T06:14:00+00:00,Brazil,0.26022497371619985,1,1,hi,SAM,South-America
 '016d682943',extremes,Snow&Ice,#d60d2b,wmo,जमने वाला दक्षिण अफ़्रीका,2026-05-11T06:14:00+00:00,South Africa,0.2601372698556076,1,1,hi,WSAF,Africa
 'd04f754034',extremes,Thunderstorm,#53785a,wmo,दक्षिण अफ़्रीका में तूफ़ान,2026-04-16T05:17:00+00:00,South Africa,0.2600043031171922,1,1,hi,WSAF,Africa
 'ac8883b5db',extremes,Drought,#edc291,edo,शुष्क मौसम बेलारूस,2026-04-18T04:57:00+00:00,Belarus,0.2599971700532064,1,1,hi,WCE,Europe
