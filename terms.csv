@@ -1,7 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'fee1ae9537',extremes,Heat Wave,#c40202,wmo,आंध्र प्रदेश के 19 जिलों में लू,2026-05-20T06:33:00+00:00,India,0.6682888954015005,0,1,hi,SAS,Asia
-'615a4551a5',extremes,Flood,#030ba1,wmo,भारत में बाढ़,2026-05-20T06:33:00+00:00,India,0.6625039604668334,0,1,hi,SAS,Asia
+'615a4551a5',extremes,Flood,#030ba1,wmo,भारत में बाढ़,2026-05-20T06:33:00+00:00,India,0.6295142906825226,1,1,hi,SAS,Asia
 'acaf67232c',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम धाराशिव यवतमाल चंद्रपुर,2026-05-20T06:33:00+00:00,India,0.6006336892026721,0,1,hi,SAS,Asia
+'fee1ae9537',extremes,Heat Wave,#c40202,wmo,आंध्र प्रदेश के 19 जिलों में लू,2026-05-20T06:33:00+00:00,India,0.5680455610912754,1,1,hi,SAS,Asia
 '519c58c063',extremes,Flood,#030ba1,wmo,बाढ़ भारत,2026-05-19T06:33:00+00:00,India,0.5233353794530395,2,1,hi,SAS,Asia
 'b2bc2d0c7f',extremes,Snow Avalanche,#deddd5,wmo,हिमस्खलन भारत,2026-04-19T05:16:00+00:00,India,0.48416751874364,2,1,hi,SAS,Asia
 '6d64bd5d26',extremes,Snow Avalanche,#deddd5,wmo,सिक्किम के गंगटोक जिले में हिमस्खलन,2026-05-09T05:36:00+00:00,India,0.4827454349007954,2,1,hi,SAS,Asia
@@ -148,7 +148,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '55c39b351d',extremes,Storm,#b3b2b1,random,धूल शैतान,2026-04-16T05:16:00+00:00,,0.3052415758614332,1,1,hi,,
 'e8573dc87f',extremes,Snow&Ice,#d60d2b,wmo,जमने वाली पुविर्निटुक इनुकजुआक,2026-05-17T06:01:00+00:00,Canada,0.3049871745886765,0,1,hi,NEN,North-America
 'e188f4e183',extremes,Storm,#b3b2b1,wmo,तूफ़ान तंजानिया,2026-05-20T06:33:00+00:00,Tanzania,0.3045175884522101,0,1,hi,SEAF,Africa
-'3421a57149',extremes,Storm,#b3b2b1,wmo,तूफ़ान इक्वाडोर,2026-05-18T06:38:00+00:00,Ecuador,0.30446037386636376,0,1,hi,NWS,South-America
+'3421a57149',extremes,Storm,#b3b2b1,wmo,तूफ़ान इक्वाडोर,2026-05-18T06:38:00+00:00,Ecuador,0.3044603738663637,0,1,hi,NWS,South-America
 'efe90d3d29',extremes,Snow&Ice,#d60d2b,wmo,फ्रॉस्ट गटिन्यू,2026-05-08T05:16:00+00:00,Canada,0.3044489681954666,0,1,hi,NEN,North-America
 '84a92d2d97',extremes,Precipitation,#d60d2b,wmo,थाईलैंड में भारी बारिश,2026-05-11T06:14:00+00:00,Thailand,0.3044396673904312,0,1,hi,SEA,Asia
 'a4cf1e9346',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल क़तर,2026-05-19T06:33:00+00:00,Qatar,0.3042966038870954,0,1,hi,ARP,Asia
