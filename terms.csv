@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'a647af24a8',extremes,Heat Wave,#c40202,wmo,तेलंगाना के 21 जिलों में हीट वेव,2026-05-21T06:35:00+00:00,India,0.6673222207735846,0,1,hi,SAS,Asia
+'a647af24a8',extremes,Heat Wave,#c40202,wmo,तेलंगाना के 21 जिलों में हीट वेव,2026-05-21T06:35:00+00:00,India,0.717373902657547,1,2,hi,SAS,Asia
 'ca0cdc81c2',extremes,Heat Wave,#c40202,wmo,हीट वेव हीटवेव,2026-05-21T06:35:00+00:00,India,0.6574935210077396,0,1,hi,SAS,Asia
 '689b3c8eb7',extremes,Storm,#b3b2b1,wmo,तूफान मधुबनी और सीतामढी,2026-05-21T06:35:00+00:00,India,0.5985690042123573,0,1,hi,SAS,Asia
 '519c58c063',extremes,Flood,#030ba1,wmo,बाढ़ भारत,2026-05-19T06:33:00+00:00,India,0.5233353794530395,2,1,hi,SAS,Asia
@@ -97,7 +97,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5c1703a93a',extremes,Precipitation,#d60d2b,wmo,त्रिपुरा के सिपाहीजला जिले में वर्षा,2026-05-02T05:24:00+00:00,India,0.3545221899441284,2,1,hi,SAS,Asia
 '130c9b75e1',extremes,Thunderstorm,#53785a,wmo,मध्य प्रदेश के मुरैना जिले में आंधी तूफान,2026-05-08T05:16:00+00:00,India,0.3533944566180764,2,1,hi,SAS,Asia
 '58d71645ac',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि सोलापुर लातूर,2026-04-22T05:13:00+00:00,India,0.3523661530846417,2,1,hi,SAS,Asia
-'e593608bfa',extremes,Snow&Ice,#d60d2b,random,स्नोपैक,2026-05-10T05:51:00+00:00,,0.35143109305515063,0,1,hi,,
+'e593608bfa',extremes,Snow&Ice,#d60d2b,random,स्नोपैक,2026-05-10T05:51:00+00:00,,0.3514310930551506,0,1,hi,,
 '538eadceb4',extremes,Heat Wave,#c40202,random,हल्की सर्दी,2026-05-12T05:52:00+00:00,,0.3485649407159955,2,1,hi,,
 'e608141b05',extremes,Thunderstorm,#53785a,wmo,नरसापुरम मोगलथुर मंडल में ओलावृष्टि,2026-05-03T05:44:00+00:00,India,0.348293121726567,3,1,hi,SAS,Asia
 '60bddf3351',extremes,Drought,#edc291,edo,भारत में वर्षा की कमी,2026-05-04T05:50:00+00:00,India,0.3474021927220703,2,1,hi,SAS,Asia
@@ -137,7 +137,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9391f481ee',extremes,Storm,#b3b2b1,random,आँधी,2026-05-06T05:43:00+00:00,,0.3126841250056201,1,1,hi,,
 '622bd2c53e',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखापन,2026-04-21T05:15:00+00:00,United Arab Emirates,0.3124617841493589,1,1,hi,ARP,Asia
 '23c3deb0ec',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश तंजानिया,2026-05-07T05:46:00+00:00,Tanzania,0.3074546462362887,0,1,hi,SEAF,Africa
-'226e93183d',extremes,Precipitation,#d60d2b,wmo,वेस्टलैंड की श्रेणियों में वर्षा,2026-05-21T06:35:00+00:00,New Zealand,0.30712332397797676,0,1,hi,NZ,Oceania
+'226e93183d',extremes,Precipitation,#d60d2b,wmo,वेस्टलैंड की श्रेणियों में वर्षा,2026-05-21T06:35:00+00:00,New Zealand,0.3071233239779767,0,1,hi,NZ,Oceania
 '0006615477',extremes,Precipitation,#d60d2b,wmo,कनाडा में मूसलाधार बारिश,2026-04-30T05:46:00+00:00,Canada,0.3057676321015235,0,1,hi,NEN,North-America
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,बर्फ कनाडा,2026-04-29T05:40:00+00:00,Canada,0.3055877453016766,0,1,hi,NEN,North-America
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,बर्फ कनाडा,2026-05-01T05:54:00+00:00,Canada,0.3054517499334727,0,1,hi,NEN,North-America
