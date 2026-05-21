@@ -171,6 +171,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,वर्षा अर्जेंटीना,2026-04-28T05:45:00+00:00,Argentina,0.3034632961529493,0,1,hi,SES,South-America
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,बाढ़,2026-05-19T06:33:00+00:00,,0.3034085524971437,1,2,hi,,
 '4c0e0f411e',extremes,Storm,#b3b2b1,wmo,तूफ़ान क्षेत्र अमेज़ॅनिका,2026-05-11T06:14:00+00:00,Ecuador,0.3032771064519809,0,1,hi,NWS,South-America
+'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,तूफ़ान बहरीन,2026-05-17T06:01:00+00:00,Bahrain,0.3032741215018262,0,1,hi,ARP,Asia
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,तूफ़ान न्यूज़ीलैंड,2026-05-07T05:46:00+00:00,New Zealand,0.3032523616537132,0,1,hi,NZ,Oceania
 '6d88e6d571',extremes,Storm,#b3b2b1,wmo,वानुअतु के उत्तरी तटीय जल में तूफ़ान का उछाल।,2026-05-13T06:03:00+00:00,Vanuatu,0.3032345397551917,0,1,hi,SPO,Oceania
 'a715281618',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल वानुअतु,2026-05-14T06:02:00+00:00,Vanuatu,0.3032332482846498,0,1,hi,SPO,Oceania
@@ -202,6 +203,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dafed8e9de',extremes,Drought,#edc291,edo,बारिश की कमी ब्रुनेई,2026-05-13T06:03:00+00:00,Brunei,0.3028214926783124,0,1,hi,SEA,Asia
 '6208652221',extremes,Wildfire,#d60d2b,wmo,जंगल की आग तुवा गणराज्य,2026-05-01T05:54:00+00:00,Russia,0.3027935564483039,0,1,hi,ESB,Europe
 '734861543c',extremes,Storm,#b3b2b1,wmo,तूफ़ान वृद्धि क्षेत्र अमेज़ॅनिका,2026-05-02T05:24:00+00:00,Ecuador,0.3027885753536578,0,1,hi,NWS,South-America
+'8f8c4d17cb',extremes,Heat Wave,#c40202,wmo,हीट वेव इथियोपिया,2026-05-14T06:02:00+00:00,Ethiopia,0.30277923659471534,0,1,hi,NEAF,Africa
+'fbfc5d1ed5',extremes,Precipitation,#d60d2b,wmo,मूसलाधार वर्षा क्षेत्र द्वीपीय,2026-05-11T06:14:00+00:00,Ecuador,0.3027764446346575,0,1,hi,NWS,South-America
 '1c38b19449',extremes,Storm,#b3b2b1,random,धूल के कटोरे,2026-04-18T04:56:00+00:00,,0.3027701500395653,1,1,hi,,
 '38fb523e0e',extremes,Flood,#030ba1,wmo,अचानक आई बाढ़ बोत्सवाना,2026-04-15T05:12:00+00:00,Botswana,0.302367284760108,0,1,hi,WSAF,Africa
 'aba9de13df',extremes,Wildfire,#d60d2b,wmo,दक्षिण अफ्रीका में जंगल की आग,2026-04-17T05:16:00+00:00,South Africa,0.302364425588431,0,1,hi,WSAF,Africa
