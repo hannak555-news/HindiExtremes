@@ -1,7 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'a647af24a8',extremes,Heat Wave,#c40202,wmo,तेलंगाना के 21 जिलों में हीट वेव,2026-05-21T06:35:00+00:00,India,0.6459301724200777,3,1,hi,SAS,Asia
-'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,जय भारत,2026-05-12T05:52:00+00:00,India,0.6457672299288776,0,1,hi,SAS,Asia
-'76655983f8',extremes,Storm,#b3b2b1,wmo,अररिया किशनगंज और सुपौल में तूफान,2026-05-22T06:32:00+00:00,India,0.5625794837230945,0,1,hi,SAS,Asia
+'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,जय भारत,2026-05-12T05:52:00+00:00,India,0.639652220439546,1,2,hi,SAS,Asia
 '26fee806c3',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश भारत,2026-05-11T06:14:00+00:00,India,0.5523814007026547,1,1,hi,SAS,Asia
 'ca0cdc81c2',extremes,Heat Wave,#c40202,wmo,हीट वेव हीटवेव,2026-05-21T06:35:00+00:00,India,0.5521767076780918,2,1,hi,SAS,Asia
 'f237cedd93',extremes,Thunderstorm,#53785a,wmo,अररिया किशनगंज और सुपौल में मौसम खराब,2026-05-22T06:32:00+00:00,India,0.5455930303666008,0,1,hi,SAS,Asia
@@ -12,7 +11,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8bb788b602',extremes,Wildfire,#d60d2b,wmo,जंगल की आग असम,2026-04-24T05:22:00+00:00,India,0.4794325493120412,2,1,hi,SAS,Asia
 '9e25a471df',extremes,Snow Avalanche,#deddd5,wmo,सिक्किम के मंगन जिले में हिमस्खलन,2026-04-22T05:13:00+00:00,India,0.4791767137429331,2,1,hi,SAS,Asia
 '42a5dce9e6',extremes,Wildfire,#d60d2b,wmo,जंगल की आग मणिपुर,2026-04-24T05:22:00+00:00,India,0.4787014636793418,2,1,hi,SAS,Asia
-'6e348008e8',extremes,Thunderstorm,#53785a,wmo,"जय हो दरभंगा,मधुबनी,सीतामढ़ी",2026-05-21T06:35:00+00:00,India,0.47715545240110074,0,1,hi,SAS,Asia
+'76655983f8',extremes,Storm,#b3b2b1,wmo,अररिया किशनगंज और सुपौल में तूफान,2026-05-22T06:32:00+00:00,India,0.4781925611646303,1,1,hi,SAS,Asia
+'6e348008e8',extremes,Thunderstorm,#53785a,wmo,"जय हो दरभंगा,मधुबनी,सीतामढ़ी",2026-05-21T06:35:00+00:00,India,0.4771554524011007,0,1,hi,SAS,Asia
 '271200cbb0',extremes,Wildfire,#d60d2b,wmo,जंगल की आग आंध्र प्रदेश,2026-04-24T05:22:00+00:00,India,0.4763511544097293,2,1,hi,SAS,Asia
 '1a5d7f7924',extremes,Wildfire,#d60d2b,wmo,जंगल की आग उत्तर प्रदेश,2026-04-24T05:22:00+00:00,India,0.4749776795127876,2,1,hi,SAS,Asia
 '8ee5eff537',extremes,Snow Avalanche,#deddd5,wmo,लद्दाख के कारगिल जिले में हिमस्खलन,2026-04-19T05:16:00+00:00,India,0.474604980516667,2,1,hi,SAS,Asia
@@ -27,7 +27,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,तूफ़ान भारत,2026-04-25T05:00:00+00:00,India,0.4577749573482013,2,1,hi,SAS,Asia
 '4093195155',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल भारत,2026-04-23T05:16:00+00:00,India,0.4490179359306233,2,1,hi,SAS,Asia
 'fa556cdb59',extremes,Storm,#b3b2b1,wmo,पश्चिम बंगाल के कोच बिहार जिले में तूफान की लहर,2026-05-16T05:40:00+00:00,India,0.4461896377159068,2,1,hi,SAS,Asia
-'f67727d0d5',extremes,Thunderstorm,#53785a,wmo,तूफ़ान उलवापाडु सिंगारयाकोंडा मंडल,2026-05-22T06:32:00+00:00,India,0.43914799018521394,0,1,hi,SAS,Asia
+'f67727d0d5',extremes,Thunderstorm,#53785a,wmo,तूफ़ान उलवापाडु सिंगारयाकोंडा मंडल,2026-05-22T06:32:00+00:00,India,0.4391479901852139,0,1,hi,SAS,Asia
 '48a9d0a3ef',extremes,Thunderstorm,#53785a,wmo,त्रिपुरा के दक्षिण त्रिपुरा जिले में ओलावृष्टि,2026-05-17T06:01:00+00:00,India,0.436258425532453,2,1,hi,SAS,Asia
 'acaf67232c',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम धाराशिव यवतमाल चंद्रपुर,2026-05-20T06:33:00+00:00,India,0.4339578404489306,2,1,hi,SAS,Asia
 '689b3c8eb7',extremes,Storm,#b3b2b1,wmo,तूफान मधुबनी और सीतामढी,2026-05-21T06:35:00+00:00,India,0.4324661055434281,2,1,hi,SAS,Asia
