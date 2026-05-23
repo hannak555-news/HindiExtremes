@@ -145,6 +145,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,बर्फ कनाडा,2026-05-01T05:54:00+00:00,Canada,0.3054517499334727,0,1,hi,NEN,North-America
 '01b678efbf',extremes,Heat Wave,#c40202,wmo,हीट वेव रेग. 3 प्रीकोर्डिलेरा,2026-05-09T05:36:00+00:00,Chile,0.3053258841545402,0,1,hi,SWS,South-America
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,कनाडा में वर्षा,2026-05-19T06:33:00+00:00,Canada,0.3051374056285152,0,1,hi,NEN,North-America
+'be647fc7a4',extremes,Storm,#b3b2b1,wmo,इक्वेडोर में तूफ़ान की लहर,2026-05-21T06:35:00+00:00,Ecuador,0.3046638275385823,0,1,hi,NWS,South-America
 'e188f4e183',extremes,Storm,#b3b2b1,wmo,तूफ़ान तंजानिया,2026-05-20T06:33:00+00:00,Tanzania,0.3045175884522101,0,1,hi,SEAF,Africa
 '3421a57149',extremes,Storm,#b3b2b1,wmo,तूफ़ान इक्वाडोर,2026-05-18T06:38:00+00:00,Ecuador,0.3044603738663637,0,1,hi,NWS,South-America
 'efe90d3d29',extremes,Snow&Ice,#d60d2b,wmo,फ्रॉस्ट गटिन्यू,2026-05-08T05:16:00+00:00,Canada,0.3044489681954666,0,1,hi,NEN,North-America
@@ -201,6 +202,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8f8c4d17cb',extremes,Heat Wave,#c40202,wmo,हीट वेव इथियोपिया,2026-05-14T06:02:00+00:00,Ethiopia,0.3027792365947153,0,1,hi,NEAF,Africa
 '1c38b19449',extremes,Storm,#b3b2b1,random,धूल के कटोरे,2026-04-18T04:56:00+00:00,,0.3027701500395653,1,1,hi,,
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,ओले,2026-05-05T05:28:00+00:00,,0.3027227380965002,0,1,hi,,
+'d0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,वर्षा इक्वाडोर,2026-05-09T05:36:00+00:00,Ecuador,0.3027170098087226,0,1,hi,NWS,South-America
+'7fb436f320',extremes,Storm,#b3b2b1,wmo,तूफ़ान एम_टेबल बे टेबल बे,2026-05-11T06:14:00+00:00,South Africa,0.30268839196824304,0,1,hi,WSAF,Africa
+'5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,संयुक्त राज्य अमेरिका को ठंडा कर रहा है,2026-05-16T05:40:00+00:00,United States,0.30255092543500484,0,1,hi,CNA,North-America
+'b4368e26f0',extremes,Snow Avalanche,#deddd5,wmo,खकासिया गणराज्य का हिमस्खलन,2026-05-03T05:44:00+00:00,Russia,0.30254239527286636,0,1,hi,ESB,Europe
 '38fb523e0e',extremes,Flood,#030ba1,wmo,अचानक आई बाढ़ बोत्सवाना,2026-04-15T05:12:00+00:00,Botswana,0.302367284760108,0,1,hi,WSAF,Africa
 'aba9de13df',extremes,Wildfire,#d60d2b,wmo,दक्षिण अफ्रीका में जंगल की आग,2026-04-17T05:16:00+00:00,South Africa,0.302364425588431,0,1,hi,WSAF,Africa
 'f0a7622c15',extremes,Storm,#b3b2b1,wmo,तूफान गैलापागोस,2026-04-19T05:16:00+00:00,Ecuador,0.3023158095009969,0,1,hi,NWS,South-America
