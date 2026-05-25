@@ -1,10 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'a647af24a8',extremes,Heat Wave,#c40202,wmo,तेलंगाना के 21 जिलों में हीट वेव,2026-05-21T06:35:00+00:00,India,0.699190661557066,4,2,hi,SAS,Asia
-'07403ae253',extremes,Earthquake,#870007,usgs,भूकंप पोर्ट ब्लेयर,2026-05-14T06:02:00+00:00,India,0.6720426059084376,0,1,hi,BOB,Indian Ocean
-'8ee5eff537',extremes,Snow Avalanche,#deddd5,wmo,लद्दाख के कारगिल जिले में हिमस्खलन,2026-05-12T05:52:00+00:00,India,0.6668145920288727,0,1,hi,SAS,Asia
-'4093195155',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल भारत,2026-05-14T06:02:00+00:00,India,0.6479408614951546,0,1,hi,SAS,Asia
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,भारत में गंभीर मौसम,2026-05-12T05:52:00+00:00,India,0.6278701236395083,1,2,hi,SAS,Asia
+'07403ae253',extremes,Earthquake,#870007,usgs,भूकंप पोर्ट ब्लेयर,2026-05-14T06:02:00+00:00,India,0.5712362150221719,1,1,hi,BOB,Indian Ocean
+'8ee5eff537',extremes,Snow Avalanche,#deddd5,wmo,लद्दाख के कारगिल जिले में हिमस्खलन,2026-05-12T05:52:00+00:00,India,0.5667924032245418,1,1,hi,SAS,Asia
 'ca0cdc81c2',extremes,Heat Wave,#c40202,wmo,हीट वेव हीटवेव,2026-05-21T06:35:00+00:00,India,0.5601002765263781,3,2,hi,SAS,Asia
+'4093195155',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल भारत,2026-05-14T06:02:00+00:00,India,0.5507497322708814,1,1,hi,SAS,Asia
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,जय भारत,2026-05-12T05:52:00+00:00,India,0.5444544623736141,2,2,hi,SAS,Asia
 '519c58c063',extremes,Flood,#030ba1,wmo,बाढ़ भारत,2026-05-19T06:33:00+00:00,India,0.5233353794530395,2,1,hi,SAS,Asia
 '9d7d2c2207',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि,2026-04-26T05:25:00+00:00,India,0.5192570503889167,3,3,hi,SAS,Asia
@@ -23,11 +23,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,भारत में मूसलाधार वर्षा,2026-04-25T05:00:00+00:00,India,0.4696722196540473,2,1,hi,SAS,Asia
 '26fee806c3',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश भारत,2026-05-11T06:14:00+00:00,India,0.4695241905972565,2,1,hi,SAS,Asia
 '778d256165',extremes,Flood,#030ba1,wmo,फ्लैशफ्लड इंडिया,2026-04-24T05:22:00+00:00,India,0.4638467742019139,2,1,hi,SAS,Asia
-'c17b68e7c3',extremes,Thunderstorm,#53785a,wmo,जय हो थोट्टाम्बेदु मंडल,2026-05-23T05:53:00+00:00,India,0.46215538775592263,0,1,hi,SAS,Asia
 '61934e14e0',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम चंडीगढ़,2026-05-11T06:14:00+00:00,India,0.4616943519377597,3,1,hi,SAS,Asia
 '615a4551a5',extremes,Flood,#030ba1,wmo,भारत में बाढ़,2026-05-20T06:33:00+00:00,India,0.4585819507681226,3,1,hi,SAS,Asia
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,तूफ़ान भारत,2026-04-25T05:00:00+00:00,India,0.4577749573482013,2,1,hi,SAS,Asia
 'fa556cdb59',extremes,Storm,#b3b2b1,wmo,पश्चिम बंगाल के कोच बिहार जिले में तूफान की लहर,2026-05-16T05:40:00+00:00,India,0.4461896377159068,2,1,hi,SAS,Asia
+'fa9e452d04',extremes,Precipitation,#d60d2b,random,आंधी तूफान,2026-05-25T06:52:00+00:00,,0.4374823236175415,1,3,hi,,
 '48a9d0a3ef',extremes,Thunderstorm,#53785a,wmo,त्रिपुरा के दक्षिण त्रिपुरा जिले में ओलावृष्टि,2026-05-17T06:01:00+00:00,India,0.436258425532453,2,1,hi,SAS,Asia
 'acaf67232c',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम धाराशिव यवतमाल चंद्रपुर,2026-05-20T06:33:00+00:00,India,0.4339578404489306,2,1,hi,SAS,Asia
 '689b3c8eb7',extremes,Storm,#b3b2b1,wmo,तूफान मधुबनी और सीतामढी,2026-05-21T06:35:00+00:00,India,0.4324661055434281,2,1,hi,SAS,Asia
@@ -61,13 +61,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a8eb50d5a6',extremes,Thunderstorm,#53785a,wmo,21 मंडलों में मौसम बेहद खराब,2026-05-03T05:44:00+00:00,India,0.4001338090930643,2,1,hi,SAS,Asia
 'debc943f0a',extremes,Thunderstorm,#53785a,wmo,हरिद्वार जिले में आंधी तूफान,2026-05-03T05:44:00+00:00,India,0.4000717975935991,2,1,hi,SAS,Asia
 '7cae7ec579',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश tslg,2026-04-26T05:25:00+00:00,India,0.3986101465680319,2,1,hi,SAS,Asia
-'0053afc92f',extremes,Volcano,#b83202,random,लहार,2026-05-20T06:32:00+00:00,,0.39810543207601495,0,1,hi,,
 '431ef34367',extremes,Thunderstorm,#53785a,wmo,19 मंडलों में मौसम बेहद खराब,2026-05-22T06:32:00+00:00,India,0.3980866751665951,2,1,hi,SAS,Asia
 'efccfbbdc0',extremes,Thunderstorm,#53785a,wmo,त्रिपुरा के 4 जिलों में ओलावृष्टि,2026-05-02T05:24:00+00:00,India,0.3945963672737163,2,1,hi,SAS,Asia
 'f237cedd93',extremes,Thunderstorm,#53785a,wmo,अररिया किशनगंज और सुपौल में मौसम खराब,2026-05-22T06:32:00+00:00,India,0.394190964439869,2,1,hi,SAS,Asia
 'bae2a8f888',extremes,Storm,#b3b2b1,wmo,"आंधी-तूफान औरैया, कानपुर, उन्नाव",2026-04-30T05:46:00+00:00,India,0.3932286755037815,4,1,hi,SAS,Asia
+'c17b68e7c3',extremes,Thunderstorm,#53785a,wmo,जय हो थोट्टाम्बेदु मंडल,2026-05-23T05:53:00+00:00,India,0.3928320795925342,1,1,hi,SAS,Asia
 'd4b9ea3af6',extremes,Thunderstorm,#53785a,wmo,सिक्किम के गंगटोक नामची जिलों में ओलावृष्टि,2026-05-07T05:46:00+00:00,India,0.3919556674419465,2,1,hi,SAS,Asia
-'fa9e452d04',extremes,Precipitation,#d60d2b,random,आंधी तूफान,2026-05-25T06:52:00+00:00,,0.3912126101382842,0,1,hi,,
 'a613b22d23',extremes,Thunderstorm,#53785a,wmo,आंधी रत्नागिरी,2026-05-24T06:22:00+00:00,India,0.3900548120804443,1,1,hi,SAS,Asia
 '09c77af689',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल थोट्टाम्बेदु मंडल,2026-05-23T05:53:00+00:00,India,0.3899147220534616,2,1,hi,SAS,Asia
 'a860650cbe',extremes,Thunderstorm,#53785a,wmo,आंधी तूफान 19 मंडल,2026-05-06T05:43:00+00:00,India,0.3886652834325181,2,1,hi,SAS,Asia
@@ -117,6 +116,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c789ceb8e5',extremes,Thunderstorm,#53785a,wmo,6 मंडलों में मौसम बेहद खराब,2026-05-01T05:54:00+00:00,India,0.3405185037122706,2,1,hi,SAS,Asia
 '7f8475f455',extremes,Thunderstorm,#53785a,wmo,12 मंडलों में मौसम बेहद खराब,2026-05-06T05:43:00+00:00,India,0.3394026958160352,2,1,hi,SAS,Asia
 '63e0bd5b7a',extremes,Thunderstorm,#53785a,wmo,आंधी तूफान कैमूर रोहतास औरंगाबाद,2026-05-07T05:46:00+00:00,India,0.3386100277259233,2,1,hi,SAS,Asia
+'0053afc92f',extremes,Volcano,#b83202,random,लहार,2026-05-20T06:32:00+00:00,,0.33838961726461264,1,1,hi,,
 'ccc27c0b86',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम कासिमकोटा मंडल,2026-05-03T05:44:00+00:00,India,0.338267036621662,2,1,hi,SAS,Asia
 '82fd55b965',extremes,Drought,#edc291,edo,भारत में सूखा,2026-04-25T05:00:00+00:00,India,0.3381650136250749,2,1,hi,SAS,Asia
 'f9cd6ea73e',extremes,Thunderstorm,#53785a,wmo,32 मंडलों में मौसम बेहद खराब,2026-05-03T05:44:00+00:00,India,0.3381501886076408,2,1,hi,SAS,Asia
