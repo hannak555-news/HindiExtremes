@@ -124,6 +124,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'de35e746b9',extremes,Earthquake,#870007,usgs,भूकंप वांगजिंग,2026-04-23T05:16:00+00:00,India,0.3306992678308736,2,1,hi,SAS,Asia
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,तूफ़ान,2026-05-03T05:43:00+00:00,,0.3301668288202758,1,1,hi,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,चक्रवात,2026-05-03T05:43:00+00:00,,0.32920030736413,1,1,hi,,
+'c948617fef',extremes,Heat Wave,#c40202,random,अत्यधिक गर्मी का जोखिम,2026-05-02T05:23:00+00:00,,0.32782669384239016,2,2,hi,,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,बवंडर,2026-04-30T05:45:00+00:00,,0.3220399398567151,2,2,hi,,
 '7054c01ed8',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में बारिश की कमी,2026-05-01T05:54:00+00:00,United Arab Emirates,0.3198182946338592,1,1,hi,ARP,Asia
 'b15911dd59',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि टी.सुन्दुपल्ले मंडल,2026-05-23T05:53:00+00:00,India,0.3193274407852795,2,1,hi,SAS,Asia
@@ -179,7 +180,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ccefefc59e',extremes,Drought,#edc291,random,आकस्मिक सूखा,2026-05-02T05:23:00+00:00,,0.3013586139733563,1,1,hi,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,बर्फ़ीला तूफ़ान,2026-04-22T05:13:00+00:00,,0.3000963145700744,1,1,hi,,
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,स्नोपैक,2026-05-10T05:51:00+00:00,,0.298716429096878,1,1,hi,,
-'c948617fef',extremes,Heat Wave,#c40202,random,अत्यधिक गर्मी का जोखिम,2026-05-02T05:23:00+00:00,,0.2970901927557531,1,1,hi,,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,सबसे गर्म वर्ष,2026-04-22T05:13:00+00:00,,0.2943678934459824,1,1,hi,,
 'fa761481b5',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-04-29T05:40:00+00:00,United Arab Emirates,0.2938503755423395,2,1,hi,ARP,Asia
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,बर्फ तैरती है,2026-05-07T05:46:00+00:00,,0.2923671529449904,1,1,hi,,
@@ -256,7 +256,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9f05eaaf90',extremes,Drought,#edc291,edo,शुष्क मौसम आइसलैंड,2026-05-21T06:35:00+00:00,Iceland,0.262138753334355,1,1,hi,GIC,Europe
 '9fdc419684',extremes,Drought,#edc291,edo,सूखा जादू चेकिया,2026-05-04T05:50:00+00:00,Czechia,0.2621148858670977,1,1,hi,WCE,Europe
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश अर्जेंटीना,2026-04-29T05:40:00+00:00,Argentina,0.2620564655926393,1,1,hi,SES,South-America
-'f89b96cf78',extremes,Drought,#edc291,edo,सूखापन चेकिया,2026-05-06T05:43:00+00:00,Czechia,0.26202738670354697,1,1,hi,WCE,Europe
+'f89b96cf78',extremes,Drought,#edc291,edo,सूखापन चेकिया,2026-05-06T05:43:00+00:00,Czechia,0.2620273867035469,1,1,hi,WCE,Europe
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,ब्राजील में वर्षा,2026-05-01T05:54:00+00:00,Brazil,0.261985021234305,1,1,hi,SAM,South-America
 'afc393e166',extremes,Precipitation,#d60d2b,wmo,दक्षिण अफ़्रीका में वर्षा,2026-05-05T05:29:00+00:00,South Africa,0.2619642622387933,1,1,hi,WSAF,Africa
 '2ad19fdc58',extremes,Precipitation,#d60d2b,wmo,दक्षिण अफ़्रीका में भारी वर्षा,2026-05-05T05:29:00+00:00,South Africa,0.2619556051578506,1,1,hi,WSAF,Africa
