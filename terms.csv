@@ -55,6 +55,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1f354a34b8',extremes,Wildfire,#d60d2b,wmo,जंगल की आग छत्तीसगढ़,2026-05-09T05:36:00+00:00,India,0.4070174412414197,3,1,hi,SAS,Asia
 '76655983f8',extremes,Storm,#b3b2b1,wmo,अररिया किशनगंज और सुपौल में तूफान,2026-05-22T06:32:00+00:00,India,0.4064636769899357,2,1,hi,SAS,Asia
 'bf8c8dc3ad',extremes,Thunderstorm,#53785a,wmo,"ओलावृष्टि, कैमूर, रोहतास, औरंगाबाद",2026-05-07T05:46:00+00:00,India,0.4061490147136032,2,1,hi,SAS,Asia
+'ea87be5bd8',extremes,Heat Wave,#c40202,random,चिलचिलाती तापमान,2026-05-25T06:52:00+00:00,,0.4055530764040587,1,2,hi,,
 'ab7d592d50',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम टी.सुन्दुपल्ले मंडल,2026-05-23T05:53:00+00:00,India,0.4031529886770623,2,1,hi,SAS,Asia
 '77927ed25e',extremes,Storm,#b3b2b1,wmo,तूफ़ान पेल्लाकुर मंडल,2026-05-23T05:53:00+00:00,India,0.4022306253950313,2,1,hi,SAS,Asia
 '80fe9deb64',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि दोर्नाला मंडल,2026-04-30T05:46:00+00:00,India,0.4020982613124686,2,1,hi,SAS,Asia
@@ -116,7 +117,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c789ceb8e5',extremes,Thunderstorm,#53785a,wmo,6 मंडलों में मौसम बेहद खराब,2026-05-01T05:54:00+00:00,India,0.3405185037122706,2,1,hi,SAS,Asia
 '7f8475f455',extremes,Thunderstorm,#53785a,wmo,12 मंडलों में मौसम बेहद खराब,2026-05-06T05:43:00+00:00,India,0.3394026958160352,2,1,hi,SAS,Asia
 '63e0bd5b7a',extremes,Thunderstorm,#53785a,wmo,आंधी तूफान कैमूर रोहतास औरंगाबाद,2026-05-07T05:46:00+00:00,India,0.3386100277259233,2,1,hi,SAS,Asia
-'0053afc92f',extremes,Volcano,#b83202,random,लहार,2026-05-20T06:32:00+00:00,,0.33838961726461264,1,1,hi,,
+'0053afc92f',extremes,Volcano,#b83202,random,लहार,2026-05-20T06:32:00+00:00,,0.3383896172646126,1,1,hi,,
 'ccc27c0b86',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम कासिमकोटा मंडल,2026-05-03T05:44:00+00:00,India,0.338267036621662,2,1,hi,SAS,Asia
 '82fd55b965',extremes,Drought,#edc291,edo,भारत में सूखा,2026-04-25T05:00:00+00:00,India,0.3381650136250749,2,1,hi,SAS,Asia
 'f9cd6ea73e',extremes,Thunderstorm,#53785a,wmo,32 मंडलों में मौसम बेहद खराब,2026-05-03T05:44:00+00:00,India,0.3381501886076408,2,1,hi,SAS,Asia
@@ -125,7 +126,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dec663081b',extremes,Thunderstorm,#53785a,wmo,पश्चिम बंगाल के नादिया जिले में ओले गिरे,2026-05-02T05:24:00+00:00,India,0.3366279376776508,2,1,hi,SAS,Asia
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,बम चक्रवात,2026-04-23T05:16:00+00:00,,0.3356541328167986,1,1,hi,,
 'bd21048a6a',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-04-23T05:17:00+00:00,United Arab Emirates,0.3348679389328254,2,1,hi,ARP,Asia
-'ea87be5bd8',extremes,Heat Wave,#c40202,random,चिलचिलाती तापमान,2026-05-25T06:52:00+00:00,,0.3341799134165396,0,1,hi,,
 '4d6c8140c1',extremes,Thunderstorm,#53785a,wmo,उत्तर पश्चिम में ओलावृष्टि,2026-05-03T05:44:00+00:00,India,0.334047108971527,4,2,hi,SAS,Asia
 '845dd2d698',extremes,Storm,#b3b2b1,random,बवंडर,2026-05-19T06:33:00+00:00,,0.3320460408972611,1,2,hi,,
 'de35e746b9',extremes,Earthquake,#870007,usgs,भूकंप वांगजिंग,2026-04-23T05:16:00+00:00,India,0.3306992678308736,2,1,hi,SAS,Asia
