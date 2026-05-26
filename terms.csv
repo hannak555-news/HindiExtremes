@@ -1,8 +1,13 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'a647af24a8',extremes,Heat Wave,#c40202,wmo,तेलंगाना के 21 जिलों में हीट वेव,2026-05-21T06:35:00+00:00,India,0.699190661557066,4,2,hi,SAS,Asia
+'7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,जंगल की आग भारत,2026-05-15T06:09:00+00:00,India,0.6729489376632459,0,1,hi,SAS,Asia
+'b426bb2972',extremes,Heat Wave,#c40202,wmo,तेलंगाना के 12 जिलों में हीट वेव,2026-05-26T06:31:00+00:00,India,0.657963259499921,0,1,hi,SAS,Asia
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,भारत में गंभीर मौसम,2026-05-12T05:52:00+00:00,India,0.6278701236395083,1,2,hi,SAS,Asia
+'c2d355c84e',extremes,Storm,#b3b2b1,wmo,पश्चिम बंगाल के नादिया जिले में तूफ़ान,2026-05-26T06:31:00+00:00,India,0.5786777714229484,0,1,hi,SAS,Asia
+'032b4d3260',extremes,Thunderstorm,#53785a,wmo,पश्चिम बंगाल के मुर्शिदाबाद जिले में मौसम खराब है,2026-05-26T06:31:00+00:00,India,0.5783100452410287,0,1,hi,SAS,Asia
 '8ee5eff537',extremes,Snow Avalanche,#deddd5,wmo,लद्दाख के कारगिल जिले में हिमस्खलन,2026-05-12T05:52:00+00:00,India,0.5667924032245418,1,1,hi,SAS,Asia
 'ca0cdc81c2',extremes,Heat Wave,#c40202,wmo,हीट वेव हीटवेव,2026-05-21T06:35:00+00:00,India,0.5601002765263781,3,2,hi,SAS,Asia
+'97f34f1d56',extremes,Precipitation,#d60d2b,wmo,कुछ भागों में मूसलाधार वर्षा,2026-05-26T06:31:00+00:00,India,0.548137028931978,0,1,hi,SAS,Asia
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,जय भारत,2026-05-12T05:52:00+00:00,India,0.5444544623736141,2,2,hi,SAS,Asia
 '519c58c063',extremes,Flood,#030ba1,wmo,बाढ़ भारत,2026-05-19T06:33:00+00:00,India,0.5233353794530395,2,1,hi,SAS,Asia
 '9d7d2c2207',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि,2026-04-26T05:25:00+00:00,India,0.5192570503889167,3,3,hi,SAS,Asia
@@ -61,6 +66,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a8eb50d5a6',extremes,Thunderstorm,#53785a,wmo,21 मंडलों में मौसम बेहद खराब,2026-05-03T05:44:00+00:00,India,0.4001338090930643,2,1,hi,SAS,Asia
 'debc943f0a',extremes,Thunderstorm,#53785a,wmo,हरिद्वार जिले में आंधी तूफान,2026-05-03T05:44:00+00:00,India,0.4000717975935991,2,1,hi,SAS,Asia
 '7cae7ec579',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश tslg,2026-04-26T05:25:00+00:00,India,0.3986101465680319,2,1,hi,SAS,Asia
+'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडा दिन,2026-05-26T06:31:00+00:00,,0.39852876093506256,0,1,hi,,
 '431ef34367',extremes,Thunderstorm,#53785a,wmo,19 मंडलों में मौसम बेहद खराब,2026-05-22T06:32:00+00:00,India,0.3980866751665951,2,1,hi,SAS,Asia
 'efccfbbdc0',extremes,Thunderstorm,#53785a,wmo,त्रिपुरा के 4 जिलों में ओलावृष्टि,2026-05-02T05:24:00+00:00,India,0.3945963672737163,2,1,hi,SAS,Asia
 'f237cedd93',extremes,Thunderstorm,#53785a,wmo,अररिया किशनगंज और सुपौल में मौसम खराब,2026-05-22T06:32:00+00:00,India,0.394190964439869,2,1,hi,SAS,Asia
