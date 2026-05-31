@@ -119,7 +119,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '63e0bd5b7a',extremes,Thunderstorm,#53785a,wmo,आंधी तूफान कैमूर रोहतास औरंगाबाद,2026-05-07T05:46:00+00:00,India,0.3386100277259233,2,1,hi,SAS,Asia
 'ccc27c0b86',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम कासिमकोटा मंडल,2026-05-03T05:44:00+00:00,India,0.338267036621662,2,1,hi,SAS,Asia
 'f9cd6ea73e',extremes,Thunderstorm,#53785a,wmo,32 मंडलों में मौसम बेहद खराब,2026-05-03T05:44:00+00:00,India,0.3381501886076408,2,1,hi,SAS,Asia
-'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,राष्ट्रीय तूफान केंद्र,2026-05-08T05:16:00+00:00,,0.33737678680473504,2,2,hi,,
+'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,राष्ट्रीय तूफान केंद्र,2026-05-08T05:16:00+00:00,,0.337376786804735,2,2,hi,,
 '08f4183fe8',extremes,Thunderstorm,#53785a,wmo,तूफ़ान एस रायवरम ऐनाविल्ली मंडल,2026-05-03T05:44:00+00:00,India,0.3372000061684784,3,1,hi,SAS,Asia
 'ecffd0ca12',extremes,Thunderstorm,#53785a,wmo,त्रिपुरा के धलाई खोवाई जिलों में ओलावृष्टि,2026-05-01T05:54:00+00:00,India,0.3368567097505001,2,1,hi,SAS,Asia
 'dec663081b',extremes,Thunderstorm,#53785a,wmo,पश्चिम बंगाल के नादिया जिले में ओले गिरे,2026-05-02T05:24:00+00:00,India,0.3366279376776508,2,1,hi,SAS,Asia
@@ -130,12 +130,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a613b22d23',extremes,Thunderstorm,#53785a,wmo,आंधी रत्नागिरी,2026-05-24T06:22:00+00:00,India,0.3315465902683776,2,1,hi,SAS,Asia
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,चक्रवात,2026-05-03T05:43:00+00:00,,0.32920030736413,1,1,hi,,
 'c948617fef',extremes,Heat Wave,#c40202,random,अत्यधिक गर्मी का जोखिम,2026-05-02T05:23:00+00:00,,0.3278266938423901,2,2,hi,,
+'f37139fe2d',extremes,Landslide,#572c03,random,भूस्खलन,2026-05-30T06:01:00+00:00,,0.32510516174096976,0,1,hi,,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,बवंडर,2026-04-30T05:45:00+00:00,,0.3220399398567151,2,2,hi,,
 '7054c01ed8',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में बारिश की कमी,2026-05-01T05:54:00+00:00,United Arab Emirates,0.3198182946338592,1,1,hi,ARP,Asia
 'b15911dd59',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि टी.सुन्दुपल्ले मंडल,2026-05-23T05:53:00+00:00,India,0.3193274407852795,2,1,hi,SAS,Asia
 'dbda23280d',extremes,Thunderstorm,#53785a,wmo,पुडुचेरी के पांडिचेरी जिले में गंभीर मौसम,2026-05-23T05:53:00+00:00,India,0.3175282057051,2,1,hi,SAS,Asia
 'f67727d0d5',extremes,Thunderstorm,#53785a,wmo,तूफ़ान उलवापाडु सिंगारयाकोंडा मंडल,2026-05-22T06:32:00+00:00,India,0.317284422908817,2,1,hi,SAS,Asia
 '4d9577e33d',extremes,Volcano,#b83202,random,ज्वालामुखी,2026-05-21T06:34:00+00:00,,0.3167908388587738,2,1,hi,,
+'44211c95de',extremes,Flood,#030ba1,aidr,ऑस्ट्रेलिया में बाढ़,2026-05-17T06:01:00+00:00,Australia,0.3144297525232813,0,1,hi,EAU,Oceania
+'02f56319a7',extremes,Flood,#030ba1,aidr,ऑस्ट्रेलिया में बाढ़,2026-05-17T06:01:00+00:00,Australia,0.31257993323002375,0,1,hi,EAU,Oceania
 '1ac6138b0d',extremes,Thunderstorm,#53785a,wmo,त्रिपुरा के उत्तरी त्रिपुरा जिले में गंभीर मौसम,2026-05-18T06:38:00+00:00,India,0.3103051588804013,3,1,hi,SAS,Asia
 'ce4931e51e',extremes,Flood,#030ba1,wmo,अचानक आई बाढ़ दक्षिण ऑस्ट्रेलिया कूपर क्रीक,2026-05-23T05:53:00+00:00,Australia,0.3053434298198413,0,1,hi,CAU,Oceania
 '907a393546',extremes,Precipitation,#d60d2b,wmo,भारी बारिश नौजात,2026-05-24T06:22:00+00:00,Canada,0.3051208638353802,0,1,hi,NEN,North-America
@@ -360,17 +363,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ccefefc59e',extremes,Drought,#edc291,random,आकस्मिक सूखा,2026-05-02T05:23:00+00:00,,0.2561548218773528,2,1,hi,,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,बर्फ कीचड़,2026-05-06T05:43:00+00:00,,0.2477086616604324,2,1,hi,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,आर्कटिक समुद्री बर्फ,2026-05-06T05:43:00+00:00,,0.2460826982242251,3,1,hi,,
-'deaa4b70a0',extremes,Storm,#b3b2b1,random,रेतीला तूफ़ान,2026-05-15T06:09:00+00:00,,0.24451675952991755,2,1,hi,,
+'deaa4b70a0',extremes,Storm,#b3b2b1,random,रेतीला तूफ़ान,2026-05-15T06:09:00+00:00,,0.2445167595299175,2,1,hi,,
 'da1ae5191e',extremes,Storm,#b3b2b1,random,तूफ़ान का उभार,2026-05-05T05:28:00+00:00,,0.2403142551593918,2,1,hi,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,वायुमंडलीय नदी,2026-05-09T05:35:00+00:00,,0.2336658555654076,2,1,hi,,
-'9cb0438918',extremes,Storm,#b3b2b1,emdat,तूफ़ान मिनेसोटा,2026-05-05T05:29:00+00:00,United States,0.23102522594615005,2,1,hi,WNA,North-America
+'9cb0438918',extremes,Storm,#b3b2b1,emdat,तूफ़ान मिनेसोटा,2026-05-05T05:29:00+00:00,United States,0.23102522594615,2,1,hi,WNA,North-America
 '96285201b2',extremes,Storm,#b3b2b1,emdat,तूफ़ान लाओ कै,2026-05-05T05:29:00+00:00,Vietnam,0.2309487726118286,2,1,hi,SEA,Asia
 '8182ed2818',extremes,Precipitation,#d60d2b,acwe,वर्षा तस्मानिया,2026-05-04T05:50:00+00:00,Australia,0.2307983630391975,2,1,hi,SAU,Oceania
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,हीटवेव दक्षिण ऑस्ट्रेलिया,2026-05-04T05:50:00+00:00,Australia,0.2307977940982496,2,1,hi,CAU,Oceania
 '9d59b1d751',extremes,Flood,#030ba1,acwe,दक्षिण ऑस्ट्रेलिया में आकस्मिक बाढ़,2026-05-04T05:50:00+00:00,Australia,0.2307862944590016,2,1,hi,CAU,Oceania
 'a0fea22150',extremes,Heat Wave,#c40202,acwe,हीटवेव न्यू साउथ वेल्स,2026-05-04T05:50:00+00:00,Australia,0.2307827201145164,2,1,hi,EAU,Oceania
 'a66d6e96e1',extremes,Heat Wave,#c40202,acwe,गर्म मौसम ऑस्ट्रेलिया,2026-05-04T05:50:00+00:00,Australia,0.2306647454614949,2,1,hi,CAU,Oceania
-'ab5d1234a0',extremes,Flood,#030ba1,aidr,बाढ़ होबार्ट फ़्लैश बाढ़ तस्मानिया 2018,2026-05-09T05:36:00+00:00,Australia,0.22768864521488455,2,1,hi,SAU,Oceania
+'ab5d1234a0',extremes,Flood,#030ba1,aidr,बाढ़ होबार्ट फ़्लैश बाढ़ तस्मानिया 2018,2026-05-09T05:36:00+00:00,Australia,0.2276886452148845,2,1,hi,SAU,Oceania
 '3e4b341619',extremes,Storm,#b3b2b1,random,तूफ़ान,2026-05-20T06:32:00+00:00,,0.2257103772079666,2,1,hi,,
 '6977541e84',extremes,Drought,#edc291,edo,सूखा मेडागास्कर,2026-04-30T05:46:00+00:00,Madagascar,0.2220731587454678,2,1,hi,MDG,Africa
 'f94bed33ad',extremes,Precipitation,#d60d2b,wmo,संदिग्ध ध्वनि के उत्तर में फ़िओर्डलैंड में मूसलाधार बारिश,2026-05-05T05:29:00+00:00,New Zealand,0.2216520092943741,2,1,hi,NZ,Oceania
