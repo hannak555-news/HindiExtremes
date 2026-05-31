@@ -1,11 +1,16 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'778d256165',extremes,Flood,#030ba1,wmo,फ्लैशफ्लड इंडिया,2026-05-17T06:01:00+00:00,India,0.6620437159001239,0,1,hi,SAS,Asia
+'5aac2a6d30',extremes,Storm,#b3b2b1,wmo,तूफ़ान भारत,2026-05-15T06:09:00+00:00,India,0.6450530217483419,0,1,hi,SAS,Asia
 '60cdf9fb44',extremes,Heat Wave,#c40202,wmo,हीट वेव इंडिया,2026-05-19T06:33:00+00:00,India,0.6117736006564244,2,1,hi,SAS,Asia
 'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,जंगल की आग उत्तराखंड,2026-05-28T06:38:00+00:00,India,0.6048888697880697,2,2,hi,SAS,Asia
+'079963c1a3',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम मामिदिकुदुरु मंडल,2026-05-30T06:01:00+00:00,India,0.6022321816360969,0,1,hi,SAS,Asia
 'a647af24a8',extremes,Heat Wave,#c40202,wmo,तेलंगाना के 21 जिलों में हीट वेव,2026-05-21T06:35:00+00:00,India,0.5944620773235061,5,2,hi,SAS,Asia
 '8ee5eff537',extremes,Snow Avalanche,#deddd5,wmo,लद्दाख के कारगिल जिले में हिमस्खलन,2026-05-12T05:52:00+00:00,India,0.5667924032245418,1,1,hi,SAS,Asia
 '9e25a471df',extremes,Snow Avalanche,#deddd5,wmo,सिक्किम के मंगन जिले में हिमस्खलन,2026-05-18T06:38:00+00:00,India,0.5666489015073211,1,1,hi,SAS,Asia
 'ca0cdc81c2',extremes,Heat Wave,#c40202,wmo,हीट वेव हीटवेव,2026-05-21T06:35:00+00:00,India,0.5601002765263781,3,2,hi,SAS,Asia
+'306a35fce3',extremes,Storm,#b3b2b1,wmo,तूफ़ान एमटीएसएच,2026-05-30T06:01:00+00:00,India,0.550359397815827,0,1,hi,SAS,Asia
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,जय भारत,2026-05-12T05:52:00+00:00,India,0.5444544623736141,2,2,hi,SAS,Asia
+'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,वर्षा भारत,2026-05-30T06:01:00+00:00,India,0.5441406558889202,0,1,hi,SAS,Asia
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,भारत में गंभीर मौसम,2026-05-12T05:52:00+00:00,India,0.5336900850935821,2,1,hi,SAS,Asia
 '90522631da',extremes,Precipitation,#d60d2b,wmo,भारत में वर्षा,2026-05-20T06:33:00+00:00,India,0.5245683638905135,2,1,hi,SAS,Asia
 '519c58c063',extremes,Flood,#030ba1,wmo,बाढ़ भारत,2026-05-19T06:33:00+00:00,India,0.5233353794530395,2,1,hi,SAS,Asia
@@ -17,8 +22,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fee1ae9537',extremes,Heat Wave,#c40202,wmo,आंध्र प्रदेश के 19 जिलों में लू,2026-05-20T06:33:00+00:00,India,0.482838726927584,2,1,hi,SAS,Asia
 '6d64bd5d26',extremes,Snow Avalanche,#deddd5,wmo,सिक्किम के गंगटोक जिले में हिमस्खलन,2026-05-09T05:36:00+00:00,India,0.4827454349007954,2,1,hi,SAS,Asia
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,पाला,2026-05-21T06:34:00+00:00,,0.4806361341712122,1,2,hi,,
+'fa761481b5',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-05-23T05:53:00+00:00,United Arab Emirates,0.4786835578743856,0,1,hi,ARP,Asia
 'a12eb22204',extremes,Heat Wave,#c40202,cmeter,भारत हीटवेव,2026-05-29T06:39:00+00:00,India,0.4769585686153376,1,3,hi,SAS,Asia
 'b69a8e9570',extremes,Storm,#b3b2b1,wmo,चंडीगढ़ के लिए तूफ़ान पीबी घंटा,2026-05-30T06:01:00+00:00,India,0.4756554895218646,1,1,hi,SAS,Asia
+'546bf3c7da',extremes,Thunderstorm,#53785a,wmo,ओले गिरे,2026-05-31T06:40:00+00:00,India,0.47419617530761016,0,1,hi,SAS,Asia
 '26fee806c3',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश भारत,2026-05-11T06:14:00+00:00,India,0.4695241905972565,2,1,hi,SAS,Asia
 '4093195155',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल भारत,2026-05-14T06:02:00+00:00,India,0.4681372724302492,2,1,hi,SAS,Asia
 '61934e14e0',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम चंडीगढ़,2026-05-11T06:14:00+00:00,India,0.4616943519377597,3,1,hi,SAS,Asia
@@ -359,9 +366,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9d59b1d751',extremes,Flood,#030ba1,acwe,दक्षिण ऑस्ट्रेलिया में आकस्मिक बाढ़,2026-05-04T05:50:00+00:00,Australia,0.2307862944590016,2,1,hi,CAU,Oceania
 'a0fea22150',extremes,Heat Wave,#c40202,acwe,हीटवेव न्यू साउथ वेल्स,2026-05-04T05:50:00+00:00,Australia,0.2307827201145164,2,1,hi,EAU,Oceania
 'a66d6e96e1',extremes,Heat Wave,#c40202,acwe,गर्म मौसम ऑस्ट्रेलिया,2026-05-04T05:50:00+00:00,Australia,0.2306647454614949,2,1,hi,CAU,Oceania
-'2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,हीट वेव पेरिस,2026-05-29T06:39:00+00:00,France,0.23007689494637978,2,1,hi,,
+'2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,हीट वेव पेरिस,2026-05-29T06:39:00+00:00,France,0.2300768949463797,2,1,hi,,
 'ab5d1234a0',extremes,Flood,#030ba1,aidr,बाढ़ होबार्ट फ़्लैश बाढ़ तस्मानिया 2018,2026-05-09T05:36:00+00:00,Australia,0.2276886452148845,2,1,hi,SAU,Oceania
 '3e4b341619',extremes,Storm,#b3b2b1,random,तूफ़ान,2026-05-20T06:32:00+00:00,,0.2257103772079666,2,1,hi,,
 'f94bed33ad',extremes,Precipitation,#d60d2b,wmo,संदिग्ध ध्वनि के उत्तर में फ़िओर्डलैंड में मूसलाधार बारिश,2026-05-05T05:29:00+00:00,New Zealand,0.2216520092943741,2,1,hi,NZ,Oceania
 'e8f2fdcc3a',extremes,Precipitation,#d60d2b,wmo,थाईलैंड में वर्षा,2026-05-01T05:54:00+00:00,Thailand,0.2201785099701663,2,1,hi,SEA,Asia
-'fbfc5d1ed5',extremes,Precipitation,#d60d2b,wmo,मूसलाधार वर्षा क्षेत्र द्वीपीय,2026-05-11T06:14:00+00:00,Ecuador,0.21875598124854007,2,1,hi,NWS,South-America
+'fbfc5d1ed5',extremes,Precipitation,#d60d2b,wmo,मूसलाधार वर्षा क्षेत्र द्वीपीय,2026-05-11T06:14:00+00:00,Ecuador,0.21875598124854,2,1,hi,NWS,South-America
