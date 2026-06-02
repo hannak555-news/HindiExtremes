@@ -15,7 +15,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '519c58c063',extremes,Flood,#030ba1,wmo,बाढ़ भारत,2026-05-19T06:33:00+00:00,India,0.5233353794530395,2,1,hi,SAS,Asia
 '9d7d2c2207',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि,2026-04-26T05:25:00+00:00,India,0.5192570503889167,3,3,hi,SAS,Asia
 'ffe6caf686',extremes,Snow&Ice,#d60d2b,wmo,बर्फ रूस,2026-04-27T05:40:00+00:00,Russia,0.4974396465899997,2,2,hi,ESB,Europe
-'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,पारा गिरा,2026-05-16T05:40:00+00:00,,0.48757024229595114,1,2,hi,,
+'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,पारा गिरा,2026-05-16T05:40:00+00:00,,0.4875702422959511,1,2,hi,,
 '7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,जंगल की आग भारत,2026-05-15T06:09:00+00:00,India,0.4862056074616951,2,1,hi,SAS,Asia
 '07403ae253',extremes,Earthquake,#870007,usgs,भूकंप पोर्ट ब्लेयर,2026-05-14T06:02:00+00:00,India,0.4855507827688461,2,1,hi,BOB,Indian Ocean
 'fecc5eb982',extremes,Wildfire,#d60d2b,wmo,जंगल की आग राजस्थान,2026-05-09T05:36:00+00:00,India,0.4842173898790612,2,1,hi,SAS,Asia
@@ -143,6 +143,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,चक्रवात,2026-05-03T05:43:00+00:00,,0.32920030736413,1,1,hi,,
 'c948617fef',extremes,Heat Wave,#c40202,random,अत्यधिक गर्मी का जोखिम,2026-05-02T05:23:00+00:00,,0.3278266938423901,2,2,hi,,
 '20741ce7eb',extremes,Tsunami,#690191,random,सुनामी,2026-05-27T06:46:00+00:00,,0.3249530869596851,0,1,hi,,
+'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,उष्णकटिबंधीय तूफान,2026-05-17T06:01:00+00:00,,0.32436742312564476,0,1,hi,,
+'4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,टिड्डियाँ,2026-05-17T06:01:00+00:00,,0.32321648253272456,0,1,hi,,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,बवंडर,2026-04-30T05:45:00+00:00,,0.3220399398567151,2,2,hi,,
 '7054c01ed8',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में बारिश की कमी,2026-05-01T05:54:00+00:00,United Arab Emirates,0.3198182946338592,1,1,hi,ARP,Asia
 'b15911dd59',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि टी.सुन्दुपल्ले मंडल,2026-05-23T05:53:00+00:00,India,0.3193274407852795,2,1,hi,SAS,Asia
@@ -150,6 +152,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f67727d0d5',extremes,Thunderstorm,#53785a,wmo,तूफ़ान उलवापाडु सिंगारयाकोंडा मंडल,2026-05-22T06:32:00+00:00,India,0.317284422908817,2,1,hi,SAS,Asia
 '4d9577e33d',extremes,Volcano,#b83202,random,ज्वालामुखी,2026-05-21T06:34:00+00:00,,0.3167908388587738,2,1,hi,,
 '1ac6138b0d',extremes,Thunderstorm,#53785a,wmo,त्रिपुरा के उत्तरी त्रिपुरा जिले में गंभीर मौसम,2026-05-18T06:38:00+00:00,India,0.3103051588804013,3,1,hi,SAS,Asia
+'5b34407f4a',extremes,Wildfire,#d60d2b,acwe,जंगल की आग तस्मानिया,2026-05-31T06:41:00+00:00,Australia,0.3075284239990557,0,1,hi,SAU,Oceania
+'3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,अर्जेंटीना में मूसलाधार बारिश,2026-05-27T06:46:00+00:00,Argentina,0.30666389446962194,0,1,hi,SES,South-America
 'ce4931e51e',extremes,Flood,#030ba1,wmo,अचानक आई बाढ़ दक्षिण ऑस्ट्रेलिया कूपर क्रीक,2026-05-23T05:53:00+00:00,Australia,0.3053434298198413,0,1,hi,CAU,Oceania
 '907a393546',extremes,Precipitation,#d60d2b,wmo,भारी बारिश नौजात,2026-05-24T06:22:00+00:00,Canada,0.3051208638353802,0,1,hi,NEN,North-America
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,बाढ़,2026-05-19T06:33:00+00:00,,0.3034085524971437,1,2,hi,,
