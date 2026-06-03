@@ -7,6 +7,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '778d256165',extremes,Flood,#030ba1,wmo,फ्लैशफ्लड इंडिया,2026-05-17T06:01:00+00:00,India,0.5627371585151053,1,1,hi,SAS,Asia
 'ca0cdc81c2',extremes,Heat Wave,#c40202,wmo,हीट वेव हीटवेव,2026-05-21T06:35:00+00:00,India,0.5601002765263781,3,2,hi,SAS,Asia
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,जय भारत,2026-05-12T05:52:00+00:00,India,0.5444544623736141,2,2,hi,SAS,Asia
+'3fd6c5b77e',extremes,Storm,#b3b2b1,wmo,महाराष्ट्र के कोल्हापुर जिले में तूफ़ान,2026-06-03T07:23:00+00:00,India,0.5374405615886723,0,1,hi,SAS,Asia
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,भारत में गंभीर मौसम,2026-05-12T05:52:00+00:00,India,0.5336900850935821,2,1,hi,SAS,Asia
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,भारत में मूसलाधार वर्षा,2026-05-15T06:09:00+00:00,India,0.5307786545459835,1,1,hi,SAS,Asia
 '90522631da',extremes,Precipitation,#d60d2b,wmo,भारत में वर्षा,2026-05-20T06:33:00+00:00,India,0.5245683638905135,2,1,hi,SAS,Asia
@@ -22,17 +23,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6d64bd5d26',extremes,Snow Avalanche,#deddd5,wmo,सिक्किम के गंगटोक जिले में हिमस्खलन,2026-05-09T05:36:00+00:00,India,0.4827454349007954,2,1,hi,SAS,Asia
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,पाला,2026-05-21T06:34:00+00:00,,0.4806361341712122,1,2,hi,,
 'a12eb22204',extremes,Heat Wave,#c40202,cmeter,भारत हीटवेव,2026-05-29T06:39:00+00:00,India,0.4769585686153376,1,3,hi,SAS,Asia
-'fc335e869f',extremes,Thunderstorm,#53785a,wmo,तूफ़ान भारत,2026-05-15T06:09:00+00:00,India,0.47092163218997657,2,1,hi,SAS,Asia
+'fc335e869f',extremes,Thunderstorm,#53785a,wmo,तूफ़ान भारत,2026-05-15T06:09:00+00:00,India,0.4709216321899765,2,1,hi,SAS,Asia
 '26fee806c3',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश भारत,2026-05-11T06:14:00+00:00,India,0.4695241905972565,2,1,hi,SAS,Asia
 '4093195155',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल भारत,2026-05-14T06:02:00+00:00,India,0.4681372724302492,2,1,hi,SAS,Asia
-'5aac2a6d30',extremes,Storm,#b3b2b1,wmo,तूफ़ान भारत,2026-05-15T06:09:00+00:00,India,0.46605080821317696,2,1,hi,SAS,Asia
+'5aac2a6d30',extremes,Storm,#b3b2b1,wmo,तूफ़ान भारत,2026-05-15T06:09:00+00:00,India,0.4660508082131769,2,1,hi,SAS,Asia
 '053bb10e09',extremes,Heat Wave,#c40202,random,भारतीय गर्मी,2026-05-03T05:43:00+00:00,,0.4640762778806694,2,3,hi,,
 '61934e14e0',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम चंडीगढ़,2026-05-11T06:14:00+00:00,India,0.4616943519377597,3,1,hi,SAS,Asia
+'4f9725f9df',extremes,Thunderstorm,#53785a,wmo,मौसम खराब अहिल्यानगर,2026-06-02T07:08:00+00:00,India,0.46125386946654084,0,1,hi,SAS,Asia
 '615a4551a5',extremes,Flood,#030ba1,wmo,भारत में बाढ़,2026-05-20T06:33:00+00:00,India,0.4585819507681226,3,1,hi,SAS,Asia
 'a6a9b54307',extremes,Heat Wave,#c40202,cmeter,हीट वेव दिल्ली,2026-05-28T06:38:00+00:00,India,0.4566819971076942,2,1,hi,SAS,Asia
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडा दिन,2026-05-26T06:31:00+00:00,,0.4560842571794185,1,2,hi,,
 'a5ff1cde4a',extremes,Drought,#edc291,random,मिट्टी की नमी,2026-06-02T07:08:00+00:00,,0.4545945889305689,1,2,hi,,
-'97d09da7eb',extremes,Storm,#b3b2b1,wmo,असम के दिमा हसाओ जिले में तूफ़ान आया,2026-06-02T07:08:00+00:00,India,0.45228240158062233,1,1,hi,SAS,Asia
+'97d09da7eb',extremes,Storm,#b3b2b1,wmo,असम के दिमा हसाओ जिले में तूफ़ान आया,2026-06-02T07:08:00+00:00,India,0.4522824015806223,1,1,hi,SAS,Asia
 'c9f2f73c93',extremes,Storm,#b3b2b1,wmo,तेलंगाना के 12 ज़िलों में तूफ़ान,2026-05-26T06:31:00+00:00,India,0.4413330655808969,2,1,hi,SAS,Asia
 'd852f848a4',extremes,Heat Wave,#c40202,wmo,ओडिशा के बलांगीर बौध जिलों में हीट वेव,2026-05-27T06:46:00+00:00,India,0.4408738151078629,2,1,hi,SAS,Asia
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,सबसे कम न्यूनतम तापमान,2026-05-14T06:02:00+00:00,,0.4402429760460939,2,2,hi,,
@@ -135,8 +137,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '032da5d13b',extremes,Thunderstorm,#53785a,wmo,जय हो अचंता अल्लवरम मंडल,2026-05-28T06:38:00+00:00,India,0.3355625144015877,2,1,hi,SAS,Asia
 '4d6c8140c1',extremes,Thunderstorm,#53785a,wmo,उत्तर पश्चिम में ओलावृष्टि,2026-05-03T05:44:00+00:00,India,0.334047108971527,4,2,hi,SAS,Asia
 'c17b68e7c3',extremes,Thunderstorm,#53785a,wmo,जय हो थोट्टाम्बेदु मंडल,2026-05-23T05:53:00+00:00,India,0.333907267653654,2,1,hi,SAS,Asia
+'ccefefc59e',extremes,Drought,#edc291,random,आकस्मिक सूखा,2026-05-22T06:31:00+00:00,,0.33381584693789984,0,1,hi,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,बवंडर,2026-05-19T06:33:00+00:00,,0.3320460408972611,1,2,hi,,
 'a613b22d23',extremes,Thunderstorm,#53785a,wmo,आंधी रत्नागिरी,2026-05-24T06:22:00+00:00,India,0.3315465902683776,2,1,hi,SAS,Asia
+'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,भारी वर्षा,2026-05-18T06:38:00+00:00,,0.33106109677505274,0,1,hi,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,चक्रवात,2026-05-03T05:43:00+00:00,,0.32920030736413,1,1,hi,,
 '20741ce7eb',extremes,Tsunami,#690191,random,सुनामी,2026-05-27T06:46:00+00:00,,0.3249530869596851,0,1,hi,,
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,उष्णकटिबंधीय तूफान,2026-05-17T06:01:00+00:00,,0.3243674231256447,0,1,hi,,
