@@ -1,9 +1,13 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'c7051c5c64',extremes,Thunderstorm,#53785a,wmo,मौसम खराब अरवल जहानाबाद,2026-06-04T07:06:00+00:00,India,0.6018852657658578,0,1,hi,SAS,Asia
 'a647af24a8',extremes,Heat Wave,#c40202,wmo,तेलंगाना के 21 जिलों में हीट वेव,2026-05-21T06:35:00+00:00,India,0.5944620773235061,5,2,hi,SAS,Asia
+'414895796e',extremes,Thunderstorm,#53785a,wmo,"चमोली, अल्मोडा और बागेश्वर में मौसम खराब",2026-06-04T07:06:00+00:00,India,0.5839460447632691,0,1,hi,SAS,Asia
 '8ee5eff537',extremes,Snow Avalanche,#deddd5,wmo,लद्दाख के कारगिल जिले में हिमस्खलन,2026-05-12T05:52:00+00:00,India,0.5667924032245418,1,1,hi,SAS,Asia
 '9e25a471df',extremes,Snow Avalanche,#deddd5,wmo,सिक्किम के मंगन जिले में हिमस्खलन,2026-05-18T06:38:00+00:00,India,0.5666489015073211,1,1,hi,SAS,Asia
 '778d256165',extremes,Flood,#030ba1,wmo,फ्लैशफ्लड इंडिया,2026-05-17T06:01:00+00:00,India,0.5627371585151053,1,1,hi,SAS,Asia
+'c075df377d',extremes,Storm,#b3b2b1,wmo,उत्तराखंड के बागेश्वर जिले में तूफ़ान आया,2026-06-04T07:06:00+00:00,India,0.5618187652303078,0,1,hi,SAS,Asia
 'ca0cdc81c2',extremes,Heat Wave,#c40202,wmo,हीट वेव हीटवेव,2026-05-21T06:35:00+00:00,India,0.5601002765263781,3,2,hi,SAS,Asia
+'ddc7bd27fe',extremes,Storm,#b3b2b1,wmo,तूफ़ान नैनीताल और अल्मोडा,2026-06-04T07:06:00+00:00,India,0.5595993802773287,0,1,hi,SAS,Asia
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,जय भारत,2026-05-12T05:52:00+00:00,India,0.5444544623736141,2,2,hi,SAS,Asia
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,भारत में गंभीर मौसम,2026-05-12T05:52:00+00:00,India,0.5336900850935821,2,1,hi,SAS,Asia
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,भारत में मूसलाधार वर्षा,2026-05-15T06:09:00+00:00,India,0.5307786545459835,1,1,hi,SAS,Asia
