@@ -5,7 +5,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '778d256165',extremes,Flood,#030ba1,wmo,फ्लैशफ्लड इंडिया,2026-05-17T06:01:00+00:00,India,0.5627371585151053,1,1,hi,SAS,Asia
 'ca0cdc81c2',extremes,Heat Wave,#c40202,wmo,हीट वेव हीटवेव,2026-05-21T06:35:00+00:00,India,0.5601002765263781,3,2,hi,SAS,Asia
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,जय भारत,2026-05-12T05:52:00+00:00,India,0.5444544623736141,2,2,hi,SAS,Asia
-'c95e885889',extremes,Thunderstorm,#53785a,wmo,भारत में गंभीर मौसम,2026-05-12T05:52:00+00:00,India,0.5336900850935821,2,1,hi,SAS,Asia
+'c95e885889',extremes,Thunderstorm,#53785a,wmo,भारत में गंभीर मौसम,2026-05-12T05:52:00+00:00,India,0.535859809602272,3,3,hi,SAS,Asia
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,भारत में मूसलाधार वर्षा,2026-05-15T06:09:00+00:00,India,0.5307786545459835,1,1,hi,SAS,Asia
 '90522631da',extremes,Precipitation,#d60d2b,wmo,भारत में वर्षा,2026-05-20T06:33:00+00:00,India,0.5245683638905135,2,1,hi,SAS,Asia
 '519c58c063',extremes,Flood,#030ba1,wmo,बाढ़ भारत,2026-05-19T06:33:00+00:00,India,0.5233353794530395,2,1,hi,SAS,Asia
@@ -15,7 +15,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c7051c5c64',extremes,Thunderstorm,#53785a,wmo,मौसम खराब अरवल जहानाबाद,2026-06-04T07:06:00+00:00,India,0.5116024759009791,1,1,hi,SAS,Asia
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,भूकंप भारत,2026-05-16T05:40:00+00:00,India,0.5115543896850125,2,1,hi,BOB,Indian Ocean
 'ffe6caf686',extremes,Snow&Ice,#d60d2b,wmo,बर्फ रूस,2026-04-27T05:40:00+00:00,Russia,0.4974396465899997,2,2,hi,ESB,Europe
-'414895796e',extremes,Thunderstorm,#53785a,wmo,"चमोली, अल्मोडा और बागेश्वर में मौसम खराब",2026-06-04T07:06:00+00:00,India,0.4963541380487787,1,1,hi,SAS,Asia
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,पारा गिरा,2026-05-16T05:40:00+00:00,,0.4875702422959511,1,2,hi,,
 '7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,जंगल की आग भारत,2026-05-15T06:09:00+00:00,India,0.4862056074616951,2,1,hi,SAS,Asia
 '07403ae253',extremes,Earthquake,#870007,usgs,भूकंप पोर्ट ब्लेयर,2026-05-14T06:02:00+00:00,India,0.4855507827688461,2,1,hi,BOB,Indian Ocean
@@ -54,6 +53,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f37139fe2d',extremes,Landslide,#572c03,random,भूस्खलन,2026-05-30T06:01:00+00:00,,0.4267894324798242,1,2,hi,,
 '35f0963d95',extremes,Storm,#b3b2b1,wmo,मेघालय के 11 ज़िलों में तूफ़ान,2026-05-17T06:01:00+00:00,India,0.4262328482065629,2,1,hi,SAS,Asia
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,वर्षा भारत,2026-05-30T06:01:00+00:00,India,0.4221762772964115,2,1,hi,SAS,Asia
+'414895796e',extremes,Thunderstorm,#53785a,wmo,"चमोली, अल्मोडा और बागेश्वर में मौसम खराब",2026-06-04T07:06:00+00:00,India,0.4219010173414619,2,1,hi,SAS,Asia
 '54361a1424',extremes,Storm,#b3b2b1,wmo,तूफान उछाल मथुरा और adj,2026-05-11T06:14:00+00:00,India,0.4190439417272271,2,1,hi,SAS,Asia
 'fc536a8a11',extremes,Thunderstorm,#53785a,wmo,"आंधी-तूफान लखनऊ, हरदोई-सीतापुर",2026-05-04T05:50:00+00:00,India,0.4189796037888861,2,1,hi,SAS,Asia
 'c2d355c84e',extremes,Storm,#b3b2b1,wmo,पश्चिम बंगाल के नादिया जिले में तूफ़ान,2026-05-26T06:31:00+00:00,India,0.4180946898530801,2,1,hi,SAS,Asia
@@ -72,7 +72,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'debc943f0a',extremes,Thunderstorm,#53785a,wmo,हरिद्वार जिले में आंधी तूफान,2026-05-03T05:44:00+00:00,India,0.4000717975935991,2,1,hi,SAS,Asia
 '431ef34367',extremes,Thunderstorm,#53785a,wmo,19 मंडलों में मौसम बेहद खराब,2026-05-22T06:32:00+00:00,India,0.3980866751665951,2,1,hi,SAS,Asia
 '306a35fce3',extremes,Storm,#b3b2b1,wmo,तूफ़ान एमटीएसएच,2026-05-30T06:01:00+00:00,India,0.3976346649219349,2,1,hi,SAS,Asia
-'1405131905',extremes,Thunderstorm,#53785a,random,ओले,2026-06-03T07:22:00+00:00,,0.39689544765291623,1,3,hi,,
+'1405131905',extremes,Thunderstorm,#53785a,random,ओले,2026-06-03T07:22:00+00:00,,0.3968954476529162,1,3,hi,,
 '686d219557',extremes,Storm,#b3b2b1,wmo,तूफ़ान पश्चिमी चंपारण,2026-05-29T06:38:00+00:00,India,0.3962393541024548,2,1,hi,SAS,Asia
 '97f34f1d56',extremes,Precipitation,#d60d2b,wmo,कुछ भागों में मूसलाधार वर्षा,2026-05-26T06:31:00+00:00,India,0.396029003403354,2,1,hi,SAS,Asia
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,सबसे गर्म वर्ष,2026-05-14T06:02:00+00:00,,0.3953421894605234,2,2,hi,,
@@ -225,7 +225,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ec51ecb5d3',extremes,Flood,#030ba1,acwe,अचानक आई बाढ़ तस्मानिया,2026-05-05T05:29:00+00:00,Australia,0.2655190938796327,1,1,hi,SAU,Oceania
 'acd0e1409b',extremes,Flood,#030ba1,acwe,न्यू साउथ वेल्स में बाढ़,2026-05-05T05:29:00+00:00,Australia,0.2650140493713013,1,1,hi,EAU,Oceania
 '6c34512524',extremes,Drought,#edc291,edo,श्रीलंका में बारिश की कमी,2026-05-16T05:40:00+00:00,Sri Lanka,0.2648927874603543,1,1,hi,BOB,Asia
-'4d446959e2',extremes,Drought,#edc291,edo,सूखा एस्टोनिया,2026-05-04T05:50:00+00:00,Estonia,0.2648314873944263,1,1,hi,NEU,Europe
 'f6774fb5b2',extremes,Drought,#edc291,acwe,वर्षा की कमी विक्टोरिया,2026-05-04T05:50:00+00:00,Australia,0.2647705432259263,1,1,hi,SAU,Oceania
 'cf93c7cea9',extremes,Storm,#b3b2b1,aidr,तूफ़ान ओलावृष्टि सिडनी न्यू साउथ वेल्स 2015,2026-05-11T06:14:00+00:00,,0.2647366577733619,1,1,hi,EAU,Oceania
 '6c11585835',extremes,Drought,#edc291,edo,सूखापन लिथुआनिया,2026-05-07T05:46:00+00:00,Lithuania,0.2642972939645364,1,1,hi,WCE,Europe
