@@ -79,6 +79,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '97f34f1d56',extremes,Precipitation,#d60d2b,wmo,कुछ भागों में मूसलाधार वर्षा,2026-05-26T06:31:00+00:00,India,0.396029003403354,2,1,hi,SAS,Asia
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,सबसे गर्म वर्ष,2026-05-14T06:02:00+00:00,,0.3953421894605234,2,2,hi,,
 'f237cedd93',extremes,Thunderstorm,#53785a,wmo,अररिया किशनगंज और सुपौल में मौसम खराब,2026-05-22T06:32:00+00:00,India,0.394190964439869,2,1,hi,SAS,Asia
+'8447ef896b',extremes,Snow&Ice,#d60d2b,random,बर्फ कीचड़,2026-06-06T06:08:00+00:00,,0.39375658116400797,0,1,hi,,
 '20741ce7eb',extremes,Tsunami,#690191,random,सुनामी,2026-05-27T06:46:00+00:00,,0.3923104839157323,1,3,hi,,
 'd4b9ea3af6',extremes,Thunderstorm,#53785a,wmo,सिक्किम के गंगटोक नामची जिलों में ओलावृष्टि,2026-05-07T05:46:00+00:00,India,0.3919556674419465,2,1,hi,SAS,Asia
 'f3c428a9e3',extremes,Storm,#b3b2b1,wmo,नैनीताल और अल्मोडा में तूफ़ान,2026-06-04T07:06:00+00:00,India,0.3912237155040731,2,1,hi,SAS,Asia
@@ -104,6 +105,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '72543c90cb',extremes,Earthquake,#870007,usgs,भूकंप बांस फ्लैट,2026-05-19T06:33:00+00:00,India,0.3709756646758548,1,1,hi,SEA,Asia
 'ff7862e348',extremes,Drought,#edc291,edo,सूखापन भारत,2026-05-12T05:53:00+00:00,India,0.3695809417708049,2,1,hi,SAS,Asia
 '267085c596',extremes,Thunderstorm,#53785a,wmo,मेघालय के 9 जिलों में ओलावृष्टि,2026-05-17T06:01:00+00:00,India,0.3663033125095451,2,1,hi,SAS,Asia
+'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,शीतलहर,2026-06-04T07:06:00+00:00,,0.365665481818121,0,1,hi,,
 '59b529f428',extremes,Thunderstorm,#53785a,random,ओलावृष्टि,2026-05-07T05:46:00+00:00,,0.364876622027301,2,3,hi,,
 '546bf3c7da',extremes,Thunderstorm,#53785a,wmo,ओले गिरे,2026-05-31T06:40:00+00:00,India,0.362313671624034,2,1,hi,SAS,Asia
 '406c4609fb',extremes,Thunderstorm,#53785a,wmo,असम के बिश्वनाथ जिले में ओले गिरे,2026-06-01T07:30:00+00:00,India,0.3605372416119332,2,1,hi,SAS,Asia
@@ -214,7 +216,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f6774fb5b2',extremes,Drought,#edc291,acwe,वर्षा की कमी विक्टोरिया,2026-05-04T05:50:00+00:00,Australia,0.2647705432259263,1,1,hi,SAU,Oceania
 'cf93c7cea9',extremes,Storm,#b3b2b1,aidr,तूफ़ान ओलावृष्टि सिडनी न्यू साउथ वेल्स 2015,2026-05-11T06:14:00+00:00,,0.2647366577733619,1,1,hi,EAU,Oceania
 '6977541e84',extremes,Drought,#edc291,edo,सूखा मेडागास्कर,2026-06-02T07:08:00+00:00,Madagascar,0.264386302921997,1,1,hi,MDG,Africa
-'a7dd063fa4',extremes,Heat Wave,#c40202,cmeter,यूरोपीय हीटवेव बोर्डो,2026-05-30T06:01:00+00:00,France,0.26433313953475746,1,1,hi,,
+'a7dd063fa4',extremes,Heat Wave,#c40202,cmeter,यूरोपीय हीटवेव बोर्डो,2026-05-30T06:01:00+00:00,France,0.2643331395347574,1,1,hi,,
 '6c11585835',extremes,Drought,#edc291,edo,सूखापन लिथुआनिया,2026-05-07T05:46:00+00:00,Lithuania,0.2642972939645364,1,1,hi,WCE,Europe
 '96f0408faf',extremes,Drought,#edc291,edo,सूखापन लातविया,2026-05-04T05:50:00+00:00,Latvia,0.2641961277603665,1,1,hi,WCE,Europe
 '3894a694d1',extremes,Flood,#030ba1,aidr,ऑस्ट्रेलिया में आकस्मिक बाढ़,2026-05-08T05:16:00+00:00,Australia,0.2640733320389841,1,1,hi,SAU,Oceania
