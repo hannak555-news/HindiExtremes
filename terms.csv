@@ -69,7 +69,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b426bb2972',extremes,Heat Wave,#c40202,wmo,तेलंगाना के 12 जिलों में हीट वेव,2026-05-26T06:31:00+00:00,India,0.4040716867403889,3,1,hi,SAS,Asia
 'ab7d592d50',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम टी.सुन्दुपल्ले मंडल,2026-05-23T05:53:00+00:00,India,0.4031529886770623,2,1,hi,SAS,Asia
 '77927ed25e',extremes,Storm,#b3b2b1,wmo,तूफ़ान पेल्लाकुर मंडल,2026-05-23T05:53:00+00:00,India,0.4022306253950313,2,1,hi,SAS,Asia
-'4c3154f8a5',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम जालना ch. संभाजीनगर जलगांव.,2026-06-06T06:08:00+00:00,India,0.39990083933468584,1,1,hi,SAS,Asia
+'4c3154f8a5',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम जालना ch. संभाजीनगर जलगांव.,2026-06-06T06:08:00+00:00,India,0.3999008393346858,1,1,hi,SAS,Asia
 '431ef34367',extremes,Thunderstorm,#53785a,wmo,19 मंडलों में मौसम बेहद खराब,2026-05-22T06:32:00+00:00,India,0.3980866751665951,2,1,hi,SAS,Asia
 '4093195155',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल भारत,2026-05-14T06:02:00+00:00,India,0.3979166815657118,3,1,hi,SAS,Asia
 '306a35fce3',extremes,Storm,#b3b2b1,wmo,तूफ़ान एमटीएसएच,2026-05-30T06:01:00+00:00,India,0.3976346649219349,2,1,hi,SAS,Asia
@@ -110,7 +110,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '130c9b75e1',extremes,Thunderstorm,#53785a,wmo,मध्य प्रदेश के मुरैना जिले में आंधी तूफान,2026-05-08T05:16:00+00:00,India,0.3533944566180764,2,1,hi,SAS,Asia
 '9f173012ca',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश पेरनेम तिस्वाडी बिचोलिम सत्तारी,2026-06-03T07:23:00+00:00,India,0.3497583122469233,2,1,hi,SAS,Asia
 'c62fbce176',extremes,Wildfire,#d60d2b,wmo,जंगल की आग हिमाचल प्रदेश,2026-05-15T06:09:00+00:00,India,0.3490876308169712,4,1,hi,SAS,Asia
-'538eadceb4',extremes,Heat Wave,#c40202,random,हल्की सर्दी,2026-05-12T05:52:00+00:00,,0.3485649407159955,2,1,hi,,
 'edbb356466',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि पेलकुर मंडल,2026-05-23T05:53:00+00:00,India,0.3477268005996579,3,1,hi,SAS,Asia
 'd4556a6344',extremes,Thunderstorm,#53785a,wmo,उत्तराखंड के जिलों में ओले गिरे,2026-05-12T05:52:00+00:00,India,0.3465930175202946,2,1,hi,SAS,Asia
 'fa761481b5',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-05-23T05:53:00+00:00,United Arab Emirates,0.3458488705642435,2,1,hi,ARP,Asia
@@ -160,6 +159,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b4368e26f0',extremes,Snow Avalanche,#deddd5,wmo,खकासिया गणराज्य का हिमस्खलन,2026-05-03T05:44:00+00:00,Russia,0.3025423952728663,0,1,hi,ESB,Europe
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,अंटार्कटिक समुद्री बर्फ,2026-05-30T06:01:00+00:00,,0.3002273249417252,1,1,hi,,
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,स्नोपैक,2026-05-10T05:51:00+00:00,,0.298716429096878,1,1,hi,,
+'538eadceb4',extremes,Heat Wave,#c40202,random,हल्की सर्दी,2026-05-12T05:52:00+00:00,,0.29673024460859615,3,1,hi,,
 '52af874334',extremes,Drought,#edc291,random,शुष्कता,2026-05-07T05:46:00+00:00,,0.2919749245815708,1,1,hi,,
 '4f568c9aaa',extremes,Snow Avalanche,#deddd5,wmo,सिक्किम के पाकयोंग जिले में हिमस्खलन,2026-05-09T05:36:00+00:00,India,0.2913792770070368,1,1,hi,SAS,Asia
 '8ece67f5a6',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि और भी अधिक,2026-05-27T06:46:00+00:00,Libya,0.2902585239990025,2,2,hi,SAH,Africa
