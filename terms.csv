@@ -117,7 +117,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd4556a6344',extremes,Thunderstorm,#53785a,wmo,उत्तराखंड के जिलों में ओले गिरे,2026-05-12T05:52:00+00:00,India,0.3465930175202946,2,1,hi,SAS,Asia
 'fa761481b5',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-05-23T05:53:00+00:00,United Arab Emirates,0.3458488705642435,2,1,hi,ARP,Asia
 '6e348008e8',extremes,Thunderstorm,#53785a,wmo,"जय हो दरभंगा,मधुबनी,सीतामढ़ी",2026-05-21T06:35:00+00:00,India,0.3447448143597951,2,1,hi,SAS,Asia
-'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,भारी वर्षा,2026-05-18T06:38:00+00:00,,0.3429020822587947,1,1,hi,,
 'bd21048a6a',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-05-16T05:40:00+00:00,United Arab Emirates,0.3423323352071376,2,1,hi,ARP,Asia
 '4c3154f8a5',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम जालना ch. संभाजीनगर जलगांव.,2026-06-06T06:08:00+00:00,India,0.3399157134344829,2,1,hi,SAS,Asia
 '63e0bd5b7a',extremes,Thunderstorm,#53785a,wmo,आंधी तूफान कैमूर रोहतास औरंगाबाद,2026-05-07T05:46:00+00:00,India,0.3386100277259233,2,1,hi,SAS,Asia
@@ -133,6 +132,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a613b22d23',extremes,Thunderstorm,#53785a,wmo,आंधी रत्नागिरी,2026-05-24T06:22:00+00:00,India,0.3315465902683776,2,1,hi,SAS,Asia
 '3eacb99679',extremes,Thunderstorm,#53785a,wmo,तूफ़ान चिंतापल्ली मंडल,2026-06-02T07:08:00+00:00,India,0.3307498683982403,2,1,hi,SAS,Asia
 '028e735f77',extremes,Thunderstorm,#53785a,wmo,"अंधड़, चमोली, अल्मोड़ा और बागेश्वर",2026-06-04T07:06:00+00:00,India,0.3272134723788822,2,1,hi,SAS,Asia
+'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,भारी वर्षा,2026-05-18T06:38:00+00:00,,0.3229669199199755,2,1,hi,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडी सर्दी,2026-05-23T05:52:00+00:00,,0.3198561337116705,0,1,hi,,
 'b15911dd59',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि टी.सुन्दुपल्ले मंडल,2026-05-23T05:53:00+00:00,India,0.3193274407852795,2,1,hi,SAS,Asia
 'ea54a1e6d2',extremes,Precipitation,#d60d2b,wmo,पुडुचेरी के पांडिचेरी जिले में वर्षा,2026-05-14T06:02:00+00:00,India,0.3182676450845453,3,1,hi,SAS,Asia
@@ -195,7 +195,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,हीटवेव दक्षिण ऑस्ट्रेलिया,2026-06-04T07:06:00+00:00,Australia,0.2635491782052749,1,1,hi,SAU,Oceania
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,बर्फ़ीला तूफ़ान,2026-05-16T05:40:00+00:00,,0.2635458134896459,1,1,hi,,
 '6eff66ea81',extremes,Drought,#edc291,edo,सूखापन ब्रुनेई,2026-06-02T07:08:00+00:00,Brunei,0.2635079085288981,1,1,hi,SEA,Asia
-'1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,उड़ती हुई बर्फ,2026-05-27T06:46:00+00:00,,0.2631853041794956,1,1,hi,,
 '2180c0c4a1',extremes,Drought,#edc291,edo,पोलैंड में बारिश की कमी,2026-06-02T07:08:00+00:00,Poland,0.2631360155174516,1,1,hi,WCE,Europe
 '3296e9a239',extremes,Flood,#030ba1,aidr,ऑस्ट्रेलिया में मूसलाधार बारिश,2026-05-17T06:01:00+00:00,Australia,0.2630703685335558,1,1,hi,SAU,Oceania
 '969dbf1866',extremes,Precipitation,#d60d2b,wmo,दक्षिण अफ्रीका में मूसलाधार बारिश,2026-05-09T05:36:00+00:00,South Africa,0.2622788662091757,1,1,hi,WSAF,Africa
@@ -292,6 +291,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '44211c95de',extremes,Flood,#030ba1,aidr,ऑस्ट्रेलिया में बाढ़,2026-05-17T06:01:00+00:00,Australia,0.2271754961980707,2,1,hi,EAU,Oceania
 '3e4b341619',extremes,Storm,#b3b2b1,random,तूफ़ान,2026-05-20T06:32:00+00:00,,0.2257103772079666,2,1,hi,,
 'cf93c7cea9',extremes,Storm,#b3b2b1,aidr,तूफ़ान ओलावृष्टि सिडनी न्यू साउथ वेल्स 2015,2026-05-11T06:14:00+00:00,,0.2250261591073576,2,1,hi,EAU,Oceania
+'1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,उड़ती हुई बर्फ,2026-05-27T06:46:00+00:00,,0.22370750855257124,2,1,hi,,
 '70bf96ce01',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम लीबिया,2026-05-26T06:31:00+00:00,Libya,0.2223062028190785,2,1,hi,SAH,Africa
 '862c45323e',extremes,Storm,#b3b2b1,wmo,तूफ़ान वृद्धि क्षेत्र द्वीपीय इसाबेला,2026-05-09T05:36:00+00:00,Ecuador,0.2192853238709033,2,1,hi,NWS,South-America
 'fbfc5d1ed5',extremes,Precipitation,#d60d2b,wmo,मूसलाधार वर्षा क्षेत्र द्वीपीय,2026-05-11T06:14:00+00:00,Ecuador,0.21875598124854,2,1,hi,NWS,South-America
