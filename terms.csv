@@ -93,6 +93,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '61aa158ef7',extremes,Storm,#b3b2b1,wmo,ओडिशा के जाजापुर जिले में तूफान,2026-05-15T06:09:00+00:00,India,0.3787314745978967,3,1,hi,SAS,Asia
 '59b5340b69',extremes,Precipitation,#d60d2b,random,मौसम सामने,2026-05-13T06:02:00+00:00,,0.3757275213219151,1,3,hi,,
 'c9f2f73c93',extremes,Storm,#b3b2b1,wmo,तेलंगाना के 12 ज़िलों में तूफ़ान,2026-05-26T06:31:00+00:00,India,0.3751331057437623,3,1,hi,SAS,Asia
+'84febdd06c',extremes,Thunderstorm,#53785a,random,तूफ़ान,2026-06-10T06:49:00+00:00,,0.3743895767993208,0,1,hi,,
 '595acbcf9f',extremes,Heat Wave,#c40202,random,सबसे गर्म दिन,2026-05-17T06:01:00+00:00,,0.3731524665730725,1,2,hi,,
 '7b7a594322',extremes,Thunderstorm,#53785a,wmo,जय हो सतारा,2026-05-18T06:38:00+00:00,India,0.3712004968587053,2,1,hi,SAS,Asia
 '72543c90cb',extremes,Earthquake,#870007,usgs,भूकंप बांस फ्लैट,2026-05-19T06:33:00+00:00,India,0.3709756646758548,1,1,hi,SEA,Asia
@@ -132,7 +133,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3eacb99679',extremes,Thunderstorm,#53785a,wmo,तूफ़ान चिंतापल्ली मंडल,2026-06-02T07:08:00+00:00,India,0.3307498683982403,2,1,hi,SAS,Asia
 '028e735f77',extremes,Thunderstorm,#53785a,wmo,"अंधड़, चमोली, अल्मोड़ा और बागेश्वर",2026-06-04T07:06:00+00:00,India,0.3272134723788822,2,1,hi,SAS,Asia
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,भारी वर्षा,2026-05-18T06:38:00+00:00,,0.3229669199199755,2,1,hi,,
-'95b2881221',extremes,Precipitation,#d60d2b,random,वायुमंडलीय नदी,2026-06-01T07:30:00+00:00,,0.32275722469625995,1,1,hi,,
+'95b2881221',extremes,Precipitation,#d60d2b,random,वायुमंडलीय नदी,2026-06-01T07:30:00+00:00,,0.3227572246962599,1,1,hi,,
 'b15911dd59',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि टी.सुन्दुपल्ले मंडल,2026-05-23T05:53:00+00:00,India,0.3193274407852795,2,1,hi,SAS,Asia
 'ea54a1e6d2',extremes,Precipitation,#d60d2b,wmo,पुडुचेरी के पांडिचेरी जिले में वर्षा,2026-05-14T06:02:00+00:00,India,0.3182676450845453,3,1,hi,SAS,Asia
 'dbda23280d',extremes,Thunderstorm,#53785a,wmo,पुडुचेरी के पांडिचेरी जिले में गंभीर मौसम,2026-05-23T05:53:00+00:00,India,0.3175282057051,2,1,hi,SAS,Asia
@@ -145,6 +146,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,शीतलहर,2026-06-04T07:06:00+00:00,,0.3108156595454028,1,1,hi,,
 '53fda39314',extremes,Drought,#edc291,edo,लिथुआनिया में बारिश की कमी,2026-05-30T06:01:00+00:00,Lithuania,0.3105315957587172,0,1,hi,WCE,Europe
 '1ac6138b0d',extremes,Thunderstorm,#53785a,wmo,त्रिपुरा के उत्तरी त्रिपुरा जिले में गंभीर मौसम,2026-05-18T06:38:00+00:00,India,0.3103051588804013,3,1,hi,SAS,Asia
+'244b4adc07',extremes,Landslide,#572c03,aidr,ऑस्ट्रेलिया में भूस्खलन,2026-06-10T06:49:00+00:00,Australia,0.30846016552502953,0,1,hi,EAU,Oceania
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,वर्षा ब्राज़ील,2026-05-24T06:22:00+00:00,Brazil,0.3082768946061758,0,1,hi,SAM,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,अर्जेंटीना में वर्षा,2026-05-28T06:38:00+00:00,Argentina,0.308138772645632,0,1,hi,SES,South-America
 '495243907b',extremes,Precipitation,#d60d2b,wmo,वर्षा ला मेजर पार्टि डू पेज़।,2026-06-08T07:13:00+00:00,Mali,0.3081219063704075,0,1,hi,SAH,Africa
@@ -153,6 +155,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0006615477',extremes,Precipitation,#d60d2b,wmo,कनाडा में मूसलाधार बारिश,2026-05-28T06:38:00+00:00,Canada,0.3074687918114761,0,1,hi,NEN,North-America
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,ब्राज़ील में भारी वर्षा,2026-05-22T06:32:00+00:00,Brazil,0.3074060371871512,0,1,hi,SAM,South-America
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,कनाडा में गंभीर मौसम,2026-05-30T06:01:00+00:00,Canada,0.3071003025994993,0,1,hi,NEN,North-America
+'9c446693a2',extremes,Precipitation,#d60d2b,wmo,अल्जीरिया में वर्षा,2026-06-10T06:49:00+00:00,Algeria,0.3070985292974553,0,1,hi,SAH,Africa
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,कनाडा में वर्षा,2026-06-07T06:48:00+00:00,Canada,0.3070291101438362,0,1,hi,NEN,North-America
 '8adbdb9546',extremes,Thunderstorm,#53785a,wmo,कनाडा में ओलावृष्टि,2026-05-25T06:53:00+00:00,Canada,0.3068677266094297,0,1,hi,NEN,North-America
 '4e5e4292b1',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि लीबिया,2026-06-01T07:30:00+00:00,Libya,0.3068673203138273,0,1,hi,SAH,Africa
@@ -165,8 +168,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9fdc419684',extremes,Drought,#edc291,edo,सूखा जादू चेकिया,2026-05-30T06:01:00+00:00,Czechia,0.3056488382231366,0,1,hi,WCE,Europe
 '3a81ba6638',extremes,Landslide,#572c03,aidr,भूस्खलन समरस्बी न्यू साउथ वेल्स,2026-06-06T06:08:00+00:00,Australia,0.3056046342432353,0,1,hi,EAU,Oceania
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,न्यूजीलैंड में मूसलाधार बारिश,2026-05-30T06:01:00+00:00,New Zealand,0.3055851211242469,0,1,hi,NZ,Oceania
+'7cfed20fae',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश ऑकलैंड और ग्रेट बैरियर द्वीप,2026-06-01T07:30:00+00:00,New Zealand,0.3053934830767825,0,1,hi,NZ,Oceania
 'ce4931e51e',extremes,Flood,#030ba1,wmo,अचानक आई बाढ़ दक्षिण ऑस्ट्रेलिया कूपर क्रीक,2026-05-23T05:53:00+00:00,Australia,0.3053434298198413,0,1,hi,CAU,Oceania
+'700ffc8c1c',extremes,Precipitation,#d60d2b,wmo,होकिटिका के दक्षिण में वेस्टलैंड में वर्षा,2026-05-29T06:38:00+00:00,New Zealand,0.3052275046037253,0,1,hi,NZ,Oceania
 '907a393546',extremes,Precipitation,#d60d2b,wmo,भारी बारिश नौजात,2026-05-24T06:22:00+00:00,Canada,0.3051208638353802,0,1,hi,NEN,North-America
+'0d1e3addbf',extremes,Storm,#b3b2b1,wmo,तूफ़ान ब्राज़ील,2026-05-22T06:32:00+00:00,Brazil,0.30475319583949,0,1,hi,SAM,South-America
+'97ba994d49',extremes,Earthquake,#870007,usgs,भूकंप ओमान,2026-06-04T07:06:00+00:00,Oman,0.304719429025145,0,1,hi,ARS,Indian Ocean
+'74126f3d38',extremes,Drought,#edc291,edo,सूखा ब्रुनेई,2026-05-23T05:53:00+00:00,Brunei,0.30460935664189914,0,1,hi,SEA,Asia
+'fe5ac6d3b6',extremes,Drought,#edc291,edo,वर्षा की कमी स्लोवाकिया,2026-05-26T06:31:00+00:00,Slovakia,0.3045193429699895,0,1,hi,WCE,Europe
+'7a2481f0b1',extremes,Flood,#030ba1,aidr,ऑस्ट्रेलिया में नदियों में बाढ़,2026-05-25T06:53:00+00:00,Australia,0.30451802301714254,0,1,hi,EAU,Oceania
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,बाढ़,2026-05-19T06:33:00+00:00,,0.3034085524971437,1,2,hi,,
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,तूफ़ान न्यूज़ीलैंड,2026-05-07T05:46:00+00:00,New Zealand,0.3032523616537132,0,1,hi,NZ,Oceania
 'a715281618',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल वानुअतु,2026-05-14T06:02:00+00:00,Vanuatu,0.3032332482846498,0,1,hi,SPO,Oceania
@@ -256,7 +266,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '39edbba161',extremes,Wildfire,#d60d2b,wmo,जंगल की आग लातविया,2026-05-08T05:16:00+00:00,Latvia,0.2579109815452772,1,1,hi,WCE,Europe
 '4c0e0f411e',extremes,Storm,#b3b2b1,wmo,तूफ़ान क्षेत्र अमेज़ॅनिका,2026-05-11T06:14:00+00:00,Ecuador,0.2577855404841838,1,1,hi,NWS,South-America
 'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,तूफ़ान बहरीन,2026-05-17T06:01:00+00:00,Bahrain,0.2577830032765522,1,1,hi,ARP,Asia
-'6d88e6d571',extremes,Storm,#b3b2b1,wmo,वानुअतु के उत्तरी तटीय जल में तूफ़ान का उछाल।,2026-05-13T06:03:00+00:00,Vanuatu,0.25774935879191296,1,1,hi,SPO,Oceania
+'6d88e6d571',extremes,Storm,#b3b2b1,wmo,वानुअतु के उत्तरी तटीय जल में तूफ़ान का उछाल।,2026-05-13T06:03:00+00:00,Vanuatu,0.2577493587919129,1,1,hi,SPO,Oceania
 '007fd2f525',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल एम_टेबल बे टेबल बे,2026-05-12T05:52:00+00:00,South Africa,0.2576587097488158,1,1,hi,WSAF,Africa
 'f6159d54ec',extremes,Heat Wave,#c40202,wmo,हीट वेव अल्जीरिया,2026-05-13T06:03:00+00:00,Algeria,0.2576473013553641,1,1,hi,SAH,Africa
 '24e7169f97',extremes,Storm,#b3b2b1,wmo,तूफ़ान त्रिनिदाद और टोबैगो,2026-05-17T06:01:00+00:00,Trinidad and Tobago,0.2576194792626402,1,1,hi,NSA,North-America
