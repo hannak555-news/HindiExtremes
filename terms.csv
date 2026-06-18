@@ -5,7 +5,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '90522631da',extremes,Precipitation,#d60d2b,wmo,भारत में वर्षा,2026-05-20T06:33:00+00:00,India,0.5015073673504147,3,2,hi,SAS,Asia
 '26fee806c3',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश भारत,2026-06-08T07:13:00+00:00,India,0.5011213133255835,1,1,hi,SAS,Asia
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,भूकंप भारत,2026-06-06T06:08:00+00:00,India,0.4965445040923023,2,2,hi,SEA,Asia
-'bc244be044',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश नादिया,2026-06-18T07:16:00+00:00,India,0.4955241878729325,0,1,hi,SAS,Asia
 '7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,जंगल की आग भारत,2026-05-15T06:09:00+00:00,India,0.4862056074616951,2,1,hi,SAS,Asia
 '07403ae253',extremes,Earthquake,#870007,usgs,भूकंप पोर्ट ब्लेयर,2026-05-14T06:02:00+00:00,India,0.4855507827688461,2,1,hi,BOB,Indian Ocean
 'c789ceb8e5',extremes,Thunderstorm,#53785a,wmo,6 मंडलों में मौसम बेहद खराब,2026-06-17T07:33:00+00:00,India,0.4851078867619414,1,1,hi,SAS,Asia
@@ -39,6 +38,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f37139fe2d',extremes,Landslide,#572c03,random,भूस्खलन,2026-05-30T06:01:00+00:00,,0.4267894324798242,1,2,hi,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडा दिन,2026-05-26T06:31:00+00:00,,0.4255159912495645,2,2,hi,,
 '46ea8f36f9',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश सहारनपुर,2026-06-13T06:38:00+00:00,India,0.4220730760856085,1,1,hi,SAS,Asia
+'bc244be044',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश नादिया,2026-06-18T07:16:00+00:00,India,0.4211955596919926,1,1,hi,SAS,Asia
 'bf2d2cd233',extremes,Thunderstorm,#53785a,wmo,आंधी तूफान कानपुर,2026-06-03T07:23:00+00:00,India,0.4210531756696461,3,1,hi,SAS,Asia
 'a3a1ad1bef',extremes,Storm,#b3b2b1,wmo,तूफान मुर्शिदाबाद,2026-06-11T07:14:00+00:00,India,0.4203631621135347,2,1,hi,SAS,Asia
 'c2d355c84e',extremes,Storm,#b3b2b1,wmo,पश्चिम बंगाल के नादिया जिले में तूफ़ान,2026-05-26T06:31:00+00:00,India,0.4180946898530801,2,1,hi,SAS,Asia
@@ -49,6 +49,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,आंधी तूफान,2026-05-25T06:52:00+00:00,,0.4116070036773101,3,3,hi,,
 '0ad7f1891f',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल एसएसएस परिगी मंडल,2026-06-14T07:07:00+00:00,India,0.4101577726600707,2,1,hi,SAS,Asia
 'ed7333c076',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम कुरुपम सीथमपेटा मंडल,2026-06-01T07:30:00+00:00,India,0.4082526639807786,2,1,hi,SAS,Asia
+'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडा वर्ष,2026-06-07T06:48:00+00:00,,0.4066489114313991,1,2,hi,,
 '76655983f8',extremes,Storm,#b3b2b1,wmo,अररिया किशनगंज और सुपौल में तूफान,2026-05-22T06:32:00+00:00,India,0.4064636769899357,2,1,hi,SAS,Asia
 'c075df377d',extremes,Storm,#b3b2b1,wmo,उत्तराखंड के बागेश्वर जिले में तूफ़ान आया,2026-06-04T07:06:00+00:00,India,0.4059140578788973,2,1,hi,SAS,Asia
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,चिलचिलाती तापमान,2026-05-25T06:52:00+00:00,,0.4055530764040587,1,2,hi,,
@@ -76,7 +77,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '20741ce7eb',extremes,Tsunami,#690191,random,सुनामी,2026-05-27T06:46:00+00:00,,0.3923104839157323,1,3,hi,,
 'f3c428a9e3',extremes,Storm,#b3b2b1,wmo,नैनीताल और अल्मोडा में तूफ़ान,2026-06-04T07:06:00+00:00,India,0.3912237155040731,2,1,hi,SAS,Asia
 '09c77af689',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल थोट्टाम्बेदु मंडल,2026-05-23T05:53:00+00:00,India,0.3899147220534616,2,1,hi,SAS,Asia
-'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडा वर्ष,2026-06-07T06:48:00+00:00,,0.3898222134487048,0,1,hi,,
 'c9865fd2da',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल जी मदुगुला मंडल,2026-06-02T07:08:00+00:00,India,0.3897087116115906,2,1,hi,SAS,Asia
 'c4e6e03d17',extremes,Thunderstorm,#53785a,wmo,उत्तराखंड के जिलों में आंधी तूफान,2026-05-28T06:38:00+00:00,India,0.3887276296942178,2,1,hi,SAS,Asia
 'e9147a4194',extremes,Precipitation,#d60d2b,wmo,महाराष्ट्र के रायगढ़ जिले में वर्षा,2026-06-08T07:13:00+00:00,India,0.3887112582476674,2,1,hi,SAS,Asia
