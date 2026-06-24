@@ -164,12 +164,22 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82ed5705b2',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश कोस्टा रिका,2026-06-23T06:33:00+00:00,Costa Rica,0.3063112568852629,0,1,hi,SCA,North-America
 '98db96b6de',extremes,Drought,#edc291,edo,सूखा लिथुआनिया,2026-06-07T06:48:00+00:00,Lithuania,0.3058646784021231,0,1,hi,WCE,Europe
 'e188f4e183',extremes,Storm,#b3b2b1,wmo,तूफ़ान तंजानिया,2026-06-13T06:38:00+00:00,Tanzania,0.3054853095531606,0,1,hi,SEAF,Africa
+'dac860fd6d',extremes,Storm,#b3b2b1,wmo,तूफानी लहर मेडागास्कर,2026-06-22T08:39:00+00:00,Madagascar,0.30541204315942044,0,1,hi,MDG,Africa
+'3421a57149',extremes,Storm,#b3b2b1,wmo,तूफ़ान इक्वाडोर,2026-06-08T07:13:00+00:00,Ecuador,0.3052257135729676,0,1,hi,NWS,South-America
+'291335c911',extremes,Drought,#edc291,edo,गैबॉन में वर्षा की कमी,2026-06-07T06:48:00+00:00,Gabon,0.3051194707099418,0,1,hi,CAF,Africa
 '55c39b351d',extremes,Storm,#b3b2b1,random,धूल शैतान,2026-06-17T07:33:00+00:00,,0.3050403589886913,1,1,hi,,
+'9511bd27df',extremes,Flood,#030ba1,wmo,दक्षिण ऑस्ट्रेलिया में अचानक आई बाढ़ वारबर्टन,2026-06-04T07:06:00+00:00,Australia,0.3048706699822588,0,1,hi,CAU,Oceania
+'11ece58a02',extremes,Storm,#b3b2b1,wmo,बहरीन में तूफ़ान का उछाल,2026-06-16T08:27:00+00:00,Bahrain,0.30465472357119266,0,1,hi,ARP,Asia
+'6fd99eeafe',extremes,Storm,#b3b2b1,wmo,क्लेरेंस के उत्तर में तूफ़ान मार्लबोरो,2026-06-20T06:47:00+00:00,New Zealand,0.3045991420378098,0,1,hi,NZ,Oceania
+'3336c980ab',extremes,Earthquake,#870007,usgs,भूकंप सेंट हेलेना,2026-06-21T07:16:00+00:00,Saint Helena,0.30418330158377305,0,1,hi,EAO,Atlantic Ocean
+'1617e554bb',extremes,Storm,#b3b2b1,wmo,तटीय और अपतटीय क्षेत्रों में तूफान आना।,2026-06-13T06:38:00+00:00,Belize,0.3041638602277861,0,1,hi,SCA,North-America
 'e6e3ef6e92',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल नाइजीरिया,2026-05-24T06:22:00+00:00,Nigeria,0.3041476296640066,0,1,hi,WAF,Africa
 'bc85c67872',extremes,Storm,#b3b2b1,wmo,तूफ़ान कुवैत,2026-06-17T07:33:00+00:00,Kuwait,0.3040863476613107,0,1,hi,ARP,Asia
 'b6cef22543',extremes,Drought,#edc291,random,जल प्रतिबंध,2026-06-08T07:13:00+00:00,,0.3040291416237642,1,1,hi,,
 'bc4b81854d',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल djelfa,2026-06-16T08:27:00+00:00,Algeria,0.3039752834155736,0,1,hi,SAH,Africa
 '8e164fcef9',extremes,Storm,#b3b2b1,wmo,सभी तटीय जल में तूफान आना।,2026-06-11T07:14:00+00:00,Vanuatu,0.3039631307567523,0,1,hi,SPO,Oceania
+'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,जमने वाला कनाडा,2026-06-22T08:39:00+00:00,Canada,0.3038737122035057,0,1,hi,NEN,North-America
+'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,तूफ़ान बहरीन,2026-06-06T06:08:00+00:00,Bahrain,0.30374778105025696,0,1,hi,ARP,Asia
 '3894a694d1',extremes,Flood,#030ba1,aidr,ऑस्ट्रेलिया में आकस्मिक बाढ़,2026-05-28T06:38:00+00:00,Australia,0.3037335427892212,0,1,hi,SAU,Oceania
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,ठंढ,2026-06-04T07:06:00+00:00,,0.3037171374429024,0,1,hi,,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,बाढ़,2026-05-19T06:33:00+00:00,,0.3034085524971437,1,2,hi,,
@@ -352,7 +362,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'db417cfee9',extremes,Cold Wave,#a7e9fa,acwe,पश्चिमी ऑस्ट्रेलिया में ठंडा मौसम,2026-05-28T06:38:00+00:00,Australia,0.2304970199005753,2,1,hi,CAU,Oceania
 '3dc98006fe',extremes,Drought,#edc291,acwe,पश्चिमी ऑस्ट्रेलिया में बारिश की कमी,2026-05-27T06:46:00+00:00,Australia,0.2302864180868883,2,1,hi,CAU,Oceania
 '2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,हीट वेव पेरिस,2026-05-29T06:39:00+00:00,France,0.2300768949463797,2,1,hi,,
-'60a34b83b0',extremes,Flood,#030ba1,acwe,दक्षिण ऑस्ट्रेलिया में बाढ़,2026-06-04T07:06:00+00:00,Australia,0.22673483655440407,2,1,hi,SAU,Oceania
+'60a34b83b0',extremes,Flood,#030ba1,acwe,दक्षिण ऑस्ट्रेलिया में बाढ़,2026-06-04T07:06:00+00:00,Australia,0.226734836554404,2,1,hi,SAU,Oceania
 'a7dd063fa4',extremes,Heat Wave,#c40202,cmeter,यूरोपीय हीटवेव बोर्डो,2026-05-30T06:01:00+00:00,France,0.2246831686045438,2,1,hi,,
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,उड़ती हुई बर्फ,2026-05-27T06:46:00+00:00,,0.2237075085525712,2,1,hi,,
 '2180c0c4a1',extremes,Drought,#edc291,edo,पोलैंड में बारिश की कमी,2026-06-02T07:08:00+00:00,Poland,0.2236656131898338,2,1,hi,WCE,Europe
