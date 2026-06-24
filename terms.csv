@@ -55,7 +55,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '306a35fce3',extremes,Storm,#b3b2b1,wmo,तूफ़ान एमटीएसएच,2026-05-30T06:01:00+00:00,India,0.3976346649219349,2,1,hi,SAS,Asia
 '1405131905',extremes,Thunderstorm,#53785a,random,ओले,2026-06-03T07:22:00+00:00,,0.3968954476529162,1,3,hi,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,रिकॉर्ड ठंड,2026-06-16T08:27:00+00:00,,0.3967771553913177,2,1,hi,,
-'62084daeb0',extremes,Earthquake,#870007,random,भूकंप,2026-06-21T07:16:00+00:00,,0.39646123204840805,1,2,hi,,
+'62084daeb0',extremes,Earthquake,#870007,random,भूकंप,2026-06-21T07:16:00+00:00,,0.396461232048408,1,2,hi,,
 '0c77d23656',extremes,Earthquake,#870007,usgs,भूकंप कीलंग,2026-06-06T06:08:00+00:00,India,0.3960866088631437,2,1,hi,TIB,Asia
 '97f34f1d56',extremes,Precipitation,#d60d2b,wmo,कुछ भागों में मूसलाधार वर्षा,2026-05-26T06:31:00+00:00,India,0.396029003403354,2,1,hi,SAS,Asia
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,वर्षा भारत,2026-05-30T06:01:00+00:00,India,0.3949088763541237,3,2,hi,SAS,Asia
@@ -103,7 +103,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '59b529f428',extremes,Thunderstorm,#53785a,random,ओलावृष्टि,2026-06-17T07:33:00+00:00,,0.3487194042843514,0,1,hi,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,राष्ट्रीय तूफान केंद्र,2026-05-28T06:38:00+00:00,,0.3475671188316775,1,2,hi,,
 'de35e746b9',extremes,Earthquake,#870007,usgs,भूकंप वांगजिंग,2026-06-19T07:39:00+00:00,India,0.3468610189356612,1,1,hi,SAS,Asia
-'40f675561f',extremes,Heat Wave,#c40202,random,सबसे तेज़ गर्मी,2026-06-11T07:14:00+00:00,,0.3460513214951737,0,1,hi,,
 'fa761481b5',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-05-23T05:53:00+00:00,United Arab Emirates,0.3458488705642435,2,1,hi,ARP,Asia
 '1d3ad15a5f',extremes,Thunderstorm,#53785a,wmo,झंझावात जालना च. संभाजीनगर जलगांव.,2026-06-06T06:08:00+00:00,India,0.3445520069853098,2,1,hi,SAS,Asia
 'c948617fef',extremes,Heat Wave,#c40202,random,अत्यधिक गर्मी का जोखिम,2026-05-25T06:52:00+00:00,,0.3441338139399533,1,2,hi,,
@@ -236,6 +235,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,अंटार्कटिक समुद्री बर्फ,2026-05-30T06:01:00+00:00,,0.3002273249417252,1,1,hi,,
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,रेतीला तूफ़ान,2026-06-09T06:32:00+00:00,,0.2976037729038604,1,1,hi,,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,जंगल की आग,2026-06-19T07:39:00+00:00,,0.2951503229664936,1,1,hi,,
+'40f675561f',extremes,Heat Wave,#c40202,random,सबसे तेज़ गर्मी,2026-06-11T07:14:00+00:00,,0.29459366827089767,1,1,hi,,
 'da1ae5191e',extremes,Storm,#b3b2b1,random,तूफ़ान का उभार,2026-06-14T07:06:00+00:00,,0.2930468808287308,1,1,hi,,
 '8ece67f5a6',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि और भी अधिक,2026-05-27T06:46:00+00:00,Libya,0.2902585239990025,2,2,hi,SAH,Africa
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,हिमशैल का शांत होना,2026-05-24T06:22:00+00:00,,0.2895096770990472,2,1,hi,,
