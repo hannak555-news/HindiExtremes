@@ -29,7 +29,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडा दिन,2026-05-26T06:31:00+00:00,,0.4255159912495645,2,2,hi,,
 '46ea8f36f9',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश सहारनपुर,2026-06-13T06:38:00+00:00,India,0.4220730760856085,1,1,hi,SAS,Asia
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,भूकंप भारत,2026-06-06T06:08:00+00:00,India,0.4220628884784569,3,1,hi,SEA,Asia
-'bf2d2cd233',extremes,Thunderstorm,#53785a,wmo,आंधी तूफान कानपुर,2026-06-03T07:23:00+00:00,India,0.4210531756696461,3,1,hi,SAS,Asia
 'a3a1ad1bef',extremes,Storm,#b3b2b1,wmo,तूफान मुर्शिदाबाद,2026-06-11T07:14:00+00:00,India,0.4203631621135347,2,1,hi,SAS,Asia
 'c2d355c84e',extremes,Storm,#b3b2b1,wmo,पश्चिम बंगाल के नादिया जिले में तूफ़ान,2026-05-26T06:31:00+00:00,India,0.4180946898530801,2,1,hi,SAS,Asia
 'bd1606dcb8',extremes,Thunderstorm,#53785a,wmo,असम के कुछ हिस्सों में ओलावृष्टि,2026-06-11T07:14:00+00:00,India,0.4178167955780948,3,2,hi,SAS,Asia
@@ -44,6 +43,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '44211c95de',extremes,Flood,#030ba1,wmo,ऑस्ट्रेलिया में बाढ़,2026-06-09T06:32:00+00:00,Australia,0.4068880217876133,1,2,hi,CAU,Oceania
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडा वर्ष,2026-06-07T06:48:00+00:00,,0.4066489114313991,1,2,hi,,
 'c075df377d',extremes,Storm,#b3b2b1,wmo,उत्तराखंड के बागेश्वर जिले में तूफ़ान आया,2026-06-04T07:06:00+00:00,India,0.4059140578788973,2,1,hi,SAS,Asia
+'bf2d2cd233',extremes,Thunderstorm,#53785a,wmo,आंधी तूफान कानपुर,2026-06-03T07:23:00+00:00,India,0.4043953493191992,4,1,hi,SAS,Asia
 'b69a8e9570',extremes,Storm,#b3b2b1,wmo,चंडीगढ़ के लिए तूफ़ान पीबी घंटा,2026-05-30T06:01:00+00:00,India,0.4043071660935849,2,1,hi,SAS,Asia
 '92ea70c579',extremes,Storm,#b3b2b1,wmo,ओडिशा के मयूरभंज जिले में तूफ़ान,2026-05-29T06:38:00+00:00,India,0.4042365634193131,2,1,hi,SAS,Asia
 'b426bb2972',extremes,Heat Wave,#c40202,wmo,तेलंगाना के 12 जिलों में हीट वेव,2026-05-26T06:31:00+00:00,India,0.4040716867403889,3,1,hi,SAS,Asia
@@ -142,7 +142,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,हिमशैल आर्कटिक,2026-06-12T07:05:00+00:00,,0.3078522543934463,1,1,hi,,
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,कनाडा में वर्षा,2026-06-09T06:32:00+00:00,Canada,0.3075303806793295,0,1,hi,NEN,North-America
 '538eadceb4',extremes,Heat Wave,#c40202,random,हल्की सर्दी,2026-06-08T07:13:00+00:00,,0.3074472244247236,1,1,hi,,
-'82ed5705b2',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश कोस्टा रिका,2026-06-23T06:33:00+00:00,Costa Rica,0.3063112568852629,0,1,hi,SCA,North-America
 '98db96b6de',extremes,Drought,#edc291,edo,सूखा लिथुआनिया,2026-06-07T06:48:00+00:00,Lithuania,0.3058646784021231,0,1,hi,WCE,Europe
 'e188f4e183',extremes,Storm,#b3b2b1,wmo,तूफ़ान तंजानिया,2026-06-13T06:38:00+00:00,Tanzania,0.3054853095531606,0,1,hi,SEAF,Africa
 'dac860fd6d',extremes,Storm,#b3b2b1,wmo,तूफानी लहर मेडागास्कर,2026-06-22T08:39:00+00:00,Madagascar,0.3054120431594204,0,1,hi,MDG,Africa
@@ -305,8 +304,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,दक्षिण अफ़्रीका में वर्षा,2026-06-03T07:23:00+00:00,South Africa,0.2606442117370721,1,1,hi,WSAF,Africa
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश कनाडा,2026-06-09T06:32:00+00:00,Canada,0.2605888346250299,1,1,hi,NEN,North-America
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश अर्जेंटीना,2026-05-28T06:38:00+00:00,Argentina,0.2605530275386433,1,1,hi,SES,South-America
-'aacf82e274',extremes,Drought,#edc291,edo,फरो द्वीप समूह में सूखा,2026-06-17T07:34:00+00:00,Faroe Islands,0.26047861902923836,1,1,hi,NEU,Europe
+'aacf82e274',extremes,Drought,#edc291,edo,फरो द्वीप समूह में सूखा,2026-06-17T07:34:00+00:00,Faroe Islands,0.2604786190292383,1,1,hi,NEU,Europe
 'a0fea22150',extremes,Heat Wave,#c40202,acwe,हीटवेव न्यू साउथ वेल्स,2026-05-29T06:39:00+00:00,Australia,0.2603897263383807,1,1,hi,EAU,Oceania
+'82ed5705b2',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश कोस्टा रिका,2026-06-23T06:33:00+00:00,Costa Rica,0.26036456835247346,1,1,hi,SCA,North-America
 'fe07b8547c',extremes,Drought,#edc291,edo,सूखा चेकिया,2026-06-04T07:06:00+00:00,Czechia,0.2601186180785291,1,1,hi,WCE,Europe
 '48bbc2ab73',extremes,Thunderstorm,#53785a,wmo,तूफ़ान घाना,2026-06-11T07:14:00+00:00,Ghana,0.2600131746932644,1,1,hi,WAF,Africa
 '628c73fc75',extremes,Drought,#edc291,edo,सूखा पोलैंड,2026-05-25T06:53:00+00:00,Poland,0.2600022156994342,1,1,hi,WCE,Europe
