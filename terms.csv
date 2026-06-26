@@ -12,7 +12,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '60cdf9fb44',extremes,Heat Wave,#c40202,wmo,हीट वेव इंडिया,2026-06-08T07:13:00+00:00,India,0.4723123837537726,2,1,hi,SAS,Asia
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,उष्णकटिबंधीय तूफान,2026-06-13T06:38:00+00:00,,0.4716553197878139,1,2,hi,,
 '7054c01ed8',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में बारिश की कमी,2026-05-21T06:35:00+00:00,United Arab Emirates,0.4661277930261695,2,2,hi,ARP,Asia
-'5aac2a6d30',extremes,Storm,#b3b2b1,wmo,तूफ़ान भारत,2026-06-04T07:06:00+00:00,India,0.4627255536620331,2,1,hi,SAS,Asia
 '4d9577e33d',extremes,Volcano,#b83202,random,ज्वालामुखी,2026-06-20T06:46:00+00:00,,0.4580680658922882,1,2,hi,,
 'a6a9b54307',extremes,Heat Wave,#c40202,cmeter,हीट वेव दिल्ली,2026-05-28T06:38:00+00:00,India,0.4566819971076942,2,1,hi,SAS,Asia
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,हीट डोम,2026-06-07T06:48:00+00:00,,0.4520440484323728,1,2,hi,,
@@ -59,6 +58,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '97f34f1d56',extremes,Precipitation,#d60d2b,wmo,कुछ भागों में मूसलाधार वर्षा,2026-05-26T06:31:00+00:00,India,0.396029003403354,2,1,hi,SAS,Asia
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,वर्षा भारत,2026-05-30T06:01:00+00:00,India,0.3949088763541237,3,2,hi,SAS,Asia
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,बवंडर,2026-05-29T06:38:00+00:00,,0.3945015542112795,1,3,hi,,
+'5aac2a6d30',extremes,Storm,#b3b2b1,wmo,तूफ़ान भारत,2026-06-04T07:06:00+00:00,India,0.39346673561272816,3,1,hi,SAS,Asia
 '20741ce7eb',extremes,Tsunami,#690191,random,सुनामी,2026-05-27T06:46:00+00:00,,0.3923104839157323,1,3,hi,,
 'f3c428a9e3',extremes,Storm,#b3b2b1,wmo,नैनीताल और अल्मोडा में तूफ़ान,2026-06-04T07:06:00+00:00,India,0.3912237155040731,2,1,hi,SAS,Asia
 'c9865fd2da',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल जी मदुगुला मंडल,2026-06-02T07:08:00+00:00,India,0.3897087116115906,2,1,hi,SAS,Asia
@@ -100,7 +100,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e138644beb',extremes,Thunderstorm,#53785a,wmo,मिजोरम के 4 जिलों में ओलावृष्टि,2026-06-22T08:39:00+00:00,India,0.3497506644330647,2,1,hi,SAS,Asia
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,राष्ट्रीय तूफान केंद्र,2026-05-28T06:38:00+00:00,,0.3475671188316775,1,2,hi,,
 'de35e746b9',extremes,Earthquake,#870007,usgs,भूकंप वांगजिंग,2026-06-19T07:39:00+00:00,India,0.3468610189356612,1,1,hi,SAS,Asia
-'fa761481b5',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-06-15T08:36:00+00:00,United Arab Emirates,0.3445750175507057,0,1,hi,ARP,Asia
 '1d3ad15a5f',extremes,Thunderstorm,#53785a,wmo,झंझावात जालना च. संभाजीनगर जलगांव.,2026-06-06T06:08:00+00:00,India,0.3445520069853098,2,1,hi,SAS,Asia
 'c948617fef',extremes,Heat Wave,#c40202,random,अत्यधिक गर्मी का जोखिम,2026-05-25T06:52:00+00:00,,0.3441338139399533,1,2,hi,,
 'ddc7bd27fe',extremes,Storm,#b3b2b1,wmo,तूफ़ान नैनीताल और अल्मोडा,2026-06-04T07:06:00+00:00,India,0.3436639694128144,3,1,hi,SAS,Asia
@@ -182,7 +181,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9a9047ebfe',extremes,Drought,#edc291,edo,सूखा आइसलैंड,2026-06-01T07:30:00+00:00,Iceland,0.3021058711459095,0,1,hi,GIC,Europe
 '0514da3654',extremes,Snow&Ice,#d60d2b,wmo,बर्फ ब्राज़ील,2026-06-15T08:36:00+00:00,Brazil,0.3020958890660568,0,1,hi,SAM,South-America
 '4d446959e2',extremes,Drought,#edc291,edo,सूखा एस्टोनिया,2026-05-26T06:31:00+00:00,Estonia,0.3020858806749503,0,1,hi,NEU,Europe
-'24b660695f',extremes,Landslide,#572c03,wmo,चीन में भूस्खलन,2026-06-11T07:14:00+00:00,China,0.3020626348101584,0,1,hi,EAS,Asia
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,ठंढा अर्जेंटीना,2026-06-09T06:32:00+00:00,Argentina,0.3020072996253291,0,1,hi,SES,South-America
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,बर्फ अर्जेंटीना,2026-06-09T06:32:00+00:00,Argentina,0.3019880315723997,0,1,hi,SES,South-America
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,तूफ़ान पराग्वे,2026-06-18T07:16:00+00:00,Paraguay,0.3018947325190121,0,1,hi,SES,South-America
@@ -200,7 +198,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6018dbdbc5',extremes,Flood,#030ba1,wmo,मैकॉली के पास फ़्लैशफ़्लड सिज़र क्रीक,2026-06-13T06:38:00+00:00,Canada,0.3015954591768003,0,1,hi,NEN,North-America
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल कनाडा,2026-05-31T06:40:00+00:00,Canada,0.3015722475495042,0,1,hi,NEN,North-America
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल अर्जेंटीना,2026-06-06T06:08:00+00:00,Argentina,0.3014958031673059,0,1,hi,SES,South-America
-'5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,ऑस्ट्रेलिया में ठंढ,2026-06-24T06:30:00+00:00,Australia,0.3014654432964623,0,1,hi,CAU,Oceania
 '4c1d7f8a34',extremes,Wildfire,#d60d2b,wmo,जंगल की आग आर्कान्जेस्क क्षेत्र,2026-06-10T06:49:00+00:00,Russia,0.3014414668147411,0,1,hi,ESB,Europe
 'a715281618',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल वानुअतु,2026-06-09T06:32:00+00:00,Vanuatu,0.3014239122474224,0,1,hi,SPO,Oceania
 '023d124975',extremes,Drought,#edc291,edo,सूखापन श्रीलंका,2026-06-04T07:06:00+00:00,Sri Lanka,0.3014238102859009,0,1,hi,BOB,Asia
@@ -223,6 +220,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,जंगल की आग,2026-06-19T07:39:00+00:00,,0.2951503229664936,1,1,hi,,
 '40f675561f',extremes,Heat Wave,#c40202,random,सबसे तेज़ गर्मी,2026-06-11T07:14:00+00:00,,0.2945936682708976,1,1,hi,,
 'da1ae5191e',extremes,Storm,#b3b2b1,random,तूफ़ान का उभार,2026-06-14T07:06:00+00:00,,0.2930468808287308,1,1,hi,,
+'fa761481b5',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-06-15T08:36:00+00:00,United Arab Emirates,0.29288876491809984,1,1,hi,ARP,Asia
 '8ece67f5a6',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि और भी अधिक,2026-05-27T06:46:00+00:00,Libya,0.2902585239990025,2,2,hi,SAH,Africa
 '7e303c7e63',extremes,Snow Avalanche,#deddd5,random,हिम हिमस्खलन,2026-06-21T07:16:00+00:00,,0.2886453637441452,1,1,hi,,
 '283b154c38',extremes,Wet Spell,#d60d2b,random,गीला जादू,2026-05-31T06:40:00+00:00,,0.2884383800012831,2,1,hi,,
@@ -355,6 +353,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fc65ecc005',extremes,Cold Wave,#a7e9fa,wmo,शीत लहर ब्राज़ील,2026-06-06T06:08:00+00:00,Brazil,0.2568957826508062,1,1,hi,SAM,South-America
 'de55985e54',extremes,Earthquake,#870007,usgs,भूकंप हदीबू,2026-06-08T07:13:00+00:00,Yemen,0.2568337906957363,1,1,hi,ARS,Indian Ocean
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,बर्फ़ का झोंका,2026-06-03T07:22:00+00:00,,0.2568275486616901,2,1,hi,,
+'24b660695f',extremes,Landslide,#572c03,wmo,चीन में भूस्खलन,2026-06-11T07:14:00+00:00,China,0.2567532395886346,1,1,hi,EAS,Asia
 '829105287e',extremes,Storm,#b3b2b1,wmo,तूफ़ान जमैका,2026-05-26T06:31:00+00:00,Jamaica,0.2566473569260333,1,1,hi,CAR,North-America
 '5cb766f03d',extremes,Storm,#b3b2b1,wmo,तूफ़ान वृद्धि क्षेत्र 2 - मध्यम,2026-06-10T06:49:00+00:00,Paraguay,0.2566206126976055,1,1,hi,SES,South-America
 '8ebd9f213e',extremes,Wildfire,#d60d2b,acwe,दक्षिण ऑस्ट्रेलिया के जंगलों में लगी आग,2026-06-15T08:36:00+00:00,Australia,0.2566146017671478,1,1,hi,CAU,Oceania
@@ -366,6 +365,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0317e93d3c',extremes,Snow&Ice,#d60d2b,wmo,फ्रॉस्ट चिली,2026-06-12T07:05:00+00:00,Chile,0.2563318155185022,1,1,hi,SWS,South-America
 '8f8c4d17cb',extremes,Heat Wave,#c40202,wmo,हीट वेव इथियोपिया,2026-06-10T06:49:00+00:00,Ethiopia,0.2563263412662886,1,1,hi,NEAF,Africa
 '104591a5db',extremes,Precipitation,#d60d2b,wmo,वर्षा चाड,2026-06-17T07:33:00+00:00,Chad,0.2562913265769299,1,1,hi,SAH,Africa
+'5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,ऑस्ट्रेलिया में ठंढ,2026-06-24T06:30:00+00:00,Australia,0.2562456268019929,1,1,hi,CAU,Oceania
 '2cfcf7a5d7',extremes,Storm,#b3b2b1,wmo,तूफ़ान مملكة البحرين والمناطق المحيطة بها,2026-06-06T06:08:00+00:00,Bahrain,0.2561080139929362,1,1,hi,ARP,Asia
 '95b5264574',extremes,Heat Wave,#c40202,wmo,हीट वेव कनाडा,2026-06-09T06:32:00+00:00,Canada,0.2560503921782558,1,1,hi,NEN,North-America
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,तूफ़ान की लहर सोलोमन द्वीप,2026-06-09T06:32:00+00:00,Solomon Islands,0.2560308475577263,1,1,hi,EPO,Oceania
