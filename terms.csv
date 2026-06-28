@@ -33,10 +33,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '60bddf3351',extremes,Drought,#edc291,edo,भारत में वर्षा की कमी,2026-05-26T06:31:00+00:00,India,0.4108945003499918,2,2,hi,SAS,Asia
 '0ad7f1891f',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल एसएसएस परिगी मंडल,2026-06-14T07:07:00+00:00,India,0.4101577726600707,2,1,hi,SAS,Asia
 'ed7333c076',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम कुरुपम सीथमपेटा मंडल,2026-06-01T07:30:00+00:00,India,0.4082526639807786,2,1,hi,SAS,Asia
-'39b673714a',extremes,Storm,#b3b2b1,wmo,सभी तटीय जल में तूफान।,2026-06-08T07:13:00+00:00,Vanuatu,0.4072713128502847,1,2,hi,SPO,Oceania
 '0045c29d49',extremes,Thunderstorm,#53785a,wmo,तूफान 11 मंडल,2026-06-17T07:33:00+00:00,India,0.4071711735160977,2,1,hi,SAS,Asia
 '44211c95de',extremes,Flood,#030ba1,wmo,ऑस्ट्रेलिया में बाढ़,2026-06-09T06:32:00+00:00,Australia,0.4068880217876133,1,2,hi,CAU,Oceania
-'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडा वर्ष,2026-06-07T06:48:00+00:00,,0.4066489114313991,1,2,hi,,
 'c075df377d',extremes,Storm,#b3b2b1,wmo,उत्तराखंड के बागेश्वर जिले में तूफ़ान आया,2026-06-04T07:06:00+00:00,India,0.4059140578788973,2,1,hi,SAS,Asia
 'bd1606dcb8',extremes,Thunderstorm,#53785a,wmo,असम के कुछ हिस्सों में ओलावृष्टि,2026-06-11T07:14:00+00:00,India,0.405549586695926,4,2,hi,SAS,Asia
 'bf2d2cd233',extremes,Thunderstorm,#53785a,wmo,आंधी तूफान कानपुर,2026-06-03T07:23:00+00:00,India,0.4043953493191992,4,1,hi,SAS,Asia
@@ -96,6 +94,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9f173012ca',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश पेरनेम तिस्वाडी बिचोलिम सत्तारी,2026-06-03T07:23:00+00:00,India,0.3497583122469233,2,1,hi,SAS,Asia
 'e138644beb',extremes,Thunderstorm,#53785a,wmo,मिजोरम के 4 जिलों में ओलावृष्टि,2026-06-22T08:39:00+00:00,India,0.3497506644330647,2,1,hi,SAS,Asia
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,राष्ट्रीय तूफान केंद्र,2026-05-28T06:38:00+00:00,,0.3475671188316775,1,2,hi,,
+'39b673714a',extremes,Storm,#b3b2b1,wmo,सभी तटीय जल में तूफान।,2026-06-08T07:13:00+00:00,Vanuatu,0.346180630922742,2,1,hi,SPO,Oceania
+'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडा वर्ष,2026-06-07T06:48:00+00:00,,0.34580158971668923,2,2,hi,,
 '1d3ad15a5f',extremes,Thunderstorm,#53785a,wmo,झंझावात जालना च. संभाजीनगर जलगांव.,2026-06-06T06:08:00+00:00,India,0.3445520069853098,2,1,hi,SAS,Asia
 'c948617fef',extremes,Heat Wave,#c40202,random,अत्यधिक गर्मी का जोखिम,2026-05-25T06:52:00+00:00,,0.3441338139399533,1,2,hi,,
 'ddc7bd27fe',extremes,Storm,#b3b2b1,wmo,तूफ़ान नैनीताल और अल्मोडा,2026-06-04T07:06:00+00:00,India,0.3436639694128144,3,1,hi,SAS,Asia
@@ -136,7 +136,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,शीतलहर,2026-06-04T07:06:00+00:00,,0.3108156595454028,1,1,hi,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,हिमशैल आर्कटिक,2026-06-12T07:05:00+00:00,,0.3078522543934463,1,1,hi,,
 '538eadceb4',extremes,Heat Wave,#c40202,random,हल्की सर्दी,2026-06-08T07:13:00+00:00,,0.3074472244247236,1,1,hi,,
-'8f29727ea9',extremes,Drought,#edc291,edo,सूखा भूमध्यरेखीय गिनी,2026-06-23T06:33:00+00:00,Equatorial Guinea,0.3064361382689746,0,1,hi,WAF,Africa
 '55c39b351d',extremes,Storm,#b3b2b1,random,धूल शैतान,2026-06-17T07:33:00+00:00,,0.3050403589886913,1,1,hi,,
 '8adbdb9546',extremes,Thunderstorm,#53785a,wmo,कनाडा में ओलावृष्टि,2026-06-18T07:16:00+00:00,Canada,0.3043758374926353,0,1,hi,NEN,North-America
 'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,वर्षा सऊदी अरब,2026-06-23T06:33:00+00:00,Saudi Arabia,0.3042736800864519,0,1,hi,ARP,Asia
@@ -305,6 +304,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,दक्षिण अफ़्रीका में वर्षा,2026-06-03T07:23:00+00:00,South Africa,0.2606442117370721,1,1,hi,WSAF,Africa
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश अर्जेंटीना,2026-05-28T06:38:00+00:00,Argentina,0.2605530275386433,1,1,hi,SES,South-America
 'aacf82e274',extremes,Drought,#edc291,edo,फरो द्वीप समूह में सूखा,2026-06-17T07:34:00+00:00,Faroe Islands,0.2604786190292383,1,1,hi,NEU,Europe
+'8f29727ea9',extremes,Drought,#edc291,edo,सूखा भूमध्यरेखीय गिनी,2026-06-23T06:33:00+00:00,Equatorial Guinea,0.2604707175286284,1,1,hi,WAF,Africa
 'a0fea22150',extremes,Heat Wave,#c40202,acwe,हीटवेव न्यू साउथ वेल्स,2026-05-29T06:39:00+00:00,Australia,0.2603897263383807,1,1,hi,EAU,Oceania
 '82ed5705b2',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश कोस्टा रिका,2026-06-23T06:33:00+00:00,Costa Rica,0.2603645683524734,1,1,hi,SCA,North-America
 '26dc110943',extremes,Drought,#edc291,edo,बारिश की कमी निकारागुआ,2026-06-12T07:05:00+00:00,Nicaragua,0.2602557758421571,1,1,hi,SCA,North-America
