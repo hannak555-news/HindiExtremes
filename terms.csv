@@ -6,6 +6,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82fd55b965',extremes,Drought,#edc291,edo,भारत में सूखा,2026-06-12T07:05:00+00:00,India,0.4961752299250202,0,1,hi,SAS,Asia
 'f986239716',extremes,Wildfire,#d60d2b,wmo,जंगल की आग गुजरात,2026-06-09T06:32:00+00:00,India,0.4827664968082101,2,1,hi,SAS,Asia
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,पाला,2026-05-21T06:34:00+00:00,,0.4808910740455304,2,2,hi,,
+'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,सर्दी का मौसम,2026-06-29T07:12:00+00:00,,0.47993031559858434,1,3,hi,,
 'a5ff1cde4a',extremes,Drought,#edc291,random,मिट्टी की नमी,2026-06-02T07:08:00+00:00,,0.4779055505909835,2,2,hi,,
 '778d256165',extremes,Flood,#030ba1,wmo,फ्लैशफ्लड इंडिया,2026-06-06T06:08:00+00:00,India,0.4771223885051845,2,1,hi,SAS,Asia
 'a12eb22204',extremes,Heat Wave,#c40202,cmeter,भारत हीटवेव,2026-05-29T06:39:00+00:00,India,0.4769585686153376,1,3,hi,SAS,Asia
@@ -58,7 +59,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,तूफ़ान भारत,2026-06-04T07:06:00+00:00,India,0.3934667356127281,3,1,hi,SAS,Asia
 '20741ce7eb',extremes,Tsunami,#690191,random,सुनामी,2026-05-27T06:46:00+00:00,,0.3923104839157323,1,3,hi,,
 'f3c428a9e3',extremes,Storm,#b3b2b1,wmo,नैनीताल और अल्मोडा में तूफ़ान,2026-06-04T07:06:00+00:00,India,0.3912237155040731,2,1,hi,SAS,Asia
-'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,सर्दी का मौसम,2026-06-29T07:12:00+00:00,,0.3903519486680178,0,1,hi,,
 'c9865fd2da',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल जी मदुगुला मंडल,2026-06-02T07:08:00+00:00,India,0.3897087116115906,2,1,hi,SAS,Asia
 '97d09da7eb',extremes,Storm,#b3b2b1,wmo,असम के दिमा हसाओ जिले में तूफ़ान आया,2026-06-02T07:08:00+00:00,India,0.3844400413435289,2,1,hi,SAS,Asia
 '9b6555982b',extremes,Precipitation,#d60d2b,wmo,वर्षा त्रिपुरा के पश्चिम त्रिपुरा जिले में,2026-06-01T07:30:00+00:00,India,0.3843394422023158,2,1,hi,SAS,Asia
