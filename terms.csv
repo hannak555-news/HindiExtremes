@@ -18,6 +18,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '53cc1a9e35',extremes,Precipitation,#d60d2b,wmo,उत्तराखंड के 6 जिलों में बारिश,2026-06-04T07:06:00+00:00,India,0.4518535091965643,2,1,hi,SAS,Asia
 '59b5340b69',extremes,Precipitation,#d60d2b,random,मौसम सामने,2026-06-28T06:44:00+00:00,,0.4506182613206123,1,3,hi,,
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,जय भारत,2026-06-02T07:08:00+00:00,India,0.4474365901940801,1,1,hi,SAS,Asia
+'35cc9cbf75',extremes,Precipitation,#d60d2b,random,मूसलाधार बारिश,2026-06-29T07:12:00+00:00,,0.4422376993091749,1,3,hi,,
 'd852f848a4',extremes,Heat Wave,#c40202,wmo,ओडिशा के बलांगीर बौध जिलों में हीट वेव,2026-05-27T06:46:00+00:00,India,0.4408738151078629,2,1,hi,SAS,Asia
 'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,जंगल की आग उत्तराखंड,2026-05-28T06:38:00+00:00,India,0.4375872639218803,4,2,hi,SAS,Asia
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,चिलचिलाती तापमान,2026-05-25T06:52:00+00:00,,0.4340202949434499,2,2,hi,,
@@ -49,16 +50,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '306a35fce3',extremes,Storm,#b3b2b1,wmo,तूफ़ान एमटीएसएच,2026-05-30T06:01:00+00:00,India,0.3976346649219349,2,1,hi,SAS,Asia
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,सबसे गर्म वर्ष,2026-06-07T06:48:00+00:00,,0.396903537070016,1,2,hi,,
 '1405131905',extremes,Thunderstorm,#53785a,random,ओले,2026-06-03T07:22:00+00:00,,0.3968954476529162,1,3,hi,,
-'35cc9cbf75',extremes,Precipitation,#d60d2b,random,मूसलाधार बारिश,2026-06-29T07:12:00+00:00,,0.39680773448138235,0,1,hi,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,रिकॉर्ड ठंड,2026-06-16T08:27:00+00:00,,0.3967771553913177,2,1,hi,,
 '62084daeb0',extremes,Earthquake,#870007,random,भूकंप,2026-06-21T07:16:00+00:00,,0.396461232048408,1,2,hi,,
 '0c77d23656',extremes,Earthquake,#870007,usgs,भूकंप कीलंग,2026-06-06T06:08:00+00:00,India,0.3960866088631437,2,1,hi,TIB,Asia
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,बवंडर,2026-05-29T06:38:00+00:00,,0.3945015542112795,1,3,hi,,
-'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,बाढ़,2026-06-12T07:05:00+00:00,,0.39384422657977436,0,1,hi,,
+'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,बाढ़,2026-06-12T07:05:00+00:00,,0.3938442265797743,0,1,hi,,
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,तूफ़ान भारत,2026-06-04T07:06:00+00:00,India,0.3934667356127281,3,1,hi,SAS,Asia
 '20741ce7eb',extremes,Tsunami,#690191,random,सुनामी,2026-05-27T06:46:00+00:00,,0.3923104839157323,1,3,hi,,
 'f3c428a9e3',extremes,Storm,#b3b2b1,wmo,नैनीताल और अल्मोडा में तूफ़ान,2026-06-04T07:06:00+00:00,India,0.3912237155040731,2,1,hi,SAS,Asia
-'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,सर्दी का मौसम,2026-06-29T07:12:00+00:00,,0.39035194866801787,0,1,hi,,
+'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,सर्दी का मौसम,2026-06-29T07:12:00+00:00,,0.3903519486680178,0,1,hi,,
 'c9865fd2da',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल जी मदुगुला मंडल,2026-06-02T07:08:00+00:00,India,0.3897087116115906,2,1,hi,SAS,Asia
 '97d09da7eb',extremes,Storm,#b3b2b1,wmo,असम के दिमा हसाओ जिले में तूफ़ान आया,2026-06-02T07:08:00+00:00,India,0.3844400413435289,2,1,hi,SAS,Asia
 '9b6555982b',extremes,Precipitation,#d60d2b,wmo,वर्षा त्रिपुरा के पश्चिम त्रिपुरा जिले में,2026-06-01T07:30:00+00:00,India,0.3843394422023158,2,1,hi,SAS,Asia
@@ -135,10 +135,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,शीतलहर,2026-06-04T07:06:00+00:00,,0.3108156595454028,1,1,hi,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,हिमशैल आर्कटिक,2026-06-12T07:05:00+00:00,,0.3078522543934463,1,1,hi,,
 '538eadceb4',extremes,Heat Wave,#c40202,random,हल्की सर्दी,2026-06-08T07:13:00+00:00,,0.3074472244247236,1,1,hi,,
-'d1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,जमने वाला अर्जेंटीना,2026-06-17T07:33:00+00:00,Argentina,0.30637105509577833,0,1,hi,SES,South-America
+'d1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,जमने वाला अर्जेंटीना,2026-06-17T07:33:00+00:00,Argentina,0.3063710550957783,0,1,hi,SES,South-America
 '55c39b351d',extremes,Storm,#b3b2b1,random,धूल शैतान,2026-06-17T07:33:00+00:00,,0.3050403589886913,1,1,hi,,
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल ब्राज़ील,2026-06-27T06:08:00+00:00,Brazil,0.3049899618317146,0,1,hi,SAM,South-America
-'4bfa6ec544',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल पराग्वे,2026-06-22T08:39:00+00:00,Paraguay,0.30484698586781833,0,1,hi,SES,South-America
+'4bfa6ec544',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल पराग्वे,2026-06-22T08:39:00+00:00,Paraguay,0.3048469858678183,0,1,hi,SES,South-America
 'b6cef22543',extremes,Drought,#edc291,random,जल प्रतिबंध,2026-06-08T07:13:00+00:00,,0.3040291416237642,1,1,hi,,
 'ee2bb6403c',extremes,Wildfire,#d60d2b,wmo,बश्कोर्तोस्तान गणराज्य की जंगल की आग,2026-06-24T06:30:00+00:00,Russia,0.303872940095876,0,1,hi,ESB,Europe
 '70773b5956',extremes,Earthquake,#870007,usgs,भूकंप अलास्का,2026-06-06T06:08:00+00:00,Alaska,0.3028278567915032,0,1,hi,NPO,Pacific Ocean
@@ -146,7 +146,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9f3b29621a',extremes,Earthquake,#870007,usgs,भूकंप केंद्रीय मध्य अटलांटिक रिज,2026-06-17T07:33:00+00:00,,0.3027896995806892,0,1,hi,EAO,Atlantic Ocean
 '13104e853c',extremes,Drought,#edc291,edo,सूखा मंत्र गैबॉन,2026-06-23T06:33:00+00:00,Gabon,0.302777298933887,0,1,hi,CAF,Africa
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,तूफ़ान ब्राज़ील,2026-06-12T07:05:00+00:00,Brazil,0.3026727458706271,0,1,hi,SAM,South-America
-'829105287e',extremes,Storm,#b3b2b1,wmo,तूफ़ान जमैका,2026-06-15T08:36:00+00:00,Jamaica,0.30253364305098507,0,1,hi,CAR,North-America
+'829105287e',extremes,Storm,#b3b2b1,wmo,तूफ़ान जमैका,2026-06-15T08:36:00+00:00,Jamaica,0.302533643050985,0,1,hi,CAR,North-America
 '4c0e0f411e',extremes,Storm,#b3b2b1,wmo,तूफ़ान क्षेत्र अमेज़ोनिका,2026-06-15T08:36:00+00:00,Ecuador,0.3024597322920832,0,1,hi,NWS,South-America
 '9c4d852f5b',extremes,Earthquake,#870007,usgs,स्वालबार्ड के उत्तर में भूकंप,2026-06-04T07:06:00+00:00,,0.3024257263666792,0,1,hi,ARO,Arctica
 'd4e54bdaef',extremes,Storm,#b3b2b1,wmo,होरोवेनुआ और कपिटी तट पर तूफ़ान का उछाल,2026-06-25T06:32:00+00:00,New Zealand,0.3023882501908539,0,1,hi,NZ,Oceania
