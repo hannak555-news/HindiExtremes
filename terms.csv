@@ -154,6 +154,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e7db391dce',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल कोस्टा रिका,2026-06-25T06:32:00+00:00,Costa Rica,0.30347122228653,0,1,hi,SCA,North-America
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,कनाडा में गंभीर मौसम,2026-06-28T06:44:00+00:00,Canada,0.3032452163860195,0,1,hi,NEN,North-America
 '190bcda954',extremes,Storm,#b3b2b1,wmo,तूफ़ान की लहर फ़ोर्ट नेल्सन,2026-07-01T06:52:00+00:00,Canada,0.3028582566584142,0,1,hi,NEN,North-America
+'2180c0c4a1',extremes,Drought,#edc291,edo,पोलैंड में बारिश की कमी,2026-06-23T06:33:00+00:00,Poland,0.3019111652490027,0,1,hi,WCE,Europe
 'bee7cf7ad2',extremes,Snow&Ice,#d60d2b,wmo,आइस चिली,2026-06-18T07:16:00+00:00,Chile,0.3016626076843136,0,1,hi,SWS,South-America
 '09b8af5c65',extremes,Earthquake,#870007,usgs,भूकंप हवाई,2026-06-14T07:06:00+00:00,Hawaii,0.3016213449757587,0,1,hi,NPO,Pacific Ocean
 'aaee78223c',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश क्षेत्र लिटोरल और इंटरएंडिना,2026-06-18T07:16:00+00:00,Ecuador,0.3016177814710861,0,1,hi,NWS,South-America
@@ -219,6 +220,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,अंटार्कटिक समुद्री बर्फ,2026-05-30T06:01:00+00:00,,0.3002273249417252,1,1,hi,,
 'd5197c0b14',extremes,Wildfire,#d60d2b,wmo,सेराटोव क्षेत्र की जंगल की आग,2026-06-18T07:16:00+00:00,Russia,0.3002210692273421,0,1,hi,ESB,Europe
 'f89b96cf78',extremes,Drought,#edc291,edo,सूखापन चेकिया,2026-06-17T07:34:00+00:00,Czechia,0.3002130616253717,0,1,hi,WCE,Europe
+'f8714a698d',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश इक्वेडोर,2026-07-03T06:09:00+00:00,Ecuador,0.3001946596178031,0,1,hi,NWS,South-America
 '04d3913051',extremes,Wildfire,#d60d2b,wmo,जंगल की आग वोरोनिश क्षेत्र,2026-06-13T06:38:00+00:00,Russia,0.3001483237641246,0,1,hi,ESB,Europe
 '6c7c509ea5',extremes,Flood,#030ba1,wmo,बाढ़ स्वीडन,2026-06-13T06:38:00+00:00,Sweden,0.3001415703602295,0,1,hi,NEU,Europe
 'a23d616ae5',extremes,Wildfire,#d60d2b,wmo,सखा गणराज्य का जंगल की आग का केंद्र,2026-06-18T07:16:00+00:00,Russia,0.3001181121529861,0,1,hi,ESB,Europe
@@ -230,9 +232,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ecac020f22',extremes,Earthquake,#870007,usgs,भूकंप ला सेरेना,2026-06-25T06:32:00+00:00,Chile,0.3000434068074372,0,1,hi,SWS,South-America
 '9fc8372048',extremes,Storm,#b3b2b1,wmo,तूफ़ान जिम्बाब्वे,2026-06-24T06:30:00+00:00,Zimbabwe,0.3000146422563527,0,1,hi,ESAF,Africa
 '19312d8f44',extremes,Snow&Ice,#d60d2b,wmo,ठंढ न्यूज़ीलैंड,2026-06-24T06:30:00+00:00,New Zealand,0.2999811894496025,0,1,hi,NZ,Oceania
+'d053965012',extremes,Fog,#d60d2b,wmo,कोहरा जिम्बाब्वे,2026-07-02T06:24:00+00:00,Zimbabwe,0.2999632223300429,0,1,hi,ESAF,Africa
 '0f8f3ed16f',extremes,Fog,#d60d2b,wmo,कोहरा नोवोसिबिर्स्क क्षेत्र,2026-06-12T07:05:00+00:00,Russia,0.2999468583031499,0,1,hi,ESB,Europe
 '854af57bd3',extremes,Fog,#d60d2b,wmo,कनाडा में कोहरा,2026-06-24T06:30:00+00:00,Canada,0.2998278253343798,0,1,hi,NEN,North-America
 '82e3d2a385',extremes,Flood,#030ba1,acwe,उच्च जल स्तर दक्षिण ऑस्ट्रेलिया,2026-06-15T08:36:00+00:00,Australia,0.2998151207592392,0,1,hi,SAU,Oceania
+'b7181b9ed3',extremes,Storm,#b3b2b1,wmo,तूफ़ान इनवर्नेस काउंटी माबौ और उत्तर,2026-06-16T08:27:00+00:00,Canada,0.2998003208572942,0,1,hi,NEN,North-America
+'828fe03351',extremes,Snow&Ice,#d60d2b,wmo,बर्फ न्यू साउथ वेल्स बर्फीले पहाड़,2026-06-19T07:39:00+00:00,Australia,0.2997645087082268,0,1,hi,CAU,Oceania
+'0dedeac327',extremes,Precipitation,#d60d2b,wmo,फ़ॉर्डलैंड में मूसलाधार बारिश,2026-06-19T07:39:00+00:00,New Zealand,0.29975510430199476,0,1,hi,NZ,Oceania
+'fb2669902d',extremes,Wildfire,#d60d2b,wmo,जंगल की आग समारा क्षेत्र,2026-06-17T07:33:00+00:00,Russia,0.29975155219072136,0,1,hi,ESB,Europe
+'6eb74257af',extremes,Storm,#b3b2b1,wmo,कुवैत में तूफ़ान की लहर,2026-06-16T08:27:00+00:00,Kuwait,0.29975067917429243,0,1,hi,ARP,Asia
+'f1c9dfa3a2',extremes,Earthquake,#870007,usgs,भूकंप निकोल्स्की,2026-06-27T06:08:00+00:00,Alaska,0.2997494039126939,0,1,hi,NPO,Pacific Ocean
+'3e806f55ec',extremes,Precipitation,#d60d2b,wmo,वेस्टलैंड की श्रेणियों में भारी वर्षा,2026-06-19T07:39:00+00:00,New Zealand,0.29973050891225556,0,1,hi,NZ,Oceania
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,रेतीला तूफ़ान,2026-06-09T06:32:00+00:00,,0.2976037729038604,1,1,hi,,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,जंगल की आग,2026-06-19T07:39:00+00:00,,0.2951503229664936,1,1,hi,,
 'de35e746b9',extremes,Earthquake,#870007,usgs,भूकंप वांगजिंग,2026-06-19T07:39:00+00:00,India,0.294831866095312,2,1,hi,SAS,Asia
