@@ -1,436 +1,544 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Today,Today,DATE,,,en,75.29999999999994
-today,today,DATE,,,en,48.49999999999995
-one,one,CARDINAL,,,en,44.19999999999997
-Tomorrow,Tomorrow,DATE,,,en,28.699999999999996
+Today,Today,DATE,,,en,81.79999999999991
+today,today,DATE,,,en,53.09999999999993
+one,one,CARDINAL,,,en,45.89999999999996
+Tomorrow,Tomorrow,DATE,,,en,31.199999999999996
 winter,winter,DATE,,,en,26.9
-first,first,ORDINAL,,,en,24.400000000000006
-Indian,Indian,NORP,,,en,22.40000000000001
-two,two,CARDINAL,,,en,21.199999999999996
-summer,summer,DATE,,,en,20.7
+first,first,ORDINAL,,,en,25.300000000000004
+Indian,Indian,NORP,,,en,23.60000000000001
+summer,summer,DATE,,,en,21.599999999999998
+two,two,CARDINAL,,,en,21.499999999999996
 Wednesday,Wednesday,DATE,,,en,20.600000000000005
 Monday,Monday,DATE,,,en,19.6
 morning,morning,TIME,,,en,18.300000000000004
 2026,2026,DATE,,,en,18.200000000000003
+the coming days,the coming days,DATE,,,en,17.900000000000006
 13,13,CARDINAL,,,en,17.800000000000004
 Friday,Friday,DATE,,,en,17.300000000000004
-the coming days,the coming days,DATE,,,en,17.100000000000005
+20,20,CARDINAL,,,en,16.600000000000005
+Thursday,Thursday,DATE,,,en,16.500000000000004
 April,April,DATE,,,en,16.3
-Thursday,Thursday,DATE,,,en,15.600000000000005
 the day,the day,DATE,,,en,15.400000000000007
-20,20,CARDINAL,,,en,15.000000000000005
+Two,Two,CARDINAL,,,en,14.600000000000003
 Sunday,Sunday,DATE,,,en,14.200000000000006
 Saturday,Saturday,DATE,,,en,13.700000000000003
-Two,Two,CARDINAL,,,en,13.700000000000003
 February,February,DATE,,,en,13.600000000000003
 Tuesday,Tuesday,DATE,,,en,13.500000000000005
 7,7,CARDINAL,,,en,13.300000000000002
+15,15,CARDINAL,,,en,12.900000000000004
 2,2,CARDINAL,,,en,12.100000000000003
 12,12,CARDINAL,,,en,11.800000000000004
 5,5,CARDINAL,,,en,11.700000000000001
 50,50,CARDINAL,,,en,11.400000000000002
-15,15,CARDINAL,,,en,11.300000000000002
+17,17,CARDINAL,,,en,11.300000000000002
+more than 20,more than 20,CARDINAL,,,en,10.800000000000002
 16,16,CARDINAL,,,en,10.600000000000003
+11,11,CARDINAL,,,en,10.600000000000003
 the next few days,the next few days,DATE,,,en,10.500000000000004
-17,17,CARDINAL,,,en,10.500000000000002
-more than 20,more than 20,CARDINAL,,,en,9.200000000000001
-11,11,CARDINAL,,,en,9.000000000000002
+second,second,ORDINAL,,,en,9.1
 8,8,CARDINAL,,,en,8.800000000000002
-second,second,ORDINAL,,,en,8.8
 tomorrow,tomorrow,DATE,,,en,8.7
 7.5,7.5,CARDINAL,,,en,8.200000000000001
 40,40,CARDINAL,,,en,8.100000000000001
 19,19,CARDINAL,,,en,8.1
 the summer season,the summer season,DATE,,,en,7.999999999999999
+9,9,CARDINAL,,,en,7.800000000000001
 the last few days,the last few days,DATE,,,en,7.8
 night,night,TIME,,,en,7.699999999999998
 March,March,DATE,,,en,7.400000000000001
+UP-Bihar,UP-Bihar,NORP,,,en,7.300000000000001
+25,25,CARDINAL,,,en,7.200000000000001
 2025,2025,CARDINAL,,,en,7.1
 the next 48 hours,the next 48 hours,TIME,,,en,7.099999999999999
-9,9,CARDINAL,,,en,6.9
 10,10,CARDINAL,,,en,6.899999999999997
 45 degrees,45 degrees,QUANTITY,,,en,6.8
 May 28,May 28,DATE,,,en,6.700000000000001
 the next three days,the next three days,DATE,,,en,6.6000000000000005
 January,January,DATE,,,en,6.6000000000000005
-UP-Bihar,UP-Bihar,NORP,,,en,6.4
-25,25,CARDINAL,,,en,6.300000000000001
+several days,several days,DATE,,,en,6.5
 May 30,May 30,DATE,,,en,6.3
 the last 24 hours,the last 24 hours,TIME,,,en,6.299999999999999
 this week,this week,DATE,,,en,6.200000000000001
 60,60,CARDINAL,,,en,6.199999999999999
-Dhurandhar,Dhurandhar,WORK_OF_ART,,,en,6.199999999999999
 May 18,May 18,DATE,,,en,6.199999999999999
-June 13,June 13,DATE,,,en,6.1
+Dhurandhar,Dhurandhar,WORK_OF_ART,,,en,6.199999999999999
 these days,these days,DATE,,,en,6.1
+June 13,June 13,DATE,,,en,6.1
+6,6,CARDINAL,,,en,6.000000000000001
 May 13,May 13,DATE,,,en,5.999999999999999
-daily,daily,DATE,,,en,5.999999999999999
 the next 24 hours,the next 24 hours,TIME,,,en,5.999999999999999
-Dhurandhar 2,Dhurandhar 2,PRODUCT,,,en,5.8999999999999995
+daily,daily,DATE,,,en,5.999999999999999
 3,3,CARDINAL,,,en,5.8999999999999995
+Dhurandhar 2,Dhurandhar 2,PRODUCT,,,en,5.8999999999999995
+14,14,CARDINAL,,,en,5.800000000000001
 thousands,thousands,CARDINAL,,,en,5.6000000000000005
-several days,several days,DATE,,,en,5.6
-May 7,May 7,DATE,,,en,5.5
 4.6,4.6,CARDINAL,,,en,5.5
-the morning,the morning,TIME,,,en,5.499999999999999
+May 7,May 7,DATE,,,en,5.5
 June 11,June 11,DATE,,,en,5.499999999999999
-the weekend,the weekend,DATE,,,en,5.4
+the morning,the morning,TIME,,,en,5.499999999999999
 May 12,May 12,DATE,,,en,5.4
+the weekend,the weekend,DATE,,,en,5.4
 Bollywood,Bollywood,NORP,0.5365961199294532,0.8072089947089948,en,5.3999999999999995
 May 27,May 27,DATE,,,en,5.3
 42,42,CARDINAL,,,en,5.200000000000001
 June 4,June 4,DATE,,,en,5.2
 24 hours,24 hours,TIME,,,en,5.199999999999999
-6,6,CARDINAL,,,en,5.1000000000000005
 May 14,May 14,DATE,,,en,5.1
-May 25,May 25,DATE,,,en,5.0
+June 21,June 21,DATE,,,en,5.0
 May 19,May 19,DATE,,,en,5.0
+May 25,May 25,DATE,,,en,5.0
 Hindu,Hindu,NORP,,,en,4.999999999999999
-14,14,CARDINAL,,,en,4.9
+4,4,CARDINAL,,,en,4.9
 evening,evening,TIME,,,en,4.9
 Himalayan,Himalayan,NORP,,,en,4.8999999999999995
+Thousands,Thousands,CARDINAL,,,en,4.8
 this year,this year,DATE,,,en,4.6
 22,22,CARDINAL,,,en,4.6
 June 12,June 12,DATE,,,en,4.6
 June 1,June 1,DATE,,,en,4.5
-29,29,CARDINAL,,,en,4.4
-These days,These days,DATE,,,en,4.4
+June 9,June 9,DATE,,,en,4.5
+three,three,CARDINAL,,,en,4.5
 yesterday,yesterday,DATE,,,en,4.4
+These days,These days,DATE,,,en,4.4
+29,29,CARDINAL,,,en,4.4
 May,May,DATE,,,en,4.3999999999999995
-May 15,May 15,DATE,,,en,4.3
-the next 5 days,the next 5 days,DATE,,,en,4.3
 the month of March,the month of March,DATE,,,en,4.3
 June 15,June 15,DATE,,,en,4.3
+May 15,May 15,DATE,,,en,4.3
+the next 5 days,the next 5 days,DATE,,,en,4.3
+One,One,CARDINAL,,,en,4.3
 Summer,Summer,DATE,,,en,4.2
 26,26,CARDINAL,,,en,4.1000000000000005
-4,4,CARDINAL,,,en,4.0
-May 5,May 5,DATE,,,en,4.0
-May 16,May 16,DATE,,,en,4.0
 seven,seven,CARDINAL,,,en,4.0
-One,One,CARDINAL,,,en,3.9999999999999996
+May 16,May 16,DATE,,,en,4.0
+May 5,May 5,DATE,,,en,4.0
 summer holidays,summer holidays,DATE,,,en,3.9000000000000004
 40°,40°,PERCENT,,,en,3.9
-Thousands,Thousands,CARDINAL,,,en,3.9
 zero,zero,CARDINAL,,,en,3.9
 third,third,ORDINAL,,,en,3.8
-45 degrees Celsius,45 degrees Celsius,QUANTITY,,,en,3.7
+21,21,CARDINAL,,,en,3.8
 four,four,CARDINAL,,,en,3.7
+45 degrees Celsius,45 degrees Celsius,QUANTITY,,,en,3.7
 the month of February,the month of February,DATE,,,en,3.6999999999999997
+6.7,6.7,CARDINAL,,,en,3.6999999999999997
+5.9,5.9,CARDINAL,,,en,3.6999999999999997
 7.4,7.4,CARDINAL,,,en,3.6999999999999997
 7.2,7.2,CARDINAL,,,en,3.6999999999999997
-5.9,5.9,CARDINAL,,,en,3.6999999999999997
-6.7,6.7,CARDINAL,,,en,3.6999999999999997
-more than 19,more than 19,CARDINAL,,,en,3.6
+6 am,6 am,TIME,,,en,3.6999999999999993
+June 14,June 14,DATE,,,en,3.6
 a few hours,a few hours,TIME,,,en,3.6
-11 years,11 years,DATE,,,en,3.6
+more than 19,more than 19,CARDINAL,,,en,3.6
 April 21,April 21,DATE,,,en,3.6
-May 22,May 22,DATE,,,en,3.5999999999999996
-three,three,CARDINAL,,,en,3.5999999999999996
-a few days,a few days,DATE,,,en,3.5999999999999996
+11 years,11 years,DATE,,,en,3.6
 more than 17,more than 17,CARDINAL,,,en,3.5999999999999996
+May 22,May 22,DATE,,,en,3.5999999999999996
+a few days,a few days,DATE,,,en,3.5999999999999996
 World Cup,World Cup,EVENT,,,en,3.599999999999999
-the month of April,the month of April,DATE,,,en,3.5
 next week,next week,DATE,,,en,3.5
-June 21,June 21,DATE,,,en,3.4000000000000004
+June 23,June 23,DATE,,,en,3.5
+the month of April,the month of April,DATE,,,en,3.5
 45,45,CARDINAL,,,en,3.4000000000000004
-millions,millions,CARDINAL,,,en,3.3999999999999995
 more than 200,more than 200,CARDINAL,,,en,3.3999999999999995
-last year,last year,DATE,,,en,3.3
+millions,millions,CARDINAL,,,en,3.3999999999999995
 the winter season,the winter season,DATE,,,en,3.3
-the next two days,the next two days,DATE,,,en,3.0999999999999996
+last year,last year,DATE,,,en,3.3
+18,18,CARDINAL,,,en,3.3
 May 10,May 10,DATE,,,en,3.0999999999999996
-21,21,CARDINAL,,,en,3.0
-month,month,DATE,,,en,3.0
+the next two days,the next two days,DATE,,,en,3.0999999999999996
+year,year,DATE,,,en,3.0
 June,June,DATE,,,en,3.0
+27,27,CARDINAL,,,en,3.0
+month,month,DATE,,,en,3.0
 the T20 World Cup,the T20 World Cup,EVENT,,,en,2.9999999999999996
 T20 World Cup,T20 World Cup,EVENT,,,en,2.9000000000000004
-30,30,CARDINAL,,,en,2.9
+June 6,June 6,DATE,,,en,2.9000000000000004
 Christmas,Christmas,DATE,,,en,2.9
+30,30,CARDINAL,,,en,2.9
 May 31,May 31,DATE,,,en,2.9
 every year,every year,DATE,,,en,2.8000000000000003
-164,164,CARDINAL,,,en,2.8
-the second weekend,the second weekend,DATE,,,en,2.8
-7.8,7.8,CARDINAL,,,en,2.8
-90,90,CARDINAL,,,en,2.8
-June 7,June 7,DATE,,,en,2.8
-1,1,CARDINAL,,,en,2.8
-"Monday, April 20","Monday, April 20",DATE,,,en,2.8
-80 km/hour,80 km/hour,QUANTITY,,,en,2.8
-February 18,February 18,DATE,,,en,2.8
-30 degrees,30 degrees,QUANTITY,,,en,2.8
-235,235,CARDINAL,,,en,2.8
-early in the morning,early in the morning,TIME,,,en,2.8
-1500,1500,CARDINAL,,,en,2.8
-149 years ago,149 years ago,DATE,,,en,2.8
 5.2,5.2,CARDINAL,,,en,2.8
+June 3,June 3,DATE,,,en,2.8
+30 degrees,30 degrees,QUANTITY,,,en,2.8
+149 years ago,149 years ago,DATE,,,en,2.8
+June 18,June 18,DATE,,,en,2.8
 June 2,June 2,DATE,,,en,2.8
+June 20,June 20,DATE,,,en,2.8
+the second weekend,the second weekend,DATE,,,en,2.8
+"Monday, April 20","Monday, April 20",DATE,,,en,2.8
+this day,this day,DATE,,,en,2.8
+decades,decades,DATE,,,en,2.8
+May 6,May 6,DATE,,,en,2.8
+164,164,CARDINAL,,,en,2.8
+80 km/hour,80 km/hour,QUANTITY,,,en,2.8
+early in the morning,early in the morning,TIME,,,en,2.8
+7.8,7.8,CARDINAL,,,en,2.8
+1,1,CARDINAL,,,en,2.8
 the hottest day,the hottest day,DATE,,,en,2.8
 First,First,ORDINAL,,,en,2.8
-this day,this day,DATE,,,en,2.8
-June 9,June 9,DATE,,,en,2.8
-June 3,June 3,DATE,,,en,2.8
-June 20,June 20,DATE,,,en,2.8
+235,235,CARDINAL,,,en,2.8
+June 7,June 7,DATE,,,en,2.8
 the next few hours,the next few hours,TIME,,,en,2.8
-May 6,May 6,DATE,,,en,2.8
-months,months,DATE,,,en,2.7
-the next 7 days,the next 7 days,DATE,,,en,2.7
+February 18,February 18,DATE,,,en,2.8
+90,90,CARDINAL,,,en,2.8
+1500,1500,CARDINAL,,,en,2.8
+more than 15,more than 15,CARDINAL,,,en,2.7
 May 29,May 29,DATE,,,en,2.7
-April 12,April 12,DATE,,,en,2.7
-the evening,the evening,TIME,,,en,2.7
-June 14,June 14,DATE,,,en,2.7
 the next 4 days,the next 4 days,DATE,,,en,2.7
+the evening,the evening,TIME,,,en,2.7
 0.6 degrees Celsius,0.6 degrees Celsius,QUANTITY,,,en,2.7
+the next 7 days,the next 7 days,DATE,,,en,2.7
+April 12,April 12,DATE,,,en,2.7
+months,months,DATE,,,en,2.7
 the month of January,the month of January,DATE,,,en,2.7
 June 8,June 8,DATE,,,en,2.6
-44,44,CARDINAL,,,en,2.6
-Punjab,Punjab,NORP,-0.008211678832116789,0.05930656934306569,en,2.6
-23,23,CARDINAL,,,en,2.6
-Dibrugarh Airport,Dibrugarh Airport,FAC,,,en,2.6
-June 23,June 23,DATE,,,en,2.6
 44 degrees Celsius,44 degrees Celsius,QUANTITY,,,en,2.6
-June 6,June 6,DATE,,,en,2.6
 54,54,DATE,,,en,2.6
 next 3 days,next 3 days,DATE,,,en,2.6
+more than 22,more than 22,CARDINAL,,,en,2.6
+44,44,CARDINAL,,,en,2.6
+Dibrugarh Airport,Dibrugarh Airport,FAC,,,en,2.6
+Punjab,Punjab,NORP,-0.008211678832116789,0.05930656934306569,en,2.6
+23,23,CARDINAL,,,en,2.6
 the first week of April,the first week of April,DATE,,,en,2.5999999999999996
 T20 World Cup 2026,T20 World Cup 2026,EVENT,,,en,2.5
 44 degrees,44 degrees,QUANTITY,,,en,2.5
 the World Cup,the World Cup,EVENT,,,en,2.4999999999999996
 96,96,CARDINAL,,,en,2.4
 Dhurandhar 2',Dhurandhar 2',WORK_OF_ART,,,en,2.3
+afternoon,afternoon,TIME,,,en,2.2
+weekly,weekly,DATE,,,en,2.2
 Indians,Indians,NORP,,,en,2.2
 Republic Day,Republic Day,DATE,,,en,2.2
-weekly,weekly,DATE,,,en,2.2
-afternoon,afternoon,TIME,,,en,2.2
+the coming months,the coming months,DATE,,,en,2.2
 January 18,January 18,DATE,,,en,2.2
-A few days ago,A few days ago,DATE,,,en,2.1999999999999997
-January 16,January 16,DATE,,,en,2.1999999999999997
-61,61,MONEY,,,en,2.1999999999999997
-two days,two days,DATE,,,en,2.1999999999999997
-early March,early March,DATE,,,en,2.1999999999999997
-27,27,CARDINAL,,,en,2.1999999999999997
 100,100,CARDINAL,,,en,2.1999999999999997
+A few days ago,A few days ago,DATE,,,en,2.1999999999999997
+61,61,MONEY,,,en,2.1999999999999997
+early March,early March,DATE,,,en,2.1999999999999997
 four years,four years,DATE,,,en,2.1999999999999997
-rainy season,rainy season,DATE,,,en,2.1
-the first week,the first week,DATE,,,en,2.1
-the last few years,the last few years,DATE,,,en,2.1
-this morning,this morning,TIME,,,en,2.1
+two days,two days,DATE,,,en,2.1999999999999997
+January 16,January 16,DATE,,,en,2.1999999999999997
 Winter,Winter,DATE,,,en,2.1
+the first week,the first week,DATE,,,en,2.1
+this morning,this morning,TIME,,,en,2.1
+the last few years,the last few years,DATE,,,en,2.1
+rainy season,rainy season,DATE,,,en,2.1
 the next one week,the next one week,DATE,,,en,2.1
-year,year,DATE,,,en,2.1
 the T20 World Cup 2026,the T20 World Cup 2026,EVENT,,,en,2.1
-the last three years,the last three years,DATE,,,en,1.9000000000000001
-Noida International Airport,Noida International Airport,FAC,,,en,1.9000000000000001
 more than 21,more than 21,CARDINAL,,,en,1.9000000000000001
+crores,crores,CARDINAL,,,en,1.9000000000000001
 This year,This year,DATE,,,en,1.9000000000000001
-Rs 350 crore,Rs 350 crore,MONEY,,,en,1.9
-23rd,23rd,DATE,,,en,1.9
-10 days,10 days,DATE,,,en,1.9
+Noida International Airport,Noida International Airport,FAC,,,en,1.9000000000000001
+the last three years,the last three years,DATE,,,en,1.9000000000000001
+Coldest day,Coldest day,DATE,,,en,1.9
+up to,up to,CARDINAL,,,en,1.9
+day 12,day 12,DATE,,,en,1.9
+June 28,June 28,DATE,,,en,1.9
+more than 40,more than 40,CARDINAL,,,en,1.9
+4 days,4 days,DATE,,,en,1.9
+26th,26th,ORDINAL,,,en,1.9
+"Tuesday, April 7","Tuesday, April 7",DATE,,,en,1.9
+3.6,3.6,CARDINAL,,,en,1.9
+80 thousand,80 thousand,CARDINAL,,,en,1.9
+the age of 23,the age of 23,DATE,,,en,1.9
+40 seconds,40 seconds,TIME,,,en,1.9
+117,117,CARDINAL,,,en,1.9
+104,104,CARDINAL,,,en,1.9
+41 crore,41 crore,CARDINAL,,,en,1.9
+2 June,2 June,DATE,,,en,1.9
+Hundreds,Hundreds,CARDINAL,,,en,1.9
 1973,1973,DATE,,,en,1.9
 four days,four days,DATE,,,en,1.9
-117,117,CARDINAL,,,en,1.9
-24,24,CARDINAL,,,en,1.9
-the month of May,the month of May,DATE,,,en,1.9
-4 days,4 days,DATE,,,en,1.9
-Atal Tunnel,Atal Tunnel,FAC,,,en,1.9
-26th,26th,ORDINAL,,,en,1.9
-3.6,3.6,CARDINAL,,,en,1.9
-7.6,7.6,CARDINAL,,,en,1.9
-more than 1500,more than 1500,CARDINAL,,,en,1.9
-South American,South American,NORP,,,en,1.9
-the second week of February,the second week of February,DATE,,,en,1.9
-7 days,7 days,DATE,,,en,1.9
-last two months,last two months,DATE,,,en,1.9
-more than 12,more than 12,CARDINAL,,,en,1.9
-day 12,day 12,DATE,,,en,1.9
-more than 15,more than 15,CARDINAL,,,en,1.9
-Mexican,Mexican,NORP,,,en,1.9
-the end of February,the end of February,DATE,,,en,1.9
-June 18,June 18,DATE,,,en,1.9
-June 5,June 5,DATE,,,en,1.9
-2024,2024,DATE,,,en,1.9
-206,206,CARDINAL,,,en,1.9
-104,104,CARDINAL,,,en,1.9
-the next 4 to 5 days,the next 4 to 5 days,DATE,,,en,1.9
-more than 10 thousand,more than 10 thousand,CARDINAL,,,en,1.9
-a week,a week,DATE,,,en,1.9
-June 17,June 17,DATE,,,en,1.9
-the beginning of March,the beginning of March,DATE,,,en,1.9
-8.2,8.2,CARDINAL,,,en,1.9
-Israeli,Israeli,NORP,,,en,1.9
-May 17,May 17,DATE,,,en,1.9
-4.2,4.2,CARDINAL,,,en,1.9
-just 4 hours,just 4 hours,TIME,,,en,1.9
-next 48 hours,next 48 hours,TIME,,,en,1.9
-"Tuesday, April 7","Tuesday, April 7",DATE,,,en,1.9
+23rd,23rd,DATE,,,en,1.9
+six,six,CARDINAL,,,en,1.9
+four days ago,four days ago,DATE,,,en,1.9
 the next 24 to 48 hours,the next 24 to 48 hours,DATE,,,en,1.9
-108,108,CARDINAL,,,en,1.9
-up to,up to,CARDINAL,,,en,1.9
-"May 11, 2026","May 11, 2026",DATE,,,en,1.9
-Last year,Last year,DATE,,,en,1.9
-80 thousand,80 thousand,CARDINAL,,,en,1.9
-the next 2-3 days,the next 2-3 days,DATE,,,en,1.9
+June 5,June 5,DATE,,,en,1.9
+March 30,March 30,DATE,,,en,1.9
+last two months,last two months,DATE,,,en,1.9
+the beginning of March,the beginning of March,DATE,,,en,1.9
+more than 1500,more than 1500,CARDINAL,,,en,1.9
 1580 feet,1580 feet,QUANTITY,,,en,1.9
-Coldest day,Coldest day,DATE,,,en,1.9
+just 4 hours,just 4 hours,TIME,,,en,1.9
+the second week of February,the second week of February,DATE,,,en,1.9
+June 24,June 24,DATE,,,en,1.9
+206,206,CARDINAL,,,en,1.9
+South American,South American,NORP,,,en,1.9
+7.6,7.6,CARDINAL,,,en,1.9
+24,24,CARDINAL,,,en,1.9
+10 degrees,10 degrees,QUANTITY,,,en,1.9
+the next 4 to 5 days,the next 4 to 5 days,DATE,,,en,1.9
+May 17,May 17,DATE,,,en,1.9
+108,108,CARDINAL,,,en,1.9
+169,169,CARDINAL,,,en,1.9
+Israeli,Israeli,NORP,,,en,1.9
+Rs 350 crore,Rs 350 crore,MONEY,,,en,1.9
+a week,a week,DATE,,,en,1.9
+Yesterday,Yesterday,DATE,,,en,1.9
+more than 10 thousand,more than 10 thousand,CARDINAL,,,en,1.9
+next 48 hours,next 48 hours,TIME,,,en,1.9
+more than 100,more than 100,CARDINAL,,,en,1.9
+10 days,10 days,DATE,,,en,1.9
+4.2,4.2,CARDINAL,,,en,1.9
+Atal Tunnel,Atal Tunnel,FAC,,,en,1.9
+IPL 2026,IPL 2026,EVENT,,,en,1.9
+6th,6th,ORDINAL,,,en,1.9
+8.2,8.2,CARDINAL,,,en,1.9
+Last year,Last year,DATE,,,en,1.9
+"May 11, 2026","May 11, 2026",DATE,,,en,1.9
+the end of February,the end of February,DATE,,,en,1.9
+more than 12,more than 12,CARDINAL,,,en,1.9
 Hindi,Hindi,NORP,-0.01984126984126984,0.0376984126984127,en,1.9
 April 7,April 7,DATE,,,en,1.9
-March 30,March 30,DATE,,,en,1.9
+7 days,7 days,DATE,,,en,1.9
+June 17,June 17,DATE,,,en,1.9
+Mexican,Mexican,NORP,,,en,1.9
 3rd,3rd,ORDINAL,,,en,1.9
-6 years,6 years,DATE,,,en,1.9
+the next 2-3 days,the next 2-3 days,DATE,,,en,1.9
+2024,2024,DATE,,,en,1.9
+the month of May,the month of May,DATE,,,en,1.9
+2026-27,2026-27,DATE,,,en,1.9
 56,56,CARDINAL,,,en,1.9
 a year,a year,DATE,,,en,1.9
-10 degrees,10 degrees,QUANTITY,,,en,1.9
-Hundreds,Hundreds,CARDINAL,,,en,1.9
-2 June,2 June,DATE,,,en,1.9
-Yesterday,Yesterday,DATE,,,en,1.9
-IPL 2026,IPL 2026,EVENT,,,en,1.9
-more than 40,more than 40,CARDINAL,,,en,1.9
-decades,decades,DATE,,,en,1.9
-6th,6th,ORDINAL,,,en,1.9
-40 seconds,40 seconds,TIME,,,en,1.9
-four days ago,four days ago,DATE,,,en,1.9
-3 days,3 days,DATE,,,en,1.8
-more than 50,more than 50,CARDINAL,,,en,1.8
+6 years,6 years,DATE,,,en,1.9
 Sunday night,Sunday night,TIME,,,en,1.8
-14 years,14 years,DATE,,,en,1.8
-28th,28th,DATE,,,en,1.8
-the last several days,the last several days,DATE,,,en,1.8
-summer season,summer season,DATE,,,en,1.8
-45°,45°,QUANTITY,,,en,1.8
-the rainy season,the rainy season,DATE,,,en,1.8
-48 hours,48 hours,TIME,,,en,1.8
-42 degrees Celsius,42 degrees Celsius,QUANTITY,,,en,1.8
-late night,late night,TIME,,,en,1.8
-May 20,May 20,DATE,,,en,1.8
-43,43,CARDINAL,,,en,1.8
-the next several days,the next several days,DATE,,,en,1.8
-more than 35,more than 35,CARDINAL,,,en,1.8
-the next four days,the next four days,DATE,,,en,1.8
-April 17,April 17,DATE,,,en,1.8
-3 degrees,3 degrees,QUANTITY,,,en,1.8
-Tulsi,Tulsi,PRODUCT,,,en,1.8
-21 degrees,21 degrees,QUANTITY,,,en,1.8
-72,72,MONEY,,,en,1.8
-Wednesday morning,Wednesday morning,TIME,,,en,1.8
-Six,Six,CARDINAL,,,en,1.8
-111,111,CARDINAL,,,en,1.8
-46°C,46°C,QUANTITY,,,en,1.8
-May 26,May 26,DATE,,,en,1.8
-40 degrees,40 degrees,QUANTITY,,,en,1.8
-the last week of April,the last week of April,DATE,,,en,1.8
-CM Yogi,CM Yogi,WORK_OF_ART,,,en,1.8
-December 12,December 12,DATE,,,en,1.8
-5.1,5.1,CARDINAL,,,en,1.8
-Lodhi Road,Lodhi Road,FAC,,,en,1.8
 4 degrees,4 degrees,QUANTITY,,,en,1.8
-the hottest years,the hottest years,DATE,,,en,1.8
+43,43,CARDINAL,,,en,1.8
+May 26,May 26,DATE,,,en,1.8
+3 days,3 days,DATE,,,en,1.8
+3 degrees,3 degrees,QUANTITY,,,en,1.8
+the rainy season,the rainy season,DATE,,,en,1.8
+72,72,MONEY,,,en,1.8
+5.1,5.1,CARDINAL,,,en,1.8
 5.8 degrees,5.8 degrees,QUANTITY,,,en,1.8
+45°,45°,QUANTITY,,,en,1.8
+summer season,summer season,DATE,,,en,1.8
+14 years,14 years,DATE,,,en,1.8
+Six,Six,CARDINAL,,,en,1.8
+28th,28th,DATE,,,en,1.8
+46°C,46°C,QUANTITY,,,en,1.8
+21 degrees,21 degrees,QUANTITY,,,en,1.8
+Tulsi,Tulsi,PRODUCT,,,en,1.8
+late night,late night,TIME,,,en,1.8
+the last several days,the last several days,DATE,,,en,1.8
+Wednesday morning,Wednesday morning,TIME,,,en,1.8
+more than 35,more than 35,CARDINAL,,,en,1.8
+June 27,June 27,DATE,,,en,1.8
+December 12,December 12,DATE,,,en,1.8
+the next four days,the next four days,DATE,,,en,1.8
+CM Yogi,CM Yogi,WORK_OF_ART,,,en,1.8
+the last week of April,the last week of April,DATE,,,en,1.8
+May 20,May 20,DATE,,,en,1.8
+more than 50,more than 50,CARDINAL,,,en,1.8
+40 degrees,40 degrees,QUANTITY,,,en,1.8
+April 17,April 17,DATE,,,en,1.8
+the hottest years,the hottest years,DATE,,,en,1.8
+Lodhi Road,Lodhi Road,FAC,,,en,1.8
+111,111,CARDINAL,,,en,1.8
+the next several days,the next several days,DATE,,,en,1.8
+42 degrees Celsius,42 degrees Celsius,QUANTITY,,,en,1.8
+48 hours,48 hours,TIME,,,en,1.8
+all day,all day,DATE,,,en,1.8
 this weekend,this weekend,DATE,,,en,1.7
 12th,12th,ORDINAL,,,en,1.6
-18,18,CARDINAL,,,en,1.6
-Gurugram,Gurugram,NORP,,,en,1.6
-this season,this season,DATE,,,en,1.6
-crores,crores,CARDINAL,,,en,1.6
-6 am,6 am,TIME,,,en,1.6
+Pakistani,Pakistani,NORP,,,en,1.6
 fifth,fifth,ORDINAL,,,en,1.6
+this season,this season,DATE,,,en,1.6
+Gurugram,Gurugram,NORP,,,en,1.6
 May 11,May 11,DATE,,,en,1.6
 April 2,April 2,DATE,,,en,1.5
 five,five,CARDINAL,,,en,1.4000000000000001
-Pallekele International Cricket Stadium,Pallekele International Cricket Stadium,FAC,,,en,1.3
-40°C,40°C,PERCENT,,,en,1.3
-January 25,January 25,DATE,,,en,1.3
-dozens,dozens,CARDINAL,,,en,1.3
-March 11,March 11,DATE,,,en,1.3
-35,35,CARDINAL,,,en,1.3
-January 1,January 1,DATE,,,en,1.3
-Pakistani,Pakistani,NORP,,,en,1.3
-5 years,5 years,DATE,,,en,1.3
-183,183,CARDINAL,,,en,1.3
-February 15,February 15,DATE,,,en,1.3
-Asian,Asian,NORP,,,en,1.3
-Gujarat Titans,Gujarat Titans,NORP,,,en,1.3
-"Wednesday, February 18","Wednesday, February 18",DATE,,,en,1.3
-Constitution,Constitution,LAW,,,en,1.3
-the next 72 hours,the next 72 hours,TIME,,,en,1.3
-March 8,March 8,DATE,,,en,1.3
 26 January,26 January,DATE,,,en,1.3
-Narendra Modi Stadium,Narendra Modi Stadium,FAC,,,en,1.3
-20%,20%,PERCENT,,,en,1.3
-fourth,fourth,ORDINAL,,,en,1.3
-puja,puja,NORP,,,en,1.3
-2022,2022,DATE,,,en,1.3
-144,144,CARDINAL,,,en,1.3
-Every year,Every year,DATE,,,en,1.3
-September,September,DATE,,,en,1.3
-ICC,ICC,NORP,0.0,0.014492753623188406,en,1.3
-April 10,April 10,DATE,,,en,1.3
-India AI Impact Summit 2026,India AI Impact Summit 2026,EVENT,,,en,1.3
-the month of June,the month of June,DATE,,,en,1.3
-Season 2,Season 2,DATE,,,en,1.3
-the end of January,the end of January,DATE,,,en,1.3
-315,315,CARDINAL,,,en,1.3
-6 am in the morning,6 am in the morning,TIME,,,en,1.3
-25th April,25th April,DATE,,,en,1.3
-April 20,April 20,DATE,,,en,1.3
-weekend,weekend,DATE,,,en,1.3
-Last night,Last night,TIME,,,en,1.3
-December,December,DATE,,,en,1.3
-the last few months,the last few months,DATE,,,en,1.3
-the night,the night,TIME,,,en,1.3
-the coming hours,the coming hours,TIME,,,en,1.3
-Rs 1 crore,Rs 1 crore,MONEY,,,en,1.3
 this month,this month,DATE,,,en,1.3
-70 kmph,70 kmph,QUANTITY,,,en,1.3
-48 degrees,48 degrees,QUANTITY,,,en,1.3
-40 degrees Celsius,40 degrees Celsius,QUANTITY,,,en,1.3
-Winter Car,Winter Car,WORK_OF_ART,,,en,1.3
-10th,10th,ORDINAL,,,en,1.3
-minutes,minutes,TIME,,,en,1.3
-3.6 degrees,3.6 degrees,QUANTITY,,,en,1.3
-the 90s,the 90s,DATE,,,en,1.3
+March 11,March 11,DATE,,,en,1.3
+the coming hours,the coming hours,TIME,,,en,1.3
+5 years,5 years,DATE,,,en,1.3
+February 15,February 15,DATE,,,en,1.3
+2022,2022,DATE,,,en,1.3
+315,315,CARDINAL,,,en,1.3
+"Wednesday, February 18","Wednesday, February 18",DATE,,,en,1.3
+Asian,Asian,NORP,,,en,1.3
+the next 72 hours,the next 72 hours,TIME,,,en,1.3
+April 20,April 20,DATE,,,en,1.3
+India AI Impact Summit 2026,India AI Impact Summit 2026,EVENT,,,en,1.3
+the night,the night,TIME,,,en,1.3
+January 1,January 1,DATE,,,en,1.3
 one-day,one-day,DATE,,,en,1.3
+January 25,January 25,DATE,,,en,1.3
+the 90s,the 90s,DATE,,,en,1.3
+Constitution,Constitution,LAW,,,en,1.3
+Last night,Last night,TIME,,,en,1.3
+Winter Car,Winter Car,WORK_OF_ART,,,en,1.3
+the end of January,the end of January,DATE,,,en,1.3
+183,183,CARDINAL,,,en,1.3
+April 10,April 10,DATE,,,en,1.3
+Every year,Every year,DATE,,,en,1.3
+the last few months,the last few months,DATE,,,en,1.3
+December,December,DATE,,,en,1.3
+40°C,40°C,PERCENT,,,en,1.3
+the month of June,the month of June,DATE,,,en,1.3
+ICC,ICC,NORP,0.0,0.014492753623188406,en,1.3
+Gujarat Titans,Gujarat Titans,NORP,,,en,1.3
+6 am in the morning,6 am in the morning,TIME,,,en,1.3
+puja,puja,NORP,,,en,1.3
+48 degrees,48 degrees,QUANTITY,,,en,1.3
+Pallekele International Cricket Stadium,Pallekele International Cricket Stadium,FAC,,,en,1.3
+25th April,25th April,DATE,,,en,1.3
+Rs 1 crore,Rs 1 crore,MONEY,,,en,1.3
+weekend,weekend,DATE,,,en,1.3
+40 degrees Celsius,40 degrees Celsius,QUANTITY,,,en,1.3
+Narendra Modi Stadium,Narendra Modi Stadium,FAC,,,en,1.3
 May 3,May 3,DATE,,,en,1.3
+35,35,CARDINAL,,,en,1.3
+Season 2,Season 2,DATE,,,en,1.3
+fourth,fourth,ORDINAL,,,en,1.3
+Zojila Tunnel,Zojila Tunnel,FAC,,,en,1.3
+144,144,CARDINAL,,,en,1.3
+March 8,March 8,DATE,,,en,1.3
+20%,20%,PERCENT,,,en,1.3
+3.6 degrees,3.6 degrees,QUANTITY,,,en,1.3
+dozens,dozens,CARDINAL,,,en,1.3
+70 kmph,70 kmph,QUANTITY,,,en,1.3
+minutes,minutes,TIME,,,en,1.3
+10th,10th,ORDINAL,,,en,1.3
+September,September,DATE,,,en,1.3
 125,125,CARDINAL,,,en,1.2000000000000002
 "18,262","18,262",CARDINAL,,,en,1.2
 every day,every day,DATE,,,en,1.2
 Nepal,Nepal,NORP,0.0,0.01754385964912281,en,1.2
-Bargi Dam,Bargi Dam,FAC,0.27272727272727276,0.8181818181818181,en,1.1
-Mumbai Indians,Mumbai Indians,NORP,,,en,1.1
-54th,54th,ORDINAL,,,en,1.1
 April 24,April 24,DATE,,,en,1.1
-Rs 84.5 lakh,Rs 84.5 lakh,MONEY,,,en,1.0
-The Northern Limit,The Northern Limit,LAW,,,en,1.0
-iPhone 18,iPhone 18,PRODUCT,,,en,1.0
-later this year,later this year,DATE,,,en,1.0
-15 June,15 June,DATE,,,en,1.0
-Arab,Arab,NORP,,,en,1.0
-Spiderman,Spiderman,WORK_OF_ART,,,en,1.0
-the coming four days,the coming four days,DATE,,,en,1.0
-May 4,May 4,DATE,,,en,1.0
-56 year,56 year,DATE,,,en,1.0
-the next 2 hours,the next 2 hours,TIME,,,en,1.0
-8 hours,8 hours,TIME,,,en,1.0
-Punjabi,Punjabi,NORP,,,en,1.0
-273 mm,273 mm,QUANTITY,,,en,1.0
-3.1 to 4.5 Km,3.1 to 4.5 Km,QUANTITY,,,en,1.0
-the end of the second,the end of the second,DATE,,,en,1.0
-Bar Nagar,Bar Nagar,PRODUCT,,,en,1.0
-the year 2026,the year 2026,DATE,,,en,1.0
-South 24 Parganas,South 24 Parganas,FAC,,,en,1.0
-The Tonight Show Starring Jimmy Fallon',The Tonight Show Starring Jimmy Fallon',WORK_OF_ART,,,en,1.0
-30-40 km per hour,30-40 km per hour,QUANTITY,,,en,1.0
-85 year old,85 year old,DATE,,,en,1.0
-the year 2024,the year 2024,DATE,,,en,1.0
-two years,two years,DATE,,,en,1.0
-the hottest night of May,the hottest night of May,TIME,,,en,1.0
-"Thursday, April 30","Thursday, April 30",DATE,,,en,1.0
-50-60 kmph,50-60 kmph,QUANTITY,,,en,1.0
+Mumbai Indians,Mumbai Indians,NORP,,,en,1.1
+Bargi Dam,Bargi Dam,FAC,0.27272727272727276,0.8181818181818181,en,1.1
+54th,54th,ORDINAL,,,en,1.1
+7.1-7.2,7.1-7.2,QUANTITY,,,en,1.0
+7.1,7.1,CARDINAL,,,en,1.0
+millions of years,millions of years,DATE,,,en,1.0
+the Empire State Building,the Empire State Building,FAC,,,en,1.0
+5:30 in the morning,5:30 in the morning,TIME,,,en,1.0
+May 8 today,May 8 today,DATE,,,en,1.0
+May 8,May 8,DATE,,,en,1.0
+Chardham Yatra,Chardham Yatra,NORP,,,en,1.0
+August 2024 onwards,August 2024 onwards,DATE,,,en,1.0
+"May 17, 2026","May 17, 2026",DATE,,,en,1.0
+7.2 and 7.5 magnitude,7.2 and 7.5 magnitude,QUANTITY,,,en,1.0
+More than 200,More than 200,CARDINAL,,,en,1.0
+Election 2026,Election 2026,DATE,,,en,1.0
+around 40 this week,around 40 this week,DATE,,,en,1.0
+41 year old,41 year old,DATE,,,en,1.0
+Everything Apple Sale',Everything Apple Sale',WORK_OF_ART,,,en,1.0
+"June 24, 2026","June 24, 2026",DATE,,,en,1.0
+MacBook,MacBook,PRODUCT,,,en,1.0
+"80,000 tonnes","80,000 tonnes",QUANTITY,,,en,1.0
+astrologer Radhan Pandit,astrologer Radhan Pandit,NORP,,,en,1.0
+iPad,iPad,PRODUCT,,,en,1.0
+More than 700,More than 700,CARDINAL,,,en,1.0
+July 1,July 1,DATE,,,en,1.0
+Radhan Pandit,Radhan Pandit,NORP,,,en,1.0
+48th,48th,ORDINAL,,,en,1.0
+"May 5, 2026","May 5, 2026",DATE,,,en,1.0
+7.30 pm,7.30 pm,TIME,,,en,1.0
+9 May 2026,9 May 2026,DATE,,,en,1.0
+294,294,CARDINAL,,,en,1.0
+May 9,May 9,DATE,,,en,1.0
+the next 6-7 days,the next 6-7 days,DATE,,,en,1.0
+Bangladeshi,Bangladeshi,NORP,,,en,1.0
+Katihar railway,Katihar railway,FAC,,,en,1.0
+the next 6 to 7 days,the next 6 to 7 days,DATE,,,en,1.0
+70 km/hour,70 km/hour,TIME,,,en,1.0
+the afternoon,the afternoon,TIME,,,en,1.0
+Android,Android,PRODUCT,,,en,1.0
+the early hours,the early hours,TIME,,,en,1.0
+05,05,CARDINAL,,,en,1.0
+Dharamshala,Dharamshala,NORP,,,en,1.0
+32,32,CARDINAL,,,en,1.0
+Indira Gandhi International Airport,Indira Gandhi International Airport,FAC,,,en,1.0
+centuries old,centuries old,DATE,,,en,1.0
+A few hours,A few hours,TIME,,,en,1.0
+65 kmph,65 kmph,QUANTITY,,,en,1.0
+Moron,Moron,NORP,,,en,1.0
+55th,55th,ORDINAL,,,en,1.0
+65 kilometers per hour,65 kilometers per hour,QUANTITY,,,en,1.0
+June-July,June-July,DATE,,,en,1.0
+6-7 days,6-7 days,DATE,,,en,1.0
+Monday night,Monday night,TIME,,,en,1.0
+about 40 seconds,about 40 seconds,TIME,,,en,1.0
+next year,next year,DATE,,,en,1.0
+intra-day,intra-day,DATE,,,en,1.0
+more than 9%,more than 9%,PERCENT,,,en,1.0
+8 am,8 am,TIME,,,en,1.0
+around 33 degrees Celsius,around 33 degrees Celsius,QUANTITY,,,en,1.0
+7.5%,7.5%,PERCENT,,,en,1.0
+about 27,about 27,CARDINAL,,,en,1.0
+July 3,July 3,DATE,,,en,1.0
+70 km/h,70 km/h,TIME,,,en,1.0
+April 23,April 23,DATE,,,en,1.0
+33,33,CARDINAL,,,en,1.0
+2020,2020,DATE,,,en,1.0
+2-4 degrees,2-4 degrees,QUANTITY,,,en,1.0
+2/3,2/3,CARDINAL,,,en,1.0
+2027,2027,CARDINAL,,,en,1.0
+145,145,CARDINAL,,,en,1.0
+Two-thirds,Two-thirds,CARDINAL,,,en,1.0
+'Gold Gala 2026','Gold Gala 2026',EVENT,,,en,1.0
+the summer,the summer,DATE,,,en,1.0
+humid season,humid season,DATE,,,en,1.0
+a few days ago,a few days ago,DATE,,,en,1.0
+the beginning of April,the beginning of April,DATE,,,en,1.0
+Last Saturday,Last Saturday,DATE,,,en,1.0
+44.5 degrees,44.5 degrees,QUANTITY,,,en,1.0
+Japanese,Japanese,NORP,,,en,1.0
+27th April to 2nd,27th April to 2nd,DATE,,,en,1.0
+few days,few days,DATE,,,en,1.0
+42.1 degrees Celsius,42.1 degrees Celsius,QUANTITY,,,en,1.0
+around 25.4 degrees Celsius,around 25.4 degrees Celsius,QUANTITY,,,en,1.0
+about 25,about 25,CARDINAL,,,en,1.0
+3.4,3.4,CARDINAL,,,en,1.0
+6 months,6 months,DATE,,,en,1.0
+crore,crore,MONEY,,,en,1.0
+only two,only two,CARDINAL,,,en,1.0
+3 months,3 months,DATE,,,en,1.0
+between April and July,between April and July,DATE,,,en,1.0
+summer season of 2026,summer season of 2026,DATE,,,en,1.0
+22 to 24 April,22 to 24 April,DATE,,,en,1.0
+300 meter,300 meter,QUANTITY,,,en,1.0
+April 25,April 25,DATE,,,en,1.0
+the coming 72 hours,the coming 72 hours,TIME,,,en,1.0
+more than 16,more than 16,CARDINAL,,,en,1.0
+22nd April,22nd April,DATE,,,en,1.0
+Vedic,Vedic,NORP,,,en,1.0
+22 April 2026,22 April 2026,DATE,,,en,1.0
+Jamaat,Jamaat,NORP,,,en,1.0
+Good Terrorism-Bad Terrorism,Good Terrorism-Bad Terrorism,LAW,,,en,1.0
+July 4,July 4,DATE,,,en,1.0
+Bihar,Bihar,NORP,0.0,0.0,en,1.0
+March 2026,March 2026,DATE,,,en,1.0
+23rd to 26th April,23rd to 26th April,DATE,,,en,1.0
+about 21,about 21,CARDINAL,,,en,1.0
+Korean,Korean,NORP,,,en,1.0
+Thursday 23rd,Thursday 23rd,DATE,,,en,1.0
+33rd,33rd,ORDINAL,,,en,1.0
+Jeju Ole,Jeju Ole,WORK_OF_ART,,,en,1.0
+a minute,a minute,TIME,,,en,1.0
+At least 188,At least 188,CARDINAL,,,en,1.0
+about 3 degrees,about 3 degrees,QUANTITY,,,en,1.0
+1 pm to 4 pm,1 pm to 4 pm,TIME,,,en,1.0
+Venezuelan,Venezuelan,NORP,,,en,1.0
+50 to 60 km per hour,50 to 60 km per hour,QUANTITY,,,en,1.0
+Chepauk,Chepauk,NORP,,,en,1.0
+44th,44th,ORDINAL,,,en,1.0
+the Heat Wave Action Plan,the Heat Wave Action Plan,LAW,,,en,1.0
+"More than 1,500","More than 1,500",CARDINAL,,,en,1.0
+70 thousand,70 thousand,CARDINAL,,,en,1.0
+April 30,April 30,DATE,,,en,1.0
+2023,2023,DATE,,,en,1.0
+Three,Three,CARDINAL,,,en,1.0
+70 km per hour,70 km per hour,QUANTITY,,,en,1.0
 between 1 pm and 4 pm,between 1 pm and 4 pm,TIME,,,en,1.0
+La Guaira,La Guaira,FAC,,,en,1.0
 May 4 to 6,May 4 to 6,DATE,,,en,1.0
 May 3 to 5,May 3 to 5,DATE,,,en,1.0
-June 11-12,June 11-12,DATE,,,en,1.0
-46,46,CARDINAL,,,en,1.0
-"June 16, 2026","June 16, 2026",DATE,,,en,1.0
-June 16,June 16,DATE,,,en,1.0
+"about 1,000","about 1,000",CARDINAL,,,en,1.0
+Venezuelans,Venezuelans,NORP,,,en,1.0
 up to 50 km per hour,up to 50 km per hour,QUANTITY,,,en,1.0
 47th,47th,ORDINAL,,,en,1.0
 more than 250,more than 250,CARDINAL,,,en,1.0
@@ -438,386 +546,302 @@ more than 250,more than 250,CARDINAL,,,en,1.0
 more than 700,more than 700,CARDINAL,,,en,1.0
 9%,9%,PERCENT,,,en,1.0
 August 2024,August 2024,DATE,,,en,1.0
-more than 9%,more than 9%,PERCENT,,,en,1.0
-intra-day,intra-day,DATE,,,en,1.0
-August 2024 onwards,August 2024 onwards,DATE,,,en,1.0
-Radhan Pandit,Radhan Pandit,NORP,,,en,1.0
-astrologer Radhan Pandit,astrologer Radhan Pandit,NORP,,,en,1.0
-Election 2026,Election 2026,DATE,,,en,1.0
-June 11 to 15,June 11 to 15,DATE,,,en,1.0
-1 pm to 4 pm,1 pm to 4 pm,TIME,,,en,1.0
-70 km per hour,70 km per hour,QUANTITY,,,en,1.0
-up to 70 km,up to 70 km,QUANTITY,,,en,1.0
-80 km per hour,80 km per hour,QUANTITY,,,en,1.0
-36,36,CARDINAL,,,en,1.0
-FIFA World Cup 2026,FIFA World Cup 2026,EVENT,,,en,1.0
-Monsoon season,Monsoon season,DATE,,,en,1.0
-next year,next year,DATE,,,en,1.0
-the next three hours,the next three hours,TIME,,,en,1.0
-Narmada,Narmada,FAC,-1.0,1.0,en,1.0
 about 40 kilometers,about 40 kilometers,QUANTITY,,,en,1.0
-"June 12, 2026","June 12, 2026",DATE,,,en,1.0
-50 to 60 km per hour,50 to 60 km per hour,QUANTITY,,,en,1.0
-Chepauk,Chepauk,NORP,,,en,1.0
+Narmada,Narmada,FAC,-1.0,1.0,en,1.0
+42.8 degrees Celsius,42.8 degrees Celsius,QUANTITY,,,en,1.0
+May 4,May 4,DATE,,,en,1.0
+95,95,CARDINAL,,,en,1.0
+188,188,CARDINAL,,,en,1.0
+the coming four days,the coming four days,DATE,,,en,1.0
+the next 2 hours,the next 2 hours,TIME,,,en,1.0
+Punjabi,Punjabi,NORP,,,en,1.0
+two years,two years,DATE,,,en,1.0
+the year 2024,the year 2024,DATE,,,en,1.0
+The Tonight Show Starring Jimmy Fallon',The Tonight Show Starring Jimmy Fallon',WORK_OF_ART,,,en,1.0
+the year 2026,the year 2026,DATE,,,en,1.0
+273 mm,273 mm,QUANTITY,,,en,1.0
+8 hours,8 hours,TIME,,,en,1.0
+30-40 km per hour,30-40 km per hour,QUANTITY,,,en,1.0
+May 1,May 1,DATE,,,en,1.0
+85 year old,85 year old,DATE,,,en,1.0
+Rs 84.5 lakh,Rs 84.5 lakh,MONEY,,,en,1.0
+South 24 Parganas,South 24 Parganas,FAC,,,en,1.0
+Bar Nagar,Bar Nagar,PRODUCT,,,en,1.0
+the end of the second,the end of the second,DATE,,,en,1.0
+July 2,July 2,DATE,,,en,1.0
+56 year,56 year,DATE,,,en,1.0
+"Thursday, April 30","Thursday, April 30",DATE,,,en,1.0
+More than 4300,More than 4300,CARDINAL,,,en,1.0
+up to 70 km,up to 70 km,QUANTITY,,,en,1.0
+36,36,CARDINAL,,,en,1.0
+AirPods,AirPods,PRODUCT,,,en,1.0
+50-60 kmph,50-60 kmph,QUANTITY,,,en,1.0
+the Line of Actual Control,the Line of Actual Control,FAC,,,en,1.0
+3.1 to 4.5 Km,3.1 to 4.5 Km,QUANTITY,,,en,1.0
+28th May,28th May,DATE,,,en,1.0
+intense - 15 years,intense - 15 years,DATE,,,en,1.0
+15 year old,15 year old,DATE,,,en,1.0
+97,97,CARDINAL,,,en,1.0
+more than 15 hours,more than 15 hours,TIME,,,en,1.0
+up to 60 km per hour,up to 60 km per hour,QUANTITY,,,en,1.0
+about 10,about 10,CARDINAL,,,en,1.0
+Betwa river,Betwa river,FAC,0.16666666666666666,0.28205128205128205,en,1.0
+Monsoon 2026,Monsoon 2026,EVENT,,,en,1.0
+between June and September,between June and September,DATE,,,en,1.0
+100 kmph,100 kmph,QUANTITY,,,en,1.0
+92%,92%,PERCENT,,,en,1.0
+up to 100 kmph,up to 100 kmph,QUANTITY,,,en,1.0
+at least 6,at least 6,CARDINAL,,,en,1.0
+the last 14 years,the last 14 years,DATE,,,en,1.0
+later this year,later this year,DATE,,,en,1.0
+9 degrees,9 degrees,QUANTITY,,,en,1.0
+the last 48 hours,the last 48 hours,TIME,,,en,1.0
+9 degrees Celsius,9 degrees Celsius,QUANTITY,,,en,1.0
+between 35 to 37 degrees,between 35 to 37 degrees,CARDINAL,,,en,1.0
+60-70 km,60-70 km,QUANTITY,,,en,1.0
+the past few days,the past few days,DATE,,,en,1.0
+iPhone 18,iPhone 18,PRODUCT,,,en,1.0
+Next 5 years,Next 5 years,DATE,,,en,1.0
+the next five years,the next five years,DATE,,,en,1.0
+31,31,DATE,,,en,1.0
+four hours,four hours,TIME,,,en,1.0
+the entire season,the entire season,DATE,,,en,1.0
+Spiderman,Spiderman,WORK_OF_ART,,,en,1.0
+Arab,Arab,NORP,,,en,1.0
+45 °,45 °,MONEY,,,en,1.0
+45°C,45°C,MONEY,,,en,1.0
+above 43 degrees Celsius,above 43 degrees Celsius,QUANTITY,,,en,1.0
+7 pm,7 pm,TIME,,,en,1.0
+3.30 kg,3.30 kg,QUANTITY,,,en,1.0
+the hottest night in the month of May,the hottest night in the month of May,TIME,,,en,1.0
+almost 14 years,almost 14 years,DATE,,,en,1.0
+43.5 degrees Celsius,43.5 degrees Celsius,QUANTITY,,,en,1.0
+the current season,the current season,DATE,,,en,1.0
+47.6 degrees,47.6 degrees,QUANTITY,,,en,1.0
+Eastern,Eastern,NORP,,,en,1.0
+less than 40 hours,less than 40 hours,TIME,,,en,1.0
+28-31,28-31,DATE,,,en,1.0
+47.6°C,47.6°C,MONEY,,,en,1.0
+more than 12 lakh,more than 12 lakh,CARDINAL,,,en,1.0
+50-60kmph,50-60kmph,CARDINAL,,,en,1.0
+May 27th,May 27th,DATE,,,en,1.0
+Noorjahan,Noorjahan,PRODUCT,,,en,1.0
+"3,800","3,800",CARDINAL,,,en,1.0
 the end of September,the end of September,DATE,,,en,1.0
-44th,44th,ORDINAL,,,en,1.0
-the Heat Wave Action Plan,the Heat Wave Action Plan,LAW,,,en,1.0
+these 3 days,these 3 days,DATE,,,en,1.0
+47.4 degrees Celsius,47.4 degrees Celsius,QUANTITY,,,en,1.0
+47 degrees,47 degrees,QUANTITY,,,en,1.0
+the beginning of this month,the beginning of this month,DATE,,,en,1.0
+46 degrees,46 degrees,QUANTITY,,,en,1.0
+May 27 to Friday,May 27 to Friday,DATE,,,en,1.0
+many days,many days,DATE,,,en,1.0
+15 June,15 June,DATE,,,en,1.0
+May 27 and 31,May 27 and 31,DATE,,,en,1.0
+90%,90%,PERCENT,,,en,1.0
+60%,60%,PERCENT,,,en,1.0
+2 days,2 days,DATE,,,en,1.0
+FIFA World Cup 2026,FIFA World Cup 2026,EVENT,,,en,1.0
+237.30,237.30,CARDINAL,,,en,1.0
+the next 3-4 days,the next 3-4 days,DATE,,,en,1.0
+Monsoon season,Monsoon season,DATE,,,en,1.0
+the next three hours,the next three hours,TIME,,,en,1.0
+11 thousand feet,11 thousand feet,QUANTITY,,,en,1.0
+13.15 km,13.15 km,QUANTITY,,,en,1.0
+more than 11 thousand feet,more than 11 thousand feet,QUANTITY,,,en,1.0
+"June 12, 2026","June 12, 2026",DATE,,,en,1.0
+41,41,CARDINAL,,,en,1.0
+more than 450,more than 450,CARDINAL,,,en,1.0
 more than 66,more than 66,CARDINAL,,,en,1.0
+Sub-Himalayan,Sub-Himalayan,NORP,,,en,1.0
+the next 4-5 days,the next 4-5 days,DATE,,,en,1.0
+one day,one day,DATE,,,en,1.0
 66,66,CARDINAL,,,en,1.0
-April 30,April 30,DATE,,,en,1.0
+one kg,one kg,QUANTITY,,,en,1.0
+197,197,CARDINAL,,,en,1.0
+June 10,June 10,DATE,,,en,1.0
+June 11 to 15,June 11 to 15,DATE,,,en,1.0
 "June 11, 2026","June 11, 2026",DATE,,,en,1.0
-2023,2023,DATE,,,en,1.0
-Three,Three,CARDINAL,,,en,1.0
+June 16,June 16,DATE,,,en,1.0
+"June 16, 2026","June 16, 2026",DATE,,,en,1.0
 this afternoon,this afternoon,TIME,,,en,1.0
 more than 25,more than 25,CARDINAL,,,en,1.0
-the beginning of this month,the beginning of this month,DATE,,,en,1.0
-the summer,the summer,DATE,,,en,1.0
-95,95,CARDINAL,,,en,1.0
-"June 24, 2026","June 24, 2026",DATE,,,en,1.0
-8046 km,8046 km,QUANTITY,,,en,1.0
-Mega El Nino,Mega El Nino,PRODUCT,,,en,1.0
-2026-27,2026-27,DATE,,,en,1.0
-this summer,this summer,DATE,,,en,1.0
-22-23 April,22-23 April,DATE,,,en,1.0
-Android,Android,PRODUCT,,,en,1.0
-Moron,Moron,NORP,,,en,1.0
-about 40 seconds,about 40 seconds,TIME,,,en,1.0
-Sangam,Sangam,NORP,,,en,1.0
-753,753,CARDINAL,,,en,1.0
-crore,crore,MONEY,,,en,1.0
-only two,only two,CARDINAL,,,en,1.0
-3 months,3 months,DATE,,,en,1.0
-between April and July,between April and July,DATE,,,en,1.0
-summer season of 2026,summer season of 2026,DATE,,,en,1.0
-22 to 24 April,22 to 24 April,DATE,,,en,1.0
-7.1-7.2,7.1-7.2,QUANTITY,,,en,1.0
-June 24,June 24,DATE,,,en,1.0
-7.2 and 7.5 magnitude,7.2 and 7.5 magnitude,QUANTITY,,,en,1.0
-the Line of Actual Control,the Line of Actual Control,FAC,,,en,1.0
-April 25,April 25,DATE,,,en,1.0
-the coming 72 hours,the coming 72 hours,TIME,,,en,1.0
-more than 16,more than 16,CARDINAL,,,en,1.0
-4%,4%,PERCENT,,,en,1.0
-5:59 am,5:59 am,TIME,,,en,1.0
-"3,800","3,800",CARDINAL,,,en,1.0
-7.1,7.1,CARDINAL,,,en,1.0
-Vitamin A,Vitamin A,PRODUCT,,,en,1.0
-At least 188,At least 188,CARDINAL,,,en,1.0
-under five years of age,under five years of age,DATE,,,en,1.0
-188,188,CARDINAL,,,en,1.0
-More than 4300,More than 4300,CARDINAL,,,en,1.0
-10 feet,10 feet,QUANTITY,,,en,1.0
-La Guaira,La Guaira,FAC,,,en,1.0
-Venezuelan,Venezuelan,NORP,,,en,1.0
-80 cm,80 cm,QUANTITY,,,en,1.0
-"More than 1,500","More than 1,500",CARDINAL,,,en,1.0
-44.6 degrees Celsius,44.6 degrees Celsius,MONEY,,,en,1.0
-22 thousand,22 thousand,CARDINAL,,,en,1.0
-70 thousand,70 thousand,CARDINAL,,,en,1.0
-2011,2011,DATE,,,en,1.0
-"about 1,000","about 1,000",CARDINAL,,,en,1.0
-Venezuelans,Venezuelans,NORP,,,en,1.0
-More than 700,More than 700,CARDINAL,,,en,1.0
-5th week,5th week,DATE,,,en,1.0
-the 31st,the 31st,DATE,,,en,1.0
-21 to 25 April,21 to 25 April,DATE,,,en,1.0
-the next four to five days,the next four to five days,DATE,,,en,1.0
-43°C,43°C,PERCENT,,,en,1.0
-32,32,CARDINAL,,,en,1.0
-22nd April,22nd April,DATE,,,en,1.0
-6 months,6 months,DATE,,,en,1.0
-Vedic,Vedic,NORP,,,en,1.0
+80 km per hour,80 km per hour,QUANTITY,,,en,1.0
+46,46,CARDINAL,,,en,1.0
+June 11-12,June 11-12,DATE,,,en,1.0
+776,776,CARDINAL,,,en,1.0
+6th June,6th June,DATE,,,en,1.0
+GT Final,GT Final,WORK_OF_ART,,,en,1.0
+"Friday, June 5","Friday, June 5",DATE,,,en,1.0
+31 May,31 May,DATE,,,en,1.0
+the next 4,the next 4,DATE,,,en,1.0
+"Monday, June 1","Monday, June 1",DATE,,,en,1.0
+80 KM/H,80 KM/H,TIME,,,en,1.0
+the next five days,the next five days,DATE,,,en,1.0
+The waiting hours,The waiting hours,TIME,,,en,1.0
+Western,Western,NORP,,,en,1.0
+The Northern Limit,The Northern Limit,LAW,,,en,1.0
+last 3 years,last 3 years,DATE,,,en,1.0
+the beginning of June,the beginning of June,DATE,,,en,1.0
+about seven,about seven,CARDINAL,,,en,1.0
+1950,1950,DATE,,,en,1.0
+60 percent,60 percent,PERCENT,,,en,1.0
+Ghis Ghis Ghis,Ghis Ghis Ghis,WORK_OF_ART,,,en,1.0
+June 3rd,June 3rd,DATE,,,en,1.0
+27%,27%,PERCENT,,,en,1.0
+27 percent,27 percent,PERCENT,,,en,1.0
+128,128,CARDINAL,,,en,1.0
+the month of May.,the month of May.,DATE,,,en,1.0
+the next 2 days,the next 2 days,DATE,,,en,1.0
+Garba,Garba,NORP,,,en,1.0
+4 trillion dollar,4 trillion dollar,MONEY,,,en,1.0
+June 4 and 5,June 4 and 5,DATE,,,en,1.0
+the last decade,the last decade,DATE,,,en,1.0
+next two days,next two days,DATE,,,en,1.0
+recent years,recent years,DATE,,,en,1.0
+June 5 to 7,June 5 to 7,DATE,,,en,1.0
+47.6°,47.6°,MONEY,,,en,1.0
+the hottest night of May,the hottest night of May,TIME,,,en,1.0
 IST,IST,NORP,,,en,1.0
-June 19,June 19,DATE,,,en,1.0
-Two-thirds,Two-thirds,CARDINAL,,,en,1.0
-'Gold Gala 2026','Gold Gala 2026',EVENT,,,en,1.0
-19 June,19 June,DATE,,,en,1.0
-7.30 pm,7.30 pm,TIME,,,en,1.0
-the second hottest year,the second hottest year,DATE,,,en,1.0
-humid season,humid season,DATE,,,en,1.0
-all day,all day,DATE,,,en,1.0
-the beginning of April,the beginning of April,DATE,,,en,1.0
-Last Saturday,Last Saturday,DATE,,,en,1.0
-1991-2025,1991-2025,DATE,,,en,1.0
-July,July,DATE,,,en,1.0
-44.5 degrees,44.5 degrees,QUANTITY,,,en,1.0
-7 pm,7 pm,TIME,,,en,1.0
-Japanese,Japanese,NORP,,,en,1.0
-3.30 kg,3.30 kg,QUANTITY,,,en,1.0
-27th April to 2nd,27th April to 2nd,DATE,,,en,1.0
-the current season,the current season,DATE,,,en,1.0
-few days,few days,DATE,,,en,1.0
-42.1 degrees Celsius,42.1 degrees Celsius,QUANTITY,,,en,1.0
-Noorjahan,Noorjahan,PRODUCT,,,en,1.0
-about 3 degrees,about 3 degrees,QUANTITY,,,en,1.0
-42.8 degrees Celsius,42.8 degrees Celsius,QUANTITY,,,en,1.0
-145,145,CARDINAL,,,en,1.0
-2027,2027,CARDINAL,,,en,1.0
-2/3,2/3,CARDINAL,,,en,1.0
-30 year old,30 year old,DATE,,,en,1.0
-Bihar,Bihar,NORP,0.0,0.0,en,1.0
-March 2026,March 2026,DATE,,,en,1.0
-23rd to 26th April,23rd to 26th April,DATE,,,en,1.0
-Chinese,Chinese,NORP,,,en,1.0
-Thursday 23rd,Thursday 23rd,DATE,,,en,1.0
-almost three decades,almost three decades,DATE,,,en,1.0
-33rd,33rd,ORDINAL,,,en,1.0
-'Green Boots','Green Boots',WORK_OF_ART,,,en,1.0
-22 April 2026,22 April 2026,DATE,,,en,1.0
-3.4,3.4,CARDINAL,,,en,1.0
-around 25.4 degrees Celsius,around 25.4 degrees Celsius,QUANTITY,,,en,1.0
-2-4 degrees,2-4 degrees,QUANTITY,,,en,1.0
-8 am,8 am,TIME,,,en,1.0
-around 33 degrees Celsius,around 33 degrees Celsius,QUANTITY,,,en,1.0
-7.5%,7.5%,PERCENT,,,en,1.0
+around 26 degrees Celsius,around 26 degrees Celsius,QUANTITY,,,en,1.0
+a day,a day,DATE,,,en,1.0
+5 crore,5 crore,CARDINAL,,,en,1.0
+that year,that year,DATE,,,en,1.0
+June 30,June 30,DATE,,,en,1.0
+about 149 years ago,about 149 years ago,DATE,,,en,1.0
+127,127,CARDINAL,,,en,1.0
 July-August,July-August,DATE,,,en,1.0
-23 June 2026,23 June 2026,DATE,,,en,1.0
-70 km/h,70 km/h,TIME,,,en,1.0
-April 23,April 23,DATE,,,en,1.0
-22nd June,22nd June,DATE,,,en,1.0
-33,33,CARDINAL,,,en,1.0
-80 km,80 km,QUANTITY,,,en,1.0
-48th,48th,ORDINAL,,,en,1.0
-June-July,June-July,DATE,,,en,1.0
-"May 5, 2026","May 5, 2026",DATE,,,en,1.0
-up to 60 km per hour,up to 60 km per hour,QUANTITY,,,en,1.0
-more than 15 hours,more than 15 hours,TIME,,,en,1.0
-97,97,CARDINAL,,,en,1.0
-15 year old,15 year old,DATE,,,en,1.0
-seven days,seven days,DATE,,,en,1.0
-2 weeks,2 weeks,DATE,,,en,1.0
-intense - 15 years,intense - 15 years,DATE,,,en,1.0
-4400 ringgit,4400 ringgit,MONEY,,,en,1.0
-28th May,28th May,DATE,,,en,1.0
-almost 2 weeks,almost 2 weeks,DATE,,,en,1.0
-4600 ringgit,4600 ringgit,MONEY,,,en,1.0
-4800 ringgit,4800 ringgit,MONEY,,,en,1.0
-4400,4400,CARDINAL,,,en,1.0
-more than 100,more than 100,CARDINAL,,,en,1.0
-45 °,45 °,MONEY,,,en,1.0
-Italian,Italian,NORP,,,en,1.0
-more than 14 hours,more than 14 hours,TIME,,,en,1.0
-7 months,7 months,DATE,,,en,1.0
-the fourth consecutive month,the fourth consecutive month,DATE,,,en,1.0
-below 7 months,below 7 months,DATE,,,en,1.0
-19200,19200,DATE,,,en,1.0
-February 2026,February 2026,DATE,,,en,1.0
-more than 20%,more than 20%,PERCENT,,,en,1.0
-45°C,45°C,MONEY,,,en,1.0
-19th,19th,ORDINAL,,,en,1.0
-Two days,Two days,DATE,,,en,1.0
-May 27 and 31,May 27 and 31,DATE,,,en,1.0
-Three years,Three years,DATE,,,en,1.0
 an hour,an hour,TIME,,,en,1.0
 the upcoming week,the upcoming week,DATE,,,en,1.0
-9 degrees,9 degrees,QUANTITY,,,en,1.0
 Dutch,Dutch,NORP,,,en,1.0
-at least 6,at least 6,CARDINAL,,,en,1.0
-more than 22,more than 22,CARDINAL,,,en,1.0
 18 May 2026,18 May 2026,DATE,,,en,1.0
 44°C,44°C,MONEY,,,en,1.0
 around 44 degrees Celsius,around 44 degrees Celsius,QUANTITY,,,en,1.0
-around 26 degrees Celsius,around 26 degrees Celsius,QUANTITY,,,en,1.0
 Summer season,Summer season,DATE,,,en,1.0
-six,six,CARDINAL,,,en,1.0
+43 degrees Celsius,43 degrees Celsius,QUANTITY,,,en,1.0
+24 June,24 June,DATE,,,en,1.0
 @45,@45,NORP,,,en,1.0
-92%,92%,PERCENT,,,en,1.0
 Tomorrow 19th,Tomorrow 19th,DATE,,,en,1.0
-between June and September,between June and September,DATE,,,en,1.0
 Heatwave,Heatwave,WORK_OF_ART,,,en,1.0
 12 noon,12 noon,TIME,,,en,1.0
 3 o'clock,3 o'clock,TIME,,,en,1.0
-Betwa river,Betwa river,FAC,0.16666666666666666,0.28205128205128205,en,1.0
 more than 24,more than 24,CARDINAL,,,en,1.0
-about 10,about 10,CARDINAL,,,en,1.0
+23 June 2026,23 June 2026,DATE,,,en,1.0
+22nd June,22nd June,DATE,,,en,1.0
 Ayodhya,Ayodhya,NORP,,,en,1.0
-4 months,4 months,DATE,,,en,1.0
-many days,many days,DATE,,,en,1.0
-about 149 years ago,about 149 years ago,DATE,,,en,1.0
-Eastern,Eastern,NORP,,,en,1.0
-this summer of 2026,this summer of 2026,DATE,,,en,1.0
-47.6 degrees,47.6 degrees,QUANTITY,,,en,1.0
-23 May,23 May,DATE,,,en,1.0
-48°,48°,PERCENT,,,en,1.0
-more than 14,more than 14,CARDINAL,,,en,1.0
-the next 2-3 hours,the next 2-3 hours,DATE,,,en,1.0
-47,47,CARDINAL,,,en,1.0
-28-29,28-29,DATE,,,en,1.0
-46.8 degrees Celsius,46.8 degrees Celsius,QUANTITY,,,en,1.0
-43.5 degrees Celsius,43.5 degrees Celsius,QUANTITY,,,en,1.0
-Diamond Harbor Model',Diamond Harbor Model',WORK_OF_ART,,,en,1.0
-'Saffron Tsunami','Saffron Tsunami',WORK_OF_ART,,,en,1.0
-almost 14 years,almost 14 years,DATE,,,en,1.0
-47.2 degrees Celsius,47.2 degrees Celsius,QUANTITY,,,en,1.0
-"May 25, 2026","May 25, 2026",DATE,,,en,1.0
-around 45 degrees,around 45 degrees,QUANTITY,,,en,1.0
-around 31 degrees Celsius,around 31 degrees Celsius,QUANTITY,,,en,1.0
-the hottest night in the month of May,the hottest night in the month of May,TIME,,,en,1.0
-Sairab,Sairab,NORP,,,en,1.0
-hottest night of,hottest night of,TIME,,,en,1.0
-above 43 degrees Celsius,above 43 degrees Celsius,QUANTITY,,,en,1.0
-47.6°,47.6°,MONEY,,,en,1.0
-43 degrees Celsius,43 degrees Celsius,QUANTITY,,,en,1.0
-Those 9 days of the year,Those 9 days of the year,DATE,,,en,1.0
-its latest afternoon,its latest afternoon,TIME,,,en,1.0
-the beginning of the year,the beginning of the year,DATE,,,en,1.0
-less than 40 hours,less than 40 hours,TIME,,,en,1.0
-50-60 km per hour,50-60 km per hour,QUANTITY,,,en,1.0
-May 27 to Friday,May 27 to Friday,DATE,,,en,1.0
-46 degrees,46 degrees,QUANTITY,,,en,1.0
-47 degrees,47 degrees,QUANTITY,,,en,1.0
-the third consecutive day,the third consecutive day,DATE,,,en,1.0
-48.2 degrees Celsius,48.2 degrees Celsius,QUANTITY,,,en,1.0
-47.4 degrees Celsius,47.4 degrees Celsius,QUANTITY,,,en,1.0
-just a few hours,just a few hours,TIME,,,en,1.0
-these 3 days,these 3 days,DATE,,,en,1.0
-"June 1, 2026","June 1, 2026",DATE,,,en,1.0
-May 27th,May 27th,DATE,,,en,1.0
-50-60kmph,50-60kmph,CARDINAL,,,en,1.0
-4.5 degrees,4.5 degrees,QUANTITY,,,en,1.0
-Ridge Base Station,Ridge Base Station,FAC,,,en,1.0
-46.2 degrees,46.2 degrees,QUANTITY,,,en,1.0
-more than 12 lakh,more than 12 lakh,CARDINAL,,,en,1.0
-47.6°C,47.6°C,MONEY,,,en,1.0
-50-50kmph in,50-50kmph in,QUANTITY,,,en,1.0
-28-31,28-31,DATE,,,en,1.0
-May night,May night,TIME,,,en,1.0
-nearly 14 years,nearly 14 years,DATE,,,en,1.0
-at least another week,at least another week,DATE,,,en,1.0
-above 47 degrees Celsius,above 47 degrees Celsius,QUANTITY,,,en,1.0
-127,127,CARDINAL,,,en,1.0
-the last 48 hours,the last 48 hours,TIME,,,en,1.0
-Monday night,Monday night,TIME,,,en,1.0
-the Empire State Building,the Empire State Building,FAC,,,en,1.0
-"80,000 tonnes","80,000 tonnes",QUANTITY,,,en,1.0
-41 year old,41 year old,DATE,,,en,1.0
-"Friday, June 5","Friday, June 5",DATE,,,en,1.0
-May 8,May 8,DATE,,,en,1.0
-May 8 today,May 8 today,DATE,,,en,1.0
-June 5 to 7,June 5 to 7,DATE,,,en,1.0
-millions of years,millions of years,DATE,,,en,1.0
-next two days,next two days,DATE,,,en,1.0
-the last decade,the last decade,DATE,,,en,1.0
-May 9,May 9,DATE,,,en,1.0
-9 May 2026,9 May 2026,DATE,,,en,1.0
-June 4 and 5,June 4 and 5,DATE,,,en,1.0
-Katihar railway,Katihar railway,FAC,,,en,1.0
-the afternoon,the afternoon,TIME,,,en,1.0
-Dharamshala,Dharamshala,NORP,,,en,1.0
-55th,55th,ORDINAL,,,en,1.0
-4 trillion dollar,4 trillion dollar,MONEY,,,en,1.0
-Chardham Yatra,Chardham Yatra,NORP,,,en,1.0
-Garba,Garba,NORP,,,en,1.0
-the next 2 days,the next 2 days,DATE,,,en,1.0
-"May 17, 2026","May 17, 2026",DATE,,,en,1.0
-June 3rd,June 3rd,DATE,,,en,1.0
-Ghis Ghis Ghis,Ghis Ghis Ghis,WORK_OF_ART,,,en,1.0
-5:30 in the morning,5:30 in the morning,TIME,,,en,1.0
-6th June,6th June,DATE,,,en,1.0
-More than 200,More than 200,CARDINAL,,,en,1.0
-776,776,CARDINAL,,,en,1.0
-A few hours,A few hours,TIME,,,en,1.0
-05,05,CARDINAL,,,en,1.0
-70 km/hour,70 km/hour,TIME,,,en,1.0
-one kg,one kg,QUANTITY,,,en,1.0
-Bangladeshi,Bangladeshi,NORP,,,en,1.0
-294,294,CARDINAL,,,en,1.0
-the next 6-7 days,the next 6-7 days,DATE,,,en,1.0
-one day,one day,DATE,,,en,1.0
-the next 6 to 7 days,the next 6 to 7 days,DATE,,,en,1.0
-the next 4-5 days,the next 4-5 days,DATE,,,en,1.0
-the early hours,the early hours,TIME,,,en,1.0
-Sub-Himalayan,Sub-Himalayan,NORP,,,en,1.0
-more than 450,more than 450,CARDINAL,,,en,1.0
-Indira Gandhi International Airport,Indira Gandhi International Airport,FAC,,,en,1.0
-centuries old,centuries old,DATE,,,en,1.0
-41,41,CARDINAL,,,en,1.0
-the next 3-4 days,the next 3-4 days,DATE,,,en,1.0
-65 kmph,65 kmph,QUANTITY,,,en,1.0
-65 kilometers per hour,65 kilometers per hour,QUANTITY,,,en,1.0
-the last 14 years,the last 14 years,DATE,,,en,1.0
-6-7 days,6-7 days,DATE,,,en,1.0
-around 40 this week,around 40 this week,DATE,,,en,1.0
-237.30,237.30,CARDINAL,,,en,1.0
-60 percent,60 percent,PERCENT,,,en,1.0
-Everything Apple Sale',Everything Apple Sale',WORK_OF_ART,,,en,1.0
-5 crore,5 crore,CARDINAL,,,en,1.0
-60%,60%,PERCENT,,,en,1.0
+Three years,Three years,DATE,,,en,1.0
+Two days,Two days,DATE,,,en,1.0
+19th,19th,ORDINAL,,,en,1.0
+27th June,27th June,DATE,,,en,1.0
+23rd June,23rd June,DATE,,,en,1.0
+18th June,18th June,DATE,,,en,1.0
+130 KMPH,130 KMPH,QUANTITY,,,en,1.0
+this May,this May,DATE,,,en,1.0
+79%,79%,PERCENT,,,en,1.0
+11 Lakh Crore,11 Lakh Crore,MONEY,,,en,1.0
+Chinese,Chinese,NORP,,,en,1.0
+the second day,the second day,DATE,,,en,1.0
+555,555,CARDINAL,,,en,1.0
+1950 to 2023,1950 to 2023,DATE,,,en,1.0
+Minto Bridge,Minto Bridge,FAC,,,en,1.0
+Minto Bridge-Pragati Maidan,Minto Bridge-Pragati Maidan,FAC,,,en,1.0
+14 May 2026,14 May 2026,DATE,,,en,1.0
+41 degrees,41 degrees,QUANTITY,,,en,1.0
+Wednesday evening,Wednesday evening,TIME,,,en,1.0
+Just three hours,Just three hours,TIME,,,en,1.0
+Dozens,Dozens,CARDINAL,,,en,1.0
+almost three decades,almost three decades,DATE,,,en,1.0
+At least 56,At least 56,CARDINAL,,,en,1.0
 Bhadohi,Bhadohi,FAC,0.18518518518518517,0.18518518518518517,en,1.0
 Half,Half,CARDINAL,,,en,1.0
 last Wednesday,last Wednesday,DATE,,,en,1.0
-90%,90%,PERCENT,,,en,1.0
-the entire season,the entire season,DATE,,,en,1.0
-four hours,four hours,TIME,,,en,1.0
-31,31,DATE,,,en,1.0
-the past few days,the past few days,DATE,,,en,1.0
-60-70 km,60-70 km,QUANTITY,,,en,1.0
+'Green Boots','Green Boots',WORK_OF_ART,,,en,1.0
+30 year old,30 year old,DATE,,,en,1.0
 May 21,May 21,DATE,,,en,1.0
 70 km/hr,70 km/hr,TIME,,,en,1.0
 May 18 and 19,May 18 and 19,DATE,,,en,1.0
 5 days,5 days,DATE,,,en,1.0
 18th,18th,ORDINAL,,,en,1.0
 130 KM,130 KM,QUANTITY,,,en,1.0
-between 35 to 37 degrees,between 35 to 37 degrees,CARDINAL,,,en,1.0
-130 KMPH,130 KMPH,QUANTITY,,,en,1.0
-18th June,18th June,DATE,,,en,1.0
-9 degrees Celsius,9 degrees Celsius,QUANTITY,,,en,1.0
-23rd June,23rd June,DATE,,,en,1.0
-27th June,27th June,DATE,,,en,1.0
-around 25 degrees Celsius,around 25 degrees Celsius,QUANTITY,,,en,1.0
-a day,a day,DATE,,,en,1.0
-At least 56,At least 56,CARDINAL,,,en,1.0
-Dozens,Dozens,CARDINAL,,,en,1.0
-MacBook,MacBook,PRODUCT,,,en,1.0
-2 days,2 days,DATE,,,en,1.0
-iPad,iPad,PRODUCT,,,en,1.0
-AirPods,AirPods,PRODUCT,,,en,1.0
-May 1,May 1,DATE,,,en,1.0
-about seven,about seven,CARDINAL,,,en,1.0
-the beginning of June,the beginning of June,DATE,,,en,1.0
-this May,this May,DATE,,,en,1.0
-79%,79%,PERCENT,,,en,1.0
-last 3 years,last 3 years,DATE,,,en,1.0
-11 Lakh Crore,11 Lakh Crore,MONEY,,,en,1.0
-Western,Western,NORP,,,en,1.0
-The waiting hours,The waiting hours,TIME,,,en,1.0
-the second day,the second day,DATE,,,en,1.0
-555,555,CARDINAL,,,en,1.0
-1950 to 2023,1950 to 2023,DATE,,,en,1.0
-the next five days,the next five days,DATE,,,en,1.0
-80 KM/H,80 KM/H,TIME,,,en,1.0
-14 May 2026,14 May 2026,DATE,,,en,1.0
-"Monday, June 1","Monday, June 1",DATE,,,en,1.0
-the next 4,the next 4,DATE,,,en,1.0
-31 May,31 May,DATE,,,en,1.0
-41 degrees,41 degrees,QUANTITY,,,en,1.0
-GT Final,GT Final,WORK_OF_ART,,,en,1.0
-Wednesday evening,Wednesday evening,TIME,,,en,1.0
+seven days,seven days,DATE,,,en,1.0
+2 weeks,2 weeks,DATE,,,en,1.0
+4400 ringgit,4400 ringgit,MONEY,,,en,1.0
+nearly 14 years,nearly 14 years,DATE,,,en,1.0
+at least another week,at least another week,DATE,,,en,1.0
+above 47 degrees Celsius,above 47 degrees Celsius,QUANTITY,,,en,1.0
+its latest afternoon,its latest afternoon,TIME,,,en,1.0
+Those 9 days of the year,Those 9 days of the year,DATE,,,en,1.0
+this summer of 2026,this summer of 2026,DATE,,,en,1.0
+Twin Tornado,Twin Tornado,WORK_OF_ART,,,en,1.0
+23 May,23 May,DATE,,,en,1.0
+48°,48°,PERCENT,,,en,1.0
+the second hottest year,the second hottest year,DATE,,,en,1.0
+more than 14,more than 14,CARDINAL,,,en,1.0
+the next 2-3 hours,the next 2-3 hours,DATE,,,en,1.0
+1991-2025,1991-2025,DATE,,,en,1.0
+47,47,CARDINAL,,,en,1.0
+753,753,CARDINAL,,,en,1.0
+28-29,28-29,DATE,,,en,1.0
+46.8 degrees Celsius,46.8 degrees Celsius,QUANTITY,,,en,1.0
+Diamond Harbor Model',Diamond Harbor Model',WORK_OF_ART,,,en,1.0
+the coming 5 months,the coming 5 months,DATE,,,en,1.0
+'Saffron Tsunami','Saffron Tsunami',WORK_OF_ART,,,en,1.0
+bad days,bad days,DATE,,,en,1.0
+47.2 degrees Celsius,47.2 degrees Celsius,QUANTITY,,,en,1.0
+"May 25, 2026","May 25, 2026",DATE,,,en,1.0
+around 45 degrees,around 45 degrees,QUANTITY,,,en,1.0
+around 31 degrees Celsius,around 31 degrees Celsius,QUANTITY,,,en,1.0
+July,July,DATE,,,en,1.0
+Sairab,Sairab,NORP,,,en,1.0
+hottest night of,hottest night of,TIME,,,en,1.0
+a few minutes the day,a few minutes the day,TIME,,,en,1.0
+May night,May night,TIME,,,en,1.0
+almost 2 weeks,almost 2 weeks,DATE,,,en,1.0
+50-50kmph in,50-50kmph in,QUANTITY,,,en,1.0
+4600 ringgit,4600 ringgit,MONEY,,,en,1.0
+4800 ringgit,4800 ringgit,MONEY,,,en,1.0
+4400,4400,CARDINAL,,,en,1.0
+80 km,80 km,QUANTITY,,,en,1.0
+Italian,Italian,NORP,,,en,1.0
 Next 72 hours,Next 72 hours,TIME,,,en,1.0
-the first day,the first day,DATE,,,en,1.0
-Khandama 082 Chait,Khandama 082 Chait,FAC,,,en,1.0
+7 months,7 months,DATE,,,en,1.0
+the fourth consecutive month,the fourth consecutive month,DATE,,,en,1.0
+below 7 months,below 7 months,DATE,,,en,1.0
+19200,19200,DATE,,,en,1.0
+February 2026,February 2026,DATE,,,en,1.0
+more than 20%,more than 20%,PERCENT,,,en,1.0
+4 months,4 months,DATE,,,en,1.0
+"Saturday, June 20","Saturday, June 20",DATE,,,en,1.0
+the beginning of the year,the beginning of the year,DATE,,,en,1.0
+60 kmph,60 kmph,QUANTITY,,,en,1.0
+50-60 km per hour,50-60 km per hour,QUANTITY,,,en,1.0
+the third consecutive day,the third consecutive day,DATE,,,en,1.0
+48.2 degrees Celsius,48.2 degrees Celsius,QUANTITY,,,en,1.0
+just a few hours,just a few hours,TIME,,,en,1.0
+June 19,June 19,DATE,,,en,1.0
+19 June,19 June,DATE,,,en,1.0
+"June 1, 2026","June 1, 2026",DATE,,,en,1.0
+6 MPs,6 MPs,QUANTITY,,,en,1.0
+4.5 degrees,4.5 degrees,QUANTITY,,,en,1.0
+Ridge Base Station,Ridge Base Station,FAC,,,en,1.0
+46.2 degrees,46.2 degrees,QUANTITY,,,en,1.0
+around 25 degrees Celsius,around 25 degrees Celsius,QUANTITY,,,en,1.0
+between 7 and 9 April 2026,between 7 and 9 April 2026,DATE,,,en,1.0
+Sangam,Sangam,NORP,,,en,1.0
 90 days,90 days,DATE,,,en,1.0
-the last week of January,the last week of January,DATE,,,en,1.0
-The month of January,The month of January,DATE,,,en,1.0
-336,336,CARDINAL,,,en,1.0
-Tuesday night,Tuesday night,TIME,,,en,1.0
-around 10:12 pm,around 10:12 pm,TIME,,,en,1.0
-next 4 days,next 4 days,DATE,,,en,1.0
-the year,the year,DATE,,,en,1.0
-268,268,CARDINAL,,,en,1.0
-20 crore,20 crore,MONEY,,,en,1.0
-this month of January,this month of January,DATE,,,en,1.0
-January 2026,January 2026,DATE,,,en,1.0
-a month,a month,DATE,,,en,1.0
-140 years,140 years,DATE,,,en,1.0
-2 meter+,2 meter+,QUANTITY,,,en,1.0
-hours,hours,TIME,,,en,1.0
-Star Celebrity Game,Star Celebrity Game,WORK_OF_ART,,,en,1.0
-27th January,27th January,DATE,,,en,1.0
-a great year,a great year,DATE,,,en,1.0
-Tata Car Sales:,Tata Car Sales:,WORK_OF_ART,,,en,1.0
-"more than 70,000","more than 70,000",CARDINAL,,,en,1.0
 Punch,Punch,PRODUCT,,,en,1.0
+"more than 70,000","more than 70,000",CARDINAL,,,en,1.0
+Tata Car Sales:,Tata Car Sales:,WORK_OF_ART,,,en,1.0
+a great year,a great year,DATE,,,en,1.0
+27th January,27th January,DATE,,,en,1.0
+hours,hours,TIME,,,en,1.0
+2 meter+,2 meter+,QUANTITY,,,en,1.0
+next 4 days,next 4 days,DATE,,,en,1.0
+140 years,140 years,DATE,,,en,1.0
+a month,a month,DATE,,,en,1.0
+January 2026,January 2026,DATE,,,en,1.0
+this month of January,this month of January,DATE,,,en,1.0
+20 crore,20 crore,MONEY,,,en,1.0
+268,268,CARDINAL,,,en,1.0
 "more than 9,000","more than 9,000",CARDINAL,,,en,1.0
 Australian,Australian,NORP,,,en,1.0
 Rs 1.80 lakh,Rs 1.80 lakh,MONEY,,,en,1.0
@@ -827,29 +851,32 @@ about 25 minutes,about 25 minutes,TIME,,,en,1.0
 200,200,CARDINAL,,,en,1.0
 15 to 30 percent,15 to 30 percent,PERCENT,,,en,1.0
 PM Modi,PM Modi,FAC,,,en,1.0
-"More than 1,250","More than 1,250",CARDINAL,,,en,1.0
-more than,more than,CARDINAL,,,en,1.0
-281,281,CARDINAL,,,en,1.0
-0.7%,0.7%,PERCENT,,,en,1.0
-'Border 2','Border 2',WORK_OF_ART,,,en,1.0
-nearly 2%,nearly 2%,PERCENT,,,en,1.0
-one-week,one-week,DATE,,,en,1.0
-1.18,1.18,MONEY,,,en,1.0
-January 26,January 26,DATE,,,en,1.0
-3 degree,3 degree,QUANTITY,,,en,1.0
-the past days,the past days,DATE,,,en,1.0
-82,82,CARDINAL,,,en,1.0
-37,37,CARDINAL,,,en,1.0
-48,48,CARDINAL,,,en,1.0
-1 lakh,1 lakh,QUANTITY,,,en,1.0
-more than 1 lakh,more than 1 lakh,MONEY,,,en,1.0
+05 and 06 February,05 and 06 February,DATE,,,en,1.0
+Star Celebrity Game,Star Celebrity Game,WORK_OF_ART,,,en,1.0
+February 13,February 13,DATE,,,en,1.0
+cold days,cold days,DATE,,,en,1.0
+214,214,CARDINAL,,,en,1.0
+13 degrees Celsius,13 degrees Celsius,QUANTITY,,,en,1.0
+7 am,7 am,TIME,,,en,1.0
+7 February,7 February,DATE,,,en,1.0
+the year,the year,DATE,,,en,1.0
+around 10:12 pm,around 10:12 pm,TIME,,,en,1.0
+22-23 April,22-23 April,DATE,,,en,1.0
 cold nights,cold nights,DATE,,,en,1.0
-Day 2026,Day 2026,DATE,,,en,1.0
-"January 26, 2026","January 26, 2026",DATE,,,en,1.0
-the 77th Republic Day,the 77th Republic Day,DATE,,,en,1.0
-26 January 1950,26 January 1950,DATE,,,en,1.0
-every year this day,every year this day,DATE,,,en,1.0
 This day,This day,DATE,,,en,1.0
+every year this day,every year this day,DATE,,,en,1.0
+26 January 1950,26 January 1950,DATE,,,en,1.0
+the 77th Republic Day,the 77th Republic Day,DATE,,,en,1.0
+"January 26, 2026","January 26, 2026",DATE,,,en,1.0
+Day 2026,Day 2026,DATE,,,en,1.0
+more than 1 lakh,more than 1 lakh,MONEY,,,en,1.0
+Tuesday night,Tuesday night,TIME,,,en,1.0
+1 lakh,1 lakh,QUANTITY,,,en,1.0
+48,48,CARDINAL,,,en,1.0
+37,37,CARDINAL,,,en,1.0
+82,82,CARDINAL,,,en,1.0
+the past days,the past days,DATE,,,en,1.0
+3 degree,3 degree,QUANTITY,,,en,1.0
 Delhi Cold Wave: Cold,Delhi Cold Wave: Cold,EVENT,,,en,1.0
 Delhi Cold Wave,Delhi Cold Wave,EVENT,,,en,1.0
 3.6 degrees Celsius,3.6 degrees Celsius,QUANTITY,,,en,1.0
@@ -860,52 +887,52 @@ Just days,Just days,DATE,,,en,1.0
 Coldest Republic Day,Coldest Republic Day,DATE,,,en,1.0
 the coldest Republic Day,the coldest Republic Day,DATE,,,en,1.0
 "January 26, 2021","January 26, 2021",DATE,,,en,1.0
-05 and 06 February,05 and 06 February,DATE,,,en,1.0
-February 13,February 13,DATE,,,en,1.0
-ICC T20 World Cup 2026,ICC T20 World Cup 2026,EVENT,,,en,1.0
-30 degrees Celsius,30 degrees Celsius,QUANTITY,,,en,1.0
-the hottest day of the year,the hottest day of the year,DATE,,,en,1.0
-the hottest day of this year,the hottest day of this year,DATE,,,en,1.0
-258,258,CARDINAL,,,en,1.0
-the next one or two days,the next one or two days,DATE,,,en,1.0
-Indonesian,Indonesian,NORP,,,en,1.0
-up to 3 hectares,up to 3 hectares,QUANTITY,,,en,1.0
-just 300-400 meters,just 300-400 meters,QUANTITY,,,en,1.0
-the middle of February,the middle of February,DATE,,,en,1.0
-February 16,February 16,DATE,,,en,1.0
-31.6°,31.6°,PERCENT,,,en,1.0
-7.2°,7.2°,CARDINAL,,,en,1.0
-18 February 2026,18 February 2026,DATE,,,en,1.0
-between 8% and 20%,between 8% and 20%,PERCENT,,,en,1.0
-India AI Impact Summit,India AI Impact Summit,EVENT,,,en,1.0
-The month of February,The month of February,DATE,,,en,1.0
-cold days,cold days,DATE,,,en,1.0
-French,French,NORP,,,en,1.0
+0.7%,0.7%,PERCENT,,,en,1.0
+281,281,CARDINAL,,,en,1.0
+more than,more than,CARDINAL,,,en,1.0
+"More than 1,250","More than 1,250",CARDINAL,,,en,1.0
+the last week of January,the last week of January,DATE,,,en,1.0
+The month of January,The month of January,DATE,,,en,1.0
+336,336,CARDINAL,,,en,1.0
+between 22°C to 24°,between 22°C to 24°,PERCENT,,,en,1.0
+17.5°,17.5°,MONEY,,,en,1.0
+2 February 2026,2 February 2026,DATE,,,en,1.0
 1.4 billion,1.4 billion,CARDINAL,,,en,1.0
-above 30 degrees,above 30 degrees,QUANTITY,,,en,1.0
-5%,5%,PERCENT,,,en,1.0
-3-5 degrees,3-5 degrees,QUANTITY,,,en,1.0
-Asina,Asina,NORP,,,en,1.0
-3 pm to 4 pm,3 pm to 4 pm,TIME,,,en,1.0
 Malakot,Malakot,NORP,,,en,1.0
+3 pm to 4 pm,3 pm to 4 pm,TIME,,,en,1.0
+Asina,Asina,NORP,,,en,1.0
+3-5 degrees,3-5 degrees,QUANTITY,,,en,1.0
+5%,5%,PERCENT,,,en,1.0
+above 30 degrees,above 30 degrees,QUANTITY,,,en,1.0
+French,French,NORP,,,en,1.0
+25.1°C,25.1°C,MONEY,,,en,1.0
+The month of February,The month of February,DATE,,,en,1.0
+30 degrees Celsius,30 degrees Celsius,QUANTITY,,,en,1.0
+India AI Impact Summit,India AI Impact Summit,EVENT,,,en,1.0
+between 8% and 20%,between 8% and 20%,PERCENT,,,en,1.0
+18 February 2026,18 February 2026,DATE,,,en,1.0
+7.2°,7.2°,CARDINAL,,,en,1.0
 one hour,one hour,TIME,,,en,1.0
 about 10 degrees,about 10 degrees,QUANTITY,,,en,1.0
 26th February,26th February,DATE,,,en,1.0
 the Best Children and Family Film,the Best Children and Family Film,WORK_OF_ART,,,en,1.0
 79th,79th,ORDINAL,,,en,1.0
 British Academy Film Awards,British Academy Film Awards,EVENT,,,en,1.0
-about 100,about 100,CARDINAL,,,en,1.0
-16 to 20 February,16 to 20 February,DATE,,,en,1.0
-their 30 months,their 30 months,DATE,,,en,1.0
-the Asia Cup,the Asia Cup,EVENT,,,en,1.0
-214,214,CARDINAL,,,en,1.0
-13 degrees Celsius,13 degrees Celsius,QUANTITY,,,en,1.0
-7 am,7 am,TIME,,,en,1.0
-7 February,7 February,DATE,,,en,1.0
-between 22°C to 24°,between 22°C to 24°,PERCENT,,,en,1.0
-17.5°,17.5°,MONEY,,,en,1.0
-2 February 2026,2 February 2026,DATE,,,en,1.0
-25.1°C,25.1°C,MONEY,,,en,1.0
+the coming few days,the coming few days,DATE,,,en,1.0
+ICC T20 World Cup 2026,ICC T20 World Cup 2026,EVENT,,,en,1.0
+24th February,24th February,DATE,,,en,1.0
+7 pm onwards,7 pm onwards,TIME,,,en,1.0
+Kannada,Kannada,NORP,,,en,1.0
+five years,five years,DATE,,,en,1.0
+the last five years,the last five years,DATE,,,en,1.0
+the main winter months,the main winter months,DATE,,,en,1.0
+around 7.11 pm,around 7.11 pm,TIME,,,en,1.0
+About 23 minutes,About 23 minutes,TIME,,,en,1.0
+10 seconds,10 seconds,TIME,,,en,1.0
+31.6°,31.6°,PERCENT,,,en,1.0
+February 16,February 16,DATE,,,en,1.0
+the middle of February,the middle of February,DATE,,,en,1.0
+11.1 degrees Celsius,11.1 degrees Celsius,QUANTITY,,,en,1.0
 February 11,February 11,DATE,,,en,1.0
 20 lakh,20 lakh,CARDINAL,,,en,1.0
 More than 2 million,More than 2 million,CARDINAL,,,en,1.0
@@ -914,39 +941,47 @@ More than 2 million,More than 2 million,CARDINAL,,,en,1.0
 29 °C,29 °C,PERCENT,,,en,1.0
 26-29 degrees Celsius,26-29 degrees Celsius,QUANTITY,,,en,1.0
 mid-February,mid-February,DATE,,,en,1.0
-the coming months,the coming months,DATE,,,en,1.0
 Bye-bye winter,Bye-bye winter,DATE,,,en,1.0
 35 degrees,35 degrees,QUANTITY,,,en,1.0
 209,209,CARDINAL,,,en,1.0
 21st June,21st June,DATE,,,en,1.0
 Any day,Any day,DATE,,,en,1.0
 210,210,CARDINAL,,,en,1.0
-11.1 degrees Celsius,11.1 degrees Celsius,QUANTITY,,,en,1.0
 around 27 degrees Celsius,around 27 degrees Celsius,QUANTITY,,,en,1.0
+just 300-400 meters,just 300-400 meters,QUANTITY,,,en,1.0
 14th February 2026,14th February 2026,DATE,,,en,1.0
 12 February 2026,12 February 2026,DATE,,,en,1.0
 the same day,the same day,DATE,,,en,1.0
 Pakistanis,Pakistanis,NORP,,,en,1.0
-the Best International Feature Film,the Best International Feature Film,EVENT,,,en,1.0
-Oscars 2026,Oscars 2026,LAW,,,en,1.0
-about 2 cm,about 2 cm,QUANTITY,,,en,1.0
-the coldest day of 2026,the coldest day of 2026,DATE,,,en,1.0
-The Republic Day Parade,The Republic Day Parade,DATE,,,en,1.0
-the Beating Retreat Ceremony,the Beating Retreat Ceremony,EVENT,,,en,1.0
-29 January,29 January,DATE,,,en,1.0
-286,286,CARDINAL,,,en,1.0
-January 6,January 6,DATE,,,en,1.0
-6:00 am,6:00 am,TIME,,,en,1.0
-200 meters,200 meters,QUANTITY,,,en,1.0
-8 degrees Celsius,8 degrees Celsius,QUANTITY,,,en,1.0
+the Asia Cup,the Asia Cup,EVENT,,,en,1.0
+their 30 months,their 30 months,DATE,,,en,1.0
+16 to 20 February,16 to 20 February,DATE,,,en,1.0
+about 100,about 100,CARDINAL,,,en,1.0
+the hottest day of the year,the hottest day of the year,DATE,,,en,1.0
+the hottest day of this year,the hottest day of this year,DATE,,,en,1.0
+258,258,CARDINAL,,,en,1.0
+the next one or two days,the next one or two days,DATE,,,en,1.0
+Indonesian,Indonesian,NORP,,,en,1.0
+up to 3 hectares,up to 3 hectares,QUANTITY,,,en,1.0
+January 26,January 26,DATE,,,en,1.0
+1.18,1.18,MONEY,,,en,1.0
+one-week,one-week,DATE,,,en,1.0
 Delhi Airport,Delhi Airport,FAC,,,en,1.0
-59th,59th,ORDINAL,,,en,1.0
-6 January 1967,6 January 1967,DATE,,,en,1.0
-just 11 years old,just 11 years old,DATE,,,en,1.0
-Hindus,Hindus,NORP,,,en,1.0
+the coldest day of 2026,the coldest day of 2026,DATE,,,en,1.0
 7 February to 8 March 2026,7 February to 8 March 2026,DATE,,,en,1.0
+Hindus,Hindus,NORP,,,en,1.0
+just 11 years old,just 11 years old,DATE,,,en,1.0
+6 January 1967,6 January 1967,DATE,,,en,1.0
+59th,59th,ORDINAL,,,en,1.0
+8 degrees Celsius,8 degrees Celsius,QUANTITY,,,en,1.0
+5 degrees or,5 degrees or,QUANTITY,,,en,1.0
+200 meters,200 meters,QUANTITY,,,en,1.0
+6:00 am,6:00 am,TIME,,,en,1.0
+January 6,January 6,DATE,,,en,1.0
+286,286,CARDINAL,,,en,1.0
+29 January,29 January,DATE,,,en,1.0
+the Beating Retreat Ceremony,the Beating Retreat Ceremony,EVENT,,,en,1.0
 68 km,68 km,QUANTITY,,,en,1.0
-American,American,NORP,,,en,1.0
 10 km,10 km,QUANTITY,,,en,1.0
 7 to 9 January,7 to 9 January,DATE,,,en,1.0
 About 3 crore,About 3 crore,CARDINAL,,,en,1.0
@@ -961,10 +996,12 @@ Turkman Gate,Turkman Gate,FAC,,,en,1.0
 January 10,January 10,DATE,,,en,1.0
 around 3 degrees,around 3 degrees,QUANTITY,,,en,1.0
 the next day,the next day,DATE,,,en,1.0
+5 degrees,5 degrees,QUANTITY,,,en,1.0
+more than a dozen,more than a dozen,CARDINAL,,,en,1.0
+The Republic Day Parade,The Republic Day Parade,DATE,,,en,1.0
 Republic Day Parade,Republic Day Parade,EVENT,,,en,1.0
 Republic Day Parade 2026,Republic Day Parade 2026,DATE,,,en,1.0
-6.5 °,6.5 °,QUANTITY,,,en,1.0
-4.5 °,4.5 °,PERCENT,,,en,1.0
+23-24 crore,23-24 crore,MONEY,,,en,1.0
 Pushpa,Pushpa,WORK_OF_ART,,,en,1.0
 the first weekend,the first weekend,DATE,,,en,1.0
 just 10 days,just 10 days,DATE,,,en,1.0
@@ -979,8 +1016,8 @@ annually,annually,DATE,,,en,1.0
 the rainy days,the rainy days,DATE,,,en,1.0
 years,years,DATE,,,en,1.0
 the fourth day,the fourth day,DATE,,,en,1.0
-23-24 crore,23-24 crore,MONEY,,,en,1.0
 383,383,CARDINAL,,,en,1.0
+6.5 °,6.5 °,QUANTITY,,,en,1.0
 April 22,April 22,DATE,,,en,1.0
 the last two years,the last two years,DATE,,,en,1.0
 the Federalism Strengthening and National Concern Committee,the Federalism Strengthening and National Concern Committee,LAW,,,en,1.0
@@ -994,27 +1031,25 @@ January 2,January 2,DATE,,,en,1.0
 26.37°,26.37°,QUANTITY,,,en,1.0
 92.29°,92.29°,QUANTITY,,,en,1.0
 266,266,CARDINAL,,,en,1.0
-5 degrees,5 degrees,QUANTITY,,,en,1.0
-more than a dozen,more than a dozen,CARDINAL,,,en,1.0
+4.5 °,4.5 °,PERCENT,,,en,1.0
 5 to 16 hours,5 to 16 hours,TIME,,,en,1.0
-hottest year,hottest year,DATE,,,en,1.0
-summer 2026,summer 2026,DATE,,,en,1.0
-33 percent,33 percent,PERCENT,,,en,1.0
-January 14,January 14,DATE,,,en,1.0
-5 thousand,5 thousand,CARDINAL,,,en,1.0
-897,897,CARDINAL,,,en,1.0
-200 to 1000 percent,200 to 1000 percent,PERCENT,,,en,1.0
-Dimona,Dimona,FAC,0.1,0.4,en,1.0
-January 17,January 17,DATE,,,en,1.0
-2.3 degrees,2.3 degrees,QUANTITY,,,en,1.0
-the sixth consecutive day,the sixth consecutive day,DATE,,,en,1.0
+4.2 degrees Celsius,4.2 degrees Celsius,QUANTITY,,,en,1.0
+nearly 2%,nearly 2%,PERCENT,,,en,1.0
 two-day,two-day,DATE,,,en,1.0
-October last year,October last year,DATE,,,en,1.0
-important months,important months,DATE,,,en,1.0
-eight years,eight years,DATE,,,en,1.0
-Kiwi,Kiwi,PRODUCT,,,en,1.0
-Shahjahanpur-Bareilly,Shahjahanpur-Bareilly,PRODUCT,,,en,1.0
 23 crore,23 crore,CARDINAL,,,en,1.0
+Shahjahanpur-Bareilly,Shahjahanpur-Bareilly,PRODUCT,,,en,1.0
+Kiwi,Kiwi,PRODUCT,,,en,1.0
+eight years,eight years,DATE,,,en,1.0
+important months,important months,DATE,,,en,1.0
+October last year,October last year,DATE,,,en,1.0
+the sixth consecutive day,the sixth consecutive day,DATE,,,en,1.0
+11 January 2026,11 January 2026,DATE,,,en,1.0
+2.3 degrees,2.3 degrees,QUANTITY,,,en,1.0
+January 17,January 17,DATE,,,en,1.0
+Dimona,Dimona,FAC,0.1,0.4,en,1.0
+200 to 1000 percent,200 to 1000 percent,PERCENT,,,en,1.0
+897,897,CARDINAL,,,en,1.0
+5 thousand,5 thousand,CARDINAL,,,en,1.0
 325,325,CARDINAL,,,en,1.0
 hundreds,hundreds,CARDINAL,,,en,1.0
 50000,50000,CARDINAL,,,en,1.0
@@ -1027,12 +1062,15 @@ Himalayas,Himalayas,NORP,-0.14583333333333331,0.22083333333333333,en,1.0
 this winter,this winter,DATE,,,en,1.0
 1989,1989,DATE,,,en,1.0
 Quiet Man,Quiet Man,WORK_OF_ART,,,en,1.0
-The year 2025,The year 2025,DATE,,,en,1.0
-January 19,January 19,DATE,,,en,1.0
-5 degrees or,5 degrees or,QUANTITY,,,en,1.0
-4-6 degrees Celsius,4-6 degrees Celsius,QUANTITY,,,en,1.0
-4.2 degrees Celsius,4.2 degrees Celsius,QUANTITY,,,en,1.0
-11 January 2026,11 January 2026,DATE,,,en,1.0
+American,American,NORP,,,en,1.0
+about 2 cm,about 2 cm,QUANTITY,,,en,1.0
+Oscars 2026,Oscars 2026,LAW,,,en,1.0
+the Best International Feature Film,the Best International Feature Film,EVENT,,,en,1.0
+'Border 2','Border 2',WORK_OF_ART,,,en,1.0
+January 14,January 14,DATE,,,en,1.0
+33 percent,33 percent,PERCENT,,,en,1.0
+summer 2026,summer 2026,DATE,,,en,1.0
+3.2 degrees Celsius,3.2 degrees Celsius,QUANTITY,,,en,1.0
 "January 11, 2026","January 11, 2026",DATE,,,en,1.0
 2.9 degrees Celsius,2.9 degrees Celsius,QUANTITY,,,en,1.0
 300,300,CARDINAL,,,en,1.0
@@ -1047,8 +1085,8 @@ the last 13 years,the last 13 years,DATE,,,en,1.0
 Nights colder,Nights colder,DATE,,,en,1.0
 Coldest night of the season,Coldest night of the season,TIME,,,en,1.0
 The coldest night of this season,The coldest night of this season,TIME,,,en,1.0
-3.2 degrees Celsius,3.2 degrees Celsius,QUANTITY,,,en,1.0
 Coldest Morning,Coldest Morning,TIME,,,en,1.0
+The year 2025,The year 2025,DATE,,,en,1.0
 Coldest morning,Coldest morning,TIME,,,en,1.0
 the coldest morning of the season,the coldest morning of the season,TIME,,,en,1.0
 3 degrees Celsius,3 degrees Celsius,QUANTITY,,,en,1.0
@@ -1060,111 +1098,30 @@ Dara Shikoh Road,Dara Shikoh Road,FAC,,,en,1.0
 9:03 am,9:03 am,TIME,,,en,1.0
 3.5 degrees,3.5 degrees,QUANTITY,,,en,1.0
 late nights,late nights,TIME,,,en,1.0
-the coming few days,the coming few days,DATE,,,en,1.0
-24th February,24th February,DATE,,,en,1.0
-Dhankuta-Hile,Dhankuta-Hile,FAC,,,en,1.0
-40-60 km/hour,40-60 km/hour,QUANTITY,,,en,1.0
-April 6,April 6,DATE,,,en,1.0
-April 9,April 9,DATE,,,en,1.0
-recent days,recent days,DATE,,,en,1.0
-the night of Friday,the night of Friday,TIME,,,en,1.0
-April 3,April 3,DATE,,,en,1.0
-election day,election day,DATE,,,en,1.0
-the election day,the election day,DATE,,,en,1.0
-"April 4, 2026","April 4, 2026",DATE,,,en,1.0
-Iranian,Iranian,NORP,,,en,1.0
-1000 KM,1000 KM,QUANTITY,,,en,1.0
-The month,The month,DATE,,,en,1.0
-the most sacred month,the most sacred month,DATE,,,en,1.0
-This month,This month,DATE,,,en,1.0
-the next 3 hours,the next 3 hours,TIME,,,en,1.0
-11th May,11th May,DATE,,,en,1.0
-April day,April day,DATE,,,en,1.0
-4 zodiac,4 zodiac,QUANTITY,,,en,1.0
-half,half,CARDINAL,,,en,1.0
-between April 7 and 9,between April 7 and 9,DATE,,,en,1.0
-"April 6, 2026","April 6, 2026",DATE,,,en,1.0
-between 7 and 9 April 2026,between 7 and 9 April 2026,DATE,,,en,1.0
-Tuesday morning,Tuesday morning,TIME,,,en,1.0
-Rainy morning,Rainy morning,TIME,,,en,1.0
-Delhiites,Delhiites,NORP,,,en,1.0
+4-6 degrees Celsius,4-6 degrees Celsius,QUANTITY,,,en,1.0
+January 19,January 19,DATE,,,en,1.0
+hottest year,hottest year,DATE,,,en,1.0
+3.5,3.5,CARDINAL,,,en,1.0
+February 26,February 26,DATE,,,en,1.0
+11:24 am,11:24 am,TIME,,,en,1.0
 these two days,these two days,DATE,,,en,1.0
-the next 2 to 3,the next 2 to 3,DATE,,,en,1.0
-94%,94%,PERCENT,,,en,1.0
-June to September,June to September,DATE,,,en,1.0
-28.8 degrees Celsius,28.8 degrees Celsius,QUANTITY,,,en,1.0
-the coldest day of April in three years,the coldest day of April in three years,DATE,,,en,1.0
-2 April,2 April,DATE,,,en,1.0
-April 5,April 5,DATE,,,en,1.0
-"50,000","50,000",CARDINAL,,,en,1.0
-Rs 5 crore,Rs 5 crore,MONEY,,,en,1.0
-₹1140 crore,₹1140 crore,MONEY,,,en,1.0
-9 days,9 days,DATE,,,en,1.0
-just 9 days,just 9 days,DATE,,,en,1.0
-16 years,16 years,DATE,,,en,1.0
-30 March,30 March,DATE,,,en,1.0
-36.2 degrees Celsius,36.2 degrees Celsius,QUANTITY,,,en,1.0
-season,season,DATE,,,en,1.0
-19.8 degrees Celsius,19.8 degrees Celsius,QUANTITY,,,en,1.0
-1.7 degrees,1.7 degrees,QUANTITY,,,en,1.0
-Rs 1365 crore,Rs 1365 crore,MONEY,,,en,1.0
-'Dhurandhar,'Dhurandhar,WORK_OF_ART,,,en,1.0
-second weekend,second weekend,DATE,,,en,1.0
-1000 crores,1000 crores,CARDINAL,,,en,1.0
-Rs 1000 crore,Rs 1000 crore,MONEY,,,en,1.0
-the next 10 days,the next 10 days,DATE,,,en,1.0
-at least 17,at least 17,CARDINAL,,,en,1.0
-34,34,CARDINAL,,,en,1.0
-the past 11 years,the past 11 years,DATE,,,en,1.0
-The years 2015,The years 2015,DATE,,,en,1.0
-the third hottest year,the third hottest year,DATE,,,en,1.0
-"Tuesday, March 31","Tuesday, March 31",DATE,,,en,1.0
-93.58,93.58,CARDINAL,,,en,1.0
-94.81,94.81,CARDINAL,,,en,1.0
-93.10,93.10,CARDINAL,,,en,1.0
-134 paise,134 paise,MONEY,,,en,1.0
-the PCA New Cricket Stadium,the PCA New Cricket Stadium,FAC,,,en,1.0
-April to July 2026,April to July 2026,DATE,,,en,1.0
-April 1,April 1,DATE,,,en,1.0
-2 to 5 April,2 to 5 April,DATE,,,en,1.0
 the Iran war,the Iran war,EVENT,,,en,1.0
+the coldest day of April in three years,the coldest day of April in three years,DATE,,,en,1.0
+28.8 degrees Celsius,28.8 degrees Celsius,QUANTITY,,,en,1.0
+June to September,June to September,DATE,,,en,1.0
+94%,94%,PERCENT,,,en,1.0
+the next 2 to 3,the next 2 to 3,DATE,,,en,1.0
+Delhiites,Delhiites,NORP,,,en,1.0
+122,122,CARDINAL,,,en,1.0
+Rainy morning,Rainy morning,TIME,,,en,1.0
+Tuesday morning,Tuesday morning,TIME,,,en,1.0
+"April 6, 2026","April 6, 2026",DATE,,,en,1.0
+between April 7 and 9,between April 7 and 9,DATE,,,en,1.0
+half,half,CARDINAL,,,en,1.0
+4 zodiac,4 zodiac,QUANTITY,,,en,1.0
+April day,April day,DATE,,,en,1.0
 50 to 56 kmph,50 to 56 kmph,QUANTITY,,,en,1.0
-7 pm onwards,7 pm onwards,TIME,,,en,1.0
-West Bengal Election,West Bengal Election,LAW,,,en,1.0
-Brahmin,Brahmin,NORP,,,en,1.0
-World Cup 2011,World Cup 2011,EVENT,,,en,1.0
-the Cricket World Cup,the Cricket World Cup,EVENT,,,en,1.0
-the early 2010s,the early 2010s,DATE,,,en,1.0
-15th April,15th April,DATE,,,en,1.0
-35 lakh,35 lakh,CARDINAL,,,en,1.0
-year 2026,year 2026,DATE,,,en,1.0
-4.7 KM,4.7 KM,QUANTITY,,,en,1.0
-Flood Protection Wall',Flood Protection Wall',WORK_OF_ART,,,en,1.0
-4.7 km,4.7 km,QUANTITY,,,en,1.0
-Ring Road,Ring Road,FAC,,,en,1.0
-Kashmere Gate,Kashmere Gate,FAC,,,en,1.0
-Dhurandhar: The Revenge',Dhurandhar: The Revenge',WORK_OF_ART,,,en,1.0
-48 Hours,48 Hours,TIME,,,en,1.0
-about 11,about 11,CARDINAL,,,en,1.0
 8th,8th,DATE,,,en,1.0
-Between April 18 and 20,Between April 18 and 20,DATE,,,en,1.0
-16 April 2026,16 April 2026,DATE,,,en,1.0
-between 18 and 20 April,between 18 and 20 April,DATE,,,en,1.0
-the coming week,the coming week,DATE,,,en,1.0
-the second third week of April,the second third week of April,DATE,,,en,1.0
-between 40 to,between 40 to,CARDINAL,,,en,1.0
-more than 18,more than 18,CARDINAL,,,en,1.0
-between April 18 and 21,between April 18 and 21,DATE,,,en,1.0
-late Friday,late Friday,TIME,,,en,1.0
-more than 13,more than 13,CARDINAL,,,en,1.0
-North Indian,North Indian,NORP,,,en,1.0
-the next two to three days,the next two to three days,DATE,,,en,1.0
-more than 7,more than 7,CARDINAL,,,en,1.0
-20-21 April,20-21 April,DATE,,,en,1.0
-day,day,DATE,,,en,1.0
-about 10 minutes,about 10 minutes,TIME,,,en,1.0
-74,74,DATE,,,en,1.0
-nine months,nine months,DATE,,,en,1.0
 The coldest day of April in 11 years,The coldest day of April in 11 years,DATE,,,en,1.0
 28.2 degrees,28.2 degrees,QUANTITY,,,en,1.0
 "10°C, IMD issued alert.","10°C, IMD issued alert.",PERCENT,,,en,1.0
@@ -1179,10 +1136,79 @@ cold morning,cold morning,TIME,,,en,1.0
 mornings,mornings,TIME,,,en,1.0
 082,082,CARDINAL,,,en,1.0
 Mahilalai Chait 4 Gate,Mahilalai Chait 4 Gate,FAC,,,en,1.0
+11th May,11th May,DATE,,,en,1.0
+40-60 km/hour,40-60 km/hour,QUANTITY,,,en,1.0
+the next 3 hours,the next 3 hours,TIME,,,en,1.0
+"50,000","50,000",CARDINAL,,,en,1.0
+34,34,CARDINAL,,,en,1.0
+the past 11 years,the past 11 years,DATE,,,en,1.0
+The years 2015,The years 2015,DATE,,,en,1.0
+the third hottest year,the third hottest year,DATE,,,en,1.0
+"Tuesday, March 31","Tuesday, March 31",DATE,,,en,1.0
+93.58,93.58,CARDINAL,,,en,1.0
+94.81,94.81,CARDINAL,,,en,1.0
+93.10,93.10,CARDINAL,,,en,1.0
+134 paise,134 paise,MONEY,,,en,1.0
+the PCA New Cricket Stadium,the PCA New Cricket Stadium,FAC,,,en,1.0
+April to July 2026,April to July 2026,DATE,,,en,1.0
+April 1,April 1,DATE,,,en,1.0
+2 to 5 April,2 to 5 April,DATE,,,en,1.0
+Rs 5 crore,Rs 5 crore,MONEY,,,en,1.0
+April 5,April 5,DATE,,,en,1.0
+This month,This month,DATE,,,en,1.0
+2 April,2 April,DATE,,,en,1.0
+April 6,April 6,DATE,,,en,1.0
+April 9,April 9,DATE,,,en,1.0
+recent days,recent days,DATE,,,en,1.0
+the first day,the first day,DATE,,,en,1.0
+the night of Friday,the night of Friday,TIME,,,en,1.0
+April 3,April 3,DATE,,,en,1.0
+election day,election day,DATE,,,en,1.0
+the election day,the election day,DATE,,,en,1.0
+"April 4, 2026","April 4, 2026",DATE,,,en,1.0
+Iranian,Iranian,NORP,,,en,1.0
+1000 KM,1000 KM,QUANTITY,,,en,1.0
+The month,The month,DATE,,,en,1.0
+the most sacred month,the most sacred month,DATE,,,en,1.0
 Rs 1500,Rs 1500,PRODUCT,,,en,1.0
-122,122,CARDINAL,,,en,1.0
 8 April,8 April,DATE,,,en,1.0
+the next 10 days,the next 10 days,DATE,,,en,1.0
+North Indian,North Indian,NORP,,,en,1.0
+more than 14 hours,more than 14 hours,TIME,,,en,1.0
+Khandama 082 Chait,Khandama 082 Chait,FAC,,,en,1.0
+Dhankuta-Hile,Dhankuta-Hile,FAC,,,en,1.0
+20-21 April,20-21 April,DATE,,,en,1.0
+more than 7,more than 7,CARDINAL,,,en,1.0
+the next two to three days,the next two to three days,DATE,,,en,1.0
+more than 13,more than 13,CARDINAL,,,en,1.0
 85.17%,85.17%,PERCENT,,,en,1.0
+late Friday,late Friday,TIME,,,en,1.0
+between April 18 and 21,between April 18 and 21,DATE,,,en,1.0
+more than 18,more than 18,CARDINAL,,,en,1.0
+between 40 to,between 40 to,CARDINAL,,,en,1.0
+the second third week of April,the second third week of April,DATE,,,en,1.0
+the coming week,the coming week,DATE,,,en,1.0
+Vitamin A,Vitamin A,PRODUCT,,,en,1.0
+under five years of age,under five years of age,DATE,,,en,1.0
+10 feet,10 feet,QUANTITY,,,en,1.0
+80 cm,80 cm,QUANTITY,,,en,1.0
+44.6 degrees Celsius,44.6 degrees Celsius,MONEY,,,en,1.0
+22 thousand,22 thousand,CARDINAL,,,en,1.0
+2011,2011,DATE,,,en,1.0
+5th week,5th week,DATE,,,en,1.0
+the 31st,the 31st,DATE,,,en,1.0
+21 to 25 April,21 to 25 April,DATE,,,en,1.0
+the next four to five days,the next four to five days,DATE,,,en,1.0
+43°C,43°C,PERCENT,,,en,1.0
+5:59 am,5:59 am,TIME,,,en,1.0
+4%,4%,PERCENT,,,en,1.0
+8046 km,8046 km,QUANTITY,,,en,1.0
+Mega El Nino,Mega El Nino,PRODUCT,,,en,1.0
+this summer,this summer,DATE,,,en,1.0
+between 18 and 20 April,between 18 and 20 April,DATE,,,en,1.0
+16 April 2026,16 April 2026,DATE,,,en,1.0
+Between April 18 and 20,Between April 18 and 20,DATE,,,en,1.0
+day,day,DATE,,,en,1.0
 up to 4%,up to 4%,PERCENT,,,en,1.0
 more than 489,more than 489,CARDINAL,,,en,1.0
 more than 105,more than 105,CARDINAL,,,en,1.0
@@ -1194,55 +1220,64 @@ the third week,the third week,DATE,,,en,1.0
 20th,20th,ORDINAL,,,en,1.0
 around 4:30 am today,around 4:30 am today,TIME,,,en,1.0
 4.0,4.0,CARDINAL,,,en,1.0
-all seasons,all seasons,DATE,,,en,1.0
-10 minutes,10 minutes,TIME,,,en,1.0
-this era,this era,DATE,,,en,1.0
-Nitish Tiwari,Nitish Tiwari,NORP,,,en,1.0
-more than 500 million,more than 500 million,CARDINAL,,,en,1.0
-33 degrees Celsius,33 degrees Celsius,QUANTITY,,,en,1.0
-33.2 degrees Celsius,33.2 degrees Celsius,QUANTITY,,,en,1.0
-25 liters,25 liters,QUANTITY,,,en,1.0
-the first day of Chaitra month,the first day of Chaitra month,DATE,,,en,1.0
-Dubai Airport,Dubai Airport,FAC,,,en,1.0
-up to 60%,up to 60%,PERCENT,,,en,1.0
-the coming summer,the coming summer,DATE,,,en,1.0
-late spring,late spring,DATE,,,en,1.0
-eight days,eight days,DATE,,,en,1.0
-PM,PM,TIME,,,en,1.0
-normal years,normal years,DATE,,,en,1.0
-"March 7, 2026","March 7, 2026",DATE,,,en,1.0
-Ramayana Part 2',Ramayana Part 2',WORK_OF_ART,,,en,1.0
-the Champions Trophy 2025,the Champions Trophy 2025,EVENT,,,en,1.0
-70 days,70 days,DATE,,,en,1.0
-6 March,6 March,DATE,,,en,1.0
-2.68,2.68,CARDINAL,,,en,1.0
-the last day,the last day,DATE,,,en,1.0
+nine months,nine months,DATE,,,en,1.0
+74,74,DATE,,,en,1.0
+about 10 minutes,about 10 minutes,TIME,,,en,1.0
+Brahmin,Brahmin,NORP,,,en,1.0
+about 11,about 11,CARDINAL,,,en,1.0
+World Cup 2011,World Cup 2011,EVENT,,,en,1.0
+the Cricket World Cup,the Cricket World Cup,EVENT,,,en,1.0
+the early 2010s,the early 2010s,DATE,,,en,1.0
+15th April,15th April,DATE,,,en,1.0
+35 lakh,35 lakh,CARDINAL,,,en,1.0
+year 2026,year 2026,DATE,,,en,1.0
+4.7 KM,4.7 KM,QUANTITY,,,en,1.0
+Flood Protection Wall',Flood Protection Wall',WORK_OF_ART,,,en,1.0
+4.7 km,4.7 km,QUANTITY,,,en,1.0
+Ring Road,Ring Road,FAC,,,en,1.0
+Kashmere Gate,Kashmere Gate,FAC,,,en,1.0
+Dhurandhar: The Revenge',Dhurandhar: The Revenge',WORK_OF_ART,,,en,1.0
+48 Hours,48 Hours,TIME,,,en,1.0
+West Bengal Election,West Bengal Election,LAW,,,en,1.0
+at least 17,at least 17,CARDINAL,,,en,1.0
+Rs 1000 crore,Rs 1000 crore,MONEY,,,en,1.0
+34 degrees,34 degrees,QUANTITY,,,en,1.0
 Telugu,Telugu,NORP,,,en,1.0
-Mahadevpura,Mahadevpura,FAC,,,en,1.0
-the 2026 T20 World Cup,the 2026 T20 World Cup,EVENT,,,en,1.0
-79 crore,79 crore,CARDINAL,,,en,1.0
-74.5 crore,74.5 crore,CARDINAL,,,en,1.0
-the Narendra Modi Stadium,the Narendra Modi Stadium,FAC,,,en,1.0
 March 7,March 7,DATE,,,en,1.0
+the Narendra Modi Stadium,the Narendra Modi Stadium,FAC,,,en,1.0
+74.5 crore,74.5 crore,CARDINAL,,,en,1.0
+79 crore,79 crore,CARDINAL,,,en,1.0
+the 2026 T20 World Cup,the 2026 T20 World Cup,EVENT,,,en,1.0
+Mahadevpura,Mahadevpura,FAC,,,en,1.0
+the last day,the last day,DATE,,,en,1.0
+Itanagar,Itanagar,NORP,0.0,1.0,en,1.0
+2.68,2.68,CARDINAL,,,en,1.0
+6 March,6 March,DATE,,,en,1.0
+the Champions Trophy 2025,the Champions Trophy 2025,EVENT,,,en,1.0
+Nitish Tiwari,Nitish Tiwari,NORP,,,en,1.0
+Ramayana Part 2',Ramayana Part 2',WORK_OF_ART,,,en,1.0
+"March 7, 2026","March 7, 2026",DATE,,,en,1.0
 8–13 degrees,8–13 degrees,QUANTITY,,,en,1.0
 13 degrees,13 degrees,QUANTITY,,,en,1.0
 July 2024,July 2024,DATE,,,en,1.0
 Saurashtra,Saurashtra,NORP,,,en,1.0
-500 million,500 million,CARDINAL,,,en,1.0
-₹40 lakh,₹40 lakh,MONEY,,,en,1.0
-Iran War,Iran War,EVENT,,,en,1.0
-this T20 World Cup,this T20 World Cup,EVENT,,,en,1.0
-Kannada,Kannada,NORP,,,en,1.0
-five years,five years,DATE,,,en,1.0
-the last five years,the last five years,DATE,,,en,1.0
-the main winter months,the main winter months,DATE,,,en,1.0
-around 7.11 pm,around 7.11 pm,TIME,,,en,1.0
-About 23 minutes,About 23 minutes,TIME,,,en,1.0
-10 seconds,10 seconds,TIME,,,en,1.0
-3.5,3.5,CARDINAL,,,en,1.0
-February 26,February 26,DATE,,,en,1.0
-11:24 am,11:24 am,TIME,,,en,1.0
-34 degrees,34 degrees,QUANTITY,,,en,1.0
+between winter and summer,between winter and summer,DATE,,,en,1.0
+several degrees,several degrees,QUANTITY,,,en,1.0
+15 years,15 years,DATE,,,en,1.0
+36 degrees,36 degrees,QUANTITY,,,en,1.0
+36.8 degrees Celsius,36.8 degrees Celsius,QUANTITY,,,en,1.0
+First 4 day,First 4 day,DATE,,,en,1.0
+The elusive season of March,The elusive season of March,DATE,,,en,1.0
+the next days,the next days,DATE,,,en,1.0
+"Sunday, March 15","Sunday, March 15",DATE,,,en,1.0
+Sunday (March 15,Sunday (March 15,DATE,,,en,1.0
+Just hours,Just hours,TIME,,,en,1.0
+230,230,CARDINAL,,,en,1.0
+Monday (March 16,Monday (March 16,DATE,,,en,1.0
+normal years,normal years,DATE,,,en,1.0
+PM,PM,TIME,,,en,1.0
+eight days,eight days,DATE,,,en,1.0
+18 hours,18 hours,TIME,,,en,1.0
 the first week of March,the first week of March,DATE,,,en,1.0
 The month of March,The month of March,DATE,,,en,1.0
 5.5,5.5,CARDINAL,,,en,1.0
@@ -1257,60 +1292,61 @@ a day before Holi,a day before Holi,DATE,,,en,1.0
 This year the festival of,This year the festival of,DATE,,,en,1.0
 4th March,4th March,DATE,,,en,1.0
 desi,desi,NORP,,,en,1.0
-18 hours,18 hours,TIME,,,en,1.0
 Bengaluru airport,Bengaluru airport,FAC,,,en,1.0
+late spring,late spring,DATE,,,en,1.0
 the Kempegowda International Airport,the Kempegowda International Airport,FAC,,,en,1.0
 about 18 hours late,about 18 hours late,TIME,,,en,1.0
-between winter and summer,between winter and summer,DATE,,,en,1.0
-several degrees,several degrees,QUANTITY,,,en,1.0
-15 years,15 years,DATE,,,en,1.0
-7:20 am,7:20 am,TIME,,,en,1.0
-Hindu New Year,Hindu New Year,EVENT,,,en,1.0
-English,English,NORP,,,en,1.0
-Rs 100 crore EDI,Rs 100 crore EDI,MONEY,,,en,1.0
-the biggest day,the biggest day,DATE,,,en,1.0
-Eid,Eid,NORP,,,en,1.0
-100 crore,100 crore,MONEY,,,en,1.0
-Rs 300 crore,Rs 300 crore,MONEY,,,en,1.0
-500 crore,500 crore,MONEY,,,en,1.0
-just 3 days,just 3 days,DATE,,,en,1.0
-'Peak Detailing','Peak Detailing',WORK_OF_ART,,,en,1.0
-Dhurandhar:,Dhurandhar:,WORK_OF_ART,,,en,1.0
-23 March,23 March,DATE,,,en,1.0
-Western Disturbance,Western Disturbance,FAC,0.01180555555555556,0.1395833333333333,en,1.0
-"2,18,000","2,18,000",CARDINAL,,,en,1.0
-Jyotish,Jyotish,NORP,,,en,1.0
-two lakh,two lakh,QUANTITY,,,en,1.0
-March 26 and 28,March 26 and 28,DATE,,,en,1.0
-March 26,March 26,DATE,,,en,1.0
-At least 16,At least 16,CARDINAL,,,en,1.0
-Dauladi,Dauladi,FAC,,,en,1.0
-the last one week,the last one week,DATE,,,en,1.0
-Zojila Pass,Zojila Pass,FAC,,,en,1.0
-the Srinagar-Leh National Highway,the Srinagar-Leh National Highway,FAC,,,en,1.0
-Joji La Pass,Joji La Pass,FAC,,,en,1.0
-at least seven,at least seven,CARDINAL,,,en,1.0
-around 15,around 15,CARDINAL,,,en,1.0
-season to season,season to season,DATE,,,en,1.0
-This Week,This Week,DATE,,,en,1.0
-the week,the week,DATE,,,en,1.0
-Safdarjung Observatory,Safdarjung Observatory,FAC,,,en,1.0
-the last six years,the last six years,DATE,,,en,1.0
-36 degrees,36 degrees,QUANTITY,,,en,1.0
-the coldest day,the coldest day,DATE,,,en,1.0
-36.8 degrees Celsius,36.8 degrees Celsius,QUANTITY,,,en,1.0
-First 4 day,First 4 day,DATE,,,en,1.0
-The elusive season of March,The elusive season of March,DATE,,,en,1.0
-the next days,the next days,DATE,,,en,1.0
-"Sunday, March 15","Sunday, March 15",DATE,,,en,1.0
-Sunday (March 15,Sunday (March 15,DATE,,,en,1.0
-Just hours,Just hours,TIME,,,en,1.0
-230,230,CARDINAL,,,en,1.0
-Monday (March 16,Monday (March 16,DATE,,,en,1.0
+this T20 World Cup,this T20 World Cup,EVENT,,,en,1.0
+Iran War,Iran War,EVENT,,,en,1.0
+₹40 lakh,₹40 lakh,MONEY,,,en,1.0
+500 million,500 million,CARDINAL,,,en,1.0
+more than 500 million,more than 500 million,CARDINAL,,,en,1.0
+33 degrees Celsius,33 degrees Celsius,QUANTITY,,,en,1.0
+33.2 degrees Celsius,33.2 degrees Celsius,QUANTITY,,,en,1.0
+25 liters,25 liters,QUANTITY,,,en,1.0
+the first day of Chaitra month,the first day of Chaitra month,DATE,,,en,1.0
+Dubai Airport,Dubai Airport,FAC,,,en,1.0
+up to 60%,up to 60%,PERCENT,,,en,1.0
+the coming summer,the coming summer,DATE,,,en,1.0
 Four,Four,CARDINAL,,,en,1.0
-Itanagar,Itanagar,NORP,0.0,1.0,en,1.0
-Bengal,Bengal,NORP,0.02176139272913467,0.03601297149684247,en,1.0
+Bengal,Bengal,NORP,0.02003771805752004,0.03316045890303316,en,1.0
+1000 crores,1000 crores,CARDINAL,,,en,1.0
+Zojila Pass,Zojila Pass,FAC,,,en,1.0
+This Week,This Week,DATE,,,en,1.0
+season to season,season to season,DATE,,,en,1.0
+around 15,around 15,CARDINAL,,,en,1.0
+at least seven,at least seven,CARDINAL,,,en,1.0
+Joji La Pass,Joji La Pass,FAC,,,en,1.0
+the Srinagar-Leh National Highway,the Srinagar-Leh National Highway,FAC,,,en,1.0
+the last one week,the last one week,DATE,,,en,1.0
 three days,three days,DATE,,,en,1.0
+Dauladi,Dauladi,FAC,,,en,1.0
+At least 16,At least 16,CARDINAL,,,en,1.0
+March 26,March 26,DATE,,,en,1.0
+March 26 and 28,March 26 and 28,DATE,,,en,1.0
+two lakh,two lakh,QUANTITY,,,en,1.0
+Jyotish,Jyotish,NORP,,,en,1.0
+the week,the week,DATE,,,en,1.0
+70 days,70 days,DATE,,,en,1.0
+this era,this era,DATE,,,en,1.0
+10 minutes,10 minutes,TIME,,,en,1.0
+all seasons,all seasons,DATE,,,en,1.0
+₹1140 crore,₹1140 crore,MONEY,,,en,1.0
+9 days,9 days,DATE,,,en,1.0
+just 9 days,just 9 days,DATE,,,en,1.0
+16 years,16 years,DATE,,,en,1.0
+30 March,30 March,DATE,,,en,1.0
+36.2 degrees Celsius,36.2 degrees Celsius,QUANTITY,,,en,1.0
+season,season,DATE,,,en,1.0
+19.8 degrees Celsius,19.8 degrees Celsius,QUANTITY,,,en,1.0
+1.7 degrees,1.7 degrees,QUANTITY,,,en,1.0
+Rs 1365 crore,Rs 1365 crore,MONEY,,,en,1.0
+'Dhurandhar,'Dhurandhar,WORK_OF_ART,,,en,1.0
+second weekend,second weekend,DATE,,,en,1.0
+"2,18,000","2,18,000",CARDINAL,,,en,1.0
+Western Disturbance,Western Disturbance,FAC,0.01180555555555556,0.1395833333333333,en,1.0
+23 March,23 March,DATE,,,en,1.0
+coldest day of March,coldest day of March,DATE,,,en,1.0
 Wednesday to Friday,Wednesday to Friday,DATE,,,en,1.0
 noon,noon,TIME,,,en,1.0
 40-50 km/hour,40-50 km/hour,QUANTITY,,,en,1.0
@@ -1325,6 +1361,20 @@ the coldest day of March,the coldest day of March,DATE,,,en,1.0
 six years,six years,DATE,,,en,1.0
 21.7 degrees,21.7 degrees,QUANTITY,,,en,1.0
 93,93,CARDINAL,,,en,1.0
-coldest day of March,coldest day of March,DATE,,,en,1.0
 Just a day earlier,Just a day earlier,DATE,,,en,1.0
-a minute,a minute,TIME,,,en,1.0
+Dhurandhar:,Dhurandhar:,WORK_OF_ART,,,en,1.0
+the coldest day,the coldest day,DATE,,,en,1.0
+the last six years,the last six years,DATE,,,en,1.0
+7:20 am,7:20 am,TIME,,,en,1.0
+Safdarjung Observatory,Safdarjung Observatory,FAC,,,en,1.0
+Hindu New Year,Hindu New Year,EVENT,,,en,1.0
+English,English,NORP,,,en,1.0
+Rs 100 crore EDI,Rs 100 crore EDI,MONEY,,,en,1.0
+the biggest day,the biggest day,DATE,,,en,1.0
+Eid,Eid,NORP,,,en,1.0
+100 crore,100 crore,MONEY,,,en,1.0
+Rs 300 crore,Rs 300 crore,MONEY,,,en,1.0
+500 crore,500 crore,MONEY,,,en,1.0
+just 3 days,just 3 days,DATE,,,en,1.0
+'Peak Detailing','Peak Detailing',WORK_OF_ART,,,en,1.0
+9800 feet,9800 feet,QUANTITY,,,en,1.0
