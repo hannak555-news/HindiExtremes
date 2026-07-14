@@ -1,12 +1,12 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,तूफ़ान भारत,2026-06-30T06:39:00+00:00,India,0.6717148708234804,0,1,hi,SAS,Asia
-'60cdf9fb44',extremes,Heat Wave,#c40202,wmo,हीट वेव इंडिया,2026-07-12T05:43:00+00:00,India,0.6309754868164242,0,1,hi,SAS,Asia
 'f7f19c3aaf',extremes,Precipitation,#d60d2b,wmo,उत्तराखंड के हरिद्वार जिले में मूसलाधार बारिश,2026-07-10T06:27:00+00:00,India,0.56207514150141,3,1,hi,SAS,Asia
 '778d256165',extremes,Flood,#030ba1,wmo,फ्लैशफ्लड इंडिया,2026-06-30T06:39:00+00:00,India,0.5592811823770978,1,1,hi,SAS,Asia
 'ed0a2b8a74',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश की चेतावनी,2026-07-14T05:14:00+00:00,India,0.5536234214160973,0,1,hi,SAS,Asia
 '891bde534c',extremes,Landslide,#572c03,wmo,भारत में भूस्खलन,2026-07-06T06:52:00+00:00,India,0.5516554138092935,2,1,hi,SAS,Asia
 '6f57b2e1cf',extremes,Flood,#030ba1,wmo,बाढ़ दिखो शिवसागर शिवसागर असम,2026-07-13T05:53:00+00:00,India,0.5508031704961336,1,1,hi,SAS,Asia
 '1c94b4639d',extremes,Flood,#030ba1,wmo,बाढ़ मनु कैलाशहर उनाकोटि त्रिपुरा,2026-07-09T06:27:00+00:00,India,0.5432149088805888,1,1,hi,SAS,Asia
+'60cdf9fb44',extremes,Heat Wave,#c40202,wmo,हीट वेव इंडिया,2026-07-12T05:43:00+00:00,India,0.5364791787939606,1,1,hi,SAS,Asia
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,वर्षा भारत,2026-06-30T06:39:00+00:00,India,0.5350302728238242,3,2,hi,SAS,Asia
 '48a9d0a3ef',extremes,Thunderstorm,#53785a,wmo,त्रिपुरा के दक्षिण त्रिपुरा जिले में ओलावृष्टि,2026-07-07T06:30:00+00:00,India,0.5293735570964104,1,1,hi,SAS,Asia
 '4c74471839',extremes,Flood,#030ba1,wmo,बाढ़ ब्रह्मपुत्र धुबरी धुबरी असम,2026-07-06T06:52:00+00:00,India,0.5281285484546053,1,1,hi,SAS,Asia
@@ -103,13 +103,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,गंभीर मौसम,2026-06-12T07:05:00+00:00,,0.3663421559733155,1,2,hi,,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,ओलावृष्टि,2026-06-24T06:29:00+00:00,,0.366251189149649,1,2,hi,,
 '0248b03c9b',extremes,Thunderstorm,#53785a,wmo,त्रिपुरा के पश्चिम त्रिपुरा जिले में गंभीर मौसम,2026-06-14T07:07:00+00:00,India,0.3659051835076469,1,1,hi,SAS,Asia
-'deaa4b70a0',extremes,Storm,#b3b2b1,random,रेतीला तूफ़ान,2026-07-03T06:09:00+00:00,,0.36354266581964506,0,1,hi,,
+'deaa4b70a0',extremes,Storm,#b3b2b1,random,रेतीला तूफ़ान,2026-07-03T06:09:00+00:00,,0.363542665819645,0,1,hi,,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,पाला,2026-06-15T08:36:00+00:00,,0.3616869636842681,2,2,hi,,
 'bc244be044',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश नादिया,2026-06-18T07:16:00+00:00,India,0.3580162257381937,2,1,hi,SAS,Asia
 '1d85637c26',extremes,Thunderstorm,#53785a,wmo,पूर्व की ओर ओलावृष्टि,2026-06-30T06:39:00+00:00,India,0.3568960748341425,2,1,hi,SAS,Asia
 'bd21048a6a',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-06-29T07:13:00+00:00,United Arab Emirates,0.3566406421726978,0,1,hi,ARP,Asia
 '99803d2c4f',extremes,Flood,#030ba1,wmo,बाढ़ कोसी बसुआ सुपौल बिहार,2026-07-01T06:52:00+00:00,India,0.3561098144631753,2,1,hi,SAS,Asia
-'10f476720b',extremes,Insect Infestation,#d60d2b,random,टिड्डा,2026-07-14T05:14:00+00:00,,0.35598308854335403,0,1,hi,,
+'10f476720b',extremes,Insect Infestation,#d60d2b,random,टिड्डा,2026-07-14T05:14:00+00:00,,0.355983088543354,0,1,hi,,
 '6109b3a624',extremes,Thunderstorm,#53785a,wmo,मौसम खराब जलपाईगुड़ीकूचबिहार,2026-07-01T06:52:00+00:00,India,0.3543601501978091,2,1,hi,SAS,Asia
 '9a63a5a790',extremes,Earthquake,#870007,usgs,भूकंप यारदा,2026-07-12T05:43:00+00:00,India,0.3509453866852865,1,1,hi,SAS,Asia
 'c789ceb8e5',extremes,Thunderstorm,#53785a,wmo,6 मंडलों में मौसम बेहद खराब,2026-06-17T07:33:00+00:00,India,0.3504904481855025,3,1,hi,SAS,Asia
@@ -151,7 +151,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडी सर्दी,2026-06-15T08:36:00+00:00,,0.3157390700746144,1,1,hi,,
 'a652c78afc',extremes,Drought,#edc291,random,महासूखा,2026-06-22T08:39:00+00:00,,0.311667023984557,1,1,hi,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,बम चक्रवात,2026-06-14T07:06:00+00:00,,0.3108829597266327,1,1,hi,,
-'e45d15d7d1',extremes,Landslide,#572c03,wmo,भूस्खलन शुआंगयांग जिला,2026-07-14T05:14:00+00:00,China,0.30865041609459287,0,1,hi,EAS,Asia
+'e45d15d7d1',extremes,Landslide,#572c03,wmo,भूस्खलन शुआंगयांग जिला,2026-07-14T05:14:00+00:00,China,0.3086504160945928,0,1,hi,EAS,Asia
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,ठंढा अर्जेंटीना,2026-06-30T06:39:00+00:00,Argentina,0.3085868314232864,0,1,hi,SES,South-America
 '7747997246',extremes,Fog,#d60d2b,wmo,कोहरा रूस,2026-06-26T06:36:00+00:00,Russia,0.3078622051872608,0,1,hi,ESB,Europe
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,हिमशैल आर्कटिक,2026-06-12T07:05:00+00:00,,0.3078522543934463,1,1,hi,,
@@ -159,7 +159,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,बर्फ अर्जेंटीना,2026-06-30T06:39:00+00:00,Argentina,0.3069957207610253,0,1,hi,SES,South-America
 '17065d269f',extremes,Drought,#edc291,edo,होंडुरास में बारिश की कमी,2026-07-07T06:30:00+00:00,Honduras,0.3067505104862458,0,1,hi,SCA,North-America
 'f3d653a8ff',extremes,Drought,#edc291,edo,सूखापन कोमोरोस,2026-06-29T07:13:00+00:00,Comoros,0.3066820487876565,0,1,hi,ESAF,Africa
-'83f2a9deea',extremes,Drought,#edc291,edo,सूखा काल फ़्रांस,2026-06-26T06:36:00+00:00,France,0.30655584225402177,0,1,hi,WCE,Europe
+'83f2a9deea',extremes,Drought,#edc291,edo,सूखा काल फ़्रांस,2026-06-26T06:36:00+00:00,France,0.3065558422540217,0,1,hi,WCE,Europe
 '622bd2c53e',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखापन,2026-07-10T06:27:00+00:00,United Arab Emirates,0.3064389415623837,1,1,hi,ARP,Asia
 '3421a57149',extremes,Storm,#b3b2b1,wmo,तूफ़ान इक्वाडोर,2026-07-04T05:59:00+00:00,Ecuador,0.3056874199990245,0,1,hi,NWS,South-America
 '55c39b351d',extremes,Storm,#b3b2b1,random,धूल शैतान,2026-06-17T07:33:00+00:00,,0.3050403589886913,1,1,hi,,
