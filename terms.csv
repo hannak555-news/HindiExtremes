@@ -149,7 +149,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडी सर्दी,2026-06-15T08:36:00+00:00,,0.3157390700746144,1,1,hi,,
 'a652c78afc',extremes,Drought,#edc291,random,महासूखा,2026-06-22T08:39:00+00:00,,0.311667023984557,1,1,hi,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,बम चक्रवात,2026-06-14T07:06:00+00:00,,0.3108829597266327,1,1,hi,,
-'deaa4b70a0',extremes,Storm,#b3b2b1,random,रेतीला तूफ़ान,2026-07-03T06:09:00+00:00,,0.30901126594669825,1,1,hi,,
+'deaa4b70a0',extremes,Storm,#b3b2b1,random,रेतीला तूफ़ान,2026-07-03T06:09:00+00:00,,0.3090112659466982,1,1,hi,,
 'e45d15d7d1',extremes,Landslide,#572c03,wmo,भूस्खलन शुआंगयांग जिला,2026-07-14T05:14:00+00:00,China,0.3086504160945928,0,1,hi,EAS,Asia
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,ठंढा अर्जेंटीना,2026-06-30T06:39:00+00:00,Argentina,0.3085868314232864,0,1,hi,SES,South-America
 '7747997246',extremes,Fog,#d60d2b,wmo,कोहरा रूस,2026-06-26T06:36:00+00:00,Russia,0.3078622051872608,0,1,hi,ESB,Europe
@@ -160,8 +160,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f3d653a8ff',extremes,Drought,#edc291,edo,सूखापन कोमोरोस,2026-06-29T07:13:00+00:00,Comoros,0.3066820487876565,0,1,hi,ESAF,Africa
 '83f2a9deea',extremes,Drought,#edc291,edo,सूखा काल फ़्रांस,2026-06-26T06:36:00+00:00,France,0.3065558422540217,0,1,hi,WCE,Europe
 '622bd2c53e',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखापन,2026-07-10T06:27:00+00:00,United Arab Emirates,0.3064389415623837,1,1,hi,ARP,Asia
+'d2400dbe3d',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश ओक्स,2026-07-13T05:53:00+00:00,Mexico,0.30595075917917014,0,1,hi,NCA,North-America
+'8a654473a4',extremes,Drought,#edc291,edo,साओ टोम और प्रिंसिपे में सूखा,2026-07-07T06:30:00+00:00,Sao Tome and Principe,0.30586035350289437,0,1,hi,WAF,Africa
 '3421a57149',extremes,Storm,#b3b2b1,wmo,तूफ़ान इक्वाडोर,2026-07-04T05:59:00+00:00,Ecuador,0.3056874199990245,0,1,hi,NWS,South-America
+'b2ab090487',extremes,Precipitation,#d60d2b,wmo,वर्षा चिस ग्रो ओक्स पुए वेर,2026-07-13T05:53:00+00:00,Mexico,0.3054190529625011,0,1,hi,NCA,North-America
+'a03bfb69ba',extremes,Drought,#edc291,edo,सूखा जादू स्विट्ज़रलैंड,2026-06-26T06:36:00+00:00,Switzerland,0.3051533382415271,0,1,hi,WCE,Europe
 '55c39b351d',extremes,Storm,#b3b2b1,random,धूल शैतान,2026-06-17T07:33:00+00:00,,0.3050403589886913,1,1,hi,,
+'7f426032e8',extremes,Drought,#edc291,edo,शुष्क मौसम भूटान,2026-07-04T05:59:00+00:00,Bhutan,0.30497033904359205,0,1,hi,TIB,Asia
+'eeacc80474',extremes,Storm,#b3b2b1,wmo,तूफ़ान वानुअतु,2026-07-02T06:24:00+00:00,Vanuatu,0.3047940664041892,0,1,hi,SPO,Oceania
+'2f30862216',extremes,Drought,#edc291,edo,ऑस्ट्रिया में सूखा,2026-07-05T06:25:00+00:00,Austria,0.30472275010261307,0,1,hi,WCE,Europe
+'f497a982c3',extremes,Storm,#b3b2b1,wmo,तूफ़ान की लहर सोलोमन द्वीप,2026-07-01T06:52:00+00:00,Solomon Islands,0.30442147179509743,0,1,hi,EPO,Oceania
+'7d13279eb3',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल जमैका,2026-07-02T06:24:00+00:00,Jamaica,0.3040747395767833,0,1,hi,CAR,North-America
+'335616d808',extremes,Drought,#edc291,edo,सूखा कोस्टा रिका,2026-07-13T05:53:00+00:00,Costa Rica,0.3034880354308975,0,1,hi,SCA,South-America
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,बर्फ़ीला तूफ़ान,2026-07-12T05:43:00+00:00,,0.3030967143958669,1,1,hi,,
 'e730b98a72',extremes,Thunderstorm,#53785a,wmo,तूफ़ान रोमानिया,2026-06-30T06:39:00+00:00,Romania,0.3030046189187867,0,1,hi,WCE,Europe
 '9e020e244e',extremes,Drought,#edc291,edo,सूखापन पोलैंड,2026-07-04T05:59:00+00:00,Poland,0.3029937234222032,0,1,hi,WCE,Europe
