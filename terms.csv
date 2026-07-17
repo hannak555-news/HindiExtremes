@@ -78,6 +78,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,कनाडा में गंभीर मौसम,2026-06-28T06:44:00+00:00,Canada,0.4080584639281165,1,2,hi,NEN,North-America
 'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,सर्दी का मौसम,2026-06-29T07:12:00+00:00,,0.4079411432587966,2,2,hi,,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,बाढ़,2026-06-12T07:05:00+00:00,,0.4079003257746263,1,2,hi,,
+'d77b825e5b',extremes,Flood,#030ba1,wmo,कनाडा में बाढ़,2026-06-30T06:39:00+00:00,Canada,0.4073807765952865,1,2,hi,NEN,North-America
 '0045c29d49',extremes,Thunderstorm,#53785a,wmo,तूफान 11 मंडल,2026-06-17T07:33:00+00:00,India,0.4071711735160977,2,1,hi,SAS,Asia
 '44211c95de',extremes,Flood,#030ba1,wmo,ऑस्ट्रेलिया में बाढ़,2026-06-09T06:32:00+00:00,Australia,0.4068880217876133,1,2,hi,CAU,Oceania
 '9778ee6716',extremes,Earthquake,#870007,usgs,भूकंप युमारे,2026-06-25T06:32:00+00:00,Venezuela,0.4063371990640345,1,2,hi,NSA,South-America
@@ -148,7 +149,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,बम चक्रवात,2026-06-14T07:06:00+00:00,,0.3108829597266327,1,1,hi,,
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,रेतीला तूफ़ान,2026-07-03T06:09:00+00:00,,0.3090112659466982,1,1,hi,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,हिमशैल आर्कटिक,2026-06-12T07:05:00+00:00,,0.3078522543934463,1,1,hi,,
-'8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,ब्राज़ील में मूसलाधार बारिश,2026-07-06T06:52:00+00:00,Brazil,0.3070881627793829,0,1,hi,SAM,South-America
 '622bd2c53e',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखापन,2026-07-10T06:27:00+00:00,United Arab Emirates,0.3064389415623837,1,1,hi,ARP,Asia
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,तूफ़ान ब्राज़ील,2026-07-04T05:59:00+00:00,Brazil,0.3059428902933067,0,1,hi,SAM,South-America
 '45500dcb47',extremes,Precipitation,#d60d2b,random,रिकार्ड वर्षा,2026-07-05T06:24:00+00:00,,0.3056147893786266,1,1,hi,,
@@ -167,7 +167,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fa6f243498',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश मि,2026-07-14T05:14:00+00:00,Mexico,0.3029503621874527,0,1,hi,NCA,North-America
 '08945238c8',extremes,Snow&Ice,#d60d2b,wmo,स्नो चिली,2026-07-14T05:14:00+00:00,Chile,0.3029282148150259,0,1,hi,SWS,South-America
 'ae7c5ba2c1',extremes,Heat Wave,#c40202,wmo,हीट वेव वैल डे रुज़ कोलंबिया,2026-07-11T05:27:00+00:00,Switzerland,0.3028383864382835,0,1,hi,WCE,Europe
-'d77b825e5b',extremes,Flood,#030ba1,wmo,कनाडा में बाढ़,2026-06-30T06:39:00+00:00,Canada,0.3026244254062194,0,1,hi,NEN,North-America
 '5fbb195efb',extremes,Wildfire,#d60d2b,wmo,उल्यानोस्क क्षेत्र की जंगल की आग,2026-07-09T06:27:00+00:00,Russia,0.3026101593462736,0,1,hi,ESB,Europe
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,टिड्डा,2026-07-14T05:14:00+00:00,,0.3025856252618509,1,1,hi,,
 '91a13c4ea2',extremes,Fog,#d60d2b,wmo,कोहरा सनीराजक इग्लूलिक,2026-07-14T05:14:00+00:00,Canada,0.3025021790423232,0,1,hi,NEN,North-America
@@ -336,6 +335,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c6a5702096',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश जल,2026-07-10T06:27:00+00:00,Mexico,0.2611588517791733,1,1,hi,NCA,North-America
 '8d298839a5',extremes,Precipitation,#d60d2b,wmo,डाउनपोर टैम्प्स देखें,2026-07-10T06:27:00+00:00,Mexico,0.2611442552936339,1,1,hi,NCA,North-America
 'ee17683783',extremes,Tropical Cyclone,#4f4f4f,wmo,तूफान फिलीपींस,2026-06-23T06:33:00+00:00,Philippines,0.2611152901733368,1,1,hi,SEA,Asia
+'8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,ब्राज़ील में मूसलाधार बारिश,2026-07-06T06:52:00+00:00,Brazil,0.2610249383624754,1,1,hi,SAM,South-America
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,बर्फ अर्जेंटीना,2026-06-30T06:39:00+00:00,Argentina,0.2609463626468715,1,1,hi,SES,South-America
 'd68189cbca',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश अल्जीरिया,2026-06-26T06:36:00+00:00,Algeria,0.2609166812427231,1,1,hi,SAH,Africa
 'f44890a60b',extremes,Thunderstorm,#53785a,wmo,तूफ़ान कनाडा,2026-06-28T06:44:00+00:00,Canada,0.2609092275337463,1,1,hi,NEN,North-America
@@ -514,5 +514,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b42ca6333d',extremes,Fog,#d60d2b,wmo,कोहरा ओम्स्क क्षेत्र,2026-06-17T07:33:00+00:00,Russia,0.221419888335186,2,1,hi,ESB,Europe
 '78598a21cd',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश मिंगनी एंटीकोस्टी,2026-06-16T08:27:00+00:00,Canada,0.2204082733995969,2,1,hi,NEN,North-America
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,तूफ़ान न्यूज़ीलैंड,2026-06-19T07:39:00+00:00,New Zealand,0.2203098306284149,2,1,hi,NZ,Oceania
-'5bbe9c0082',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल कनाडा,2026-06-20T06:47:00+00:00,Canada,0.22018611923229084,2,1,hi,NEN,North-America
+'5bbe9c0082',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल कनाडा,2026-06-20T06:47:00+00:00,Canada,0.2201861192322908,2,1,hi,NEN,North-America
 '769c0da087',extremes,Storm,#b3b2b1,wmo,कुवैत में तूफ़ान की स्थिति,2026-06-16T08:27:00+00:00,Kuwait,0.2192580695509091,2,1,hi,ARP,Asia
