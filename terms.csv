@@ -1,7 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'90522631da',extremes,Precipitation,#d60d2b,wmo,भारत में वर्षा,2026-07-03T06:09:00+00:00,India,0.6746955180672085,0,1,hi,SAS,Asia
 '519c58c063',extremes,Flood,#030ba1,wmo,बाढ़ भारत,2026-07-03T06:09:00+00:00,India,0.6346993161961496,1,2,hi,SAS,Asia
 'ed0a2b8a74',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश की चेतावनी,2026-07-14T05:14:00+00:00,India,0.6164402441127736,1,3,hi,SAS,Asia
+'90522631da',extremes,Precipitation,#d60d2b,wmo,भारत में वर्षा,2026-07-03T06:09:00+00:00,India,0.6011689730844,1,2,hi,SAS,Asia
 '46906d4391',extremes,Thunderstorm,#53785a,wmo,उत्तराखंड के जिलों में मौसम बेहद खराब,2026-07-18T05:10:00+00:00,India,0.5751254194728993,0,1,hi,SAS,Asia
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,तूफ़ान भारत,2026-06-30T06:39:00+00:00,India,0.5711076551999583,1,1,hi,SAS,Asia
 'f7f19c3aaf',extremes,Precipitation,#d60d2b,wmo,उत्तराखंड के हरिद्वार जिले में मूसलाधार बारिश,2026-07-10T06:27:00+00:00,India,0.56207514150141,3,1,hi,SAS,Asia
@@ -63,10 +63,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '06ee29beb7',extremes,Storm,#b3b2b1,wmo,तूफान केंद्रीय ऊपर,2026-06-30T06:39:00+00:00,India,0.4514207322843706,2,1,hi,SAS,Asia
 '59b5340b69',extremes,Precipitation,#d60d2b,random,मौसम सामने,2026-06-28T06:44:00+00:00,,0.4506182613206123,1,3,hi,,
 '48a9d0a3ef',extremes,Thunderstorm,#53785a,wmo,त्रिपुरा के दक्षिण त्रिपुरा जिले में ओलावृष्टि,2026-07-07T06:30:00+00:00,India,0.4499675235319488,2,1,hi,SAS,Asia
-'c885bd6875',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम केएसएम इपोलावरम मंडल,2026-07-18T05:10:00+00:00,India,0.44866791528988326,0,1,hi,SAS,Asia
+'c885bd6875',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम केएसएम इपोलावरम मंडल,2026-07-18T05:10:00+00:00,India,0.4486679152898832,0,1,hi,SAS,Asia
 'f90601fa23',extremes,Volcano,#b83202,random,ज्वालामुखी विस्फोट,2026-07-03T06:09:00+00:00,,0.4467203968453834,1,2,hi,,
 '35cc9cbf75',extremes,Precipitation,#d60d2b,random,मूसलाधार बारिश,2026-06-29T07:12:00+00:00,,0.4422376993091749,1,3,hi,,
-'53d6ea67eb',extremes,Thunderstorm,#53785a,wmo,8 मंडलों में ओलावृष्टि,2026-07-18T05:10:00+00:00,India,0.43502533727721426,0,1,hi,SAS,Asia
+'53d6ea67eb',extremes,Thunderstorm,#53785a,wmo,8 मंडलों में ओलावृष्टि,2026-07-18T05:10:00+00:00,India,0.4350253372772142,0,1,hi,SAS,Asia
 'aa86a99742',extremes,Flood,#030ba1,wmo,बाढ़ कोसी बलतारा खगड़िया बिहार,2026-07-05T06:25:00+00:00,India,0.4293366905849854,1,1,hi,SAS,Asia
 '74891e7326',extremes,Thunderstorm,#53785a,wmo,गुजरात के 9 जिलों में ओलावृष्टि,2026-06-22T08:39:00+00:00,India,0.4281993255805369,2,1,hi,SAS,Asia
 '44001fedd4',extremes,Storm,#b3b2b1,wmo,तूफान उत्तराखंड का अल्मोडा जिला,2026-07-02T06:24:00+00:00,India,0.4273502734269234,2,1,hi,SAS,Asia
@@ -150,7 +150,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,बम चक्रवात,2026-06-14T07:06:00+00:00,,0.3108829597266327,1,1,hi,,
 'e52ff7b67a',extremes,Heat Wave,#c40202,wmo,हीट वेव पूर्वी क्षेत्र,2026-07-16T05:25:00+00:00,North Macedonia,0.3095876056687646,1,1,hi,MED,Europe
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,रेतीला तूफ़ान,2026-07-03T06:09:00+00:00,,0.3090112659466982,1,1,hi,,
-'7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,बर्फ ब्राजील,2026-07-05T06:25:00+00:00,Brazil,0.30871815425213966,0,1,hi,SAM,South-America
+'7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,बर्फ ब्राजील,2026-07-05T06:25:00+00:00,Brazil,0.3087181542521396,0,1,hi,SAM,South-America
 'b42ca6333d',extremes,Fog,#d60d2b,wmo,कोहरा ओम्स्क क्षेत्र,2026-07-08T05:37:00+00:00,Russia,0.3070448783217796,0,1,hi,ESB,Europe
 '622bd2c53e',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखापन,2026-07-10T06:27:00+00:00,United Arab Emirates,0.3064389415623837,1,1,hi,ARP,Asia
 '45500dcb47',extremes,Precipitation,#d60d2b,random,रिकार्ड वर्षा,2026-07-05T06:24:00+00:00,,0.3056147893786266,1,1,hi,,
