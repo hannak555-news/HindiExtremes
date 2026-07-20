@@ -1,30 +1,34 @@
 ,phrase,label,sentiment,subjectivity,language,count
-IMD,IMD,ORG,0.07253907827378225,0.5037277597583505,en,398.8000000000009
-The Indian Meteorological Department,The Indian Meteorological Department,ORG,0.17929787162249355,0.5988585997526857,en,72.69999999999993
-the Meteorological Department,the Meteorological Department,ORG,0.051135089718556855,0.3925605226768955,en,62.299999999999926
-the Indian Meteorological Department,the Indian Meteorological Department,ORG,0.18708154880446196,0.5036071832253008,en,56.29999999999995
-The Meteorological Department,The Meteorological Department,ORG,0.10811308789249974,0.3511166529548885,en,44.199999999999974
-India Meteorological Department,India Meteorological Department,ORG,0.08694571865443425,0.4275611620795107,en,21.8
-Indian Meteorological Department,Indian Meteorological Department,ORG,0.15870268101576507,0.49522562069291015,en,21.40000000000001
+IMD,IMD,ORG,0.0710491394421618,0.5136244749875846,en,432.10000000000076
+The Indian Meteorological Department,The Indian Meteorological Department,ORG,0.1919660060019959,0.6039462750902345,en,77.79999999999994
+the Meteorological Department,the Meteorological Department,ORG,0.05523776581037064,0.3999853377660268,en,66.79999999999993
+the Indian Meteorological Department,the Indian Meteorological Department,ORG,0.20328157694908988,0.532412595864373,en,59.09999999999993
+The Meteorological Department,The Meteorological Department,ORG,0.10619107744107752,0.34487457912457936,en,44.99999999999997
+Indian Meteorological Department,Indian Meteorological Department,ORG,0.16544272512357613,0.5045175155813452,en,23.500000000000007
+India Meteorological Department,India Meteorological Department,ORG,0.08006588319088319,0.4277065527065527,en,23.400000000000002
 AQI,AQI,ORG,-0.18240413847209958,0.6002341374914187,en,20.60000000000001
+AC,AC,ORG,0.12697228144989336,0.5345415778251599,en,13.400000000000002
 the India Meteorological Department,the India Meteorological Department,ORG,0.10510299625468163,0.22191011235955052,en,8.9
 TMC,TMC,ORG,-0.04827343199436223,0.44793868921775903,en,8.6
 Banda,Banda,ORG,0.06960978835978836,0.4052579365079365,en,8.4
+The India Meteorological Department,The India Meteorological Department,ORG,0.10984848484848485,0.393939393939394,en,8.0
 Delhi AQI,Delhi AQI,ORG,0.07957203615098352,0.5252109914938862,en,7.6000000000000005
-The India Meteorological Department,The India Meteorological Department,ORG,0.09139784946236558,0.26881720430107525,en,6.2
+Odisha,Odisha,ORG,-0.04639249639249639,0.5835858585858585,en,6.000000000000001
 IMD Heat Wave Red,IMD Heat Wave Red,ORG,0.06752873563218392,0.25,en,5.8
+AAP,AAP,ORG,-0.04310344827586207,0.40948275862068967,en,5.8
 Mercury,Mercury,ORG,0.017241379310344827,0.06896551724137931,en,5.8
 Western Disturbance,Western Disturbance,ORG,-0.01931818181818181,0.3579545454545454,en,5.5
-AAP,AAP,ORG,-0.045454545454545456,0.4318181818181818,en,5.5
 Prayagraj,Prayagraj,ORG,0.0,0.18867924528301888,en,5.3
-Odisha,Odisha,ORG,-0.03734827264239029,0.5915032679738561,en,5.1000000000000005
 Bareilly,Bareilly,ORG,0.03435283687943262,0.3368794326241135,en,4.7
+El Nino,El Nino,ORG,-0.22826086956521738,0.30434782608695654,en,4.6
 Meteorological Department,Meteorological Department,ORG,-0.18750000000000003,0.4755434782608696,en,4.6
 IMD Heavy,IMD Heavy,ORG,-0.20505952380952383,0.4464285714285714,en,4.2
 mercury,mercury,ORG,0.07638888888888887,0.4494047619047619,en,4.2
-IMD Heavy Rain,IMD Heavy Rain,ORG,-0.11964285714285715,0.40133928571428573,en,4.0
 NDA,NDA,ORG,0.2875,0.15,en,4.0
+IMD Heavy Rain,IMD Heavy Rain,ORG,-0.11964285714285715,0.40133928571428573,en,4.0
 Holi,Holi,ORG,0.025000000000000005,0.0,en,3.9999999999999996
+Super El Nino,Super El Nino,ORG,0.1388888888888889,0.4962462462462462,en,3.6999999999999997
+ISRO,ISRO,ORG,-0.008599508599508603,0.0,en,3.6999999999999997
 Google,Google,ORG,0.23183183183183184,0.2758258258258259,en,3.6999999999999997
 UN,UN,ORG,0.024891774891774892,0.15995670995670994,en,3.5
 NDMA,NDMA,ORG,-0.09313725490196077,0.36519607843137253,en,3.4000000000000004
@@ -33,301 +37,341 @@ Cold,Cold,ORG,-0.465686274509804,0.8872549019607844,en,3.3999999999999995
 Team India,Team India,ORG,0.21874999999999997,0.18098958333333331,en,3.2
 IMD Heat,IMD Heat,ORG,-0.3125,0.4375,en,3.1999999999999997
 Bharatiya Janata Party,Bharatiya Janata Party,ORG,0.08620689655172414,0.45977011494252873,en,2.9
+NLM,NLM,ORG,0.08620689655172414,0.5000000000000001,en,2.9
 Delhi NCR Weather:,Delhi NCR Weather:,ORG,-0.02586206896551725,0.2155172413793104,en,2.8999999999999995
 Falta,Falta,ORG,0.0,0.0,en,2.8000000000000003
+Delhi NCR,Delhi NCR,ORG,0.0,0.0,en,2.8
 Trinamool Congress,Trinamool Congress,ORG,0.042207792207792215,0.2775974025974026,en,2.8
-Indian Railways,Indian Railways,ORG,0.6191249226963513,1.1646567717996288,en,2.8
-Pahalgam,Pahalgam,ORG,-0.3125,0.17857142857142858,en,2.8
-Super El Nino,Super El Nino,ORG,0.2628968253968254,0.4216269841269841,en,2.8
-El Nino,El Nino,ORG,-0.2142857142857143,0.0,en,2.8
-Aam Aadmi Party,Aam Aadmi Party,ORG,0.0,0.35714285714285715,en,2.8
 TVK,TVK,ORG,0.19444444444444448,0.511904761904762,en,2.8
+Pahalgam,Pahalgam,ORG,-0.3125,0.17857142857142858,en,2.8
+Aam Aadmi Party,Aam Aadmi Party,ORG,0.0,0.35714285714285715,en,2.8
+Noida,Noida,ORG,0.029761904761904764,0.21825396825396826,en,2.8
+Indian Railways,Indian Railways,ORG,0.6191249226963513,1.1646567717996288,en,2.8
 Dehradun,Dehradun,ORG,0.3061728395061728,0.3950617283950617,en,2.7
-IMD Rain,IMD Rain,ORG,0.0,0.0,en,2.6
-AC,AC,ORG,0.023351648351648352,0.3021978021978022,en,2.6
+Delhi NCR Weather,Delhi NCR Weather,ORG,-0.1639957264957265,0.1923076923076923,en,2.6
 Aadhaar,Aadhaar,ORG,0.16729104229104227,0.40775890775890783,en,2.6
+IMD Rain,IMD Rain,ORG,0.0,0.0,en,2.6
 Delhi NCR Weather Update,Delhi NCR Weather Update,ORG,-0.048888888888888926,0.3511111111111111,en,2.5
-Indian Metrology Department,Indian Metrology Department,ORG,0.039999999999999994,0.07999999999999999,en,2.5
 PAK,PAK,ORG,-0.043030303030303065,0.3866666666666666,en,2.5
-Team India's,Team India's,ORG,0.6331018518518517,0.4675925925925925,en,2.4000000000000004
+Indian Metrology Department,Indian Metrology Department,ORG,0.039999999999999994,0.07999999999999999,en,2.5
 IMD Monsoon,IMD Monsoon,ORG,0.0046296296296296354,0.1550925925925926,en,2.4000000000000004
+Team India's,Team India's,ORG,0.6331018518518517,0.4675925925925925,en,2.4000000000000004
+Monsoon Watch,Monsoon Watch,ORG,-0.051767676767676775,0.17045454545454547,en,2.1999999999999997
 SRH,SRH,ORG,0.23809523809523808,0.23809523809523808,en,2.1
+Bathinda,Bathinda,ORG,0.11904761904761904,0.5,en,2.1
 Railways,Railways,ORG,0.17857142857142858,0.2857142857142857,en,2.0
 Trump,Trump,ORG,-0.05,0.05,en,2.0
 IPL,IPL,ORG,0.14692982456140347,0.47149122807017524,en,1.9000000000000006
 RCB,RCB,ORG,-0.032894736842105254,0.8881578947368419,en,1.9000000000000004
-IND,IND,ORG,0.15031897926634766,1.3341307814992025,en,1.9000000000000001
-Nifty,Nifty,ORG,0.2894736842105263,0.49999999999999994,en,1.9000000000000001
 Yellow Alert',Yellow Alert',ORG,-0.018671679197994968,0.368796992481203,en,1.9000000000000001
-Ayurveda,Ayurveda,ORG,0.2255639097744361,0.13157894736842105,en,1.9
-Itanagar,Itanagar,ORG,-0.17982456140350875,0.5263157894736842,en,1.9
-UBT,UBT,ORG,0.07236842105263158,0.125,en,1.9
-WMO,WMO,ORG,-0.19078947368421054,0.0,en,1.9
-Noida,Noida,ORG,0.0,0.0,en,1.9
-Ishaan,Ishaan,ORG,0.0,0.0,en,1.9
-Delhi NCR Weather Update:,Delhi NCR Weather Update:,ORG,-0.03289473684210526,0.23026315789473686,en,1.9
-Department,Department,ORG,0.07894736842105263,0.2631578947368421,en,1.9
-USGS,USGS,ORG,0.39473684210526316,0.14619883040935672,en,1.9
-Pandya,Pandya,ORG,0.2631578947368421,0.39473684210526316,en,1.9
-the National Center for Seismology,the National Center for Seismology,ORG,-0.10526315789473685,0.052631578947368425,en,1.9
-the West Bengal Assembly,the West Bengal Assembly,ORG,0.13157894736842105,0.0,en,1.9
-BJP,BJP,ORG,-0.06578947368421052,0.19736842105263158,en,1.9
-West Bengal Assembly Elections 2026,West Bengal Assembly Elections 2026,ORG,0.13157894736842105,0.2631578947368421,en,1.9
-Sikkim Earthquake,Sikkim Earthquake,ORG,-0.06578947368421052,0.0,en,1.9
-CM,CM,ORG,0.17105263157894737,0.0,en,1.9
-Makar Sankranti,Makar Sankranti,ORG,0.0,0.0,en,1.9
-"Telangana, Odisha","Telangana, Odisha",ORG,0.0,0.32894736842105265,en,1.9
-Orange Alert',Orange Alert',ORG,0.0,0.0,en,1.9
-AI,AI,ORG,0.0,0.2894736842105263,en,1.9
+Nifty,Nifty,ORG,0.2894736842105263,0.49999999999999994,en,1.9000000000000001
+IND,IND,ORG,0.15031897926634766,1.3341307814992025,en,1.9000000000000001
 Lakshadweep,Lakshadweep,ORG,0.18859649122807015,0.15789473684210525,en,1.9
+Ishaan,Ishaan,ORG,0.0,0.0,en,1.9
+shikanji,shikanji,ORG,0.14992025518341306,0.1722488038277512,en,1.9
+BJP,BJP,ORG,-0.06578947368421052,0.19736842105263158,en,1.9
+AI,AI,ORG,0.0,0.2894736842105263,en,1.9
+UBT,UBT,ORG,0.07236842105263158,0.125,en,1.9
+CM,CM,ORG,0.17105263157894737,0.0,en,1.9
+WMO,WMO,ORG,-0.19078947368421054,0.0,en,1.9
+Orange Alert',Orange Alert',ORG,0.0,0.0,en,1.9
+"Telangana, Odisha","Telangana, Odisha",ORG,0.0,0.32894736842105265,en,1.9
+the West Bengal Assembly,the West Bengal Assembly,ORG,0.13157894736842105,0.0,en,1.9
+West Bengal Assembly Elections 2026,West Bengal Assembly Elections 2026,ORG,0.13157894736842105,0.2631578947368421,en,1.9
+Itanagar,Itanagar,ORG,-0.17982456140350875,0.5263157894736842,en,1.9
+Sikkim Earthquake,Sikkim Earthquake,ORG,-0.06578947368421052,0.0,en,1.9
+Department,Department,ORG,0.07894736842105263,0.2631578947368421,en,1.9
+Delhi NCR Weather Update:,Delhi NCR Weather Update:,ORG,-0.03289473684210526,0.23026315789473686,en,1.9
+Pandya,Pandya,ORG,0.2631578947368421,0.39473684210526316,en,1.9
+Makar Sankranti,Makar Sankranti,ORG,0.0,0.0,en,1.9
+USGS,USGS,ORG,0.39473684210526316,0.14619883040935672,en,1.9
+Ayurveda,Ayurveda,ORG,0.2255639097744361,0.13157894736842105,en,1.9
+the National Center for Seismology,the National Center for Seismology,ORG,-0.10526315789473685,0.052631578947368425,en,1.9
 IPL 2026,IPL 2026,ORG,0.5555555555555554,1.6666666666666663,en,1.8000000000000005
-Arjun,Arjun,ORG,-0.3402777777777778,0.1597222222222222,en,1.8
-NLM,NLM,ORG,0.0,0.22222222222222224,en,1.8
-North India Weather: Due,North India Weather: Due,ORG,0.15007716049382716,0.24652777777777776,en,1.8
-IMD Monsoon Rain Date,IMD Monsoon Rain Date,ORG,0.16666666666666669,0.05555555555555556,en,1.8
-Mirzapur,Mirzapur,ORG,0.0925925925925926,0.37037037037037035,en,1.8
-Bareilly Storm Viral Video,Bareilly Storm Viral Video,ORG,-0.13020833333333334,0.10493827160493827,en,1.8
-Monsson,Monsson,ORG,-0.05555555555555556,0.0,en,1.8
-Sikkim,Sikkim,ORG,0.0648148148148148,0.3472222222222222,en,1.8
-Greenland,Greenland,ORG,-0.12896825396825398,0.16666666666666666,en,1.8
-North India Weather:,North India Weather:,ORG,-0.38804713804713803,0.40404040404040403,en,1.8
 Macron,Macron,ORG,0.06944444444444445,0.25925925925925924,en,1.8
+Sikkim,Sikkim,ORG,0.0648148148148148,0.3472222222222222,en,1.8
+Tonk,Tonk,ORG,0.3055555555555556,0.20833333333333331,en,1.8
+Arjun,Arjun,ORG,-0.3402777777777778,0.1597222222222222,en,1.8
 IMD Heavy Rain Alert,IMD Heavy Rain Alert,ORG,-0.16666666666666669,0.16666666666666666,en,1.8
 Indigo,Indigo,ORG,-0.16666666666666666,0.0,en,1.8
-Tonk,Tonk,ORG,0.3055555555555556,0.20833333333333331,en,1.8
+Monsson,Monsson,ORG,-0.05555555555555556,0.0,en,1.8
+North India Weather: Due,North India Weather: Due,ORG,0.15007716049382716,0.24652777777777776,en,1.8
+Mirzapur,Mirzapur,ORG,0.0925925925925926,0.37037037037037035,en,1.8
+Bareilly Storm Viral Video,Bareilly Storm Viral Video,ORG,-0.13020833333333334,0.10493827160493827,en,1.8
+Greenland,Greenland,ORG,-0.12896825396825398,0.16666666666666666,en,1.8
+IMD Monsoon Rain Date,IMD Monsoon Rain Date,ORG,0.16666666666666669,0.05555555555555556,en,1.8
+North India Weather:,North India Weather:,ORG,-0.38804713804713803,0.40404040404040403,en,1.8
 IMD Rain & Heat,IMD Rain & Heat,ORG,0.28431372549019607,0.5882352941176471,en,1.7
-Delhi NCR Weather,Delhi NCR Weather,ORG,0.04330065359477123,0.0,en,1.7
 MI,MI,ORG,0.8541666666666664,0.8749999999999997,en,1.6000000000000005
 PBKS,PBKS,ORG,0.0,0.0,en,1.6000000000000003
-CNG,CNG,ORG,0.007102272727272721,0.234375,en,1.6
-Sun,Sun,ORG,0.37499999999999994,0.625,en,1.6
-ODI,ODI,ORG,0.0,0.041666666666666664,en,1.6
-IMD Thunderstorm & Heat,IMD Thunderstorm & Heat,ORG,0.0390625,0.3125,en,1.6
-West Bengal Election 2026,West Bengal Election 2026,ORG,0.0,0.052083333333333336,en,1.6
-Bengal,Bengal,ORG,0.125,0.5937499999999999,en,1.6
 Air India,Air India,ORG,0.10795454545454543,0.47159090909090906,en,1.6
+Bengal,Bengal,ORG,0.125,0.5937499999999999,en,1.6
+Sun,Sun,ORG,0.37499999999999994,0.625,en,1.6
+West Bengal Election 2026,West Bengal Election 2026,ORG,0.0,0.052083333333333336,en,1.6
+IMD Thunderstorm & Heat,IMD Thunderstorm & Heat,ORG,0.0390625,0.3125,en,1.6
+ODI,ODI,ORG,0.0,0.041666666666666664,en,1.6
+CNG,CNG,ORG,0.007102272727272721,0.234375,en,1.6
 Skymet,Skymet,ORG,0.049999999999999996,0.5499999999999999,en,1.5
 Royal Challengers Bangalore,Royal Challengers Bangalore,ORG,-0.04464285714285714,0.49107142857142855,en,1.4000000000000001
+CSK Pitch Report,CSK Pitch Report,ORG,0.30769230769230765,0.6153846153846153,en,1.3000000000000003
 MI Pitch Report,MI Pitch Report,ORG,0.0,0.0,en,1.3000000000000003
 CSK,CSK,ORG,0.5128205128205127,1.0256410256410253,en,1.3000000000000003
-CSK Pitch Report,CSK Pitch Report,ORG,0.30769230769230765,0.6153846153846153,en,1.3000000000000003
 NZ Pitch Report,NZ Pitch Report,ORG,0.002913752913752911,0.46911421911421913,en,1.3
+LPA,LPA,ORG,-0.15384615384615385,0.3076923076923077,en,1.3
+Vaishakh Month 2026,Vaishakh Month 2026,ORG,0.0,0.0,en,1.3
+Super 8,Super 8,ORG,0.6923076923076922,0.5128205128205128,en,1.3
+GMP,GMP,ORG,0.5384615384615384,0.6923076923076923,en,1.3
+Bengaluru,Bengaluru,ORG,0.15384615384615383,0.44230769230769224,en,1.3
+Rohit,Rohit,ORG,0.0,0.0,en,1.3
+Farmers,Farmers,ORG,-0.6701631701631702,0.5652680652680653,en,1.3
+Chaitra Krishna Paksha,Chaitra Krishna Paksha,ORG,0.4230769230769231,0.4615384615384615,en,1.3
+Gabion Technologies,Gabion Technologies,ORG,0.15384615384615385,0.0,en,1.3
+the Indian Premier League (IPL,the Indian Premier League (IPL,ORG,0.0,0.0,en,1.3
+the ICC T20 World Cup,the ICC T20 World Cup,ORG,0.03846153846153845,0.7692307692307692,en,1.3
+Nautapa,Nautapa,ORG,0.0363247863247863,0.7692307692307692,en,1.3
 E2E Networks,E2E Networks,ORG,0.0,0.0,en,1.3
 Lucknow Cyber,Lucknow Cyber,ORG,-0.10256410256410253,0.5769230769230769,en,1.3
-Lucknow Zonal Meteorological Center,Lucknow Zonal Meteorological Center,ORG,0.030402930402930402,0.21208791208791206,en,1.3
-Chaitra Krishna Paksha,Chaitra Krishna Paksha,ORG,0.4230769230769231,0.4615384615384615,en,1.3
-the ICC T20 World Cup,the ICC T20 World Cup,ORG,0.03846153846153845,0.7692307692307692,en,1.3
 Krishna Paksha of Chaitra,Krishna Paksha of Chaitra,ORG,0.2692307692307692,0.0,en,1.3
-Bengaluru,Bengaluru,ORG,0.15384615384615383,0.44230769230769224,en,1.3
-Vaishakh Month 2026,Vaishakh Month 2026,ORG,0.0,0.0,en,1.3
-Nautapa,Nautapa,ORG,0.0363247863247863,0.7692307692307692,en,1.3
+Basant Panchami,Basant Panchami,ORG,0.25498575498575493,0.5769230769230769,en,1.3
 NCDEX,NCDEX,ORG,0.06868131868131869,0.18315018315018314,en,1.3
-Bangladesh,Bangladesh,ORG,0.0,0.0,en,1.3
-BCB,BCB,ORG,0.4230769230769231,0.7307692307692307,en,1.3
-GT Pitch Report,GT Pitch Report,ORG,0.0,0.0,en,1.3
-Home,Home,ORG,0.038461538461538464,0.0,en,1.3
-Supreme Court,Supreme Court,ORG,0.0,0.0,en,1.3
+NBA,NBA,ORG,0.0769230769230769,0.0,en,1.3
 Hindu New year,Hindu New year,ORG,0.2919580419580419,0.4632867132867133,en,1.3
 iPhone,iPhone,ORG,0.1655011655011655,0.34965034965034963,en,1.3
 Bangladesh Bus Accident,Bangladesh Bus Accident,ORG,0.2692307692307692,0.34615384615384615,en,1.3
-LPA,LPA,ORG,-0.15384615384615385,0.3076923076923077,en,1.3
-Super 8,Super 8,ORG,0.6923076923076922,0.5128205128205128,en,1.3
-The ICC Men's T20 World Cup 2026,The ICC Men's T20 World Cup 2026,ORG,0.0,0.0,en,1.3
+Delhi Power Cut,Delhi Power Cut,ORG,0.4615384615384615,0.3846153846153846,en,1.3
+NCR Regional Plan 2041,NCR Regional Plan 2041,ORG,0.0606060606060606,0.19347319347319347,en,1.3
+Supreme Court,Supreme Court,ORG,0.0,0.0,en,1.3
 CPCB,CPCB,ORG,0.0,0.36538461538461536,en,1.3
 IND W,IND W,ORG,0.09615384615384615,0.1282051282051282,en,1.3
-Gabion Technologies,Gabion Technologies,ORG,0.15384615384615385,0.0,en,1.3
-NBA,NBA,ORG,0.0769230769230769,0.0,en,1.3
-Rohit,Rohit,ORG,0.0,0.0,en,1.3
-Noida Schools Closed: Due,Noida Schools Closed: Due,ORG,-0.33942307692307694,0.3,en,1.3
-Basant Panchami,Basant Panchami,ORG,0.25498575498575493,0.5769230769230769,en,1.3
-Farmers,Farmers,ORG,-0.6701631701631702,0.5652680652680653,en,1.3
-the Bharatiya Janata Party,the Bharatiya Janata Party,ORG,0.5961538461538461,0.3846153846153846,en,1.3
-Silver-Copper Outlook,Silver-Copper Outlook,ORG,0.0512820512820513,0.27350427350427353,en,1.3
-Red Alert',Red Alert',ORG,-0.07692307692307693,0.1923076923076923,en,1.3
-Monsoon Watch,Monsoon Watch,ORG,0.008547008547008553,0.0,en,1.3
+Bangladesh,Bangladesh,ORG,0.0,0.0,en,1.3
 Nvidia,Nvidia,ORG,0.0,0.3076923076923077,en,1.3
-the Indian Premier League (IPL,the Indian Premier League (IPL,ORG,0.0,0.0,en,1.3
-GMP,GMP,ORG,0.5384615384615384,0.6923076923076923,en,1.3
-NSE,NSE,ORG,-0.4374999999999999,0.7916666666666665,en,1.2000000000000002
+Noida Schools Closed: Due,Noida Schools Closed: Due,ORG,-0.33942307692307694,0.3,en,1.3
+Home,Home,ORG,0.038461538461538464,0.0,en,1.3
+BCB,BCB,ORG,0.4230769230769231,0.7307692307692307,en,1.3
+the Bharatiya Janata Party,the Bharatiya Janata Party,ORG,0.5961538461538461,0.3846153846153846,en,1.3
+GT Pitch Report,GT Pitch Report,ORG,0.0,0.0,en,1.3
+Silver-Copper Outlook,Silver-Copper Outlook,ORG,0.0512820512820513,0.27350427350427353,en,1.3
+Lucknow Zonal Meteorological Center,Lucknow Zonal Meteorological Center,ORG,0.030402930402930402,0.21208791208791206,en,1.3
+Red Alert',Red Alert',ORG,-0.07692307692307693,0.1923076923076923,en,1.3
+The ICC Men's T20 World Cup 2026,The ICC Men's T20 World Cup 2026,ORG,0.0,0.0,en,1.3
 TVS,TVS,ORG,0.3863636363636363,0.7575757575757575,en,1.2000000000000002
-Bhoot Bangla',Bhoot Bangla',ORG,0.6969696969696969,0.5454545454545454,en,1.1
-RCB Pitch Report,RCB Pitch Report,ORG,0.1515151515151515,0.0,en,1.1
-STF,STF,ORG,0.24188311688311687,0.2597402597402597,en,1.1
-DC Pitch Report,DC Pitch Report,ORG,0.0,0.0,en,1.1
+NSE,NSE,ORG,-0.4374999999999999,0.7916666666666665,en,1.2000000000000002
 Instagram,Instagram,ORG,0.22727272727272727,0.0606060606060606,en,1.1
-Chennai Super Kings,Chennai Super Kings,ORG,0.606060606060606,0.606060606060606,en,1.1
-LSG Pitch Report,LSG Pitch Report,ORG,0.7272727272727273,0.0,en,1.1
+Bhoot Bangla',Bhoot Bangla',ORG,0.6969696969696969,0.5454545454545454,en,1.1
+STF,STF,ORG,0.24188311688311687,0.2597402597402597,en,1.1
 Delhi Capitals (DC,Delhi Capitals (DC,ORG,0.303030303030303,0.0,en,1.1
-DMK,DMK,ORG,0.033333333333333326,0.0,en,1.0
+LSG Pitch Report,LSG Pitch Report,ORG,0.7272727272727273,0.0,en,1.1
+DC Pitch Report,DC Pitch Report,ORG,0.0,0.0,en,1.1
+Chennai Super Kings,Chennai Super Kings,ORG,0.606060606060606,0.606060606060606,en,1.1
+RCB Pitch Report,RCB Pitch Report,ORG,0.1515151515151515,0.0,en,1.1
+Nadia,Nadia,ORG,0.0,0.0,en,1.0
+Terai,Terai,ORG,0.0,0.0,en,1.0
 Tamil Nadu Assembly Elections,Tamil Nadu Assembly Elections,ORG,0.4000000000000001,0.0,en,1.0
-Sun TV Shares,Sun TV Shares,ORG,0.0,0.0,en,1.0
-LAC,LAC,ORG,0.025,0.0,en,1.0
-Sun TV Network,Sun TV Network,ORG,0.033333333333333326,0.0,en,1.0
+Rohit-Virat,Rohit-Virat,ORG,0.0,0.0,en,1.0
+SDRF,SDRF,ORG,0.0,0.0,en,1.0
+Akhilesh,Akhilesh,ORG,0.175,0.0,en,1.0
+SP,SP,ORG,-0.15625,0.0,en,1.0
+IMD Rain-Thunderstorm,IMD Rain-Thunderstorm,ORG,0.21428571428571427,0.0,en,1.0
+iPhone 17,iPhone 17,ORG,0.25000000000000006,0.0,en,1.0
 Bank Nifty,Bank Nifty,ORG,0.5,0.0,en,1.0
-Broccoli,Broccoli,ORG,0.2333333333333333,0.0,en,1.0
 LSG,LSG,ORG,0.3333333333333333,0.0,en,1.0
-Punjab Agricultural University,Punjab Agricultural University,ORG,0.0,0.0,en,1.0
-National Highway-244,National Highway-244,ORG,0.19375,0.0,en,1.0
-Tamil Nadu Election,Tamil Nadu Election,ORG,0.05,0.0,en,1.0
-Kooku TV,Kooku TV,ORG,0.13636363636363635,0.0,en,1.0
-Cyclonic Circulations,Cyclonic Circulations,ORG,-0.06458333333333333,0.0,en,1.0
-the Indian Express,the Indian Express,ORG,0.0,0.0,en,1.0
-the Trinamool Congress,the Trinamool Congress,ORG,0.2,0.0,en,1.0
-Bharatiya Janata Party's,Bharatiya Janata Party's,ORG,0.2,0.0,en,1.0
-eastern,eastern,ORG,0.0,0.0,en,1.0
-Tulsi Plant Care Tips:,Tulsi Plant Care Tips:,ORG,-0.225,0.0,en,1.0
+Lucknow Super Giants,Lucknow Super Giants,ORG,0.3333333333333333,0.0,en,1.0
+George,George,ORG,0.5,0.0,en,1.0
+the Lucknow Zonal Meteorological Center,the Lucknow Zonal Meteorological Center,ORG,0.008333333333333331,0.0,en,1.0
+DMK,DMK,ORG,0.033333333333333326,0.0,en,1.0
+Delhi Heat Wave Alert,Delhi Heat Wave Alert,ORG,-0.125,0.0,en,1.0
+Army,Army,ORG,0.0,0.0,en,1.0
+Delhi Heat Wave Alert:,Delhi Heat Wave Alert:,ORG,0.0,0.0,en,1.0
+Jabalpur Cruise Accident,Jabalpur Cruise Accident,ORG,0.0,0.0,en,1.0
+Gold House',Gold House',ORG,0.0,0.0,en,1.0
+Apple Watch,Apple Watch,ORG,0.07878787878787878,0.0,en,1.0
+Tata,Tata,ORG,0.11818181818181818,0.0,en,1.0
+Guava Chilli Ice Cream,Guava Chilli Ice Cream,ORG,0.25,0.0,en,1.0
+DTC,DTC,ORG,-0.6,0.0,en,1.0
+Rs 11 lakh crore,Rs 11 lakh crore,ORG,-0.125,0.0,en,1.0
+Meerut,Meerut,ORG,0.09999999999999999,0.0,en,1.0
+Sun TV Network,Sun TV Network,ORG,0.033333333333333326,0.0,en,1.0
 Dwarka,Dwarka,ORG,-0.1,0.0,en,1.0
-Rapid,Rapid,ORG,0.0,0.0,en,1.0
+Diljit,Diljit,ORG,0.3125,0.0,en,1.0
 Sikandarpur Vaishya,Sikandarpur Vaishya,ORG,0.1875,0.0,en,1.0
-Uddhav Thackeray,Uddhav Thackeray,ORG,0.0,0.0,en,1.0
-Tamil Nadu Assembly,Tamil Nadu Assembly,ORG,0.05,0.0,en,1.0
+Tulsi Plant Care Tips:,Tulsi Plant Care Tips:,ORG,-0.225,0.0,en,1.0
 House,House,ORG,0.5,0.0,en,1.0
-Climate Central,Climate Central,ORG,-0.08333333333333333,0.0,en,1.0
+ATS,ATS,ORG,-0.0875,0.0,en,1.0
 Bangladeshi Media,Bangladeshi Media,ORG,0.0,0.0,en,1.0
-Navi Mumbai,Navi Mumbai,ORG,0.5,0.0,en,1.0
+Rabia,Rabia,ORG,0.0,0.0,en,1.0
 Arun Jaitley Stadium,Arun Jaitley Stadium,ORG,0.0,0.0,en,1.0
+eastern,eastern,ORG,0.0,0.0,en,1.0
+Bharatiya Janata Party's,Bharatiya Janata Party's,ORG,0.2,0.0,en,1.0
+the Trinamool Congress,the Trinamool Congress,ORG,0.2,0.0,en,1.0
+the Indian Express,the Indian Express,ORG,0.0,0.0,en,1.0
 West Bengal Assembly,West Bengal Assembly,ORG,0.0,0.0,en,1.0
 West Bengal Election Result,West Bengal Election Result,ORG,0.0,0.0,en,1.0
-West Bengal Election Result and Trends,West Bengal Election Result and Trends,ORG,0.09259259259259256,0.0,en,1.0
-Britain - Mercury,Britain - Mercury,ORG,0.0,0.0,en,1.0
-UNICEF,UNICEF,ORG,0.0,0.0,en,1.0
-Jabalpur Cruise Accident,Jabalpur Cruise Accident,ORG,0.0,0.0,en,1.0
-Lucknow Super Giants,Lucknow Super Giants,ORG,0.3333333333333333,0.0,en,1.0
-the Lucknow Zonal Meteorological Center,the Lucknow Zonal Meteorological Center,ORG,0.008333333333333331,0.0,en,1.0
-Nadia,Nadia,ORG,0.0,0.0,en,1.0
-Rangers,Rangers,ORG,0.0,0.0,en,1.0
-ATS,ATS,ORG,-0.0875,0.0,en,1.0
-TTP,TTP,ORG,0.0,0.0,en,1.0
-The National Weather Service,The National Weather Service,ORG,-0.6,0.0,en,1.0
-The Central Board of Secondary Education,The Central Board of Secondary Education,ORG,-0.06666666666666667,0.0,en,1.0
-Diljit,Diljit,ORG,0.3125,0.0,en,1.0
-Delhi Air Quality: Amidst,Delhi Air Quality: Amidst,ORG,-0.375,0.0,en,1.0
-Delhi Air Quality,Delhi Air Quality,ORG,-0.5,0.0,en,1.0
-Phalodi,Phalodi,ORG,0.0,0.0,en,1.0
-North Odisha,North Odisha,ORG,0.0,0.0,en,1.0
-Gold House',Gold House',ORG,0.0,0.0,en,1.0
-Aam Aadmi Party's,Aam Aadmi Party's,ORG,0.0,0.0,en,1.0
-Chanakya,Chanakya,ORG,0.0,0.0,en,1.0
-the Upper House,the Upper House,ORG,0.0,0.0,en,1.0
-Chadha,Chadha,ORG,-0.10714285714285715,0.0,en,1.0
-Rajya,Rajya,ORG,0.0,0.0,en,1.0
-Central Pollution Control Board,Central Pollution Control Board,ORG,0.0,0.0,en,1.0
-Taliban,Taliban,ORG,0.2875,0.0,en,1.0
-Phalodi Satta Bazaar,Phalodi Satta Bazaar,ORG,0.0,0.0,en,1.0
-George,George,ORG,0.5,0.0,en,1.0
-Kailash Mansarovar Yatra Advisory,Kailash Mansarovar Yatra Advisory,ORG,0.2,0.0,en,1.0
-Delhi Heat Wave Alert,Delhi Heat Wave Alert,ORG,-0.125,0.0,en,1.0
-Delhi Heat Wave Alert:,Delhi Heat Wave Alert:,ORG,0.0,0.0,en,1.0
-South Cinema's,South Cinema's,ORG,0.0,0.0,en,1.0
-Rabia,Rabia,ORG,0.0,0.0,en,1.0
-DTC,DTC,ORG,-0.6,0.0,en,1.0
-Mugdha,Mugdha,ORG,0.8,0.0,en,1.0
-Guava Chilli Ice Cream,Guava Chilli Ice Cream,ORG,0.25,0.0,en,1.0
-Kailash Mansarovar Yatra Advisory:,Kailash Mansarovar Yatra Advisory:,ORG,0.0,0.0,en,1.0
-The Indian Ministry of External Affairs,The Indian Ministry of External Affairs,ORG,0.2,0.0,en,1.0
-PAK Army,PAK Army,ORG,0.2875,0.0,en,1.0
-Army,Army,ORG,0.0,0.0,en,1.0
-SP,SP,ORG,-0.15625,0.0,en,1.0
-Akhilesh,Akhilesh,ORG,0.175,0.0,en,1.0
-MEA,MEA,ORG,0.2,0.0,en,1.0
-SDRF,SDRF,ORG,0.0,0.0,en,1.0
-India Weekly Weather Forecast,India Weekly Weather Forecast,ORG,0.0,0.0,en,1.0
-Meerut,Meerut,ORG,0.09999999999999999,0.0,en,1.0
-Orange,Orange,ORG,0.0,0.0,en,1.0
+Cyclonic Circulations,Cyclonic Circulations,ORG,-0.06458333333333333,0.0,en,1.0
 AIC,AIC,ORG,0.0,0.0,en,1.0
-Palam,Palam,ORG,-0.16666666666666666,0.0,en,1.0
+Phalodi,Phalodi,ORG,0.0,0.0,en,1.0
+South Cinema's,South Cinema's,ORG,0.0,0.0,en,1.0
+West Bengal Election Result and Trends,West Bengal Election Result and Trends,ORG,0.09259259259259256,0.0,en,1.0
+Tamil Nadu Assembly,Tamil Nadu Assembly,ORG,0.05,0.0,en,1.0
+Phalodi Satta Bazaar,Phalodi Satta Bazaar,ORG,0.0,0.0,en,1.0
+The Central Board of Secondary Education,The Central Board of Secondary Education,ORG,-0.06666666666666667,0.0,en,1.0
+Orange,Orange,ORG,0.0,0.0,en,1.0
+Tamil Nadu Election,Tamil Nadu Election,ORG,0.05,0.0,en,1.0
 Eastern India,Eastern India,ORG,0.0,0.0,en,1.0
+RPF,RPF,ORG,0.1,0.0,en,1.0
+Sun TV Shares,Sun TV Shares,ORG,0.0,0.0,en,1.0
+Ranchi Traffic Police,Ranchi Traffic Police,ORG,0.13636363636363635,0.0,en,1.0
+Eastern Uttar Pradesh,Eastern Uttar Pradesh,ORG,0.0,0.0,en,1.0
+the National Capital Region (NCR,the National Capital Region (NCR,ORG,0.07878787878787878,0.0,en,1.0
+EL-Nino Effect,EL-Nino Effect,ORG,0.0,0.0,en,1.0
+Britain - Mercury,Britain - Mercury,ORG,0.0,0.0,en,1.0
+Thermocol,Thermocol,ORG,0.35,0.0,en,1.0
+Navi Mumbai,Navi Mumbai,ORG,0.5,0.0,en,1.0
+Climate Central,Climate Central,ORG,-0.08333333333333333,0.0,en,1.0
+Uddhav Thackeray,Uddhav Thackeray,ORG,0.0,0.0,en,1.0
+Kooku TV,Kooku TV,ORG,0.13636363636363635,0.0,en,1.0
+Rapid,Rapid,ORG,0.0,0.0,en,1.0
+EL Nino Impact: List,EL Nino Impact: List,ORG,0.0,0.0,en,1.0
+Indian Chambers of Food and Agriculture,Indian Chambers of Food and Agriculture,ORG,-0.024999999999999984,0.0,en,1.0
+the ICC Women's T20 World Cup 2026,the ICC Women's T20 World Cup 2026,ORG,0.0,0.0,en,1.0
+Noorjahan Mango,Noorjahan Mango,ORG,0.35714285714285715,0.0,en,1.0
+LAC,LAC,ORG,0.025,0.0,en,1.0
+Front Wave Research,Front Wave Research,ORG,-0.2875,0.0,en,1.0
+IMD DG,IMD DG,ORG,0.0,0.0,en,1.0
+"Harnai, Solapur","Harnai, Solapur",ORG,0.0,0.0,en,1.0
+the Women's T20 World Cup,the Women's T20 World Cup,ORG,-0.125,0.0,en,1.0
+IND-W,IND-W,ORG,-0.125,0.0,en,1.0
+the Indian Air Force,the Indian Air Force,ORG,0.0,0.0,en,1.0
+IAF,IAF,ORG,0.0,0.0,en,1.0
+Marathwada,Marathwada,ORG,0.0,0.0,en,1.0
+Apple,Apple,ORG,0.06818181818181818,0.0,en,1.0
 the Delhi Zonal Center,the Delhi Zonal Center,ORG,0.2,0.0,en,1.0
-IMD Forecast,IMD Forecast,ORG,0.0,0.0,en,1.0
-IMD Prediction,IMD Prediction,ORG,0.0,0.0,en,1.0
-mAadhaar,mAadhaar,ORG,0.20378787878787877,0.0,en,1.0
-Rs 800,Rs 800,ORG,0.3333333333333333,0.0,en,1.0
-UIDAI,UIDAI,ORG,0.20378787878787877,0.0,en,1.0
-Unique Identification Authority of India,Unique Identification Authority of India,ORG,0.20378787878787877,0.0,en,1.0
-Indian Embassy,Indian Embassy,ORG,0.0,0.0,en,1.0
-TMC MLAs,TMC MLAs,ORG,0.0,0.0,en,1.0
-Delhi,Delhi,ORG,0.0,0.0,en,1.0
-Weather Forecast,Weather Forecast,ORG,0.1,0.0,en,1.0
 NOAA,NOAA,ORG,0.0,0.0,en,1.0
+Punjab Agricultural University,Punjab Agricultural University,ORG,0.0,0.0,en,1.0
+UNICEF,UNICEF,ORG,0.0,0.0,en,1.0
+TMC MLAs,TMC MLAs,ORG,0.0,0.0,en,1.0
+Monsoon Watch 1,Monsoon Watch 1,ORG,0.0,0.0,en,1.0
+BRPL,BRPL,ORG,-0.09821428571428571,0.0,en,1.0
+BSES Rajdhani Power Limited,BSES Rajdhani Power Limited,ORG,-0.09821428571428571,0.0,en,1.0
+Meerut Express,Meerut Express,ORG,0.0,0.0,en,1.0
+Ghaziabad,Ghaziabad,ORG,0.08333333333333333,0.0,en,1.0
+Delhi-Noida,Delhi-Noida,ORG,-0.06666666666666667,0.0,en,1.0
+the Provincial Disaster Management Department,the Provincial Disaster Management Department,ORG,-0.2,0.0,en,1.0
+Mumbai Rains Tracker,Mumbai Rains Tracker,ORG,0.375,0.0,en,1.0
+ISRO Satellite Images,ISRO Satellite Images,ORG,0.5,0.0,en,1.0
+Monsoon Heat Explainer,Monsoon Heat Explainer,ORG,0.0,0.0,en,1.0
+North Odisha,North Odisha,ORG,0.0,0.0,en,1.0
+India Weather News,India Weather News,ORG,0.0,0.0,en,1.0
+The National Weather Service,The National Weather Service,ORG,-0.6,0.0,en,1.0
+Mugdha,Mugdha,ORG,0.8,0.0,en,1.0
+the Lucknow Meteorological Center of the Indian Meteorological Department,the Lucknow Meteorological Center of the Indian Meteorological Department,ORG,0.27777777777777773,0.0,en,1.0
+TTP,TTP,ORG,0.0,0.0,en,1.0
+Rangers,Rangers,ORG,0.0,0.0,en,1.0
+Taliban,Taliban,ORG,0.2875,0.0,en,1.0
+PAK Army,PAK Army,ORG,0.2875,0.0,en,1.0
+Glow,Glow,ORG,0.0,0.0,en,1.0
+India Weekly Weather Forecast,India Weekly Weather Forecast,ORG,0.0,0.0,en,1.0
+MEA,MEA,ORG,0.2,0.0,en,1.0
+The Indian Ministry of External Affairs,The Indian Ministry of External Affairs,ORG,0.2,0.0,en,1.0
+Kailash Mansarovar Yatra Advisory,Kailash Mansarovar Yatra Advisory,ORG,0.2,0.0,en,1.0
+Kailash Mansarovar Yatra Advisory:,Kailash Mansarovar Yatra Advisory:,ORG,0.0,0.0,en,1.0
+Weather Forecast,Weather Forecast,ORG,0.1,0.0,en,1.0
+Rs 800,Rs 800,ORG,0.3333333333333333,0.0,en,1.0
+Mirzapur-Bhadohi,Mirzapur-Bhadohi,ORG,0.1236111111111111,0.0,en,1.0
+Waterways,Waterways,ORG,0.0,0.0,en,1.0
 Pushpa,Pushpa,ORG,0.0,0.0,en,1.0
 the Energy Department,the Energy Department,ORG,0.0,0.0,en,1.0
-Ranchi Traffic Police,Ranchi Traffic Police,ORG,0.13636363636363635,0.0,en,1.0
+Chanakya,Chanakya,ORG,0.0,0.0,en,1.0
 Relief Commissioner Office,Relief Commissioner Office,ORG,0.0,0.0,en,1.0
 RAINMUMBAI,RAINMUMBAI,ORG,0.08928571428571429,0.0,en,1.0
 National Commodity and Derivatives Exchange Limited,National Commodity and Derivatives Exchange Limited,ORG,0.08928571428571429,0.0,en,1.0
-Oxford,Oxford,ORG,-0.05833333333333333,0.0,en,1.0
+"Patna, Bettiah","Patna, Bettiah",ORG,0.0,0.0,en,1.0
 the National Disaster Management Authority,the National Disaster Management Authority,ORG,0.25,0.0,en,1.0
-Air Quality Index,Air Quality Index,ORG,0.0,0.0,en,1.0
+IMD Heat Wave Red Warning,IMD Heat Wave Red Warning,ORG,0.0,0.0,en,1.0
+Malaysia Palm Oil Alliance,Malaysia Palm Oil Alliance,ORG,0.0,0.0,en,1.0
+HDFC Bank,HDFC Bank,ORG,0.3119047619047619,0.0,en,1.0
+"Union Ports, Shipping","Union Ports, Shipping",ORG,0.0,0.0,en,1.0
+Unique Identification Authority of India,Unique Identification Authority of India,ORG,0.20378787878787877,0.0,en,1.0
+Kochi Water Metro,Kochi Water Metro,ORG,0.4166666666666667,0.0,en,1.0
+"Kesar, Alphonso","Kesar, Alphonso",ORG,0.25,0.0,en,1.0
+₹5 crore,₹5 crore,ORG,0.0,0.0,en,1.0
+Rs 4 lakh,Rs 4 lakh,ORG,0.0,0.0,en,1.0
+₹5,₹5,ORG,0.0,0.0,en,1.0
+Super El-Nino,Super El-Nino,ORG,0.4666666666666667,0.0,en,1.0
+IMD Heat Wave Alert,IMD Heat Wave Alert,ORG,-0.75,0.0,en,1.0
+IMD Monsoon Date Alert,IMD Monsoon Date Alert,ORG,0.0,0.0,en,1.0
+IMD Monsoon Date Alert:,IMD Monsoon Date Alert:,ORG,0.0,0.0,en,1.0
+Shiney,Shiney,ORG,0.04999999999999999,0.0,en,1.0
+Sanjay Leela Bhansali's,Sanjay Leela Bhansali's,ORG,0.6,0.0,en,1.0
+Delhi,Delhi,ORG,0.0,0.0,en,1.0
+UIDAI,UIDAI,ORG,0.20378787878787877,0.0,en,1.0
 Dehradun-Nainital,Dehradun-Nainital,ORG,0.15,0.0,en,1.0
-Indian Meteorological Department IMD,Indian Meteorological Department IMD,ORG,0.15,0.0,en,1.0
-Hamirpur,Hamirpur,ORG,-0.1,0.0,en,1.0
-Sitamarhi,Sitamarhi,ORG,0.0,0.0,en,1.0
-Coastal Andhra Pradesh,Coastal Andhra Pradesh,ORG,-0.1,0.0,en,1.0
-Bhojpuri beauties,Bhojpuri beauties,ORG,0.0,0.0,en,1.0
-Sartaj,Sartaj,ORG,0.0,0.0,en,1.0
-IMD Weekly Weather Forecast,IMD Weekly Weather Forecast,ORG,0.0,0.0,en,1.0
-the Meteorological Center of Indian Meteorological Department,the Meteorological Center of Indian Meteorological Department,ORG,0.2,0.0,en,1.0
-Rs 2,Rs 2,ORG,0.13636363636363635,0.0,en,1.0
-Monsoon Arrives,Monsoon Arrives,ORG,0.0,0.0,en,1.0
-Hamirpur Bridge Accident:,Hamirpur Bridge Accident:,ORG,0.0,0.0,en,1.0
-Vaibhav,Vaibhav,ORG,0.25,0.0,en,1.0
 CCTV,CCTV,ORG,0.0,0.0,en,1.0
+Monsoon Arrives,Monsoon Arrives,ORG,0.0,0.0,en,1.0
+the Meteorological Center of Indian Meteorological Department,the Meteorological Center of Indian Meteorological Department,ORG,0.2,0.0,en,1.0
+IMD Weekly Weather Forecast,IMD Weekly Weather Forecast,ORG,0.0,0.0,en,1.0
+Bhojpuri beauties,Bhojpuri beauties,ORG,0.0,0.0,en,1.0
+National Highway-244,National Highway-244,ORG,0.19375,0.0,en,1.0
+Doda,Doda,ORG,0.0,0.0,en,1.0
+Coastal Andhra Pradesh,Coastal Andhra Pradesh,ORG,-0.1,0.0,en,1.0
+Sartaj,Sartaj,ORG,0.0,0.0,en,1.0
+Rs 2,Rs 2,ORG,0.13636363636363635,0.0,en,1.0
+Hamirpur,Hamirpur,ORG,-0.1,0.0,en,1.0
+Hamirpur Bridge Accident:,Hamirpur Bridge Accident:,ORG,0.0,0.0,en,1.0
 Bastar,Bastar,ORG,0.25833333333333336,0.0,en,1.0
+mAadhaar,mAadhaar,ORG,0.20378787878787877,0.0,en,1.0
 IMD Second Stage,IMD Second Stage,ORG,0.012500000000000004,0.0,en,1.0
 Insta,Insta,ORG,0.5,0.0,en,1.0
 Air Force,Air Force,ORG,0.625,0.0,en,1.0
 the Indian Army,the Indian Army,ORG,0.625,0.0,en,1.0
 Muzaffarpur,Muzaffarpur,ORG,0.0,0.0,en,1.0
 Forests,Forests,ORG,-0.0625,0.0,en,1.0
+Vaibhav,Vaibhav,ORG,0.25,0.0,en,1.0
+Indian Meteorological Department IMD,Indian Meteorological Department IMD,ORG,0.15,0.0,en,1.0
+Air Quality Index,Air Quality Index,ORG,0.0,0.0,en,1.0
+IMD Forecast,IMD Forecast,ORG,0.0,0.0,en,1.0
+IMD Prediction,IMD Prediction,ORG,0.0,0.0,en,1.0
+Aam Aadmi Party's,Aam Aadmi Party's,ORG,0.0,0.0,en,1.0
+IMD Yellow Alert:,IMD Yellow Alert:,ORG,0.075,0.0,en,1.0
+the Upper House,the Upper House,ORG,0.0,0.0,en,1.0
+the ICC Male T20 World Cup,the ICC Male T20 World Cup,ORG,0.0,0.0,en,1.0
+ICC Men's T20 World Cup,ICC Men's T20 World Cup,ORG,0.0,0.0,en,1.0
+Mahashivratri,Mahashivratri,ORG,0.2,0.0,en,1.0
+NVidia,NVidia,ORG,0.0,0.0,en,1.0
+AI Impact Summit,AI Impact Summit,ORG,0.0,0.0,en,1.0
+Ujjawal Nepal Party,Ujjawal Nepal Party,ORG,0.0,0.0,en,1.0
+Southley,Southley,ORG,0.0,0.0,en,1.0
+5th House of Representatives,5th House of Representatives,ORG,0.2,0.0,en,1.0
+Ma Urajesh Nepal Party,Ma Urajesh Nepal Party,ORG,0.0,0.0,en,1.0
+Wheat Pest Control Tips,Wheat Pest Control Tips,ORG,-0.16666666666666666,0.0,en,1.0
+the Central Pollution Control Board,the Central Pollution Control Board,ORG,0.0,0.0,en,1.0
+Motilal Oswal Financial Services,Motilal Oswal Financial Services,ORG,0.0,0.0,en,1.0
+Commodity and Currency Research,Commodity and Currency Research,ORG,0.0,0.0,en,1.0
+Assam,Assam,ORG,0.275,0.0,en,1.0
+Twitter,Twitter,ORG,0.275,0.0,en,1.0
 Oxford Union Debate,Oxford Union Debate,ORG,-0.2,0.0,en,1.0
-Oxford Union',Oxford Union',ORG,0.25,0.0,en,1.0
-EL Nino Impact: List,EL Nino Impact: List,ORG,0.0,0.0,en,1.0
-IMD Heat Wave Red Warning,IMD Heat Wave Red Warning,ORG,0.0,0.0,en,1.0
-IND-W,IND-W,ORG,-0.125,0.0,en,1.0
-the Women's T20 World Cup,the Women's T20 World Cup,ORG,-0.125,0.0,en,1.0
-Mirzapur-Bhadohi,Mirzapur-Bhadohi,ORG,0.1236111111111111,0.0,en,1.0
-Eastern Uttar Pradesh,Eastern Uttar Pradesh,ORG,0.0,0.0,en,1.0
-Terai,Terai,ORG,0.0,0.0,en,1.0
-Rs 11 lakh crore,Rs 11 lakh crore,ORG,-0.125,0.0,en,1.0
-Tata,Tata,ORG,0.11818181818181818,0.0,en,1.0
-"Harnai, Solapur","Harnai, Solapur",ORG,0.0,0.0,en,1.0
-Apple Watch,Apple Watch,ORG,0.07878787878787878,0.0,en,1.0
-IMD DG,IMD DG,ORG,0.0,0.0,en,1.0
-iPhone 17,iPhone 17,ORG,0.25000000000000006,0.0,en,1.0
-IMD Rain-Thunderstorm,IMD Rain-Thunderstorm,ORG,0.21428571428571427,0.0,en,1.0
-Front Wave Research,Front Wave Research,ORG,-0.2875,0.0,en,1.0
-Noorjahan Mango,Noorjahan Mango,ORG,0.35714285714285715,0.0,en,1.0
-the ICC Women's T20 World Cup 2026,the ICC Women's T20 World Cup 2026,ORG,0.0,0.0,en,1.0
-Doda,Doda,ORG,0.0,0.0,en,1.0
-Rohit-Virat,Rohit-Virat,ORG,0.0,0.0,en,1.0
-Indian Chambers of Food and Agriculture,Indian Chambers of Food and Agriculture,ORG,-0.024999999999999984,0.0,en,1.0
-RPF,RPF,ORG,0.1,0.0,en,1.0
-the Indian Air Force,the Indian Air Force,ORG,0.0,0.0,en,1.0
-Sanjay Leela Bhansali's,Sanjay Leela Bhansali's,ORG,0.6,0.0,en,1.0
-IAF,IAF,ORG,0.0,0.0,en,1.0
-₹5 crore,₹5 crore,ORG,0.0,0.0,en,1.0
-Malaysia Palm Oil Alliance,Malaysia Palm Oil Alliance,ORG,0.0,0.0,en,1.0
-TMMTMTTM Box Office Collection,TMMTMTTM Box Office Collection,ORG,-0.17777777777777773,0.0,en,1.0
-HDFC Bank,HDFC Bank,ORG,0.3119047619047619,0.0,en,1.0
-Waterways,Waterways,ORG,0.0,0.0,en,1.0
-Madras,Madras,ORG,0.08333333333333333,0.0,en,1.0
-Kochi Water Metro,Kochi Water Metro,ORG,0.4166666666666667,0.0,en,1.0
-"Patna, Bettiah","Patna, Bettiah",ORG,0.0,0.0,en,1.0
-"Kesar, Alphonso","Kesar, Alphonso",ORG,0.25,0.0,en,1.0
-Apple,Apple,ORG,0.06818181818181818,0.0,en,1.0
-Shiney,Shiney,ORG,0.04999999999999999,0.0,en,1.0
-Rs 4 lakh,Rs 4 lakh,ORG,0.0,0.0,en,1.0
-₹5,₹5,ORG,0.0,0.0,en,1.0
-Super El-Nino,Super El-Nino,ORG,0.4666666666666667,0.0,en,1.0
-Karthik-Ananya's,Karthik-Ananya's,ORG,-0.17777777777777773,0.0,en,1.0
-Marathwada,Marathwada,ORG,0.0,0.0,en,1.0
-IMD Heat Wave Alert,IMD Heat Wave Alert,ORG,-0.75,0.0,en,1.0
-IMD Monsoon Date Alert,IMD Monsoon Date Alert,ORG,0.0,0.0,en,1.0
-IMD Monsoon Date Alert:,IMD Monsoon Date Alert:,ORG,0.0,0.0,en,1.0
-"Union Ports, Shipping","Union Ports, Shipping",ORG,0.0,0.0,en,1.0
-Napugda National Health Care and Nutrition,Napugda National Health Care and Nutrition,ORG,0.0,0.0,en,1.0
-NGT,NGT,ORG,-0.2,0.0,en,1.0
-AI Summit,AI Summit,ORG,0.0,0.0,en,1.0
+ESPN,ESPN,ORG,0.0,0.0,en,1.0
+Badshah,Badshah,ORG,0.0,0.0,en,1.0
+Vande Mataram',Vande Mataram',ORG,0.0,0.0,en,1.0
+Parliament,Parliament,ORG,0.65,0.0,en,1.0
+M23,M23,ORG,0.0,0.0,en,1.0
+Nexon,Nexon,ORG,0.2,0.0,en,1.0
+Tata Motors,Tata Motors,ORG,0.7,0.0,en,1.0
+Sierra,Sierra,ORG,0.0,0.0,en,1.0
+Group A,Group A,ORG,0.0,0.0,en,1.0
+ENSO,ENSO,ORG,-0.3833333333333333,0.0,en,1.0
+the 'Black Budget',the 'Black Budget',ORG,0.016666666666666677,0.0,en,1.0
+the International Cricket Council,the International Cricket Council,ORG,0.16666666666666666,0.0,en,1.0
+Murrah buffalo,Murrah buffalo,ORG,0.325,0.0,en,1.0
+SA,SA,ORG,-0.08787878787878789,0.0,en,1.0
+Oxford,Oxford,ORG,-0.05833333333333333,0.0,en,1.0
+Air India Express,Air India Express,ORG,-0.15,0.0,en,1.0
+News18,News18,ORG,0.13636363636363635,0.0,en,1.0
+RSS,RSS,ORG,0.0,0.0,en,1.0
+the Parliament of India,the Parliament of India,ORG,0.0,0.0,en,1.0
+NCS,NCS,ORG,-0.1,0.0,en,1.0
+ATC,ATC,ORG,0.0,0.0,en,1.0
+ENG T20 World Cup Match Score,ENG T20 World Cup Match Score,ORG,0.3333333333333333,0.0,en,1.0
+ENG T20 World cup,ENG T20 World cup,ORG,0.10909090909090909,0.0,en,1.0
 Rs 7 lakh,Rs 7 lakh,ORG,0.0,0.0,en,1.0
 Mahu,Mahu,ORG,-0.1625,0.0,en,1.0
 Ketan Mehta,Ketan Mehta,ORG,0.0,0.0,en,1.0
@@ -338,46 +382,44 @@ Delhi Weather News,Delhi Weather News,ORG,0.21666666666666665,0.0,en,1.0
 Delhi Weather News:,Delhi Weather News:,ORG,0.15416666666666665,0.0,en,1.0
 Netweb Technologies,Netweb Technologies,ORG,0.0,0.0,en,1.0
 Artificial Intelligence (AI,Artificial Intelligence (AI,ORG,-0.06666666666666664,0.0,en,1.0
+AI Summit,AI Summit,ORG,0.0,0.0,en,1.0
 Netweb,Netweb,ORG,0.0,0.0,en,1.0
-The National Green Tribunal,The National Green Tribunal,ORG,-0.2,0.0,en,1.0
-the International Cricket Council,the International Cricket Council,ORG,0.16666666666666666,0.0,en,1.0
-ENSO,ENSO,ORG,-0.3833333333333333,0.0,en,1.0
+GST,GST,ORG,0.0,0.0,en,1.0
+Manesar,Manesar,ORG,0.4333333333333333,0.0,en,1.0
+Chadha,Chadha,ORG,-0.10714285714285715,0.0,en,1.0
+PMO,PMO,ORG,-0.3,0.0,en,1.0
+The IPO of Gabion Technologies,The IPO of Gabion Technologies,ORG,0.0,0.0,en,1.0
+IPO,IPO,ORG,0.2,0.0,en,1.0
+826x,826x,ORG,0.2,0.0,en,1.0
 Shubman Gill,Shubman Gill,ORG,0.0,0.0,en,1.0
-the ICC Male T20 World Cup,the ICC Male T20 World Cup,ORG,0.0,0.0,en,1.0
-Group A,Group A,ORG,0.0,0.0,en,1.0
-ICC Men's T20 World Cup,ICC Men's T20 World Cup,ORG,0.0,0.0,en,1.0
-Mahashivratri,Mahashivratri,ORG,0.2,0.0,en,1.0
-NVidia,NVidia,ORG,0.0,0.0,en,1.0
-AI Impact Summit,AI Impact Summit,ORG,0.0,0.0,en,1.0
-Ujjawal Nepal Party,Ujjawal Nepal Party,ORG,0.0,0.0,en,1.0
-ENG T20 World cup,ENG T20 World cup,ORG,0.10909090909090909,0.0,en,1.0
-ENG T20 World Cup Match Score,ENG T20 World Cup Match Score,ORG,0.3333333333333333,0.0,en,1.0
-ATC,ATC,ORG,0.0,0.0,en,1.0
-NCS,NCS,ORG,-0.1,0.0,en,1.0
-Patna,Patna,ORG,0.7666666666666666,0.0,en,1.0
-Tejas Rajdhani,Tejas Rajdhani,ORG,0.025000000000000005,0.0,en,1.0
-JioHotstar,JioHotstar,ORG,0.0,0.0,en,1.0
-Duronto,Duronto,ORG,0.025000000000000005,0.0,en,1.0
-NZ Final,NZ Final,ORG,0.225,0.0,en,1.0
-Surya,Surya,ORG,0.0,0.0,en,1.0
-KIMS Super Specialty Hospital,KIMS Super Specialty Hospital,ORG,0.3333333333333333,0.0,en,1.0
-Sedemac Mechatronics,Sedemac Mechatronics,ORG,-0.1,0.0,en,1.0
-Sedemac Mechatronics IPO Allotment,Sedemac Mechatronics IPO Allotment,ORG,-0.1,0.0,en,1.0
-Sedemac Mechatronics IPO,Sedemac Mechatronics IPO,ORG,0.0,0.0,en,1.0
-Litchi,Litchi,ORG,-0.1125,0.0,en,1.0
-RSP,RSP,ORG,0.1090909090909091,0.0,en,1.0
-Rashtriya Swatantra Party',Rashtriya Swatantra Party',ORG,0.1090909090909091,0.0,en,1.0
-JM Financial,JM Financial,ORG,-0.06666666666666667,0.0,en,1.0
-Murrah buffalo,Murrah buffalo,ORG,0.325,0.0,en,1.0
-SA,SA,ORG,-0.08787878787878789,0.0,en,1.0
 New Delhi Railway Station,New Delhi Railway Station,ORG,0.13636363636363635,0.0,en,1.0
-Air India Express,Air India Express,ORG,-0.15,0.0,en,1.0
-News18,News18,ORG,0.13636363636363635,0.0,en,1.0
-RSS,RSS,ORG,0.0,0.0,en,1.0
-the Parliament of India,the Parliament of India,ORG,0.0,0.0,en,1.0
-Southley,Southley,ORG,0.0,0.0,en,1.0
-5th House of Representatives,5th House of Representatives,ORG,0.2,0.0,en,1.0
-Ma Urajesh Nepal Party,Ma Urajesh Nepal Party,ORG,0.0,0.0,en,1.0
+Duronto,Duronto,ORG,0.025000000000000005,0.0,en,1.0
+Tejas Rajdhani,Tejas Rajdhani,ORG,0.025000000000000005,0.0,en,1.0
+Vidarbha,Vidarbha,ORG,0.5,0.0,en,1.0
+Baroda,Baroda,ORG,0.0,0.0,en,1.0
+Samur,Samur,ORG,0.5166666666666667,0.0,en,1.0
+The Indian Metrological Department,The Indian Metrological Department,ORG,-0.2333333333333333,0.0,en,1.0
+Indian Railways Canceled Trains,Indian Railways Canceled Trains,ORG,0.0,0.0,en,1.0
+Phivolcs,Phivolcs,ORG,0.0,0.0,en,1.0
+Offshore Tumbler',Offshore Tumbler',ORG,0.0,0.0,en,1.0
+Bangladesh Board,Bangladesh Board,ORG,-0.125,0.0,en,1.0
+Madras,Madras,ORG,0.08333333333333333,0.0,en,1.0
+Central Pollution Control Board,Central Pollution Control Board,ORG,0.0,0.0,en,1.0
+Delhi Air Quality,Delhi Air Quality,ORG,-0.5,0.0,en,1.0
+Delhi Air Quality: Amidst,Delhi Air Quality: Amidst,ORG,-0.375,0.0,en,1.0
+TMMTMTTM Box Office Collection,TMMTMTTM Box Office Collection,ORG,-0.17777777777777773,0.0,en,1.0
+Broccoli,Broccoli,ORG,0.2333333333333333,0.0,en,1.0
+Karthik-Ananya's,Karthik-Ananya's,ORG,-0.17777777777777773,0.0,en,1.0
+Palam,Palam,ORG,-0.16666666666666666,0.0,en,1.0
+Swami Vivekananda's,Swami Vivekananda's,ORG,0.05,0.0,en,1.0
+Khichdi,Khichdi,ORG,0.29783549783549784,0.0,en,1.0
+Oxford Union',Oxford Union',ORG,0.25,0.0,en,1.0
+Elon Musk's,Elon Musk's,ORG,0.1875,0.0,en,1.0
+Border 2,Border 2,ORG,0.5416666666666666,0.0,en,1.0
+Sonamarg Avalanche,Sonamarg Avalanche,ORG,-0.6,0.0,en,1.0
+Exxon Mobil Corp,Exxon Mobil Corp,ORG,-0.2125,0.0,en,1.0
+the Bangladesh Cricket Board,the Bangladesh Cricket Board,ORG,0.55,0.0,en,1.0
+Bangladesh Cricketers,Bangladesh Cricketers,ORG,0.55,0.0,en,1.0
 EWR,EWR,ORG,0.13636363636363635,0.0,en,1.0
 Raipur T20,Raipur T20,ORG,0.0,0.0,en,1.0
 Kiwis',Kiwis',ORG,0.0,0.0,en,1.0
@@ -387,48 +429,20 @@ Yanni,Yanni,ORG,0.1111111111111111,0.0,en,1.0
 AR,AR,ORG,-0.3333333333333333,0.0,en,1.0
 Brahmani,Brahmani,ORG,0.0625,0.0,en,1.0
 Amethi,Amethi,ORG,0.1875,0.0,en,1.0
-Bathinda,Bathinda,ORG,0.0,0.0,en,1.0
 Greater Noida,Greater Noida,ORG,0.1875,0.0,en,1.0
 Kiwi,Kiwi,ORG,0.375,0.0,en,1.0
 First Test,First Test,ORG,0.19318181818181818,0.0,en,1.0
 BBC Asian Network,BBC Asian Network,ORG,-0.05555555555555555,0.0,en,1.0
-Swami Vivekananda's,Swami Vivekananda's,ORG,0.05,0.0,en,1.0
 17.Official,17.Official,ORG,0.018181818181818174,0.0,en,1.0
 Gautam Buddha Nagar Education,Gautam Buddha Nagar Education,ORG,0.018181818181818174,0.0,en,1.0
 DM,DM,ORG,-0.23124999999999998,0.0,en,1.0
 Instagram Live,Instagram Live,ORG,0.0,0.0,en,1.0
 Dhanush,Dhanush,ORG,0.22878787878787876,0.0,en,1.0
-Elon Musk's,Elon Musk's,ORG,0.1875,0.0,en,1.0
-Khichdi,Khichdi,ORG,0.29783549783549784,0.0,en,1.0
-The IPO of Gabion Technologies,The IPO of Gabion Technologies,ORG,0.0,0.0,en,1.0
-Bangladesh Cricketers,Bangladesh Cricketers,ORG,0.55,0.0,en,1.0
-Wheat Pest Control Tips,Wheat Pest Control Tips,ORG,-0.16666666666666666,0.0,en,1.0
-the Bangladesh Cricket Board,the Bangladesh Cricket Board,ORG,0.55,0.0,en,1.0
-the Central Pollution Control Board,the Central Pollution Control Board,ORG,0.0,0.0,en,1.0
-Motilal Oswal Financial Services,Motilal Oswal Financial Services,ORG,0.0,0.0,en,1.0
-Commodity and Currency Research,Commodity and Currency Research,ORG,0.0,0.0,en,1.0
-Assam,Assam,ORG,0.275,0.0,en,1.0
-Twitter,Twitter,ORG,0.275,0.0,en,1.0
-ESPN,ESPN,ORG,0.0,0.0,en,1.0
-Badshah,Badshah,ORG,0.0,0.0,en,1.0
-Vande Mataram',Vande Mataram',ORG,0.0,0.0,en,1.0
-Parliament,Parliament,ORG,0.65,0.0,en,1.0
-826x,826x,ORG,0.2,0.0,en,1.0
-M23,M23,ORG,0.0,0.0,en,1.0
-Nexon,Nexon,ORG,0.2,0.0,en,1.0
-Tata Motors,Tata Motors,ORG,0.7,0.0,en,1.0
-Sierra,Sierra,ORG,0.0,0.0,en,1.0
-GST,GST,ORG,0.0,0.0,en,1.0
-the 'Black Budget',the 'Black Budget',ORG,0.016666666666666677,0.0,en,1.0
-Manesar,Manesar,ORG,0.4333333333333333,0.0,en,1.0
-IPO,IPO,ORG,0.2,0.0,en,1.0
-Border 2,Border 2,ORG,0.5416666666666666,0.0,en,1.0
-Sonamarg Avalanche,Sonamarg Avalanche,ORG,-0.6,0.0,en,1.0
-Exxon Mobil Corp,Exxon Mobil Corp,ORG,-0.2125,0.0,en,1.0
-Ashtami,Ashtami,ORG,0.2,0.0,en,1.0
-National Democratic Alliance,National Democratic Alliance,ORG,0.5,0.0,en,1.0
-Vidarbha,Vidarbha,ORG,0.5,0.0,en,1.0
-PMO,PMO,ORG,-0.3,0.0,en,1.0
+JM Financial,JM Financial,ORG,-0.06666666666666667,0.0,en,1.0
+Rashtriya Swatantra Party',Rashtriya Swatantra Party',ORG,0.1090909090909091,0.0,en,1.0
+RSP,RSP,ORG,0.1090909090909091,0.0,en,1.0
+the Japan Meteorological Agency,the Japan Meteorological Agency,ORG,0.0,0.0,en,1.0
+INA,INA,ORG,0.0,0.0,en,1.0
 Indian National Army,Indian National Army,ORG,0.0,0.0,en,1.0
 PIL,PIL,ORG,0.0,0.0,en,1.0
 The Supreme Court,The Supreme Court,ORG,0.0,0.0,en,1.0
@@ -436,24 +450,28 @@ Supreme Court:,Supreme Court:,ORG,0.0,0.0,en,1.0
 Western Madhya Pradesh,Western Madhya Pradesh,ORG,0.06818181818181818,0.0,en,1.0
 Film Jio Studios,Film Jio Studios,ORG,0.0,0.0,en,1.0
 Tanhaji,Tanhaji,ORG,0.0,0.0,en,1.0
-Delhi NCR,Delhi NCR,ORG,0.0,0.0,en,1.0
 IMD Yellow,IMD Yellow,ORG,0.0,0.0,en,1.0
-IMD Yellow Alert:,IMD Yellow Alert:,ORG,0.075,0.0,en,1.0
 Civil Lines,Civil Lines,ORG,0.0,0.0,en,1.0
 Yamuna,Yamuna,ORG,-0.025,0.0,en,1.0
 Delhi Government,Delhi Government,ORG,-0.025,0.0,en,1.0
 The National Stock Exchange,The National Stock Exchange,ORG,-0.13333333333333333,0.0,en,1.0
-Bangladesh Board,Bangladesh Board,ORG,-0.125,0.0,en,1.0
-Offshore Tumbler',Offshore Tumbler',ORG,0.0,0.0,en,1.0
+Sitamarhi,Sitamarhi,ORG,0.0,0.0,en,1.0
 Kalyugi,Kalyugi,ORG,-0.27083333333333337,0.0,en,1.0
 J&K,J&K,ORG,0.4333333333333333,0.0,en,1.0
-Phivolcs,Phivolcs,ORG,0.0,0.0,en,1.0
 the Indian Premier League,the Indian Premier League,ORG,0.0,0.0,en,1.0
-Indian Railways Canceled Trains,Indian Railways Canceled Trains,ORG,0.0,0.0,en,1.0
-INA,INA,ORG,0.0,0.0,en,1.0
-the Japan Meteorological Agency,the Japan Meteorological Agency,ORG,0.0,0.0,en,1.0
+the Election Commission,the Election Commission,ORG,0.0,0.0,en,1.0
 Assam Assembly Elections,Assam Assembly Elections,ORG,0.0,0.0,en,1.0
+Hilsa,Hilsa,ORG,0.8,0.0,en,1.0
+Nasalu,Nasalu,ORG,0.0,0.0,en,1.0
+Chait,Chait,ORG,-0.125,0.0,en,1.0
+the United Nations Security Council,the United Nations Security Council,ORG,0.0,0.0,en,1.0
+Napugda National Health Care and Nutrition,Napugda National Health Care and Nutrition,ORG,0.0,0.0,en,1.0
 Lucknow Meteorological Center,Lucknow Meteorological Center,ORG,0.2,0.0,en,1.0
+Litchi,Litchi,ORG,-0.1125,0.0,en,1.0
+Allahabad,Allahabad,ORG,0.2,0.0,en,1.0
+Rajya,Rajya,ORG,0.0,0.0,en,1.0
+NGT,NGT,ORG,-0.2,0.0,en,1.0
+The National Green Tribunal,The National Green Tribunal,ORG,-0.2,0.0,en,1.0
 TVS Motor Company,TVS Motor Company,ORG,0.13636363636363635,0.0,en,1.0
 the World Meteorological Organization (WMO,the World Meteorological Organization (WMO,ORG,0.0625,0.0,en,1.0
 FAO,FAO,ORG,0.0625,0.0,en,1.0
@@ -474,21 +492,10 @@ Delhi Capitals,Delhi Capitals,ORG,-0.125,0.0,en,1.0
 Sunrisers Hyderabad,Sunrisers Hyderabad,ORG,-0.125,0.0,en,1.0
 The Indian Premier League (IPL,The Indian Premier League (IPL,ORG,0.0,0.0,en,1.0
 Batsman,Batsman,ORG,0.0,0.0,en,1.0
-Allahabad,Allahabad,ORG,0.2,0.0,en,1.0
-the Election Commission,the Election Commission,ORG,0.0,0.0,en,1.0
-Hilsa,Hilsa,ORG,0.8,0.0,en,1.0
-the Indian Navy,the Indian Navy,ORG,0.319047619047619,0.0,en,1.0
-Shankaracharya Avimukteshwaranand,Shankaracharya Avimukteshwaranand,ORG,0.0,0.0,en,1.0
-BJP MLAs,BJP MLAs,ORG,0.6,0.0,en,1.0
-Rs,Rs,ORG,0.08928571428571429,0.0,en,1.0
-Chaitra,Chaitra,ORG,0.0,0.0,en,1.0
-the Shukla Paksha,the Shukla Paksha,ORG,0.0,0.0,en,1.0
-Kundli Prediction,Kundli Prediction,ORG,0.13636363636363635,0.0,en,1.0
-Banaras,Banaras,ORG,0.0,0.0,en,1.0
-Noida-Lucknow,Noida-Lucknow,ORG,0.0,0.0,en,1.0
-Delhi NCR Weather: The,Delhi NCR Weather: The,ORG,0.0,0.0,en,1.0
-Baroda,Baroda,ORG,0.0,0.0,en,1.0
-Delhi Weather Forecast:,Delhi Weather Forecast:,ORG,0.09722222222222221,0.0,en,1.0
+Skymet Weather,Skymet Weather,ORG,0.0,0.0,en,1.0
+Suvendu,Suvendu,ORG,0.0,0.0,en,1.0
+Pradhan Mantri Bharatiya Jan Aushadhi Kendra',Pradhan Mantri Bharatiya Jan Aushadhi Kendra',ORG,0.0,0.0,en,1.0
+the Central Government,the Central Government,ORG,0.0,0.0,en,1.0
 Delhi Weather Forecast,Delhi Weather Forecast,ORG,0.0,0.0,en,1.0
 Bengal Elections 2026,Bengal Elections 2026,ORG,0.2023809523809524,0.0,en,1.0
 ECI,ECI,ORG,0.0,0.0,en,1.0
@@ -500,18 +507,22 @@ Odisha Tornado,Odisha Tornado,ORG,0.0,0.0,en,1.0
 Prem,Prem,ORG,-0.2333333333333333,0.0,en,1.0
 Indian Navy,Indian Navy,ORG,0.0,0.0,en,1.0
 Fleet Forecast Service,Fleet Forecast Service,ORG,0.0,0.0,en,1.0
-Lahar,Lahar,ORG,0.0,0.0,en,1.0
-Chaturangini Army',Chaturangini Army',ORG,0.0,0.0,en,1.0
-Nasalu,Nasalu,ORG,0.0,0.0,en,1.0
-Peeth,Peeth,ORG,0.0,0.0,en,1.0
-Chait,Chait,ORG,-0.125,0.0,en,1.0
-the United Nations Security Council,the United Nations Security Council,ORG,0.0,0.0,en,1.0
-The Indian Metrological Department,The Indian Metrological Department,ORG,-0.2333333333333333,0.0,en,1.0
-Skymet Weather,Skymet Weather,ORG,0.0,0.0,en,1.0
-Samur,Samur,ORG,0.5166666666666667,0.0,en,1.0
-Suvendu,Suvendu,ORG,0.0,0.0,en,1.0
-Pradhan Mantri Bharatiya Jan Aushadhi Kendra',Pradhan Mantri Bharatiya Jan Aushadhi Kendra',ORG,0.0,0.0,en,1.0
-the Central Government,the Central Government,ORG,0.0,0.0,en,1.0
+the Indian Navy,the Indian Navy,ORG,0.319047619047619,0.0,en,1.0
+National Democratic Alliance,National Democratic Alliance,ORG,0.5,0.0,en,1.0
+Ashtami,Ashtami,ORG,0.2,0.0,en,1.0
+Patna,Patna,ORG,0.7666666666666666,0.0,en,1.0
+Indian Embassy,Indian Embassy,ORG,0.0,0.0,en,1.0
+JioHotstar,JioHotstar,ORG,0.0,0.0,en,1.0
+NZ Final,NZ Final,ORG,0.225,0.0,en,1.0
+Surya,Surya,ORG,0.0,0.0,en,1.0
+KIMS Super Specialty Hospital,KIMS Super Specialty Hospital,ORG,0.3333333333333333,0.0,en,1.0
+Sedemac Mechatronics,Sedemac Mechatronics,ORG,-0.1,0.0,en,1.0
+Sedemac Mechatronics IPO Allotment,Sedemac Mechatronics IPO Allotment,ORG,-0.1,0.0,en,1.0
+Sedemac Mechatronics IPO,Sedemac Mechatronics IPO,ORG,0.0,0.0,en,1.0
+Delhi Weather Forecast:,Delhi Weather Forecast:,ORG,0.09722222222222221,0.0,en,1.0
+Delhi NCR Weather: The,Delhi NCR Weather: The,ORG,0.0,0.0,en,1.0
+Noida-Lucknow,Noida-Lucknow,ORG,0.0,0.0,en,1.0
+Amoxicillin,Amoxicillin,ORG,0.11607142857142858,0.0,en,1.0
 Central Government,Central Government,ORG,0.0,0.0,en,1.0
 Ghost Bungalow',Ghost Bungalow',ORG,0.0,0.0,en,1.0
 STF Meerut Unit,STF Meerut Unit,ORG,0.05,0.0,en,1.0
@@ -522,7 +533,16 @@ Punjab Kings,Punjab Kings,ORG,0.0,0.0,en,1.0
 Mullanpur,Mullanpur,ORG,0.0,0.0,en,1.0
 RBI,RBI,ORG,0.0,0.0,en,1.0
 Ciprofloxacin,Ciprofloxacin,ORG,0.11607142857142858,0.0,en,1.0
-Amoxicillin,Amoxicillin,ORG,0.11607142857142858,0.0,en,1.0
 Malikabota Health Post,Malikabota Health Post,ORG,0.0,0.0,en,1.0
+Banaras,Banaras,ORG,0.0,0.0,en,1.0
 Shankaracharya,Shankaracharya,ORG,0.06666666666666667,0.0,en,1.0
-Monsoon Heat Explainer,Monsoon Heat Explainer,ORG,0.0,0.0,en,1.0
+Peeth,Peeth,ORG,0.0,0.0,en,1.0
+Chaturangini Army',Chaturangini Army',ORG,0.0,0.0,en,1.0
+Shankaracharya Avimukteshwaranand,Shankaracharya Avimukteshwaranand,ORG,0.0,0.0,en,1.0
+Lahar,Lahar,ORG,0.0,0.0,en,1.0
+BJP MLAs,BJP MLAs,ORG,0.6,0.0,en,1.0
+Rs,Rs,ORG,0.08928571428571429,0.0,en,1.0
+Chaitra,Chaitra,ORG,0.0,0.0,en,1.0
+the Shukla Paksha,the Shukla Paksha,ORG,0.0,0.0,en,1.0
+Kundli Prediction,Kundli Prediction,ORG,0.13636363636363635,0.0,en,1.0
+Bengal and Odisha,Bengal and Odisha,ORG,-0.16666666666666666,0.0,en,1.0
