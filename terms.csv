@@ -6,8 +6,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f7f19c3aaf',extremes,Precipitation,#d60d2b,wmo,उत्तराखंड के हरिद्वार जिले में मूसलाधार बारिश,2026-07-10T06:27:00+00:00,India,0.56207514150141,3,1,hi,SAS,Asia
 '90522631da',extremes,Precipitation,#d60d2b,wmo,भारत में वर्षा,2026-07-03T06:09:00+00:00,India,0.5614441671217401,2,2,hi,SAS,Asia
 '891bde534c',extremes,Landslide,#572c03,wmo,भारत में भूस्खलन,2026-07-06T06:52:00+00:00,India,0.5516554138092935,2,1,hi,SAS,Asia
-'c62f9be69a',extremes,Flood,#030ba1,wmo,बाढ़ दिखो शिवसागर शिवसागर असम,2026-07-16T05:25:00+00:00,India,0.536485014969192,1,1,hi,SAS,Asia
-'60cdf9fb44',extremes,Heat Wave,#c40202,wmo,हीट वेव इंडिया,2026-07-12T05:43:00+00:00,India,0.5364791787939606,1,1,hi,SAS,Asia
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,वर्षा भारत,2026-06-30T06:39:00+00:00,India,0.5350302728238242,3,2,hi,SAS,Asia
 '4c74471839',extremes,Flood,#030ba1,wmo,बाढ़ ब्रह्मपुत्र धुबरी धुबरी असम,2026-07-06T06:52:00+00:00,India,0.5281285484546053,1,1,hi,SAS,Asia
 'e9f3d3cb84',extremes,Flood,#030ba1,wmo,बाढ़ संकोश गोलोकगंज धुबरी असम,2026-07-15T05:15:00+00:00,India,0.5243625252455988,1,1,hi,SAS,Asia
@@ -59,6 +57,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,भूकंप भारत,2026-06-27T06:08:00+00:00,India,0.4625749659919952,1,1,hi,SAS,Asia
 '1c94b4639d',extremes,Flood,#030ba1,wmo,बाढ़ मनु कैलाशहर उनाकोटि त्रिपुरा,2026-07-09T06:27:00+00:00,India,0.4617326725485004,2,1,hi,SAS,Asia
 '62c318516d',extremes,Precipitation,#d60d2b,wmo,वर्षा कार्रवाई करें,2026-07-16T05:25:00+00:00,India,0.4572851260823424,1,1,hi,SAS,Asia
+'60cdf9fb44',extremes,Heat Wave,#c40202,wmo,हीट वेव इंडिया,2026-07-12T05:43:00+00:00,India,0.45615731697486644,2,1,hi,SAS,Asia
+'c62f9be69a',extremes,Flood,#030ba1,wmo,बाढ़ दिखो शिवसागर शिवसागर असम,2026-07-16T05:25:00+00:00,India,0.4560122627238132,2,1,hi,SAS,Asia
 '97f34f1d56',extremes,Precipitation,#d60d2b,wmo,कुछ भागों में मूसलाधार वर्षा,2026-07-09T06:27:00+00:00,India,0.4559658212077242,1,1,hi,SAS,Asia
 '96ead3c3b0',extremes,Precipitation,#d60d2b,wmo,उत्तराखंड के वर्षा वाले जिले,2026-07-07T06:30:00+00:00,India,0.4531648811639797,1,1,hi,SAS,Asia
 '537375135b',extremes,Storm,#b3b2b1,wmo,उत्तराखंड के हरिद्वार जिले में तूफ़ान आया,2026-07-04T05:59:00+00:00,India,0.4519946326144453,2,1,hi,SAS,Asia
@@ -143,7 +143,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,ग्लेशियर का शांत होना,2026-07-15T05:15:00+00:00,,0.3226020965973539,1,1,hi,,
 'c948617fef',extremes,Heat Wave,#c40202,random,अत्यधिक गर्मी का जोखिम,2026-07-10T06:27:00+00:00,,0.322525867980185,2,1,hi,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,पारा गिरा,2026-06-29T07:12:00+00:00,,0.3207613093949928,1,1,hi,,
-'8626b81b9b',extremes,Flood,#030ba1,emdat,बाढ़ ज़मोरा चिंचिपे,2026-07-21T05:36:00+00:00,Ecuador,0.3200075473236523,0,1,hi,NWS,South-America
 'f9a3abc8c2',extremes,Landslide,#572c03,random,कीचड़ का प्रवाह,2026-07-13T05:53:00+00:00,,0.3195097104714772,1,1,hi,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,हिमशैल अंटार्कटिका,2026-06-26T06:35:00+00:00,,0.3165626941450457,1,1,hi,,
 '0198b8a3d5',extremes,Earthquake,#870007,usgs,भूकंप धर्मशाला,2026-06-21T07:16:00+00:00,India,0.3158680262235251,2,1,hi,TIB,Asia
@@ -261,6 +260,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,हबूब,2026-06-17T07:33:00+00:00,,0.2758905154527347,1,1,hi,,
 '3e4b341619',extremes,Storm,#b3b2b1,random,तूफ़ान,2026-07-02T06:23:00+00:00,,0.2745189630505255,1,1,hi,,
 '15a9c61e3e',extremes,Landslide,#572c03,random,चट्टानों का खिसकना,2026-07-02T06:23:00+00:00,,0.2737261385476146,1,1,hi,,
+'8626b81b9b',extremes,Flood,#030ba1,emdat,बाढ़ ज़मोरा चिंचिपे,2026-07-21T05:36:00+00:00,Ecuador,0.27200641522510444,1,1,hi,NWS,South-America
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,ग्लेशियर झील का प्रकोप,2026-07-02T06:23:00+00:00,,0.2719157901137981,1,1,hi,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,बर्फ़ीला तूफ़ान,2026-06-20T06:46:00+00:00,,0.2701690259947583,1,1,hi,,
 'd306e1819b',extremes,Iceberg,#d60d2b,eonet,हिमशैल d33a,2026-06-24T06:29:00+00:00,,0.2700689821095424,1,1,hi,EAN,
