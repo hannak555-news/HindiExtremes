@@ -1,9 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '519c58c063',extremes,Flood,#030ba1,wmo,बाढ़ भारत,2026-07-03T06:09:00+00:00,India,0.6398996842212725,2,3,hi,SAS,Asia
+'f7f19c3aaf',extremes,Precipitation,#d60d2b,wmo,उत्तराखंड के हरिद्वार जिले में मूसलाधार बारिश,2026-07-10T06:27:00+00:00,India,0.6279138852761985,4,2,hi,SAS,Asia
 '615a4551a5',extremes,Flood,#030ba1,wmo,भारत में बाढ़,2026-07-01T06:52:00+00:00,India,0.6267246313898126,1,2,hi,SAS,Asia
 'ed0a2b8a74',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश की चेतावनी,2026-07-14T05:14:00+00:00,India,0.6107437093140393,2,3,hi,SAS,Asia
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,तूफ़ान भारत,2026-06-30T06:39:00+00:00,India,0.5711076551999583,1,1,hi,SAS,Asia
-'f7f19c3aaf',extremes,Precipitation,#d60d2b,wmo,उत्तराखंड के हरिद्वार जिले में मूसलाधार बारिश,2026-07-10T06:27:00+00:00,India,0.56207514150141,3,1,hi,SAS,Asia
 '90522631da',extremes,Precipitation,#d60d2b,wmo,भारत में वर्षा,2026-07-03T06:09:00+00:00,India,0.5614441671217401,2,2,hi,SAS,Asia
 '891bde534c',extremes,Landslide,#572c03,wmo,भारत में भूस्खलन,2026-07-06T06:52:00+00:00,India,0.5516554138092935,2,1,hi,SAS,Asia
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,वर्षा भारत,2026-06-30T06:39:00+00:00,India,0.5350302728238242,3,2,hi,SAS,Asia
@@ -150,7 +150,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0198b8a3d5',extremes,Earthquake,#870007,usgs,भूकंप धर्मशाला,2026-06-21T07:16:00+00:00,India,0.3158680262235251,2,1,hi,TIB,Asia
 '560b05d603',extremes,Heat Wave,#c40202,random,गर्मी की लहर,2026-07-09T06:27:00+00:00,,0.3149035041370761,2,2,hi,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,तूफ़ान,2026-07-19T05:37:00+00:00,,0.3146886638200377,1,1,hi,,
-'1e7f1c2625',extremes,Storm,#b3b2b1,random,हबूब,2026-07-08T05:37:00+00:00,,0.31251206578005436,1,1,hi,,
+'1e7f1c2625',extremes,Storm,#b3b2b1,random,हबूब,2026-07-08T05:37:00+00:00,,0.3125120657800543,1,1,hi,,
 'a652c78afc',extremes,Drought,#edc291,random,महासूखा,2026-06-22T08:39:00+00:00,,0.311667023984557,1,1,hi,,
 'e52ff7b67a',extremes,Heat Wave,#c40202,wmo,हीट वेव पूर्वी क्षेत्र,2026-07-16T05:25:00+00:00,North Macedonia,0.3095876056687646,1,1,hi,MED,Europe
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,रेतीला तूफ़ान,2026-07-03T06:09:00+00:00,,0.3090112659466982,1,1,hi,,
@@ -218,7 +218,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,कनाडा में बाढ़,2026-07-01T06:52:00+00:00,Canada,0.3002660478382933,0,1,hi,NEN,North-America
 'e12c49e365',extremes,Storm,#b3b2b1,wmo,तूफ़ान वृद्धि क्षेत्र लिटोरल और इंटरएंडिना,2026-06-26T06:36:00+00:00,Ecuador,0.3002599225979411,0,1,hi,NWS,South-America
 '6fb1e93945',extremes,Storm,#b3b2b1,wmo,तूफ़ान नामा,2026-07-11T05:27:00+00:00,Algeria,0.3002432780295195,0,1,hi,SAH,Africa
-'62e1a55c0b',extremes,Wildfire,#d60d2b,wmo,जंगल की आग पेन्ज़ा क्षेत्र,2026-06-15T08:36:00+00:00,Russia,0.300238309159032,0,1,hi,ESB,Europe
 '5e82c4455d',extremes,Snow&Ice,#d60d2b,wmo,आइस पोर्टर्स पास एसएच73,2026-06-25T06:32:00+00:00,New Zealand,0.3002273805412798,0,1,hi,NZ,Oceania
 '61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,तूफान संयुक्त राज्य अमेरिका,2026-07-04T05:59:00+00:00,United States,0.3002216396090422,0,1,hi,CNA,North-America
 'd5197c0b14',extremes,Wildfire,#d60d2b,wmo,सेराटोव क्षेत्र की जंगल की आग,2026-06-18T07:16:00+00:00,Russia,0.3002210692273421,0,1,hi,ESB,Europe
@@ -240,12 +239,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '25b6813d1f',extremes,Flood,#030ba1,wmo,कामचटका क्राय के दक्षिण में बाढ़,2026-07-08T05:37:00+00:00,Russia,0.2998666901673264,0,1,hi,ESB,Europe
 '7df86bf1c9',extremes,Snow&Ice,#d60d2b,wmo,बर्फ ऑस्ट्रेलिया,2026-07-03T06:09:00+00:00,Australia,0.2998198824337232,0,1,hi,CAU,Oceania
 '04eea37aa0',extremes,Tropical Cyclone,#4f4f4f,wmo,उष्णकटिबंधीय चक्रवात गुआम रोटा टिनियन साइपन,2026-07-04T05:59:00+00:00,United States,0.2998122385675564,0,1,hi,CNA,North-America
-'b7181b9ed3',extremes,Storm,#b3b2b1,wmo,तूफ़ान इनवर्नेस काउंटी माबौ और उत्तर,2026-06-16T08:27:00+00:00,Canada,0.2998003208572942,0,1,hi,NEN,North-America
 '98ff5c9897',extremes,Wildfire,#d60d2b,wmo,जंगल की आग स्लोवेनिया,2026-07-08T05:37:00+00:00,Slovenia,0.2997686999184379,0,1,hi,WCE,Europe
 'eb981e7150',extremes,Heat Wave,#c40202,wmo,हीट वेव सऊदी अरब,2026-06-23T06:33:00+00:00,Saudi Arabia,0.2997579645253005,0,1,hi,ARP,Asia
 '0dedeac327',extremes,Precipitation,#d60d2b,wmo,फ़ॉर्डलैंड में मूसलाधार बारिश,2026-06-19T07:39:00+00:00,New Zealand,0.2997551043019947,0,1,hi,NZ,Oceania
 'fb2669902d',extremes,Wildfire,#d60d2b,wmo,जंगल की आग समारा क्षेत्र,2026-06-17T07:33:00+00:00,Russia,0.2997515521907213,0,1,hi,ESB,Europe
-'6eb74257af',extremes,Storm,#b3b2b1,wmo,कुवैत में तूफ़ान की लहर,2026-06-16T08:27:00+00:00,Kuwait,0.2997506791742924,0,1,hi,ARP,Asia
 'f1c9dfa3a2',extremes,Earthquake,#870007,usgs,भूकंप निकोल्स्की,2026-06-27T06:08:00+00:00,Alaska,0.2997494039126939,0,1,hi,NPO,Pacific Ocean
 '1e08672b47',extremes,Earthquake,#870007,usgs,भूकंप एल प्रोग्रेसो,2026-07-01T06:52:00+00:00,Mexico,0.2996909623032126,0,1,hi,NCA,North-America
 '4bb5f40d4f',extremes,Wildfire,#d60d2b,wmo,जंगल की आग व्लादिमीर क्षेत्र,2026-07-03T06:09:00+00:00,Russia,0.2996786969481241,0,1,hi,ESB,Europe
