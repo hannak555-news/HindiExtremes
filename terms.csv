@@ -6,10 +6,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,तूफ़ान भारत,2026-06-30T06:39:00+00:00,India,0.5711076551999583,1,1,hi,SAS,Asia
 '90522631da',extremes,Precipitation,#d60d2b,wmo,भारत में वर्षा,2026-07-03T06:09:00+00:00,India,0.5614441671217401,2,2,hi,SAS,Asia
 '891bde534c',extremes,Landslide,#572c03,wmo,भारत में भूस्खलन,2026-07-06T06:52:00+00:00,India,0.5516554138092935,2,1,hi,SAS,Asia
-'6a51b5153c',extremes,Precipitation,#d60d2b,wmo,"वर्षा, पौरी, देहरादून, टिहरी, उत्तरकाशी",2026-07-23T05:40:00+00:00,India,0.5402635891601844,0,1,hi,SAS,Asia
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,वर्षा भारत,2026-06-30T06:39:00+00:00,India,0.5350302728238242,3,2,hi,SAS,Asia
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,जय भारत,2026-06-30T06:39:00+00:00,India,0.5232203112697925,1,1,hi,SAS,Asia
-'4a94610ffa',extremes,Precipitation,#d60d2b,wmo,महाराष्ट्र के ठाणे जिले में भारी बारिश,2026-07-23T05:40:00+00:00,India,0.519460940697262,0,1,hi,SAS,Asia
 '6594d97d36',extremes,Flood,#030ba1,wmo,"बाढ़ ब्रह्मपुत्र धुबरी, धुबरी असम",2026-07-02T06:24:00+00:00,India,0.5071247382294752,6,2,hi,SAS,Asia
 '5a03be3d6b',extremes,Thunderstorm,#53785a,wmo,"ओलावृष्टि, पटना वैशाली सारण",2026-07-10T06:27:00+00:00,India,0.5062875517747721,1,1,hi,SAS,Asia
 'b613ea22d7',extremes,Precipitation,#d60d2b,wmo,त्रिपुरा के पश्चिमी त्रिपुरा जिले में भारी बारिश,2026-07-08T05:37:00+00:00,India,0.5047881490467079,1,1,hi,SAS,Asia
@@ -30,6 +28,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,तूफ़ान भारत,2026-06-30T06:39:00+00:00,India,0.4835413108644057,2,1,hi,SAS,Asia
 'd232e38e76',extremes,Precipitation,#d60d2b,wmo,त्रिपुरा के दक्षिण त्रिपुरा जिले में भारी बारिश,2026-07-19T05:37:00+00:00,India,0.4818082098085544,1,1,hi,SAS,Asia
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,पारा गिरा,2026-07-10T06:27:00+00:00,,0.4815123243799274,1,2,hi,,
+'4a94610ffa',extremes,Precipitation,#d60d2b,wmo,महाराष्ट्र के ठाणे जिले में भारी बारिश,2026-07-23T05:40:00+00:00,India,0.4796418595926727,1,1,hi,SAS,Asia
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,भारत में मूसलाधार वर्षा,2026-06-30T06:39:00+00:00,India,0.4786638188675963,3,1,hi,SAS,Asia
 '7a125e5d7a',extremes,Precipitation,#d60d2b,wmo,उत्तराखंड के जिलों में वर्षा,2026-07-07T06:30:00+00:00,India,0.4781546266850922,1,1,hi,SAS,Asia
 '0ab5486ec3',extremes,Flood,#030ba1,wmo,बाढ़ दिखो शिवसागर शिवसागर असम,2026-07-20T05:54:00+00:00,India,0.4774306871318123,2,1,hi,SAS,Asia
@@ -48,6 +47,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b59e604b00',extremes,Thunderstorm,#53785a,wmo,देहरादून जिले में आंधी तूफान,2026-07-04T05:59:00+00:00,India,0.4655596591143824,2,1,hi,SAS,Asia
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,भूकंप भारत,2026-06-27T06:08:00+00:00,India,0.4625749659919952,1,1,hi,SAS,Asia
 '1c94b4639d',extremes,Flood,#030ba1,wmo,बाढ़ मनु कैलाशहर उनाकोटि त्रिपुरा,2026-07-09T06:27:00+00:00,India,0.4617326725485004,2,1,hi,SAS,Asia
+'6a51b5153c',extremes,Precipitation,#d60d2b,wmo,"वर्षा, पौरी, देहरादून, टिहरी, उत्तरकाशी",2026-07-23T05:40:00+00:00,India,0.4592240507861567,1,1,hi,SAS,Asia
 '62c318516d',extremes,Precipitation,#d60d2b,wmo,वर्षा कार्रवाई करें,2026-07-16T05:25:00+00:00,India,0.4572851260823424,1,1,hi,SAS,Asia
 '60cdf9fb44',extremes,Heat Wave,#c40202,wmo,हीट वेव इंडिया,2026-07-12T05:43:00+00:00,India,0.4561573169748664,2,1,hi,SAS,Asia
 'c62f9be69a',extremes,Flood,#030ba1,wmo,बाढ़ दिखो शिवसागर शिवसागर असम,2026-07-16T05:25:00+00:00,India,0.4560122627238132,2,1,hi,SAS,Asia
@@ -173,10 +173,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e188f4e183',extremes,Storm,#b3b2b1,wmo,तूफ़ान तंजानिया,2026-07-06T06:52:00+00:00,Tanzania,0.3022865852076862,0,1,hi,SEAF,Africa
 'b2c023909a',extremes,Storm,#b3b2b1,wmo,तूफ़ान क्षेत्र 2 - मध्यम,2026-07-22T05:35:00+00:00,Paraguay,0.3022103909131238,0,1,hi,SES,South-America
 'a23d616ae5',extremes,Wildfire,#d60d2b,wmo,सखा गणराज्य का जंगल की आग का केंद्र,2026-07-09T06:27:00+00:00,Russia,0.3018267154961766,0,1,hi,ESB,Europe
-'d5f19885f3',extremes,Wildfire,#d60d2b,wmo,जंगल की आग खांटी मानसी स्वायत्त जिला,2026-07-20T05:54:00+00:00,Russia,0.30172962444287293,0,1,hi,ESB,Europe
+'d5f19885f3',extremes,Wildfire,#d60d2b,wmo,जंगल की आग खांटी मानसी स्वायत्त जिला,2026-07-20T05:54:00+00:00,Russia,0.3017296244428729,0,1,hi,ESB,Europe
 '0a43eb8b74',extremes,Heat Wave,#c40202,wmo,हीट वेव वूवरी,2026-07-10T06:27:00+00:00,Switzerland,0.3017021766510026,0,1,hi,WCE,Europe
 '4389b7abd6',extremes,Heat Wave,#c40202,wmo,हीट वेव फ्रिक लीबस्टेड,2026-07-08T05:37:00+00:00,Switzerland,0.3016950949852935,0,1,hi,WCE,Europe
-'0ed10aaca0',extremes,Thunderstorm,#53785a,wmo,तूफ़ान ज़बायकाल्स्की क्राय,2026-07-21T05:36:00+00:00,Russia,0.30165137529848557,0,1,hi,ESB,Europe
+'0ed10aaca0',extremes,Thunderstorm,#53785a,wmo,तूफ़ान ज़बायकाल्स्की क्राय,2026-07-21T05:36:00+00:00,Russia,0.3016513752984855,0,1,hi,ESB,Europe
 '234a5c1f72',extremes,Storm,#b3b2b1,wmo,वानुअतु के पूरे पानी में तूफ़ान बढ़ गया।,2026-07-17T05:27:00+00:00,Vanuatu,0.3016392768505933,0,1,hi,SPO,Oceania
 'dd93c6b53d',extremes,Precipitation,#d60d2b,wmo,वर्षा मेक्सिको,2026-07-13T05:53:00+00:00,Mexico,0.3016380362861879,0,1,hi,NCA,North-America
 '27a5eaf631',extremes,Heat Wave,#c40202,wmo,हीट वेव फोर्ट गुड होप क्षेत्र,2026-07-21T05:36:00+00:00,Canada,0.301622495764053,0,1,hi,NEN,North-America
