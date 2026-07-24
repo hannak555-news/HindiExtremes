@@ -98,7 +98,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1ca5796d4d',extremes,Thunderstorm,#53785a,wmo,तूफ़ान पूर्व की ओर,2026-07-16T05:25:00+00:00,India,0.4017098091969953,1,1,hi,SAS,Asia
 'be45c5eb09',extremes,Precipitation,#d60d2b,wmo,उत्तर दिनाजपुर में वर्षा,2026-07-01T06:52:00+00:00,India,0.3977768638559563,2,1,hi,SAS,Asia
 '70d1c51890',extremes,Thunderstorm,#53785a,wmo,उत्तराखंड के देहरादून जिले में मौसम बेहद खराब,2026-07-06T06:52:00+00:00,India,0.3968826183462721,1,1,hi,SAS,Asia
-'82fd55b965',extremes,Drought,#edc291,edo,भारत में सूखा,2026-07-08T05:37:00+00:00,India,0.3964228120548207,1,2,hi,SAS,Asia
 '82d11264c2',extremes,Thunderstorm,#53785a,wmo,उत्तराखंड के हरिद्वार जिले में मौसम बेहद खराब,2026-07-10T06:27:00+00:00,India,0.3919105776149795,1,1,hi,SAS,Asia
 'f302e376d8',extremes,Thunderstorm,#53785a,wmo,त्रिपुरा के धलाई खोवाई जिलों में तूफान,2026-07-11T05:27:00+00:00,India,0.3909198964802535,1,1,hi,SAS,Asia
 'c46cc0b1e0',extremes,Thunderstorm,#53785a,wmo,8 मंडलों में आंधी,2026-07-18T05:10:00+00:00,India,0.3893744736521337,1,1,hi,SAS,Asia
@@ -112,6 +111,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '136c5b71eb',extremes,Flood,#030ba1,wmo,बाढ़ कोसी बलतारा खगड़िया बिहार,2026-06-30T06:39:00+00:00,India,0.371906880300805,2,1,hi,SAS,Asia
 '53d6ea67eb',extremes,Thunderstorm,#53785a,wmo,8 मंडलों में ओलावृष्टि,2026-07-18T05:10:00+00:00,India,0.369771536685632,1,1,hi,SAS,Asia
 '75e0f49183',extremes,Earthquake,#870007,usgs,भूकंप पहला,2026-06-19T07:39:00+00:00,Hawaii,0.3690809430422176,1,2,hi,NPO,Pacific Ocean
+'82fd55b965',extremes,Drought,#edc291,edo,भारत में सूखा,2026-07-08T05:37:00+00:00,India,0.3664966917683367,2,2,hi,SAS,Asia
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,गंभीर मौसम,2026-06-12T07:05:00+00:00,,0.3663421559733155,1,2,hi,,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,ओलावृष्टि,2026-06-24T06:29:00+00:00,,0.366251189149649,1,2,hi,,
 '6e55489bf8',extremes,Thunderstorm,#53785a,wmo,झारखंड के गिरिडीह जिले में ओलावृष्टि,2026-07-17T05:27:00+00:00,India,0.364776676990534,1,1,hi,SAS,Asia
