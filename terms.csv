@@ -200,8 +200,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '432bab655c',extremes,Wildfire,#d60d2b,eonet,संयुक्त राज्य अमेरिका में जंगल की आग,2026-07-18T05:10:00+00:00,United States,0.3011486306152988,0,1,hi,WNA,North-America
 '59ba4a4410',extremes,Wildfire,#d60d2b,wmo,क्रास्नोयार्स्क क्राय का जंगल की आग केंद्र,2026-07-12T05:43:00+00:00,Russia,0.3011466203482232,0,1,hi,ESB,Europe
 '9cf34e6f8a',extremes,Heat Wave,#c40202,wmo,हीट वेव पूर्वोत्तर क्षेत्र,2026-07-17T05:27:00+00:00,North Macedonia,0.3011272300760038,0,1,hi,MED,Europe
+'f0e5ced70e',extremes,Fog,#d60d2b,wmo,इंगुशेटिया गणराज्य का कोहरा,2026-07-12T05:43:00+00:00,Russia,0.3011260936516669,0,1,hi,ESB,Europe
+'453697199c',extremes,Storm,#b3b2b1,wmo,तूफ़ान घाना,2026-07-13T05:53:00+00:00,Ghana,0.30111336497812047,0,1,hi,WAF,Africa
+'7c1e10f7d0',extremes,Wildfire,#d60d2b,wmo,जंगल की आग मरमंस्क क्षेत्र,2026-07-11T05:27:00+00:00,Russia,0.3010950316363534,0,1,hi,ESB,Europe
+'1350baf605',extremes,Heat Wave,#c40202,wmo,हीट वेव लिस ग्रेन्चेन,2026-07-09T06:27:00+00:00,Switzerland,0.3010878076595841,0,1,hi,WCE,Europe
+'be3e20465e',extremes,Storm,#b3b2b1,wmo,तूफ़ान बेलीज़,2026-07-15T05:15:00+00:00,Belize,0.3010756463784764,0,1,hi,SCA,North-America
+'faf74e1444',extremes,Drought,#edc291,edo,कांगो गणराज्य में वर्षा की कमी,2026-07-13T05:53:00+00:00,Republic of the Congo,0.3010586389323914,0,1,hi,CAF,Africa
+'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,तूफ़ान बहरीन,2026-07-21T05:36:00+00:00,Bahrain,0.30105501935424395,0,1,hi,ARP,Asia
 'fc89d99879',extremes,Heat Wave,#c40202,wmo,हीट वेव अट्टावापिस्कट फोर्ट अल्बानी मूसोनी,2026-07-06T06:52:00+00:00,Canada,0.3010377238105338,0,1,hi,NEN,North-America
+'cd604bad4d',extremes,Heat Wave,#c40202,wmo,हीट वेव ब्रिग नॉर्डलिचेस सिंपलॉन्गबीट,2026-07-11T05:27:00+00:00,Switzerland,0.30103397995636344,0,1,hi,WCE,Europe
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,चक्रवात,2026-06-18T07:16:00+00:00,,0.3010206703082695,0,1,hi,,
+'be647fc7a4',extremes,Storm,#b3b2b1,wmo,इक्वेडोर में तूफ़ान की लहर,2026-07-03T06:09:00+00:00,Ecuador,0.30101693878368474,0,1,hi,NWS,South-America
+'62e1a55c0b',extremes,Wildfire,#d60d2b,wmo,जंगल की आग पेन्ज़ा क्षेत्र,2026-07-09T06:27:00+00:00,Russia,0.3009989176410653,0,1,hi,ESB,Europe
 '9d5914f39c',extremes,Storm,#b3b2b1,wmo,तूफ़ान दक्षिण आइसलैंड,2026-07-08T05:37:00+00:00,Iceland,0.300979556887035,0,1,hi,GIC,Europe
 '8ad5a4bbbe',extremes,Heat Wave,#c40202,wmo,हीट वेव मुंस्टर नॉर्ड मुंस्टर सूद,2026-06-19T07:39:00+00:00,Germany,0.3009654161847701,0,1,hi,WCE,Europe
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,संयुक्त राज्य अमेरिका में कोहरा,2026-06-27T06:08:00+00:00,United States,0.3009327536792003,0,1,hi,CNA,North-America
