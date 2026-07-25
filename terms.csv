@@ -42,6 +42,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dbbdd348c3',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि दक्षिण दिनाजपुर,2026-07-08T05:37:00+00:00,India,0.4662235732716342,2,1,hi,SAS,Asia
 'ac0d855d13',extremes,Flood,#030ba1,wmo,बाढ़ संकोश गोलोकगंज धुबरी असम,2026-06-30T06:39:00+00:00,India,0.4659988181934138,2,1,hi,SAS,Asia
 'b59e604b00',extremes,Thunderstorm,#53785a,wmo,देहरादून जिले में आंधी तूफान,2026-07-04T05:59:00+00:00,India,0.4655596591143824,2,1,hi,SAS,Asia
+'e4c0eb1729',extremes,Wildfire,#d60d2b,random,जंगल की आग,2026-07-11T05:26:00+00:00,,0.46303976592457985,1,2,hi,,
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,भूकंप भारत,2026-06-27T06:08:00+00:00,India,0.4625749659919952,1,1,hi,SAS,Asia
 '1c94b4639d',extremes,Flood,#030ba1,wmo,बाढ़ मनु कैलाशहर उनाकोटि त्रिपुरा,2026-07-09T06:27:00+00:00,India,0.4617326725485004,2,1,hi,SAS,Asia
 '6a51b5153c',extremes,Precipitation,#d60d2b,wmo,"वर्षा, पौरी, देहरादून, टिहरी, उत्तरकाशी",2026-07-23T05:40:00+00:00,India,0.4592240507861567,1,1,hi,SAS,Asia
@@ -76,7 +77,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '74891e7326',extremes,Thunderstorm,#53785a,wmo,गुजरात के 9 जिलों में ओलावृष्टि,2026-06-22T08:39:00+00:00,India,0.4281993255805369,2,1,hi,SAS,Asia
 '44001fedd4',extremes,Storm,#b3b2b1,wmo,तूफान उत्तराखंड का अल्मोडा जिला,2026-07-02T06:24:00+00:00,India,0.4273502734269234,2,1,hi,SAS,Asia
 '60bddf3351',extremes,Drought,#edc291,edo,भारत में वर्षा की कमी,2026-06-16T08:27:00+00:00,India,0.4268309518435702,2,2,hi,SAS,Asia
-'b86d3e50a7',extremes,Storm,#b3b2b1,wmo,तूफ़ान बापटला से निज़ामपट्टनम तक,2026-07-11T05:27:00+00:00,India,0.42601411454839827,2,1,hi,SAS,Asia
+'b86d3e50a7',extremes,Storm,#b3b2b1,wmo,तूफ़ान बापटला से निज़ामपट्टनम तक,2026-07-11T05:27:00+00:00,India,0.4260141145483982,2,1,hi,SAS,Asia
 'ab6fcdc789',extremes,Thunderstorm,#53785a,wmo,उत्तराखंड के जिलों में आंधी तूफान,2026-07-22T05:35:00+00:00,India,0.4236425174543707,1,1,hi,SAS,Asia
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,सबसे कम न्यूनतम तापमान,2026-06-25T06:32:00+00:00,,0.4223284811825448,1,2,hi,,
 '57a368b37e',extremes,Storm,#b3b2b1,wmo,झारखंड के पलामू जिले में तूफ़ान,2026-07-15T05:15:00+00:00,India,0.4222163654850732,2,1,hi,SAS,Asia
@@ -106,7 +107,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82d11264c2',extremes,Thunderstorm,#53785a,wmo,उत्तराखंड के हरिद्वार जिले में मौसम बेहद खराब,2026-07-10T06:27:00+00:00,India,0.3919105776149795,1,1,hi,SAS,Asia
 'f302e376d8',extremes,Thunderstorm,#53785a,wmo,त्रिपुरा के धलाई खोवाई जिलों में तूफान,2026-07-11T05:27:00+00:00,India,0.3909198964802535,1,1,hi,SAS,Asia
 'c46cc0b1e0',extremes,Thunderstorm,#53785a,wmo,8 मंडलों में आंधी,2026-07-18T05:10:00+00:00,India,0.3893744736521337,1,1,hi,SAS,Asia
-'e4c0eb1729',extremes,Wildfire,#d60d2b,random,जंगल की आग,2026-07-11T05:26:00+00:00,,0.3863015265779371,0,1,hi,,
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,आंधी तूफान,2026-07-12T05:43:00+00:00,,0.3850597925155061,1,3,hi,,
 'c885bd6875',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम केएसएम इपोलावरम मंडल,2026-07-18T05:10:00+00:00,India,0.3813677279964007,1,1,hi,SAS,Asia
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडा दिन,2026-07-08T05:37:00+00:00,,0.3805154848108247,1,1,hi,,
