@@ -3,12 +3,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ed0a2b8a74',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश की चेतावनी,2026-07-14T05:14:00+00:00,India,0.6107437093140393,2,3,hi,SAS,Asia
 '519c58c063',extremes,Flood,#030ba1,wmo,बाढ़ भारत,2026-07-03T06:09:00+00:00,India,0.5806836334062635,3,3,hi,SAS,Asia
 '615a4551a5',extremes,Flood,#030ba1,wmo,भारत में बाढ़,2026-07-01T06:52:00+00:00,India,0.574030293044977,2,2,hi,SAS,Asia
-'fc335e869f',extremes,Thunderstorm,#53785a,wmo,तूफ़ान भारत,2026-06-30T06:39:00+00:00,India,0.5711076551999583,1,1,hi,SAS,Asia
 '90522631da',extremes,Precipitation,#d60d2b,wmo,भारत में वर्षा,2026-07-03T06:09:00+00:00,India,0.5614441671217401,2,2,hi,SAS,Asia
 '891bde534c',extremes,Landslide,#572c03,wmo,भारत में भूस्खलन,2026-07-06T06:52:00+00:00,India,0.5516554138092935,2,1,hi,SAS,Asia
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,वर्षा भारत,2026-06-30T06:39:00+00:00,India,0.5350302728238242,3,2,hi,SAS,Asia
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,जय भारत,2026-06-30T06:39:00+00:00,India,0.5232203112697925,1,1,hi,SAS,Asia
-'34855192b0',extremes,Flood,#030ba1,wmo,घाघरा दरौली सिवान बिहार में बाढ़,2026-07-25T05:29:00+00:00,India,0.5087943592587226,1,1,hi,SAS,Asia
 '6594d97d36',extremes,Flood,#030ba1,wmo,"बाढ़ ब्रह्मपुत्र धुबरी, धुबरी असम",2026-07-02T06:24:00+00:00,India,0.5071247382294752,6,2,hi,SAS,Asia
 'b613ea22d7',extremes,Precipitation,#d60d2b,wmo,त्रिपुरा के पश्चिमी त्रिपुरा जिले में भारी बारिश,2026-07-08T05:37:00+00:00,India,0.5043699566897016,2,2,hi,SAS,Asia
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,भारत में गंभीर मौसम,2026-06-30T06:39:00+00:00,India,0.5027432590875198,1,2,hi,SAS,Asia
@@ -22,6 +20,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1b2c06d72e',extremes,Precipitation,#d60d2b,wmo,हरियाणा के यमुनानगर जिले में वर्षा,2026-07-10T06:27:00+00:00,India,0.4873981075408705,1,1,hi,SAS,Asia
 'a843de13bd',extremes,Storm,#b3b2b1,wmo,उत्तराखंड के ज़िलों में तूफ़ान,2026-07-21T05:36:00+00:00,India,0.4873481457021437,1,1,hi,SAS,Asia
 '26fee806c3',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश भारत,2026-06-30T06:39:00+00:00,India,0.4858959575505072,2,1,hi,SAS,Asia
+'fc335e869f',extremes,Thunderstorm,#53785a,wmo,तूफ़ान भारत,2026-06-30T06:39:00+00:00,India,0.48544150691996457,2,1,hi,SAS,Asia
 'a19bcd8102',extremes,Storm,#b3b2b1,wmo,तूफ़ान उन्नाव,2026-07-16T05:25:00+00:00,India,0.4837214233678243,1,1,hi,SAS,Asia
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,तूफ़ान भारत,2026-06-30T06:39:00+00:00,India,0.4835413108644057,2,1,hi,SAS,Asia
 'd232e38e76',extremes,Precipitation,#d60d2b,wmo,त्रिपुरा के दक्षिण त्रिपुरा जिले में भारी बारिश,2026-07-19T05:37:00+00:00,India,0.4818082098085544,1,1,hi,SAS,Asia
@@ -36,13 +35,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b6cef22543',extremes,Drought,#edc291,random,जल प्रतिबंध,2026-07-01T06:52:00+00:00,,0.4731227159338709,1,2,hi,,
 '45897d39ee',extremes,Precipitation,#d60d2b,wmo,वर्षा क्रिया करती है,2026-07-16T05:25:00+00:00,India,0.4718678347639269,1,1,hi,SAS,Asia
 '05e01c6cdd',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश प्रयागराज,2026-07-05T06:25:00+00:00,India,0.4718611832784879,1,1,hi,SAS,Asia
-'62e08f7136',extremes,Precipitation,#d60d2b,wmo,वर्षा मध्यम वर्षा,2026-07-11T05:27:00+00:00,India,0.4712419836407381,2,1,hi,SAS,Asia
 'e29a3f5773',extremes,Precipitation,#d60d2b,wmo,उत्तर की ओर वर्षा,2026-07-18T05:10:00+00:00,India,0.4694420553646584,2,1,hi,SAS,Asia
 '6f57b2e1cf',extremes,Flood,#030ba1,wmo,बाढ़ दिखो शिवसागर शिवसागर असम,2026-07-13T05:53:00+00:00,India,0.4681826949217135,2,1,hi,SAS,Asia
 'dbbdd348c3',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि दक्षिण दिनाजपुर,2026-07-08T05:37:00+00:00,India,0.4662235732716342,2,1,hi,SAS,Asia
 'ac0d855d13',extremes,Flood,#030ba1,wmo,बाढ़ संकोश गोलोकगंज धुबरी असम,2026-06-30T06:39:00+00:00,India,0.4659988181934138,2,1,hi,SAS,Asia
 'b59e604b00',extremes,Thunderstorm,#53785a,wmo,देहरादून जिले में आंधी तूफान,2026-07-04T05:59:00+00:00,India,0.4655596591143824,2,1,hi,SAS,Asia
-'e4c0eb1729',extremes,Wildfire,#d60d2b,random,जंगल की आग,2026-07-11T05:26:00+00:00,,0.46303976592457985,1,2,hi,,
+'e4c0eb1729',extremes,Wildfire,#d60d2b,random,जंगल की आग,2026-07-11T05:26:00+00:00,,0.4630397659245798,1,2,hi,,
+'62e08f7136',extremes,Precipitation,#d60d2b,wmo,वर्षा मध्यम वर्षा,2026-07-11T05:27:00+00:00,India,0.4628059110946274,3,1,hi,SAS,Asia
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,भूकंप भारत,2026-06-27T06:08:00+00:00,India,0.4625749659919952,1,1,hi,SAS,Asia
 '1c94b4639d',extremes,Flood,#030ba1,wmo,बाढ़ मनु कैलाशहर उनाकोटि त्रिपुरा,2026-07-09T06:27:00+00:00,India,0.4617326725485004,2,1,hi,SAS,Asia
 '6a51b5153c',extremes,Precipitation,#d60d2b,wmo,"वर्षा, पौरी, देहरादून, टिहरी, उत्तरकाशी",2026-07-23T05:40:00+00:00,India,0.4592240507861567,1,1,hi,SAS,Asia
@@ -70,6 +69,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f5c56ad2c1',extremes,Precipitation,#d60d2b,wmo,हरियाणा के पंचकुला जिले में मूसलाधार बारिश,2026-07-20T05:54:00+00:00,India,0.4388454066583238,1,1,hi,SAS,Asia
 'b32054422b',extremes,Storm,#b3b2b1,wmo,तूफ़ान एनसीआर एनसीआर मेरठ बागपत,2026-07-05T06:25:00+00:00,India,0.4370442200953711,2,1,hi,SAS,Asia
 '8712606b80',extremes,Thunderstorm,#53785a,wmo,उन्नाव और आसपास मौसम बेहद खराब,2026-07-20T05:54:00+00:00,India,0.4330282156084467,2,1,hi,SAS,Asia
+'34855192b0',extremes,Flood,#030ba1,wmo,घाघरा दरौली सिवान बिहार में बाढ़,2026-07-25T05:29:00+00:00,India,0.43247520536991424,2,1,hi,SAS,Asia
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,पाला,2026-07-07T06:30:00+00:00,,0.4307394852741715,1,2,hi,,
 '5a03be3d6b',extremes,Thunderstorm,#53785a,wmo,"ओलावृष्टि, पटना वैशाली सारण",2026-07-10T06:27:00+00:00,India,0.4303444190085563,2,1,hi,SAS,Asia
 '244a83157a',extremes,Flood,#030ba1,wmo,बाढ़ बराक बदरपुरघाट कछार असम,2026-07-24T05:36:00+00:00,India,0.4294456775703149,2,1,hi,SAS,Asia
@@ -133,7 +133,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9aceadd432',extremes,Heat Wave,#c40202,random,रिकॉर्ड गर्मी,2026-07-14T05:14:00+00:00,,0.3421451367831075,1,2,hi,,
 '7061c4812e',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि नारंगी,2026-07-01T06:52:00+00:00,India,0.3411540788544079,2,1,hi,SAS,Asia
 '0a8e5743d9',extremes,Landslide,#572c03,random,भूस्खलन,2026-06-14T07:06:00+00:00,,0.3379749773284603,1,2,hi,,
-'6be9519179',extremes,Cold Wave,#a7e9fa,random,शीत लहर,2026-06-23T06:32:00+00:00,,0.3377433854457866,1,1,hi,,
 'a5ff1cde4a',extremes,Drought,#edc291,random,मिट्टी की नमी,2026-07-13T05:53:00+00:00,,0.3369002610464886,1,1,hi,,
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,शीतलहर,2026-06-25T06:32:00+00:00,,0.3359675393239968,1,1,hi,,
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,ठंढ,2026-06-25T06:32:00+00:00,,0.3349930492024173,1,1,hi,,
