@@ -188,6 +188,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '184472a9b7',extremes,Heat Wave,#c40202,wmo,हीट वेव पोलोग क्षेत्र,2026-07-16T05:25:00+00:00,North Macedonia,0.3015012515128243,0,1,hi,MED,Europe
 'ffd87268c6',extremes,Storm,#b3b2b1,wmo,दक्षिण पूर्वी जल में तूफ़ान,2026-07-24T05:36:00+00:00,Solomon Islands,0.3014870424215059,0,1,hi,EPO,Oceania
 '27fd81d198',extremes,Storm,#b3b2b1,wmo,तूफ़ान सोलोमन द्वीप,2026-07-25T05:29:00+00:00,Solomon Islands,0.301482253240154,0,1,hi,EPO,Oceania
+'0fa68c0b80',extremes,Earthquake,#870007,usgs,भूकंप सांता क्रूज़ दास फ़्लोरेस,2026-07-12T05:43:00+00:00,Portugal,0.3014804895787029,0,1,hi,NAO,Atlantic Ocean
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,न्यूजीलैंड में मूसलाधार बारिश,2026-07-14T05:14:00+00:00,New Zealand,0.30145279132772,0,1,hi,NZ,Oceania
 'c37650b8be',extremes,Flood,#030ba1,wmo,फ्लैशफ्लड रूस,2026-07-03T06:09:00+00:00,Russia,0.3014491966713688,0,1,hi,ESB,Europe
 'a4ea76ca76',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल अल्जीरिया,2026-07-05T06:25:00+00:00,Algeria,0.3013935608421396,0,1,hi,SAH,Africa
@@ -228,8 +229,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '92035e2c20',extremes,Drought,#edc291,edo,सूखा मंत्र मेडागास्कर,2026-06-20T06:47:00+00:00,Madagascar,0.3008986712602798,0,1,hi,MDG,Africa
 '520d37d7b0',extremes,Fog,#d60d2b,wmo,कोहरा बेलारूस,2026-07-12T05:43:00+00:00,Belarus,0.3008852245950444,0,1,hi,WCE,Europe
 '213b1f3ceb',extremes,Heat Wave,#c40202,wmo,हीट वेव लिम्मटाल,2026-07-09T06:27:00+00:00,Switzerland,0.3008374078751419,0,1,hi,WCE,Europe
+'5877d58b55',extremes,Fog,#d60d2b,wmo,कोहरा इवानोवो क्षेत्र,2026-07-12T05:43:00+00:00,Russia,0.30082377658830906,0,1,hi,ESB,Europe
+'97863af4d6',extremes,Earthquake,#870007,usgs,भूकंप कप्तान कुक,2026-07-11T05:27:00+00:00,Hawaii,0.30081756606635324,0,1,hi,NPO,Pacific Ocean
+'0c65536a96',extremes,Heat Wave,#c40202,wmo,हीट वेव पेलगोनिया क्षेत्र,2026-07-16T05:25:00+00:00,North Macedonia,0.30080592647960824,0,1,hi,MED,Europe
+'630b164795',extremes,Wildfire,#d60d2b,wmo,जंगल की आग इज़राइल,2026-07-25T05:29:00+00:00,Israel,0.30080486498291964,0,1,hi,MED,Asia
+'bdb3ebf6fc',extremes,Fog,#d60d2b,wmo,कोहरा चेचन गणराज्य,2026-07-13T05:53:00+00:00,Russia,0.3007945731852654,0,1,hi,ESB,Europe
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,तूफ़ान ऑस्ट्रेलिया,2026-06-26T06:36:00+00:00,Australia,0.3007896847642597,0,1,hi,CAU,Oceania
 '7f450bad1e',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश अधिकतम,2026-07-11T05:27:00+00:00,Mexico,0.30073958098632,0,1,hi,NCA,North-America
+'9c32a6bc47',extremes,Heat Wave,#c40202,wmo,हीट वेव व्हिसलर होवे ध्वनि,2026-07-21T05:36:00+00:00,Canada,0.30068915538342367,0,1,hi,NEN,North-America
+'c3b0bd6e01',extremes,Storm,#b3b2b1,wmo,तूफ़ान किसका से अट्टू बेरिंग की तरफ,2026-07-25T05:29:00+00:00,United States,0.3006876963340423,0,1,hi,CNA,North-America
+'02f56319a7',extremes,Flood,#030ba1,wmo,ऑस्ट्रेलिया में बाढ़,2026-07-18T05:10:00+00:00,Australia,0.30067531493384375,0,1,hi,CAU,Oceania
+'52e6ca3f85',extremes,Storm,#b3b2b1,wmo,तूफ़ान रजि. 9 घाटी अनुदैर्ध्य,2026-07-15T05:15:00+00:00,Chile,0.3006487686073132,0,1,hi,SWS,South-America
 'e762488b7b',extremes,Earthquake,#870007,usgs,भूकंप Caluula,2026-06-28T06:44:00+00:00,Somalia,0.3005863629429299,0,1,hi,NEAF,Africa
 '1cea2810c9',extremes,Storm,#b3b2b1,wmo,उत्तरी तटीय जल में तूफ़ान।,2026-06-25T06:32:00+00:00,Vanuatu,0.3005824552519562,0,1,hi,SPO,Oceania
 '46b58bff76',extremes,Storm,#b3b2b1,wmo,तूफ़ान रजि. 2 लिटोरल रजि. 3 शाब्दिक,2026-06-20T06:47:00+00:00,Chile,0.3004667964689889,0,1,hi,SWS,South-America
