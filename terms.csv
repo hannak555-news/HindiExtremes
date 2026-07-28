@@ -50,12 +50,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1894e1abc2',extremes,Storm,#b3b2b1,wmo,झारखंड के रामगढ़ जिले में तूफ़ान आया,2026-07-27T06:05:00+00:00,India,0.462716611017969,1,1,hi,SAS,Asia
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,भूकंप भारत,2026-06-27T06:08:00+00:00,India,0.4625749659919952,1,1,hi,SAS,Asia
 '1c94b4639d',extremes,Flood,#030ba1,wmo,बाढ़ मनु कैलाशहर उनाकोटि त्रिपुरा,2026-07-09T06:27:00+00:00,India,0.4617326725485004,2,1,hi,SAS,Asia
-'bfe40e36c7',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि बलिया आजमगढ़,2026-07-27T06:05:00+00:00,India,0.4573455244432289,0,1,hi,SAS,Asia
 '62c318516d',extremes,Precipitation,#d60d2b,wmo,वर्षा कार्रवाई करें,2026-07-16T05:25:00+00:00,India,0.4572851260823424,1,1,hi,SAS,Asia
 '60cdf9fb44',extremes,Heat Wave,#c40202,wmo,हीट वेव इंडिया,2026-07-12T05:43:00+00:00,India,0.4561573169748664,2,1,hi,SAS,Asia
 'c62f9be69a',extremes,Flood,#030ba1,wmo,बाढ़ दिखो शिवसागर शिवसागर असम,2026-07-16T05:25:00+00:00,India,0.4560122627238132,2,1,hi,SAS,Asia
 '97f34f1d56',extremes,Precipitation,#d60d2b,wmo,कुछ भागों में मूसलाधार वर्षा,2026-07-09T06:27:00+00:00,India,0.4559658212077242,1,1,hi,SAS,Asia
-'858993d9cd',extremes,Thunderstorm,#53785a,wmo,पिथौरागढ़ और बागेश्वर जिलों में मौसम खराब,2026-07-27T06:05:00+00:00,India,0.4536768361947355,0,1,hi,SAS,Asia
 '96ead3c3b0',extremes,Precipitation,#d60d2b,wmo,उत्तराखंड के वर्षा वाले जिले,2026-07-07T06:30:00+00:00,India,0.4531648811639797,1,1,hi,SAS,Asia
 '537375135b',extremes,Storm,#b3b2b1,wmo,उत्तराखंड के हरिद्वार जिले में तूफ़ान आया,2026-07-04T05:59:00+00:00,India,0.4519946326144453,2,1,hi,SAS,Asia
 '06ee29beb7',extremes,Storm,#b3b2b1,wmo,तूफान केंद्रीय ऊपर,2026-06-30T06:39:00+00:00,India,0.4514207322843706,2,1,hi,SAS,Asia
@@ -116,6 +114,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f302e376d8',extremes,Thunderstorm,#53785a,wmo,त्रिपुरा के धलाई खोवाई जिलों में तूफान,2026-07-11T05:27:00+00:00,India,0.3909198964802535,1,1,hi,SAS,Asia
 '6a51b5153c',extremes,Precipitation,#d60d2b,wmo,"वर्षा, पौरी, देहरादून, टिहरी, उत्तरकाशी",2026-07-23T05:40:00+00:00,India,0.3903404431682332,2,1,hi,SAS,Asia
 'c46cc0b1e0',extremes,Thunderstorm,#53785a,wmo,8 मंडलों में आंधी,2026-07-18T05:10:00+00:00,India,0.3893744736521337,1,1,hi,SAS,Asia
+'bfe40e36c7',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि बलिया आजमगढ़,2026-07-27T06:05:00+00:00,India,0.38874369577674456,1,1,hi,SAS,Asia
+'858993d9cd',extremes,Thunderstorm,#53785a,wmo,पिथौरागढ़ और बागेश्वर जिलों में मौसम खराब,2026-07-27T06:05:00+00:00,India,0.38577532576552515,1,1,hi,SAS,Asia
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,आंधी तूफान,2026-07-12T05:43:00+00:00,,0.3850597925155061,1,3,hi,,
 'c885bd6875',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम केएसएम इपोलावरम मंडल,2026-07-18T05:10:00+00:00,India,0.3813677279964007,1,1,hi,SAS,Asia
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडा दिन,2026-07-08T05:37:00+00:00,,0.3805154848108247,1,1,hi,,
