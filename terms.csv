@@ -10,14 +10,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f95745a80f',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश बाराबंकी,2026-07-27T06:05:00+00:00,India,0.5348356053988504,2,2,hi,SAS,Asia
 'c2b07afbf7',extremes,Flood,#030ba1,wmo,बाढ़ कोसी बसुआ सुपौल बिहार,2026-07-29T05:37:00+00:00,India,0.5045191586436315,1,1,hi,SAS,Asia
 'b613ea22d7',extremes,Precipitation,#d60d2b,wmo,त्रिपुरा के पश्चिमी त्रिपुरा जिले में भारी बारिश,2026-07-08T05:37:00+00:00,India,0.5043699566897016,2,2,hi,SAS,Asia
-'78a7137ecc',extremes,Precipitation,#d60d2b,wmo,टिहरी और उत्तरकाशी जिलों में मूसलाधार बारिश,2026-07-30T05:24:00+00:00,India,0.500033732640088,0,1,hi,SAS,Asia
 'd77b825e5b',extremes,Flood,#030ba1,wmo,कनाडा में बाढ़,2026-06-30T06:39:00+00:00,Canada,0.4964236751059935,2,2,hi,NEN,North-America
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,गर्मी,2026-07-06T06:52:00+00:00,,0.4920329096483181,2,3,hi,,
 '6b46019257',extremes,Thunderstorm,#53785a,wmo,देहरादून और टिहरी में आंधी तूफान,2026-07-17T05:27:00+00:00,India,0.489506632143478,1,1,hi,SAS,Asia
 '9d2e82d98a',extremes,Storm,#b3b2b1,wmo,तूफ़ान पौडी और टिहरी गढ़वाल,2026-07-06T06:52:00+00:00,India,0.4894614939794857,1,1,hi,SAS,Asia
 'f7360be797',extremes,Thunderstorm,#53785a,wmo,असम के तिनसुकिया जिले में आंधी तूफान,2026-07-26T05:46:00+00:00,India,0.4892579954467629,1,1,hi,SAS,Asia
 '46906d4391',extremes,Thunderstorm,#53785a,wmo,उत्तराखंड के जिलों में मौसम बेहद खराब,2026-07-18T05:10:00+00:00,India,0.4890066215519644,1,1,hi,SAS,Asia
-'b413344a86',extremes,Thunderstorm,#53785a,wmo,केरल के इडुक्की जिले में ओले गिरे,2026-07-30T05:24:00+00:00,India,0.48864255128947875,1,1,hi,SAS,Asia
+'b413344a86',extremes,Thunderstorm,#53785a,wmo,केरल के इडुक्की जिले में ओले गिरे,2026-07-30T05:24:00+00:00,India,0.4886425512894787,1,1,hi,SAS,Asia
 '1b2c06d72e',extremes,Precipitation,#d60d2b,wmo,हरियाणा के यमुनानगर जिले में वर्षा,2026-07-10T06:27:00+00:00,India,0.4873981075408705,1,1,hi,SAS,Asia
 'a843de13bd',extremes,Storm,#b3b2b1,wmo,उत्तराखंड के ज़िलों में तूफ़ान,2026-07-21T05:36:00+00:00,India,0.4873481457021437,1,1,hi,SAS,Asia
 '26fee806c3',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश भारत,2026-06-30T06:39:00+00:00,India,0.4858959575505072,2,1,hi,SAS,Asia
@@ -86,6 +85,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5152d13eae',extremes,Precipitation,#d60d2b,wmo,पिथौरागढ़ और बागेश्वर जिलों में वर्षा,2026-07-27T06:05:00+00:00,India,0.4291217835347082,1,1,hi,SAS,Asia
 '44001fedd4',extremes,Storm,#b3b2b1,wmo,तूफान उत्तराखंड का अल्मोडा जिला,2026-07-02T06:24:00+00:00,India,0.4273502734269234,2,1,hi,SAS,Asia
 'b86d3e50a7',extremes,Storm,#b3b2b1,wmo,तूफ़ान बापटला से निज़ामपट्टनम तक,2026-07-11T05:27:00+00:00,India,0.4260141145483982,2,1,hi,SAS,Asia
+'78a7137ecc',extremes,Precipitation,#d60d2b,wmo,टिहरी और उत्तरकाशी जिलों में मूसलाधार बारिश,2026-07-30T05:24:00+00:00,India,0.4251786877440748,1,1,hi,SAS,Asia
 '405929fa41',extremes,Precipitation,#d60d2b,wmo,चंडीगढ़ के लिए वर्षा pbhr,2026-07-28T05:31:00+00:00,India,0.4249215618718029,1,1,hi,SAS,Asia
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,भूस्खलन,2026-07-09T06:27:00+00:00,,0.4243872749378004,1,3,hi,,
 '17c7bd6b3a',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि श्रावस्ती गोंडा,2026-07-27T06:05:00+00:00,India,0.4238649851130663,2,1,hi,SAS,Asia
