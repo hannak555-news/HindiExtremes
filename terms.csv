@@ -1,11 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'f7f19c3aaf',extremes,Precipitation,#d60d2b,wmo,उत्तराखंड के हरिद्वार जिले में मूसलाधार बारिश,2026-07-10T06:27:00+00:00,India,0.7269763895065335,9,2,hi,SAS,Asia
+'cd8ddf4958',extremes,Thunderstorm,#53785a,wmo,टिहरी और उत्तरकाशी जिलों में आंधी,2026-07-30T05:24:00+00:00,India,0.6342874131374538,1,2,hi,SAS,Asia
 'ed0a2b8a74',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश की चेतावनी,2026-07-14T05:14:00+00:00,India,0.6107437093140393,2,3,hi,SAS,Asia
 '294e65ce7a',extremes,Precipitation,#d60d2b,wmo,पंजाब में बारिश की संभावना,2026-07-28T05:31:00+00:00,India,0.5860176584178056,1,3,hi,SAS,Asia
 '519c58c063',extremes,Flood,#030ba1,wmo,बाढ़ भारत,2026-07-03T06:09:00+00:00,India,0.5806836334062635,3,3,hi,SAS,Asia
-'b413344a86',extremes,Thunderstorm,#53785a,wmo,केरल के इडुक्की जिले में ओले गिरे,2026-07-30T05:24:00+00:00,India,0.5748735897523279,0,1,hi,SAS,Asia
 '615a4551a5',extremes,Flood,#030ba1,wmo,भारत में बाढ़,2026-07-01T06:52:00+00:00,India,0.574030293044977,2,2,hi,SAS,Asia
-'cd8ddf4958',extremes,Thunderstorm,#53785a,wmo,टिहरी और उत्तरकाशी जिलों में आंधी,2026-07-30T05:24:00+00:00,India,0.5695734095734751,0,1,hi,SAS,Asia
 '891bde534c',extremes,Landslide,#572c03,wmo,भारत में भूस्खलन,2026-07-06T06:52:00+00:00,India,0.5516554138092935,2,1,hi,SAS,Asia
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,वर्षा भारत,2026-06-30T06:39:00+00:00,India,0.5350302728238242,3,2,hi,SAS,Asia
 'f95745a80f',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश बाराबंकी,2026-07-27T06:05:00+00:00,India,0.5348356053988504,2,2,hi,SAS,Asia
@@ -18,6 +17,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9d2e82d98a',extremes,Storm,#b3b2b1,wmo,तूफ़ान पौडी और टिहरी गढ़वाल,2026-07-06T06:52:00+00:00,India,0.4894614939794857,1,1,hi,SAS,Asia
 'f7360be797',extremes,Thunderstorm,#53785a,wmo,असम के तिनसुकिया जिले में आंधी तूफान,2026-07-26T05:46:00+00:00,India,0.4892579954467629,1,1,hi,SAS,Asia
 '46906d4391',extremes,Thunderstorm,#53785a,wmo,उत्तराखंड के जिलों में मौसम बेहद खराब,2026-07-18T05:10:00+00:00,India,0.4890066215519644,1,1,hi,SAS,Asia
+'b413344a86',extremes,Thunderstorm,#53785a,wmo,केरल के इडुक्की जिले में ओले गिरे,2026-07-30T05:24:00+00:00,India,0.48864255128947875,1,1,hi,SAS,Asia
 '1b2c06d72e',extremes,Precipitation,#d60d2b,wmo,हरियाणा के यमुनानगर जिले में वर्षा,2026-07-10T06:27:00+00:00,India,0.4873981075408705,1,1,hi,SAS,Asia
 'a843de13bd',extremes,Storm,#b3b2b1,wmo,उत्तराखंड के ज़िलों में तूफ़ान,2026-07-21T05:36:00+00:00,India,0.4873481457021437,1,1,hi,SAS,Asia
 '26fee806c3',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश भारत,2026-06-30T06:39:00+00:00,India,0.4858959575505072,2,1,hi,SAS,Asia
@@ -152,7 +152,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '135f8534c2',extremes,Precipitation,#d60d2b,random,अधिक वर्षा,2026-07-15T05:15:00+00:00,,0.3547711552656484,1,2,hi,,
 '6109b3a624',extremes,Thunderstorm,#53785a,wmo,मौसम खराब जलपाईगुड़ीकूचबिहार,2026-07-01T06:52:00+00:00,India,0.3543601501978091,2,1,hi,SAS,Asia
 '9a63a5a790',extremes,Earthquake,#870007,usgs,भूकंप यारदा,2026-07-12T05:43:00+00:00,India,0.3509453866852865,1,1,hi,SAS,Asia
-'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,भारी वर्षा,2026-07-30T05:24:00+00:00,,0.34887698272058354,0,1,hi,,
+'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,भारी वर्षा,2026-07-30T05:24:00+00:00,,0.3488769827205835,0,1,hi,,
 '9cc4c676cf',extremes,Earthquake,#870007,usgs,भूकंप काकचिंग,2026-07-02T06:23:00+00:00,India,0.3451878667418327,1,1,hi,SAS,Asia
 '9aceadd432',extremes,Heat Wave,#c40202,random,रिकॉर्ड गर्मी,2026-07-14T05:14:00+00:00,,0.3421451367831075,1,2,hi,,
 '1ca5796d4d',extremes,Thunderstorm,#53785a,wmo,तूफ़ान पूर्व की ओर,2026-07-16T05:25:00+00:00,India,0.3414533378174459,2,1,hi,SAS,Asia
@@ -177,11 +177,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '560b05d603',extremes,Heat Wave,#c40202,random,गर्मी की लहर,2026-07-09T06:27:00+00:00,,0.3149035041370761,2,2,hi,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,तूफ़ान,2026-07-19T05:37:00+00:00,,0.3146886638200377,1,1,hi,,
 '940a9f74b0',extremes,Wildfire,#d60d2b,acwe,जंगल की आग तस्मानिया,2026-07-30T05:24:00+00:00,Australia,0.3128682055903423,0,1,hi,SAU,Oceania
-'ec51ecb5d3',extremes,Flood,#030ba1,acwe,अचानक आई बाढ़ तस्मानिया,2026-07-22T05:35:00+00:00,Australia,0.31253861110556214,0,1,hi,SAU,Oceania
+'ec51ecb5d3',extremes,Flood,#030ba1,acwe,अचानक आई बाढ़ तस्मानिया,2026-07-22T05:35:00+00:00,Australia,0.3125386111055621,0,1,hi,SAU,Oceania
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,हबूब,2026-07-08T05:37:00+00:00,,0.3125120657800543,1,1,hi,,
 '0d261f252d',extremes,Storm,#b3b2b1,random,शीत ऋतु की आंधी,2026-07-24T05:35:00+00:00,,0.3109967834900246,1,1,hi,,
 'e52ff7b67a',extremes,Heat Wave,#c40202,wmo,हीट वेव पूर्वी क्षेत्र,2026-07-16T05:25:00+00:00,North Macedonia,0.3095876056687646,1,1,hi,MED,Europe
-'2453bd993e',extremes,Snow&Ice,#d60d2b,wmo,ठंढ आर्थर का दर्रा एसएच73,2026-07-30T05:24:00+00:00,New Zealand,0.30909014040206056,0,1,hi,NZ,Oceania
+'2453bd993e',extremes,Snow&Ice,#d60d2b,wmo,ठंढ आर्थर का दर्रा एसएच73,2026-07-30T05:24:00+00:00,New Zealand,0.3090901404020605,0,1,hi,NZ,Oceania
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,रेतीला तूफ़ान,2026-07-03T06:09:00+00:00,,0.3090112659466982,1,1,hi,,
 '622bd2c53e',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखापन,2026-07-10T06:27:00+00:00,United Arab Emirates,0.3064389415623837,1,1,hi,ARP,Asia
 '45500dcb47',extremes,Precipitation,#d60d2b,random,रिकार्ड वर्षा,2026-07-05T06:24:00+00:00,,0.3056147893786266,1,1,hi,,
