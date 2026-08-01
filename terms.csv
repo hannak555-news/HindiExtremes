@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'ed0a2b8a74',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश की चेतावनी,2026-07-14T05:14:00+00:00,India,0.6107437093140393,2,3,hi,SAS,Asia
+'ed0a2b8a74',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश की चेतावनी,2026-07-14T05:14:00+00:00,India,0.6104472742805698,3,3,hi,SAS,Asia
 '294e65ce7a',extremes,Precipitation,#d60d2b,wmo,पंजाब में बारिश की संभावना,2026-07-28T05:31:00+00:00,India,0.5860176584178056,1,3,hi,SAS,Asia
 '519c58c063',extremes,Flood,#030ba1,wmo,बाढ़ भारत,2026-07-03T06:09:00+00:00,India,0.5806836334062635,3,3,hi,SAS,Asia
 '615a4551a5',extremes,Flood,#030ba1,wmo,भारत में बाढ़,2026-07-01T06:52:00+00:00,India,0.574030293044977,2,2,hi,SAS,Asia
@@ -138,7 +138,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'df35ba52b4',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि पीएलवी येतपका पीएलवी चिंतूर मंडल,2026-07-27T06:05:00+00:00,India,0.367431627915165,1,1,hi,SAS,Asia
 '82fd55b965',extremes,Drought,#edc291,edo,भारत में सूखा,2026-07-08T05:37:00+00:00,India,0.3664966917683367,2,2,hi,SAS,Asia
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,ओलावृष्टि,2026-06-24T06:29:00+00:00,,0.366251189149649,1,2,hi,,
-'b1d56de062',extremes,Snow&Ice,#d60d2b,random,पाला,2026-07-07T06:30:00+00:00,,0.36612865248304577,2,1,hi,,
+'b1d56de062',extremes,Snow&Ice,#d60d2b,random,पाला,2026-07-07T06:30:00+00:00,,0.3661286524830457,2,1,hi,,
 '5a03be3d6b',extremes,Thunderstorm,#53785a,wmo,"ओलावृष्टि, पटना वैशाली सारण",2026-07-10T06:27:00+00:00,India,0.3657927561572728,3,1,hi,SAS,Asia
 'aa86a99742',extremes,Flood,#030ba1,wmo,बाढ़ कोसी बलतारा खगड़िया बिहार,2026-07-05T06:25:00+00:00,India,0.3649361869972375,2,1,hi,SAS,Asia
 '6e55489bf8',extremes,Thunderstorm,#53785a,wmo,झारखंड के गिरिडीह जिले में ओलावृष्टि,2026-07-17T05:27:00+00:00,India,0.364776676990534,1,1,hi,SAS,Asia
@@ -422,8 +422,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9f50f80ea2',extremes,Drought,#edc291,edo,सूखा मंत्र मोंटेनेग्रो,2026-07-11T05:27:00+00:00,Montenegro,0.2574470459347205,1,1,hi,MED,Europe
 '190bcda954',extremes,Storm,#b3b2b1,wmo,तूफ़ान की लहर फ़ोर्ट नेल्सन,2026-07-01T06:52:00+00:00,Canada,0.2574295181596521,1,1,hi,NEN,North-America
 'ae7c5ba2c1',extremes,Heat Wave,#c40202,wmo,हीट वेव वैल डे रुज़ कोलंबिया,2026-07-11T05:27:00+00:00,Switzerland,0.2574126284725409,1,1,hi,WCE,Europe
-'fc07d3ac53',extremes,Snow&Ice,#d60d2b,wmo,जमने वाली लुईस दर्रा एसएच7,2026-07-31T05:51:00+00:00,New Zealand,0.25736041099389495,1,1,hi,NZ,Oceania
-'f6414f90dd',extremes,Snow&Ice,#d60d2b,wmo,बर्फ़ीली रेगिस्तानी सड़क एसएच1,2026-07-31T05:51:00+00:00,New Zealand,0.25734162220077694,1,1,hi,NZ,Oceania
+'fc07d3ac53',extremes,Snow&Ice,#d60d2b,wmo,जमने वाली लुईस दर्रा एसएच7,2026-07-31T05:51:00+00:00,New Zealand,0.2573604109938949,1,1,hi,NZ,Oceania
+'f6414f90dd',extremes,Snow&Ice,#d60d2b,wmo,बर्फ़ीली रेगिस्तानी सड़क एसएच1,2026-07-31T05:51:00+00:00,New Zealand,0.2573416222007769,1,1,hi,NZ,Oceania
 'ec565ce4e2',extremes,Storm,#b3b2b1,wmo,तूफ़ान से सारा पानी बह जाता है,2026-07-10T06:27:00+00:00,Solomon Islands,0.2573192461115014,1,1,hi,EPO,Oceania
 '39dc68f588',extremes,Snow&Ice,#d60d2b,wmo,जमने वाला रेग। 11 पेटागोनिया सुबन्दिना नॉर्ट,2026-07-17T05:27:00+00:00,Chile,0.2573091481704213,1,1,hi,SWS,South-America
 'b24acb5e76',extremes,Snow&Ice,#d60d2b,wmo,बर्फ डुनेडिन से वेटाटी राजमार्ग एसएच1,2026-07-24T05:36:00+00:00,New Zealand,0.2573081677983109,1,1,hi,NZ,Oceania
@@ -442,8 +442,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '340b530747',extremes,Snow&Ice,#d60d2b,wmo,जमने वाली मिलफोर्ड रोड एसएच94,2026-07-24T05:36:00+00:00,New Zealand,0.2571825483755192,1,1,hi,NZ,Oceania
 '91a13c4ea2',extremes,Fog,#d60d2b,wmo,कोहरा सनीराजक इग्लूलिक,2026-07-14T05:14:00+00:00,Canada,0.2571268521859747,1,1,hi,NEN,North-America
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,हीट वेव चिली,2026-07-04T05:59:00+00:00,Chile,0.2571251763300453,1,1,hi,SWS,South-America
-'02da4f9a1d',extremes,Wildfire,#d60d2b,wmo,जंगल की आग ऑस्टलैंडेट और एग्डर के हिस्से,2026-07-27T06:05:00+00:00,Norway,0.25711884917430045,1,1,hi,NEU,Europe
-'eb981e7150',extremes,Heat Wave,#c40202,wmo,हीट वेव सऊदी अरब,2026-07-21T05:36:00+00:00,Saudi Arabia,0.25710485317347925,1,1,hi,ARP,Asia
+'02da4f9a1d',extremes,Wildfire,#d60d2b,wmo,जंगल की आग ऑस्टलैंडेट और एग्डर के हिस्से,2026-07-27T06:05:00+00:00,Norway,0.2571188491743004,1,1,hi,NEU,Europe
+'eb981e7150',extremes,Heat Wave,#c40202,wmo,हीट वेव सऊदी अरब,2026-07-21T05:36:00+00:00,Saudi Arabia,0.2571048531734792,1,1,hi,ARP,Asia
 '596bcf1fdb',extremes,Storm,#b3b2b1,wmo,तूफ़ान का उभार क्षेत्र 1 - गंभीर,2026-07-21T05:36:00+00:00,Paraguay,0.2571039180602186,1,1,hi,SES,South-America
 'bc85c67872',extremes,Storm,#b3b2b1,wmo,तूफ़ान कुवैत,2026-07-16T05:25:00+00:00,Kuwait,0.2570909746078022,1,1,hi,ARP,Asia
 '0f045e33e1',extremes,Storm,#b3b2b1,wmo,तूफ़ान वृद्धि रजि. 4 कॉर्डिलेरा,2026-07-19T05:37:00+00:00,Chile,0.2570891445468663,1,1,hi,SWS,South-America
@@ -516,7 +516,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,वर्षा तंजानिया,2026-07-04T05:59:00+00:00,Tanzania,0.256194878226127,1,1,hi,SEAF,Africa
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,ठंडा ब्राजील,2026-07-02T06:24:00+00:00,Brazil,0.2561869866653473,1,1,hi,SAM,South-America
 'fc65ecc005',extremes,Cold Wave,#a7e9fa,wmo,शीत लहर ब्राज़ील,2026-06-30T06:39:00+00:00,Brazil,0.2561505425409526,1,1,hi,SAM,South-America
-'aab7909052',extremes,Fog,#d60d2b,wmo,कोहरा इजराइल,2026-07-02T06:24:00+00:00,Israel,0.25606464033158677,1,1,hi,MED,Asia
+'aab7909052',extremes,Fog,#d60d2b,wmo,कोहरा इजराइल,2026-07-02T06:24:00+00:00,Israel,0.2560646403315867,1,1,hi,MED,Asia
 '1c7749f12f',extremes,Storm,#b3b2b1,wmo,तूफान सेशेल्स,2026-07-07T06:30:00+00:00,Seychelles,0.2560130495771971,1,1,hi,EIO,Africa
 '22e2976426',extremes,Earthquake,#870007,usgs,भूकंप पुर्तगाल,2026-07-11T05:27:00+00:00,Portugal,0.2559420385368652,1,1,hi,NAO,Atlantic Ocean
 '7c1e10f7d0',extremes,Wildfire,#d60d2b,wmo,जंगल की आग मरमंस्क क्षेत्र,2026-07-11T05:27:00+00:00,Russia,0.2559307768909004,1,1,hi,ESB,Europe
@@ -533,7 +533,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9c32a6bc47',extremes,Heat Wave,#c40202,wmo,हीट वेव व्हिसलर होवे ध्वनि,2026-07-21T05:36:00+00:00,Canada,0.25558578207591,1,1,hi,NEN,North-America
 '49b55c4a32',extremes,Precipitation,#d60d2b,wmo,वर्षा ग्रो ओक्स,2026-07-11T05:27:00+00:00,Mexico,0.2555518371898229,1,1,hi,NCA,North-America
 'f2d8a901f9',extremes,Snow&Ice,#d60d2b,wmo,फ्रॉस्ट मिलफोर्ड रोड एसएच94,2026-07-04T05:59:00+00:00,New Zealand,0.2553635565522202,1,1,hi,NZ,Oceania
-'22bab77b3f',extremes,Storm,#b3b2b1,wmo,उत्तरी तटीय जल में तूफ़ान का उछाल।,2026-06-28T06:44:00+00:00,Vanuatu,0.25527786584470996,1,1,hi,SPO,Oceania
+'22bab77b3f',extremes,Storm,#b3b2b1,wmo,उत्तरी तटीय जल में तूफ़ान का उछाल।,2026-06-28T06:44:00+00:00,Vanuatu,0.2552778658447099,1,1,hi,SPO,Oceania
 '065a68d42d',extremes,Storm,#b3b2b1,wmo,तूफानी उछाल मॉरीशस,2026-07-08T05:37:00+00:00,Mauritius,0.2552709865545682,1,1,hi,SIO,Africa
 '6fb1e93945',extremes,Storm,#b3b2b1,wmo,तूफ़ान नामा,2026-07-11T05:27:00+00:00,Algeria,0.2552067863250916,1,1,hi,SAH,Africa
 '8ec3c413ed',extremes,Flood,#030ba1,wmo,किलार्नी के उत्तर में अचानक आई पेम्बिना नदी,2026-07-08T05:37:00+00:00,Canada,0.2551578573323103,1,1,hi,NEN,North-America
