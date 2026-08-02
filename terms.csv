@@ -28,6 +28,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '90522631da',extremes,Precipitation,#d60d2b,wmo,भारत में वर्षा,2026-07-03T06:09:00+00:00,India,0.4784281570534791,3,2,hi,SAS,Asia
 '7a125e5d7a',extremes,Precipitation,#d60d2b,wmo,उत्तराखंड के जिलों में वर्षा,2026-07-07T06:30:00+00:00,India,0.4781546266850922,1,1,hi,SAS,Asia
 '0ab5486ec3',extremes,Flood,#030ba1,wmo,बाढ़ दिखो शिवसागर शिवसागर असम,2026-07-20T05:54:00+00:00,India,0.4774306871318123,2,1,hi,SAS,Asia
+'ac0d855d13',extremes,Flood,#030ba1,wmo,बाढ़ संकोश गोलोकगंज धुबरी असम,2026-07-24T05:36:00+00:00,India,0.4763133491458725,0,1,hi,SAS,Asia
 '778d256165',extremes,Flood,#030ba1,wmo,फ्लैशफ्लड इंडिया,2026-06-30T06:39:00+00:00,India,0.4753890050205331,2,1,hi,SAS,Asia
 '237861acf4',extremes,Precipitation,#d60d2b,wmo,पश्चिम की ओर वर्षा,2026-07-09T06:27:00+00:00,India,0.4740223586024041,1,1,hi,SAS,Asia
 'b6cef22543',extremes,Drought,#edc291,random,जल प्रतिबंध,2026-07-01T06:52:00+00:00,,0.4731227159338709,1,2,hi,,
@@ -196,12 +197,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd40e85899a',extremes,Heat Wave,#c40202,wmo,हीट वेव मोल्दोवा गणराज्य,2026-08-01T05:42:00+00:00,Republic of Moldova,0.3021552761476924,0,1,hi,WCE,Europe
 'b4527605c1',extremes,Snow&Ice,#d60d2b,wmo,जमने वाले कुली एसएच73 से गुजरते हैं,2026-07-31T05:51:00+00:00,New Zealand,0.3021515508876744,0,1,hi,NZ,Oceania
 '7747997246',extremes,Fog,#d60d2b,wmo,कोहरा रूस,2026-07-17T05:27:00+00:00,Russia,0.3020434692587306,0,1,hi,ESB,Europe
+'388a6dbadc',extremes,Storm,#b3b2b1,wmo,तूफान अल्जीरिया,2026-08-01T05:42:00+00:00,Algeria,0.30201716643590526,0,1,hi,SAH,Africa
 'bab5de556b',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल वेलिंगटन,2026-07-29T05:37:00+00:00,New Zealand,0.3020084302866917,0,1,hi,NZ,Oceania
 '0077950340',extremes,Wildfire,#d60d2b,wmo,नॉर्वे में जंगल की आग,2026-07-18T05:10:00+00:00,Norway,0.3020044263857814,0,1,hi,NEU,Europe
 '1db33a60d4',extremes,Heat Wave,#c40202,wmo,मिस्र के अधिकांश हिस्सों में गर्मी की लहर,2026-07-31T05:51:00+00:00,Egypt,0.30194856060454,0,1,hi,SAH,Africa
 '8768fed4c8',extremes,Wildfire,#d60d2b,wmo,जंगल की आग केमेरोवो क्षेत्र,2026-07-18T05:10:00+00:00,Russia,0.3018784320610052,0,1,hi,ESB,Europe
 'a724fe9ab3',extremes,Wildfire,#d60d2b,wmo,जंगल की आग रूस,2026-07-17T05:27:00+00:00,Russia,0.3017721780191439,0,1,hi,ESB,Europe
 '19312d8f44',extremes,Snow&Ice,#d60d2b,wmo,ठंढ न्यूज़ीलैंड,2026-07-25T05:29:00+00:00,New Zealand,0.3017398052576651,0,1,hi,NZ,Oceania
+'8913aeaf64',extremes,Storm,#b3b2b1,wmo,तूफ़ान लिटोरल ई इंटरएंडिना,2026-08-01T05:42:00+00:00,Ecuador,0.30173562638819285,0,1,hi,NWS,South-America
 '4ae75fc210',extremes,Precipitation,#d60d2b,wmo,भारी बारिश सऊदी अरब,2026-07-14T05:14:00+00:00,Saudi Arabia,0.3017326281473022,0,1,hi,ARP,Asia
 '516cca4753',extremes,Storm,#b3b2b1,wmo,कैंटरबरी हाई कंट्री में तूफ़ान का उछाल,2026-07-29T05:37:00+00:00,New Zealand,0.3017076775944151,0,1,hi,NZ,Oceania
 '997a2e2157',extremes,Earthquake,#870007,usgs,भूकंप अर्जेंटीना,2026-07-18T05:10:00+00:00,Argentina,0.3017052635291564,0,1,hi,SOO,Antarctica
@@ -209,6 +212,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5670a1ef99',extremes,Wildfire,#d60d2b,wmo,जंगल की आग अल्ताई क्राय,2026-07-17T05:27:00+00:00,Russia,0.3016132916031442,0,1,hi,ESB,Europe
 '499dfc6c4a',extremes,Storm,#b3b2b1,wmo,स्टॉर्म सर्ज प्रोविंसियास डे लिमारि वाई चोआपा,2026-07-18T05:10:00+00:00,Chile,0.3015766837787128,0,1,hi,SWS,South-America
 '1856e0de6b',extremes,Tropical Cyclone,#4f4f4f,wmo,टाइफून हांगकांग,2026-07-27T06:05:00+00:00,Hong Kong,0.3015629958812107,0,1,hi,EAS,Asia
+'288e7f4724',extremes,Wildfire,#d60d2b,wmo,जंगल की आग तुरुखांस्की एम.आर.,2026-07-26T05:46:00+00:00,Russia,0.30153290430214397,0,1,hi,ESB,Europe
 'e7ee03fac9',extremes,Snow&Ice,#d60d2b,wmo,बर्फ़ीली क्राउन रेंज रोड,2026-07-23T05:40:00+00:00,New Zealand,0.3015295932218577,0,1,hi,NZ,Oceania
 '829105287e',extremes,Storm,#b3b2b1,wmo,तूफ़ान जमैका,2026-07-09T06:27:00+00:00,Jamaica,0.3015123490138555,0,1,hi,CAR,North-America
 '30e79eda20',extremes,Storm,#b3b2b1,wmo,तूफ़ान दक्षिण पूर्व आइसलैंड,2026-07-25T05:29:00+00:00,Iceland,0.3015027515484879,0,1,hi,GIC,Europe
@@ -228,6 +232,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3a67915e02',extremes,Earthquake,#870007,usgs,भूकंप पेरू,2026-07-18T05:10:00+00:00,Peru,0.3011985889611739,0,1,hi,SAM,South-America
 '5295642073',extremes,Flood,#030ba1,wmo,रूस में बाढ़,2026-07-10T06:27:00+00:00,Russia,0.3011695281338877,0,1,hi,ESB,Europe
 '8d80fe8af3',extremes,Heat Wave,#c40202,wmo,हीट वेव जॉर्डन,2026-07-20T05:54:00+00:00,Jordan,0.3011638516479614,0,1,hi,MED,Asia
+'9c119ba6f6',extremes,Wildfire,#d60d2b,wmo,कलमीकिया गणराज्य की जंगल की आग,2026-07-27T06:05:00+00:00,Russia,0.3011633611208813,0,1,hi,ESB,Europe
+'3db0f2ddbc',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल 07 08ए 08बी,2026-07-31T05:51:00+00:00,Chile,0.30115445447059747,0,1,hi,SWS,South-America
 '432bab655c',extremes,Wildfire,#d60d2b,eonet,संयुक्त राज्य अमेरिका में जंगल की आग,2026-07-18T05:10:00+00:00,United States,0.3011486306152988,0,1,hi,WNA,North-America
 '59ba4a4410',extremes,Wildfire,#d60d2b,wmo,क्रास्नोयार्स्क क्राय का जंगल की आग केंद्र,2026-07-12T05:43:00+00:00,Russia,0.3011466203482232,0,1,hi,ESB,Europe
 '9cf34e6f8a',extremes,Heat Wave,#c40202,wmo,हीट वेव पूर्वोत्तर क्षेत्र,2026-07-17T05:27:00+00:00,North Macedonia,0.3011272300760038,0,1,hi,MED,Europe
@@ -243,15 +249,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4424a7edaf',extremes,Storm,#b3b2b1,wmo,स्टॉर्म सर्ज बे सेंट। जॉर्ज,2026-07-19T05:37:00+00:00,Canada,0.3009743130306302,0,1,hi,NEN,North-America
 '27381475df',extremes,Earthquake,#870007,usgs,भूकंप ला लिगुआ,2026-07-07T06:30:00+00:00,Chile,0.3009435948387627,0,1,hi,SWS,South-America
 '44b85ec39d',extremes,Flood,#030ba1,wmo,सखा गणराज्य का बाढ़ केंद्र,2026-07-19T05:37:00+00:00,Russia,0.3009413319598319,0,1,hi,ESB,Europe
+'2485b754b2',extremes,Fog,#d60d2b,wmo,कोहरा अल्ताई क्राय,2026-07-29T05:37:00+00:00,Russia,0.3009383646662309,0,1,hi,ESB,Europe
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,संयुक्त राज्य अमेरिका में कोहरा,2026-06-27T06:08:00+00:00,United States,0.3009327536792003,0,1,hi,CNA,North-America
 '1c4e7fb6c7',extremes,Fog,#d60d2b,wmo,कोहरा लिथुआनिया,2026-07-11T05:27:00+00:00,Lithuania,0.3009292416649228,0,1,hi,WCE,Europe
 'e9fca89019',extremes,Storm,#b3b2b1,wmo,तटीय और अपतटीय क्षेत्रों में तूफ़ान।,2026-07-13T05:53:00+00:00,Belize,0.3009195096962541,0,1,hi,SCA,North-America
+'4edc7586ed',extremes,Flood,#030ba1,wmo,सखा गणराज्य का बाढ़ केंद्र,2026-07-23T05:40:00+00:00,Russia,0.30090527811894235,0,1,hi,ESB,Europe
 '08226562a9',extremes,Earthquake,#870007,usgs,भूकंप फ़ैस,2026-06-25T06:32:00+00:00,Micronesia,0.3009038804513771,0,1,hi,NPO,Pacific Ocean
 '520d37d7b0',extremes,Fog,#d60d2b,wmo,कोहरा बेलारूस,2026-07-12T05:43:00+00:00,Belarus,0.3008852245950444,0,1,hi,WCE,Europe
+'e7357c22dd',extremes,Fog,#d60d2b,wmo,कोहरा उत्तर पश्चिमी नेगेव पश्चिमी नेगेव,2026-07-31T05:51:00+00:00,Israel,0.300882389285708,0,1,hi,MED,Asia
 '213b1f3ceb',extremes,Heat Wave,#c40202,wmo,हीट वेव लिम्मटाल,2026-07-09T06:27:00+00:00,Switzerland,0.3008374078751419,0,1,hi,WCE,Europe
 '97863af4d6',extremes,Earthquake,#870007,usgs,भूकंप कप्तान कुक,2026-07-11T05:27:00+00:00,Hawaii,0.3008175660663532,0,1,hi,NPO,Pacific Ocean
 '630b164795',extremes,Wildfire,#d60d2b,wmo,जंगल की आग इज़राइल,2026-07-25T05:29:00+00:00,Israel,0.3008048649829196,0,1,hi,MED,Asia
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,तूफ़ान ऑस्ट्रेलिया,2026-06-26T06:36:00+00:00,Australia,0.3007896847642597,0,1,hi,CAU,Oceania
+'0006615477',extremes,Precipitation,#d60d2b,wmo,कनाडा में मूसलाधार बारिश,2026-07-14T05:14:00+00:00,Canada,0.30076529182128037,0,1,hi,NEN,North-America
 '7f450bad1e',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश अधिकतम,2026-07-11T05:27:00+00:00,Mexico,0.30073958098632,0,1,hi,NCA,North-America
 'c3b0bd6e01',extremes,Storm,#b3b2b1,wmo,तूफ़ान किसका से अट्टू बेरिंग की तरफ,2026-07-25T05:29:00+00:00,United States,0.3006876963340423,0,1,hi,CNA,North-America
 '02f56319a7',extremes,Flood,#030ba1,wmo,ऑस्ट्रेलिया में बाढ़,2026-07-18T05:10:00+00:00,Australia,0.3006753149338437,0,1,hi,CAU,Oceania
