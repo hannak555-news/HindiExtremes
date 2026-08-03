@@ -141,13 +141,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5a03be3d6b',extremes,Thunderstorm,#53785a,wmo,"ओलावृष्टि, पटना वैशाली सारण",2026-07-10T06:27:00+00:00,India,0.3657927561572728,3,1,hi,SAS,Asia
 'aa86a99742',extremes,Flood,#030ba1,wmo,बाढ़ कोसी बलतारा खगड़िया बिहार,2026-07-05T06:25:00+00:00,India,0.3649361869972375,2,1,hi,SAS,Asia
 '6e55489bf8',extremes,Thunderstorm,#53785a,wmo,झारखंड के गिरिडीह जिले में ओलावृष्टि,2026-07-17T05:27:00+00:00,India,0.364776676990534,1,1,hi,SAS,Asia
-'3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,भारी वर्षा,2026-08-01T05:41:00+00:00,,0.3634740544477297,0,1,hi,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,बवंडर,2026-07-07T06:30:00+00:00,,0.3633175820061584,1,3,hi,,
 '7bc394ccae',extremes,Thunderstorm,#53785a,wmo,तूफ़ान पीएलवी येतपका पीएलवी चिंतूर मंडल,2026-07-27T06:05:00+00:00,India,0.3618608599202542,1,1,hi,SAS,Asia
 '0cb928d95e',extremes,Thunderstorm,#53785a,wmo,कुछ हिस्सों में ओलावृष्टि,2026-08-02T05:42:00+00:00,India,0.3608688023481169,1,1,hi,SAS,Asia
 'fa761481b5',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-07-07T06:30:00+00:00,United Arab Emirates,0.3600208691621904,1,1,hi,ARP,Asia
 '99803d2c4f',extremes,Flood,#030ba1,wmo,बाढ़ कोसी बसुआ सुपौल बिहार,2026-07-01T06:52:00+00:00,India,0.3561098144631753,2,1,hi,SAS,Asia
 '20741ce7eb',extremes,Tsunami,#690191,random,सुनामी,2026-08-02T05:41:00+00:00,,0.3560232141096267,0,1,hi,,
+'3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,भारी वर्षा,2026-08-01T05:41:00+00:00,,0.35481275718966115,1,2,hi,,
 '135f8534c2',extremes,Precipitation,#d60d2b,random,अधिक वर्षा,2026-07-15T05:15:00+00:00,,0.3547711552656484,1,2,hi,,
 '6109b3a624',extremes,Thunderstorm,#53785a,wmo,मौसम खराब जलपाईगुड़ीकूचबिहार,2026-07-01T06:52:00+00:00,India,0.3543601501978091,2,1,hi,SAS,Asia
 '73bf613080',extremes,Flood,#030ba1,wmo,बाढ़ कोसी बलतारा खगड़िया बिहार,2026-07-03T06:09:00+00:00,India,0.35400871834222,2,1,hi,SAS,Asia
