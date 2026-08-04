@@ -20,7 +20,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,ओले,2026-07-29T05:37:00+00:00,,0.4842455857834338,1,2,hi,,
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,तूफ़ान भारत,2026-06-30T06:39:00+00:00,India,0.4835413108644057,2,1,hi,SAS,Asia
 '90522631da',extremes,Precipitation,#d60d2b,wmo,भारत में वर्षा,2026-07-03T06:09:00+00:00,India,0.4784281570534791,3,2,hi,SAS,Asia
-'7a125e5d7a',extremes,Precipitation,#d60d2b,wmo,उत्तराखंड के जिलों में वर्षा,2026-07-07T06:30:00+00:00,India,0.4781546266850922,1,1,hi,SAS,Asia
 '0ab5486ec3',extremes,Flood,#030ba1,wmo,बाढ़ दिखो शिवसागर शिवसागर असम,2026-07-20T05:54:00+00:00,India,0.4774306871318123,2,1,hi,SAS,Asia
 '778d256165',extremes,Flood,#030ba1,wmo,फ्लैशफ्लड इंडिया,2026-06-30T06:39:00+00:00,India,0.4753890050205331,2,1,hi,SAS,Asia
 '237861acf4',extremes,Precipitation,#d60d2b,wmo,पश्चिम की ओर वर्षा,2026-07-09T06:27:00+00:00,India,0.4740223586024041,1,1,hi,SAS,Asia
@@ -76,6 +75,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c2b07afbf7',extremes,Flood,#030ba1,wmo,बाढ़ कोसी बसुआ सुपौल बिहार,2026-07-29T05:37:00+00:00,India,0.4288412848470868,2,1,hi,SAS,Asia
 'b86d3e50a7',extremes,Storm,#b3b2b1,wmo,तूफ़ान बापटला से निज़ामपट्टनम तक,2026-07-11T05:27:00+00:00,India,0.4260141145483982,2,1,hi,SAS,Asia
 '78a7137ecc',extremes,Precipitation,#d60d2b,wmo,टिहरी और उत्तरकाशी जिलों में मूसलाधार बारिश,2026-07-30T05:24:00+00:00,India,0.4251786877440748,1,1,hi,SAS,Asia
+'7a125e5d7a',extremes,Precipitation,#d60d2b,wmo,उत्तराखंड के जिलों में वर्षा,2026-07-07T06:30:00+00:00,India,0.42507119136653887,2,1,hi,SAS,Asia
 '405929fa41',extremes,Precipitation,#d60d2b,wmo,चंडीगढ़ के लिए वर्षा pbhr,2026-07-28T05:31:00+00:00,India,0.4249215618718029,1,1,hi,SAS,Asia
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,भूस्खलन,2026-07-09T06:27:00+00:00,,0.4243872749378004,1,3,hi,,
 '17c7bd6b3a',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि श्रावस्ती गोंडा,2026-07-27T06:05:00+00:00,India,0.4238649851130663,2,1,hi,SAS,Asia
@@ -184,7 +184,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,रिकार्ड वर्षा,2026-07-05T06:24:00+00:00,,0.3056147893786266,1,1,hi,,
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,बर्फ़ीला तूफ़ान,2026-07-12T05:43:00+00:00,,0.3030967143958669,1,1,hi,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,टिड्डा,2026-07-14T05:14:00+00:00,,0.3025856252618509,1,1,hi,,
-'1a2c0a270b',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल ईस्टफजॉर्ड्स,2026-07-31T05:51:00+00:00,Iceland,0.3024608720677776,0,1,hi,GIC,Europe
 '0fbe8e5718',extremes,Storm,#b3b2b1,wmo,ऑस्ट्रेलिया में तूफ़ान की लहर,2026-07-21T05:36:00+00:00,Australia,0.3023262400917663,0,1,hi,CAU,Oceania
 'c703558933',extremes,Snow&Ice,#d60d2b,wmo,बर्फ डुनेडिन से वेटाटी राजमार्ग एसएच1,2026-07-31T05:51:00+00:00,New Zealand,0.3022006450160641,0,1,hi,NZ,Oceania
 'd40e85899a',extremes,Heat Wave,#c40202,wmo,हीट वेव मोल्दोवा गणराज्य,2026-08-01T05:42:00+00:00,Republic of Moldova,0.3021552761476924,0,1,hi,WCE,Europe
@@ -458,6 +457,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '02da4f9a1d',extremes,Wildfire,#d60d2b,wmo,जंगल की आग ऑस्टलैंडेट और एग्डर के हिस्से,2026-07-27T06:05:00+00:00,Norway,0.2571188491743004,1,1,hi,NEU,Europe
 'eb981e7150',extremes,Heat Wave,#c40202,wmo,हीट वेव सऊदी अरब,2026-07-21T05:36:00+00:00,Saudi Arabia,0.2571048531734792,1,1,hi,ARP,Asia
 '596bcf1fdb',extremes,Storm,#b3b2b1,wmo,तूफ़ान का उभार क्षेत्र 1 - गंभीर,2026-07-21T05:36:00+00:00,Paraguay,0.2571039180602186,1,1,hi,SES,South-America
+'1a2c0a270b',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल ईस्टफजॉर्ड्स,2026-07-31T05:51:00+00:00,Iceland,0.257091741257611,1,1,hi,GIC,Europe
 'bc85c67872',extremes,Storm,#b3b2b1,wmo,तूफ़ान कुवैत,2026-07-16T05:25:00+00:00,Kuwait,0.2570909746078022,1,1,hi,ARP,Asia
 '0f045e33e1',extremes,Storm,#b3b2b1,wmo,तूफ़ान वृद्धि रजि. 4 कॉर्डिलेरा,2026-07-19T05:37:00+00:00,Chile,0.2570891445468663,1,1,hi,SWS,South-America
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,वर्षा ब्राज़ील,2026-07-07T06:30:00+00:00,Brazil,0.257074748948471,1,1,hi,SAM,South-America
