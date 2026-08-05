@@ -42,6 +42,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,बाढ़,2026-08-02T05:41:00+00:00,,0.4522828616157383,1,3,hi,,
 '537375135b',extremes,Storm,#b3b2b1,wmo,उत्तराखंड के हरिद्वार जिले में तूफ़ान आया,2026-07-04T05:59:00+00:00,India,0.4519946326144453,2,1,hi,SAS,Asia
 '06ee29beb7',extremes,Storm,#b3b2b1,wmo,तूफान केंद्रीय ऊपर,2026-06-30T06:39:00+00:00,India,0.4514207322843706,2,1,hi,SAS,Asia
+'94cc280f7b',extremes,Thunderstorm,#53785a,wmo,मौसम खराब चंदौली सोनभद्र,2026-08-04T05:32:00+00:00,India,0.450818560578586,1,2,hi,SAS,Asia
 '59b5340b69',extremes,Precipitation,#d60d2b,random,मौसम सामने,2026-06-28T06:44:00+00:00,,0.4506182613206123,1,3,hi,,
 '48a9d0a3ef',extremes,Thunderstorm,#53785a,wmo,त्रिपुरा के दक्षिण त्रिपुरा जिले में ओलावृष्टि,2026-07-07T06:30:00+00:00,India,0.4499675235319488,2,1,hi,SAS,Asia
 '99803d2c4f',extremes,Flood,#030ba1,wmo,बाढ़ कोसी बसुआ सुपौल बिहार,2026-07-31T05:51:00+00:00,India,0.4487462706289175,2,1,hi,SAS,Asia
@@ -55,7 +56,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '597b0d25a8',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि गाजीपुर,2026-07-19T05:37:00+00:00,India,0.4438520027700794,2,1,hi,SAS,Asia
 '35cc9cbf75',extremes,Precipitation,#d60d2b,random,मूसलाधार बारिश,2026-06-29T07:12:00+00:00,,0.4422376993091749,1,3,hi,,
 '6a4c7dde7d',extremes,Thunderstorm,#53785a,wmo,पश्चिम बंगाल के 4 जिलों में ओलावृष्टि,2026-07-21T05:36:00+00:00,India,0.4418904047389653,2,1,hi,SAS,Asia
-'94cc280f7b',extremes,Thunderstorm,#53785a,wmo,मौसम खराब चंदौली सोनभद्र,2026-08-04T05:32:00+00:00,India,0.4417865065630423,0,1,hi,SAS,Asia
 '60bddf3351',extremes,Drought,#edc291,edo,भारत में वर्षा की कमी,2026-07-10T06:27:00+00:00,India,0.440623420754284,1,1,hi,SAS,Asia
 '136c5b71eb',extremes,Flood,#030ba1,wmo,बाढ़ कोसी बलतारा खगड़िया बिहार,2026-07-30T05:24:00+00:00,India,0.4405555005203798,1,1,hi,SAS,Asia
 'a8ce47b4b4',extremes,Flood,#030ba1,wmo,बाढ़ परवान अररिया अररिया बिहार,2026-07-24T05:36:00+00:00,India,0.4404458403884251,2,1,hi,SAS,Asia
