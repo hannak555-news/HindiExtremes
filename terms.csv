@@ -159,6 +159,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '135f8534c2',extremes,Precipitation,#d60d2b,random,अधिक वर्षा,2026-07-15T05:15:00+00:00,,0.3547711552656484,1,2,hi,,
 '02bc9c64a4',extremes,Drought,#edc291,edo,कंबोडिया में बारिश की कमी,2026-07-13T05:53:00+00:00,Cambodia,0.3511060387562695,2,1,hi,SEA,Asia
 '9a63a5a790',extremes,Earthquake,#870007,usgs,भूकंप यारदा,2026-07-12T05:43:00+00:00,India,0.3509453866852865,1,1,hi,SAS,Asia
+'7f450bad1e',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश अधिकतम,2026-07-11T05:27:00+00:00,Mexico,0.34637871883837196,1,2,hi,NCA,North-America
 '9cc4c676cf',extremes,Earthquake,#870007,usgs,भूकंप काकचिंग,2026-07-02T06:23:00+00:00,India,0.3451878667418327,1,1,hi,SAS,Asia
 '9aceadd432',extremes,Heat Wave,#c40202,random,रिकॉर्ड गर्मी,2026-07-14T05:14:00+00:00,,0.3421451367831075,1,2,hi,,
 '1ca5796d4d',extremes,Thunderstorm,#53785a,wmo,तूफ़ान पूर्व की ओर,2026-07-16T05:25:00+00:00,India,0.3414533378174459,2,1,hi,SAS,Asia
@@ -265,7 +266,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '97863af4d6',extremes,Earthquake,#870007,usgs,भूकंप कप्तान कुक,2026-07-11T05:27:00+00:00,Hawaii,0.3008175660663532,0,1,hi,NPO,Pacific Ocean
 '0006615477',extremes,Precipitation,#d60d2b,wmo,कनाडा में मूसलाधार बारिश,2026-07-14T05:14:00+00:00,Canada,0.3007652918212803,0,1,hi,NEN,North-America
 '8a947734a5',extremes,Fog,#d60d2b,wmo,कोहरा वोलोग्दा क्षेत्र,2026-07-28T05:31:00+00:00,Russia,0.3007563685394777,0,1,hi,ESB,Europe
-'7f450bad1e',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश अधिकतम,2026-07-11T05:27:00+00:00,Mexico,0.30073958098632,0,1,hi,NCA,North-America
 'd05d7b6ebc',extremes,Fog,#d60d2b,wmo,कोहरा पस्कोव क्षेत्र,2026-07-29T05:37:00+00:00,Russia,0.3007260322049485,0,1,hi,ESB,Europe
 '6b8f6a44b5',extremes,Fog,#d60d2b,wmo,उल्यानोस्क क्षेत्र का कोहरा,2026-08-01T05:42:00+00:00,Russia,0.300689671463503,0,1,hi,ESB,Europe
 'c3b0bd6e01',extremes,Storm,#b3b2b1,wmo,तूफ़ान किसका से अट्टू बेरिंग की तरफ,2026-07-25T05:29:00+00:00,United States,0.3006876963340423,0,1,hi,CNA,North-America
@@ -548,4 +548,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '41286f60bc',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि एस्टोनिया,2026-07-05T06:25:00+00:00,Estonia,0.2545848632693383,1,1,hi,NEU,Europe
 '8adbdb9546',extremes,Thunderstorm,#53785a,wmo,कनाडा में ओलावृष्टि,2026-07-09T06:27:00+00:00,Canada,0.2219052979217507,2,1,hi,NEN,North-America
 '31823b52d8',extremes,Storm,#b3b2b1,wmo,तूफ़ान उत्तर पश्चिम आइसलैंड,2026-07-15T05:15:00+00:00,Iceland,0.2185541493675743,2,1,hi,GIC,Europe
-'7638ee2306',extremes,Wildfire,#d60d2b,wmo,जंगल की आग कुर्गन क्षेत्र,2026-07-17T05:27:00+00:00,Russia,0.2183349759951229,2,1,hi,ESB,Europe
+'7638ee2306',extremes,Wildfire,#d60d2b,wmo,जंगल की आग कुर्गन क्षेत्र,2026-07-17T05:27:00+00:00,Russia,0.18558472959585445,3,1,hi,ESB,Europe
