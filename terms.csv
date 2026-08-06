@@ -9,6 +9,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,तूफ़ान भारत,2026-07-21T05:36:00+00:00,India,0.5474181964754775,1,1,hi,SAS,Asia
 '4093195155',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल भारत,2026-07-21T05:36:00+00:00,India,0.5398271559252894,1,1,hi,SAS,Asia
 'cd8ddf4958',extremes,Thunderstorm,#53785a,wmo,टिहरी और उत्तरकाशी जिलों में आंधी,2026-07-30T05:24:00+00:00,India,0.5391443161668358,2,1,hi,SAS,Asia
+'20741ce7eb',extremes,Tsunami,#690191,random,सुनामी,2026-08-02T05:41:00+00:00,,0.5362644259442051,2,2,hi,,
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,तूफ़ान भारत,2026-07-21T05:36:00+00:00,India,0.5359004652246426,1,1,hi,SAS,Asia
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,वर्षा भारत,2026-06-30T06:39:00+00:00,India,0.5350302728238242,3,2,hi,SAS,Asia
 'f95745a80f',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश बाराबंकी,2026-07-27T06:05:00+00:00,India,0.5348356053988504,2,2,hi,SAS,Asia
@@ -20,7 +21,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '46906d4391',extremes,Thunderstorm,#53785a,wmo,उत्तराखंड के जिलों में मौसम बेहद खराब,2026-07-18T05:10:00+00:00,India,0.4909556583191697,2,2,hi,SAS,Asia
 'd232e38e76',extremes,Precipitation,#d60d2b,wmo,त्रिपुरा के दक्षिण त्रिपुरा जिले में भारी बारिश,2026-07-19T05:37:00+00:00,India,0.4848370083372712,2,2,hi,SAS,Asia
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,ओले,2026-07-29T05:37:00+00:00,,0.4842455857834338,1,2,hi,,
-'778d256165',extremes,Flood,#030ba1,wmo,फ्लैशफ्लड इंडिया,2026-07-21T05:36:00+00:00,India,0.48018568121422406,2,1,hi,SAS,Asia
+'778d256165',extremes,Flood,#030ba1,wmo,फ्लैशफ्लड इंडिया,2026-07-21T05:36:00+00:00,India,0.480185681214224,2,1,hi,SAS,Asia
 '90522631da',extremes,Precipitation,#d60d2b,wmo,भारत में वर्षा,2026-07-03T06:09:00+00:00,India,0.4784281570534791,3,2,hi,SAS,Asia
 '0ab5486ec3',extremes,Flood,#030ba1,wmo,बाढ़ दिखो शिवसागर शिवसागर असम,2026-07-20T05:54:00+00:00,India,0.4774306871318123,2,1,hi,SAS,Asia
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,भूकंप भारत,2026-07-18T05:10:00+00:00,India,0.4712148359815543,1,2,hi,SAS,Asia
@@ -36,7 +37,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,भारत में मूसलाधार वर्षा,2026-06-30T06:39:00+00:00,India,0.4572692864920023,4,2,hi,SAS,Asia
 'c62f9be69a',extremes,Flood,#030ba1,wmo,बाढ़ दिखो शिवसागर शिवसागर असम,2026-07-16T05:25:00+00:00,India,0.4560122627238132,2,1,hi,SAS,Asia
 '97f34f1d56',extremes,Precipitation,#d60d2b,wmo,कुछ भागों में मूसलाधार वर्षा,2026-07-09T06:27:00+00:00,India,0.4559658212077242,1,1,hi,SAS,Asia
-'20741ce7eb',extremes,Tsunami,#690191,random,सुनामी,2026-08-02T05:41:00+00:00,,0.4533698069931826,1,2,hi,,
 '96ead3c3b0',extremes,Precipitation,#d60d2b,wmo,उत्तराखंड के वर्षा वाले जिले,2026-07-07T06:30:00+00:00,India,0.4531648811639797,1,1,hi,SAS,Asia
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,बाढ़,2026-08-02T05:41:00+00:00,,0.4522828616157383,1,3,hi,,
 '537375135b',extremes,Storm,#b3b2b1,wmo,उत्तराखंड के हरिद्वार जिले में तूफ़ान आया,2026-07-04T05:59:00+00:00,India,0.4519946326144453,2,1,hi,SAS,Asia
@@ -92,7 +92,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7054c01ed8',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में बारिश की कमी,2026-07-11T05:27:00+00:00,United Arab Emirates,0.4156719225424968,1,1,hi,ARP,Asia
 'b413344a86',extremes,Thunderstorm,#53785a,wmo,केरल के इडुक्की जिले में ओले गिरे,2026-07-30T05:24:00+00:00,India,0.4153461685960569,2,1,hi,SAS,Asia
 'ff7862e348',extremes,Drought,#edc291,edo,सूखापन भारत,2026-07-02T06:24:00+00:00,India,0.4151754820247498,1,1,hi,SAS,Asia
-'6b385768a1',extremes,Precipitation,#d60d2b,wmo,वर्षा त्रिपुरा के दक्षिण त्रिपुरा जिले में,2026-08-05T05:31:00+00:00,India,0.41476049631845974,1,1,hi,SAS,Asia
+'6b385768a1',extremes,Precipitation,#d60d2b,wmo,वर्षा त्रिपुरा के दक्षिण त्रिपुरा जिले में,2026-08-05T05:31:00+00:00,India,0.4147604963184597,1,1,hi,SAS,Asia
 '1b2c06d72e',extremes,Precipitation,#d60d2b,wmo,हरियाणा के यमुनानगर जिले में वर्षा,2026-07-10T06:27:00+00:00,India,0.4142883914097399,2,1,hi,SAS,Asia
 'a843de13bd',extremes,Storm,#b3b2b1,wmo,उत्तराखंड के ज़िलों में तूफ़ान,2026-07-21T05:36:00+00:00,India,0.4142459238468221,2,1,hi,SAS,Asia
 '0a8e5743d9',extremes,Landslide,#572c03,random,भूस्खलन,2026-07-06T06:52:00+00:00,,0.4139119862648885,1,3,hi,,
@@ -117,11 +117,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '45897d39ee',extremes,Precipitation,#d60d2b,wmo,वर्षा क्रिया करती है,2026-07-16T05:25:00+00:00,India,0.4010876595493378,2,1,hi,SAS,Asia
 '70d1c51890',extremes,Thunderstorm,#53785a,wmo,उत्तराखंड के देहरादून जिले में मौसम बेहद खराब,2026-07-06T06:52:00+00:00,India,0.3968826183462721,1,1,hi,SAS,Asia
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,जंगल की आग,2026-07-11T05:26:00+00:00,,0.3935839360358928,2,1,hi,,
-'1894e1abc2',extremes,Storm,#b3b2b1,wmo,झारखंड के रामगढ़ जिले में तूफ़ान आया,2026-07-27T06:05:00+00:00,India,0.39330911936527363,2,1,hi,SAS,Asia
+'1894e1abc2',extremes,Storm,#b3b2b1,wmo,झारखंड के रामगढ़ जिले में तूफ़ान आया,2026-07-27T06:05:00+00:00,India,0.3933091193652736,2,1,hi,SAS,Asia
 '4d9577e33d',extremes,Volcano,#b83202,random,ज्वालामुखी,2026-08-01T05:41:00+00:00,,0.3923234138046439,1,1,hi,,
 '82d11264c2',extremes,Thunderstorm,#53785a,wmo,उत्तराखंड के हरिद्वार जिले में मौसम बेहद खराब,2026-07-10T06:27:00+00:00,India,0.3919105776149795,1,1,hi,SAS,Asia
 'f302e376d8',extremes,Thunderstorm,#53785a,wmo,त्रिपुरा के धलाई खोवाई जिलों में तूफान,2026-07-11T05:27:00+00:00,India,0.3909198964802535,1,1,hi,SAS,Asia
-'a8a309c435',extremes,Storm,#b3b2b1,wmo,तूफ़ान पौडी बागेश्‍वर और पिथौरागढ़,2026-07-31T05:51:00+00:00,India,0.39044937903792937,2,1,hi,SAS,Asia
+'a8a309c435',extremes,Storm,#b3b2b1,wmo,तूफ़ान पौडी बागेश्‍वर और पिथौरागढ़,2026-07-31T05:51:00+00:00,India,0.3904493790379293,2,1,hi,SAS,Asia
 '6a51b5153c',extremes,Precipitation,#d60d2b,wmo,"वर्षा, पौरी, देहरादून, टिहरी, उत्तरकाशी",2026-07-23T05:40:00+00:00,India,0.3903404431682332,2,1,hi,SAS,Asia
 'bfe40e36c7',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि बलिया आजमगढ़,2026-07-27T06:05:00+00:00,India,0.3887436957767445,1,1,hi,SAS,Asia
 '62c318516d',extremes,Precipitation,#d60d2b,wmo,वर्षा कार्रवाई करें,2026-07-16T05:25:00+00:00,India,0.388692357169991,2,1,hi,SAS,Asia
@@ -142,7 +142,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f45e1ae8ac',extremes,Thunderstorm,#53785a,wmo,तूफ़ान पश्चिम की ओर,2026-07-28T05:31:00+00:00,India,0.3752850579933303,1,1,hi,SAS,Asia
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,हिमस्खलन,2026-07-04T05:59:00+00:00,,0.3744362328111802,2,1,hi,,
 '41e25f9467',extremes,Thunderstorm,#53785a,wmo,सुल्तानपुर ऊपर और आसपास आंधी तूफान,2026-08-03T05:57:00+00:00,India,0.3740670467953798,1,1,hi,SAS,Asia
-'a7d17b51bd',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम एमटीएस,2026-08-05T05:31:00+00:00,India,0.37283770975117864,1,1,hi,SAS,Asia
+'a7d17b51bd',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम एमटीएस,2026-08-05T05:31:00+00:00,India,0.3728377097511786,1,1,hi,SAS,Asia
 'c1c324cdea',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि टीपीटी दोरावरिसत्रम मंडल,2026-07-24T05:36:00+00:00,India,0.3710726785409663,1,1,hi,SAS,Asia
 '53d6ea67eb',extremes,Thunderstorm,#53785a,wmo,8 मंडलों में ओलावृष्टि,2026-07-18T05:10:00+00:00,India,0.369771536685632,1,1,hi,SAS,Asia
 '39a3c69308',extremes,Thunderstorm,#53785a,wmo,त्रिपुरा के पश्चिम त्रिपुरा जिले में ओले गिरे,2026-07-30T05:24:00+00:00,India,0.3687796812885842,1,1,hi,SAS,Asia
