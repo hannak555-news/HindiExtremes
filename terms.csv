@@ -206,9 +206,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '22055e4283',extremes,Drought,#edc291,edo,सूखा निकारागुआ,2026-07-25T05:29:00+00:00,Nicaragua,0.3097790153869247,0,1,hi,SCA,North-America
 '221e658bfd',extremes,Drought,#edc291,edo,सूखापन लक्ज़मबर्ग,2026-07-29T05:38:00+00:00,Luxembourg,0.3097506207187343,0,1,hi,WCE,Europe
 'e52ff7b67a',extremes,Heat Wave,#c40202,wmo,हीट वेव पूर्वी क्षेत्र,2026-07-16T05:25:00+00:00,North Macedonia,0.3095876056687646,1,1,hi,MED,Europe
+'e7f7b79e1f',extremes,Drought,#edc291,edo,सूखा बोस्निया और हर्जेगोविना,2026-07-21T05:36:00+00:00,Bosnia and Herzegovina,0.30921839105700794,0,1,hi,MED,Europe
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,रेतीला तूफ़ान,2026-07-03T06:09:00+00:00,,0.3090112659466982,1,1,hi,,
+'85c98951d6',extremes,Drought,#edc291,edo,मोंटेनेग्रो में बारिश की कमी,2026-07-23T05:40:00+00:00,Montenegro,0.3089010734162973,0,1,hi,MED,Europe
+'c1b1450575',extremes,Drought,#edc291,edo,सूखापन हंगरी,2026-08-03T05:58:00+00:00,Hungary,0.3085611404475101,0,1,hi,WCE,Europe
+'c4be795f03',extremes,Drought,#edc291,edo,भूमध्यरेखीय गिनी में वर्षा की कमी,2026-08-01T05:42:00+00:00,Equatorial Guinea,0.3079179765260891,0,1,hi,WAF,Africa
+'83f2a9deea',extremes,Drought,#edc291,edo,सूखा काल फ़्रांस,2026-07-18T05:10:00+00:00,France,0.3065320563038515,0,1,hi,WCE,Europe
 '622bd2c53e',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखापन,2026-07-10T06:27:00+00:00,United Arab Emirates,0.3064389415623837,1,1,hi,ARP,Asia
+'618e955f78',extremes,Drought,#edc291,edo,स्विट्जरलैंड में बारिश की कमी,2026-07-24T05:36:00+00:00,Switzerland,0.3057828363697979,0,1,hi,WCE,Europe
 '45500dcb47',extremes,Precipitation,#d60d2b,random,रिकार्ड वर्षा,2026-07-05T06:24:00+00:00,,0.3056147893786266,1,1,hi,,
+'950e2fcdf4',extremes,Drought,#edc291,edo,सूखापन कोस्टा रिका,2026-07-20T05:54:00+00:00,Costa Rica,0.3049661233948965,0,1,hi,SCA,South-America
+'eeacc80474',extremes,Storm,#b3b2b1,wmo,तूफ़ान वानुअतु,2026-07-27T06:05:00+00:00,Vanuatu,0.3045423357747373,0,1,hi,SPO,Oceania
+'4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,रात की ठंढ,2026-07-24T05:35:00+00:00,,0.30429863562157,0,1,hi,,
+'5cb766f03d',extremes,Storm,#b3b2b1,wmo,तूफ़ान वृद्धि क्षेत्र 2 - मध्यम,2026-08-03T05:57:00+00:00,Paraguay,0.3041849583167084,0,1,hi,SES,South-America
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,बर्फ़ीला तूफ़ान,2026-07-12T05:43:00+00:00,,0.3030967143958669,1,1,hi,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,टिड्डा,2026-07-14T05:14:00+00:00,,0.3025856252618509,1,1,hi,,
 'd40e85899a',extremes,Heat Wave,#c40202,wmo,हीट वेव मोल्दोवा गणराज्य,2026-08-01T05:42:00+00:00,Republic of Moldova,0.3021552761476924,0,1,hi,WCE,Europe
