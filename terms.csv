@@ -208,6 +208,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3ecff8bdd9',extremes,Wildfire,#d60d2b,effis,जंगल की आग लेबनान,2026-08-07T11:06:00+00:00,Lebanon,0.3197567333853346,0,1,hi,MED,Asia
 '5b2f7ef723',extremes,Wildfire,#d60d2b,effis,जंगल की आग सराफेंड लेबनान,2026-08-07T11:06:00+00:00,Lebanon,0.3197562481875675,0,1,hi,MED,Asia
 '2094eeff3e',extremes,Wildfire,#d60d2b,effis,जंगल की आग नबी यूचिया लेबनान,2026-08-07T11:06:00+00:00,Lebanon,0.3197562420673727,0,1,hi,MED,Asia
+'84da2917b8',extremes,Wildfire,#d60d2b,effis,जंगल की आग मार्डिन टर्की,2026-08-07T11:06:00+00:00,Turkey,0.319756239491052,0,1,hi,WCA,Asia
+'5400f1e65e',extremes,Wildfire,#d60d2b,effis,बुशफ़ायर किलिस सीरिया,2026-08-07T11:06:00+00:00,Syria,0.31975623943359593,0,1,hi,MED,Asia
+'4e07fc8f74',extremes,Wildfire,#d60d2b,effis,जंगल की आग हब्बोचे लेबनान,2026-08-07T11:06:00+00:00,Lebanon,0.3197562382976543,0,1,hi,MED,Asia
+'7bc6211e3c',extremes,Wildfire,#d60d2b,effis,जंगल की आग एन.ए. सीरिया,2026-08-07T11:06:00+00:00,Syria,0.3197562365017188,0,1,hi,MED,Asia
+'fcaebcf157',extremes,Wildfire,#d60d2b,effis,जंगल की आग एन.ए. ट्यूनीशिया,2026-08-07T11:06:00+00:00,Tunisia,0.31975623531663944,0,1,hi,MED,Africa
+'9e49dcdaa1',extremes,Wildfire,#d60d2b,effis,बुशफ़ायर बाब बेरीड मोरक्को,2026-08-07T09:56:00+00:00,Morocco,0.31975623528649666,0,1,hi,MED,Africa
+'7ab0357fd9',extremes,Wildfire,#d60d2b,effis,जंगल की आग डोरो पुर्तगाल,2026-08-07T09:56:00+00:00,Portugal,0.3197562351108398,0,1,hi,MED,Europe
+'cd3c884b3c',extremes,Wildfire,#d60d2b,effis,"जंगल की आग, चैटफाइन, लेबनान",2026-08-07T11:06:00+00:00,Lebanon,0.31975623210389514,0,1,hi,MED,Asia
+'f5c50f1b78',extremes,Wildfire,#d60d2b,effis,जंगल की आग एल मेरी लेबनान,2026-08-07T11:06:00+00:00,Lebanon,0.3197562319625543,0,1,hi,MED,Asia
+'5fc209e2c8',extremes,Wildfire,#d60d2b,effis,"जंगल की आग, जारफ़ा लेबनान",2026-08-07T11:06:00+00:00,Lebanon,0.31975623183085855,0,1,hi,MED,Asia
 'f9a3abc8c2',extremes,Landslide,#572c03,random,कीचड़ का प्रवाह,2026-07-13T05:53:00+00:00,,0.3195097104714772,1,1,hi,,
 '560b05d603',extremes,Heat Wave,#c40202,random,गर्मी की लहर,2026-07-09T06:27:00+00:00,,0.3149035041370761,2,2,hi,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,तूफ़ान,2026-07-19T05:37:00+00:00,,0.3146886638200377,1,1,hi,,
@@ -491,7 +501,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c703558933',extremes,Snow&Ice,#d60d2b,wmo,बर्फ डुनेडिन से वेटाटी राजमार्ग एसएच1,2026-07-31T05:51:00+00:00,New Zealand,0.2568705482636544,1,1,hi,NZ,Oceania
 'd19a2e53e5',extremes,Heat Wave,#c40202,wmo,हीट वेव मोल्दोवा,2026-07-19T05:37:00+00:00,Moldova,0.2568457359658997,1,1,hi,WCE,Europe
 'd3a5887247',extremes,Storm,#b3b2b1,wmo,वानुअतु के सारे पानी में तूफ़ान।,2026-07-15T05:15:00+00:00,Vanuatu,0.2568338912569752,1,1,hi,SPO,Oceania
-'d40e85899a',extremes,Heat Wave,#c40202,wmo,हीट वेव मोल्दोवा गणराज्य,2026-08-01T05:42:00+00:00,Republic of Moldova,0.25683198472553853,1,1,hi,WCE,Europe
+'d40e85899a',extremes,Heat Wave,#c40202,wmo,हीट वेव मोल्दोवा गणराज्य,2026-08-01T05:42:00+00:00,Republic of Moldova,0.2568319847255385,1,1,hi,WCE,Europe
 '8db658717e',extremes,Flood,#030ba1,wmo,ऑस्ट्रेलिया में अचानक आई बाढ़,2026-07-17T05:27:00+00:00,Australia,0.2568273104356949,1,1,hi,CAU,Oceania
 '4dd12d0f3d',extremes,Precipitation,#d60d2b,wmo,सऊदी अरब में मूसलाधार बारिश,2026-07-14T05:14:00+00:00,Saudi Arabia,0.2568143276455764,1,1,hi,ARP,Asia
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल कनाडा,2026-07-11T05:27:00+00:00,Canada,0.2567838161252256,1,1,hi,NEN,North-America
