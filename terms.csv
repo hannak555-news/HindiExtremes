@@ -16,7 +16,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,जय भारत,2026-07-21T05:36:00+00:00,India,0.5157252756627873,2,1,hi,SAS,Asia
 '519c58c063',extremes,Flood,#030ba1,wmo,बाढ़ भारत,2026-07-03T06:09:00+00:00,India,0.514731823395324,4,3,hi,SAS,Asia
 '2be3d3459b',extremes,Precipitation,#d60d2b,wmo,केरल के वायनाड जिले में भारी बारिश,2026-08-01T05:42:00+00:00,India,0.5112551981263326,2,1,hi,SAS,Asia
-'615a4551a5',extremes,Flood,#030ba1,wmo,भारत में बाढ़,2026-07-01T06:52:00+00:00,India,0.5090764840882305,3,2,hi,SAS,Asia
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,भारत में मूसलाधार वर्षा,2026-07-21T05:36:00+00:00,India,0.5046365146267161,2,3,hi,SAS,Asia
 'b613ea22d7',extremes,Precipitation,#d60d2b,wmo,त्रिपुरा के पश्चिमी त्रिपुरा जिले में भारी बारिश,2026-07-08T05:37:00+00:00,India,0.5043699566897016,2,2,hi,SAS,Asia
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,हिमस्खलन,2026-07-27T06:05:00+00:00,,0.4992564902251044,1,2,hi,,
@@ -104,7 +103,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '35bd62c5a9',extremes,Drought,#edc291,edo,भारत में सूखा,2026-08-04T05:32:00+00:00,India,0.4181646410826525,1,1,hi,SAS,Asia
 '1ea2d7227e',extremes,Precipitation,#d60d2b,wmo,पश्चिम बंगाल के मालदह जिले में वर्षा,2026-07-20T05:54:00+00:00,India,0.4172035010580384,2,1,hi,SAS,Asia
 'cc6467e680',extremes,Flood,#030ba1,wmo,बाढ़ घाघरा दरौली सीवान बिहार,2026-08-04T05:32:00+00:00,India,0.4163161110536691,1,1,hi,SAS,Asia
-'9d2e82d98a',extremes,Storm,#b3b2b1,wmo,तूफ़ान पौडी और टिहरी गढ़वाल,2026-07-06T06:52:00+00:00,India,0.4160422698825628,2,1,hi,SAS,Asia
 'f7360be797',extremes,Thunderstorm,#53785a,wmo,असम के तिनसुकिया जिले में आंधी तूफान,2026-07-26T05:46:00+00:00,India,0.4158692961297484,2,1,hi,SAS,Asia
 '7054c01ed8',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में बारिश की कमी,2026-07-11T05:27:00+00:00,United Arab Emirates,0.4156719225424968,1,1,hi,ARP,Asia
 'b413344a86',extremes,Thunderstorm,#53785a,wmo,केरल के इडुक्की जिले में ओले गिरे,2026-07-30T05:24:00+00:00,India,0.4153461685960569,2,1,hi,SAS,Asia
@@ -146,6 +144,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '787dab635b',extremes,Thunderstorm,#53785a,wmo,देहरादून और हरिद्वार जिलों में ओलावृष्टि,2026-07-27T06:05:00+00:00,India,0.3823844314038182,1,1,hi,SAS,Asia
 'c885bd6875',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम केएसएम इपोलावरम मंडल,2026-07-18T05:10:00+00:00,India,0.3813677279964007,1,1,hi,SAS,Asia
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडा दिन,2026-07-08T05:37:00+00:00,,0.3805154848108247,1,1,hi,,
+'3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,भारी वर्षा,2026-08-01T05:41:00+00:00,,0.3792688663384846,2,3,hi,,
 'e9f3d3cb84',extremes,Flood,#030ba1,wmo,बाढ़ संकोश गोलोकगंज धुबरी असम,2026-07-15T05:15:00+00:00,India,0.378851924489945,3,1,hi,SAS,Asia
 '595acbcf9f',extremes,Heat Wave,#c40202,random,सबसे गर्म दिन,2026-07-18T05:10:00+00:00,,0.3772537128828292,1,2,hi,,
 '27d1c7349e',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि गोरखपुर बलिया एसके नगर,2026-07-27T06:05:00+00:00,India,0.3769252325895798,1,1,hi,SAS,Asia
@@ -165,7 +164,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7bc394ccae',extremes,Thunderstorm,#53785a,wmo,तूफ़ान पीएलवी येतपका पीएलवी चिंतूर मंडल,2026-07-27T06:05:00+00:00,India,0.3618608599202542,1,1,hi,SAS,Asia
 '0cb928d95e',extremes,Thunderstorm,#53785a,wmo,कुछ हिस्सों में ओलावृष्टि,2026-08-02T05:42:00+00:00,India,0.3608688023481169,1,1,hi,SAS,Asia
 'fa761481b5',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-07-07T06:30:00+00:00,United Arab Emirates,0.3600208691621904,1,1,hi,ARP,Asia
-'3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,भारी वर्षा,2026-08-01T05:41:00+00:00,,0.3548127571896611,1,2,hi,,
 '135f8534c2',extremes,Precipitation,#d60d2b,random,अधिक वर्षा,2026-07-15T05:15:00+00:00,,0.3547711552656484,1,2,hi,,
 '02bc9c64a4',extremes,Drought,#edc291,edo,कंबोडिया में बारिश की कमी,2026-07-13T05:53:00+00:00,Cambodia,0.3511060387562695,2,1,hi,SEA,Asia
 '9a63a5a790',extremes,Earthquake,#870007,usgs,भूकंप यारदा,2026-07-12T05:43:00+00:00,India,0.3509453866852865,1,1,hi,SAS,Asia
