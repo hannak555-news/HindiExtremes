@@ -36,7 +36,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eea65deee2',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम एमआरएल,2026-08-07T09:56:00+00:00,India,0.4767927325451894,1,1,hi,SAS,Asia
 '239a5b73e2',extremes,Storm,#b3b2b1,wmo,तूफ़ान पीवीपीएम गुम्मलक्ष्मीपुरम मंडल,2026-08-07T09:56:00+00:00,India,0.4753359883846639,1,1,hi,SAS,Asia
 '613673b100',extremes,Flood,#030ba1,wmo,बागेश्वर जिले में बाढ़,2026-08-09T03:59:00+00:00,India,0.4736513858213488,1,1,hi,SAS,Asia
-'47e4b1427f',extremes,Thunderstorm,#53785a,wmo,कुछ स्थानों पर ओलावृष्टि,2026-08-11T04:01:00+00:00,India,0.47343842939665104,1,1,hi,SAS,Asia
+'47e4b1427f',extremes,Thunderstorm,#53785a,wmo,कुछ स्थानों पर ओलावृष्टि,2026-08-11T04:01:00+00:00,India,0.473438429396651,1,1,hi,SAS,Asia
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,भूकंप भारत,2026-07-18T05:10:00+00:00,India,0.4712148359815543,1,2,hi,SAS,Asia
 '237861acf4',extremes,Precipitation,#d60d2b,wmo,पश्चिम की ओर वर्षा,2026-07-09T06:27:00+00:00,India,0.4709358064787101,2,1,hi,SAS,Asia
 '350d302176',extremes,Thunderstorm,#53785a,wmo,पश्चिम में गंभीर मौसम,2026-08-10T04:14:00+00:00,India,0.4705671387891208,1,3,hi,SAS,Asia
@@ -85,7 +85,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,सबसे कम न्यूनतम तापमान,2026-07-20T05:54:00+00:00,,0.4325993227088914,1,2,hi,,
 '34855192b0',extremes,Flood,#030ba1,wmo,घाघरा दरौली सिवान बिहार में बाढ़,2026-07-25T05:29:00+00:00,India,0.4324752053699142,2,1,hi,SAS,Asia
 '1b693a223d',extremes,Flood,#030ba1,wmo,बाढ़ बराक एपी घाट कछार असम,2026-08-07T04:37:00+00:00,India,0.4316273029737562,1,1,hi,SAS,Asia
-'b5831f4086',extremes,Precipitation,#d60d2b,wmo,मुखेम और आसपास के क्षेत्रों में मूसलाधार बारिश,2026-08-11T04:01:00+00:00,India,0.43145811653296706,1,1,hi,SAS,Asia
+'b5831f4086',extremes,Precipitation,#d60d2b,wmo,मुखेम और आसपास के क्षेत्रों में मूसलाधार बारिश,2026-08-11T04:01:00+00:00,India,0.431458116532967,1,1,hi,SAS,Asia
 'ca639fb4c0',extremes,Precipitation,#d60d2b,wmo,हरियाणा के लिए वर्षा पीबीएचआर,2026-07-28T05:31:00+00:00,India,0.42959952179475,1,1,hi,SAS,Asia
 '244a83157a',extremes,Flood,#030ba1,wmo,बाढ़ बराक बदरपुरघाट कछार असम,2026-07-24T05:36:00+00:00,India,0.4294456775703149,2,1,hi,SAS,Asia
 'd313ae7750',extremes,Precipitation,#d60d2b,wmo,"केरल, ओडिशा में वर्षा",2026-08-07T09:56:00+00:00,India,0.4291683687569559,2,2,hi,SAS,Asia
@@ -178,7 +178,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '15a9c61e3e',extremes,Landslide,#572c03,random,चट्टानों का खिसकना,2026-08-08T03:51:00+00:00,,0.3470181502803149,1,1,hi,,
 '7f450bad1e',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश अधिकतम,2026-07-11T05:27:00+00:00,Mexico,0.3463787188383719,1,2,hi,NCA,North-America
 '9aceadd432',extremes,Heat Wave,#c40202,random,रिकॉर्ड गर्मी,2026-07-14T05:14:00+00:00,,0.3421451367831075,1,2,hi,,
-'cb43c2bb0b',extremes,Heat Wave,#c40202,random,सबसे गर्म वर्ष,2026-08-11T04:01:00+00:00,,0.3419881186980321,0,1,hi,,
 '1ca5796d4d',extremes,Thunderstorm,#53785a,wmo,तूफ़ान पूर्व की ओर,2026-07-16T05:25:00+00:00,India,0.3414533378174459,2,1,hi,SAS,Asia
 'bd21048a6a',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-07-30T05:24:00+00:00,United Arab Emirates,0.3408620652945872,1,1,hi,ARP,Asia
 'a5ff1cde4a',extremes,Drought,#edc291,random,मिट्टी की नमी,2026-07-13T05:53:00+00:00,,0.3369002610464886,1,1,hi,,
@@ -307,7 +306,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '404a3ce925',extremes,Fog,#d60d2b,wmo,कोहरा कलिनिनग्राद क्षेत्र,2026-07-16T05:25:00+00:00,Russia,0.3005502722810017,0,1,hi,ESB,Europe
 '44211c95de',extremes,Flood,#030ba1,wmo,ऑस्ट्रेलिया में बाढ़,2026-07-22T05:35:00+00:00,Australia,0.3004657714150353,0,1,hi,CAU,Oceania
 '66fc7fe556',extremes,Heat Wave,#c40202,wmo,हीट वेव अफ़ार गम्बेला,2026-07-07T06:30:00+00:00,Ethiopia,0.3004373924741479,0,1,hi,NEAF,Africa
-'b6cef22543',extremes,Drought,#edc291,random,जल प्रतिबंध,2026-07-23T05:39:00+00:00,,0.30040938431493613,1,1,hi,,
+'b6cef22543',extremes,Drought,#edc291,random,जल प्रतिबंध,2026-07-23T05:39:00+00:00,,0.3004093843149361,1,1,hi,,
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,शीतलहर,2026-08-07T04:37:00+00:00,,0.3001688018175716,1,1,hi,,
 'fab5f38af4',extremes,Snow&Ice,#d60d2b,wmo,स्नो पोर्टर्स पास एसएच73,2026-07-06T06:52:00+00:00,New Zealand,0.2999954225073813,0,1,hi,NZ,Oceania
 '6ae822c377',extremes,Snow&Ice,#d60d2b,wmo,ठंढा लिंडिस पास एसएच8,2026-07-08T05:37:00+00:00,New Zealand,0.2999106783095572,0,1,hi,NZ,Oceania
@@ -318,6 +317,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,उड़ती हुई बर्फ,2026-07-21T05:36:00+00:00,,0.295855533516092,1,1,hi,,
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,हीट डोम,2026-07-22T05:35:00+00:00,,0.2936119976089276,1,1,hi,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडा वर्ष,2026-07-25T05:28:00+00:00,,0.2912900627531105,1,1,hi,,
+'cb43c2bb0b',extremes,Heat Wave,#c40202,random,सबसे गर्म वर्ष,2026-08-11T04:01:00+00:00,,0.29083991589332725,1,1,hi,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,पारा गिरा,2026-07-20T05:54:00+00:00,,0.2893105376016439,1,1,hi,,
 '1405131905',extremes,Thunderstorm,#53785a,random,ओले,2026-07-17T05:27:00+00:00,,0.2877475110239658,1,1,hi,,
 '283b154c38',extremes,Wet Spell,#d60d2b,random,गीला जादू,2026-07-13T05:53:00+00:00,,0.2870741865040388,1,1,hi,,
