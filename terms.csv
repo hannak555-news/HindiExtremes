@@ -219,6 +219,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd60fadeea3',extremes,Wildfire,#d60d2b,effis,जंगल की आग क्षेत्र मेट्रोपोलिटाना डो पोर्टो पुर्तगाल,2026-08-07T09:56:00+00:00,Portugal,0.3197562268591683,0,1,hi,MED,Europe
 '71f51c063c',extremes,Wildfire,#d60d2b,effis,लेबनान की जंगल की आग,2026-08-07T11:06:00+00:00,Lebanon,0.3197562267777648,0,1,hi,MED,Asia
 'c86de2820d',extremes,Wildfire,#d60d2b,effis,जंगल की आग एल चार्कीए लेबनान,2026-08-07T11:06:00+00:00,Lebanon,0.3197562242846461,0,1,hi,MED,Asia
+'f7835c01c4',extremes,Wildfire,#d60d2b,effis,जंगली आग मालट्या टर्की,2026-08-07T11:06:00+00:00,Turkey,0.31975622310877316,0,1,hi,MED,Asia
+'e2fcf07849',extremes,Wildfire,#d60d2b,effis,जंगल की आग का इलाज टर्की,2026-08-07T11:06:00+00:00,Turkey,0.3197562220411564,0,1,hi,MED,Asia
+'e69b7dfbfb',extremes,Wildfire,#d60d2b,effis,जंगल की आग नबी यूचिया लेबनान,2026-08-07T11:06:00+00:00,Lebanon,0.31975622164848283,0,1,hi,MED,Asia
+'62f5b29317',extremes,Wildfire,#d60d2b,effis,जंगल की आग तुलसीया रोमानिया,2026-08-07T09:56:00+00:00,Romania,0.3197562211247619,0,1,hi,MED,Europe
+'81a6886100',extremes,Wildfire,#d60d2b,effis,जंगल की आग ओसजेको बरंजस्का जुपानिजा क्रोएशिया,2026-08-07T11:06:00+00:00,Croatia,0.31975621875725246,0,1,hi,WCE,Europe
+'2f03e0c694',extremes,Wildfire,#d60d2b,effis,जंगल की आग n.a. ट्यूनीशिया,2026-08-07T09:56:00+00:00,Tunisia,0.3197562181328537,0,1,hi,MED,Africa
+'be6a55ce29',extremes,Wildfire,#d60d2b,effis,"जंगल की आग, स्पेन, मोंटेनेग्रो",2026-08-07T11:06:00+00:00,Montenegro,0.31975621766053514,0,1,hi,MED,Europe
+'52eade2718',extremes,Wildfire,#d60d2b,effis,जंगल की आग अजरू मोरक्को,2026-08-07T11:06:00+00:00,Morocco,0.31975621748501815,0,1,hi,MED,Africa
+'046de84cff',extremes,Wildfire,#d60d2b,effis,जंगल की आग इज़मिर टर्की,2026-08-07T09:56:00+00:00,Turkey,0.3197562168683661,0,1,hi,MED,Asia
+'9074be8300',extremes,Wildfire,#d60d2b,effis,जंगल की आग इज़मिर टर्की,2026-08-07T09:56:00+00:00,Turkey,0.31975621519165687,0,1,hi,MED,Asia
 'f9a3abc8c2',extremes,Landslide,#572c03,random,कीचड़ का प्रवाह,2026-07-13T05:53:00+00:00,,0.3195097104714772,1,1,hi,,
 '560b05d603',extremes,Heat Wave,#c40202,random,गर्मी की लहर,2026-07-09T06:27:00+00:00,,0.3149035041370761,2,2,hi,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,तूफ़ान,2026-07-19T05:37:00+00:00,,0.3146886638200377,1,1,hi,,
