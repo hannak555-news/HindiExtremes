@@ -2,7 +2,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '519c58c063',extremes,Flood,#030ba1,wmo,बाढ़ भारत,2026-08-14T04:24:00+00:00,India,0.6602644320962598,0,1,hi,SAS,Asia
 '615a4551a5',extremes,Flood,#030ba1,wmo,भारत में बाढ़,2026-07-22T05:35:00+00:00,India,0.592810707180547,2,3,hi,SAS,Asia
 'f17140c2a2',extremes,Precipitation,#d60d2b,wmo,"मूसलाधार बारिश, हल्की से मध्यम बारिश",2026-08-15T03:13:00+00:00,India,0.58328566637548,2,2,hi,SAS,Asia
-'6675fdaa12',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश सीतापुर,2026-08-16T03:28:00+00:00,India,0.5795992901177693,0,1,hi,SAS,Asia
 'ed0a2b8a74',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश की चेतावनी,2026-07-14T05:14:00+00:00,India,0.5734582523596002,6,3,hi,SAS,Asia
 '6b46019257',extremes,Thunderstorm,#53785a,wmo,देहरादून और टिहरी में आंधी तूफान,2026-07-17T05:27:00+00:00,India,0.5662306523219562,2,2,hi,SAS,Asia
 '294e65ce7a',extremes,Precipitation,#d60d2b,wmo,पंजाब में बारिश की संभावना,2026-07-28T05:31:00+00:00,India,0.5530663146551348,2,3,hi,SAS,Asia
@@ -23,6 +22,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,भारत में मूसलाधार वर्षा,2026-07-21T05:36:00+00:00,India,0.5046365146267161,2,3,hi,SAS,Asia
 'b613ea22d7',extremes,Precipitation,#d60d2b,wmo,त्रिपुरा के पश्चिमी त्रिपुरा जिले में भारी बारिश,2026-07-08T05:37:00+00:00,India,0.5043699566897016,2,2,hi,SAS,Asia
 '82550c3c9f',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश केंद्रीय ऊपर,2026-08-16T03:28:00+00:00,India,0.5040782265442096,0,1,hi,SAS,Asia
+'6675fdaa12',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश सीतापुर,2026-08-16T03:28:00+00:00,India,0.49280941160010394,1,1,hi,SAS,Asia
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,गर्मी,2026-07-06T06:52:00+00:00,,0.4920329096483181,2,3,hi,,
 '860af4b577',extremes,Precipitation,#d60d2b,wmo,त्रिपुरा के उत्तरी त्रिपुरा जिले में भारी बारिश,2026-08-07T09:56:00+00:00,India,0.4913854839817112,2,1,hi,SAS,Asia
 '46906d4391',extremes,Thunderstorm,#53785a,wmo,उत्तराखंड के जिलों में मौसम बेहद खराब,2026-07-18T05:10:00+00:00,India,0.4909556583191697,2,2,hi,SAS,Asia
@@ -162,7 +162,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '78a7137ecc',extremes,Precipitation,#d60d2b,wmo,टिहरी और उत्तरकाशी जिलों में मूसलाधार बारिश,2026-07-30T05:24:00+00:00,India,0.3614018845824636,2,1,hi,SAS,Asia
 '405929fa41',extremes,Precipitation,#d60d2b,wmo,चंडीगढ़ के लिए वर्षा pbhr,2026-07-28T05:31:00+00:00,India,0.3611833275910324,2,1,hi,SAS,Asia
 '0cb928d95e',extremes,Thunderstorm,#53785a,wmo,कुछ हिस्सों में ओलावृष्टि,2026-08-02T05:42:00+00:00,India,0.3608688023481169,1,1,hi,SAS,Asia
-'633ed59c63',extremes,Iceberg,#d60d2b,random,आर्कटिक समुद्री बर्फ,2026-08-03T05:57:00+00:00,,0.35961388486568574,0,1,hi,,
+'633ed59c63',extremes,Iceberg,#d60d2b,random,आर्कटिक समुद्री बर्फ,2026-08-03T05:57:00+00:00,,0.3596138848656857,0,1,hi,,
 '2f3e9e3f6e',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश बाढ़ मार्गदर्शन,2026-07-31T05:51:00+00:00,India,0.3587646925252054,2,1,hi,SAS,Asia
 '135f8534c2',extremes,Precipitation,#d60d2b,random,अधिक वर्षा,2026-07-15T05:15:00+00:00,,0.3547711552656484,1,2,hi,,
 'cc6467e680',extremes,Flood,#030ba1,wmo,बाढ़ घाघरा दरौली सीवान बिहार,2026-08-04T05:32:00+00:00,India,0.3538686943956187,2,1,hi,SAS,Asia
@@ -214,7 +214,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '934c9595eb',extremes,Wildfire,#d60d2b,effis,जंगल की आग सर्बिया,2026-08-07T11:06:00+00:00,Serbia,0.3197534747282727,0,1,hi,MED,Europe
 '6d6528d836',extremes,Wildfire,#d60d2b,effis,जंगल की आग अल्बानिया,2026-08-07T09:56:00+00:00,Albania,0.3197530742103976,0,1,hi,MED,Europe
 'c7b2ebe1a5',extremes,Wildfire,#d60d2b,effis,जंगल की आग लेबनान कबौला एन.ए.,2026-08-07T11:06:00+00:00,Lebanon,0.3197525897403311,0,1,hi,MED,Asia
-'44e28cc926',extremes,Wildfire,#d60d2b,effis,पुर्तगाल के जंगलों में लगी आग,2026-08-07T09:56:00+00:00,Portugal,0.31975249171020353,0,1,hi,MED,Europe
+'44e28cc926',extremes,Wildfire,#d60d2b,effis,पुर्तगाल के जंगलों में लगी आग,2026-08-07T09:56:00+00:00,Portugal,0.3197524917102035,0,1,hi,MED,Europe
 'f9a3abc8c2',extremes,Landslide,#572c03,random,कीचड़ का प्रवाह,2026-07-13T05:53:00+00:00,,0.3195097104714772,1,1,hi,,
 '560b05d603',extremes,Heat Wave,#c40202,random,गर्मी की लहर,2026-07-09T06:27:00+00:00,,0.3149035041370761,2,2,hi,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,तूफ़ान,2026-07-19T05:37:00+00:00,,0.3146886638200377,1,1,hi,,
