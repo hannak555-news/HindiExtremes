@@ -2,9 +2,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '615a4551a5',extremes,Flood,#030ba1,wmo,भारत में बाढ़,2026-07-22T05:35:00+00:00,India,0.592810707180547,2,3,hi,SAS,Asia
 'ed0a2b8a74',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश की चेतावनी,2026-07-14T05:14:00+00:00,India,0.5734582523596002,6,3,hi,SAS,Asia
 '6b46019257',extremes,Thunderstorm,#53785a,wmo,देहरादून और टिहरी में आंधी तूफान,2026-07-17T05:27:00+00:00,India,0.5662306523219562,2,2,hi,SAS,Asia
+'f17140c2a2',extremes,Precipitation,#d60d2b,wmo,"मूसलाधार बारिश, हल्की से मध्यम बारिश",2026-08-15T03:13:00+00:00,India,0.5614155711079308,0,1,hi,SAS,Asia
 '294e65ce7a',extremes,Precipitation,#d60d2b,wmo,पंजाब में बारिश की संभावना,2026-07-28T05:31:00+00:00,India,0.5530663146551348,2,3,hi,SAS,Asia
 'aa86a99742',extremes,Flood,#030ba1,wmo,बाढ़ कोसी बलतारा खगड़िया बिहार,2026-07-27T06:05:00+00:00,India,0.549802457274742,1,1,hi,SAS,Asia
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,तूफ़ान भारत,2026-07-21T05:36:00+00:00,India,0.5474181964754775,1,1,hi,SAS,Asia
+'296fd15a31',extremes,Storm,#b3b2b1,wmo,तूफ़ान अलग-अलग स्थानों पर,2026-08-15T03:13:00+00:00,India,0.5454246880061956,0,1,hi,SAS,Asia
 '73bf613080',extremes,Flood,#030ba1,wmo,बाढ़ कोसी बलतारा खगड़िया बिहार,2026-07-26T05:46:00+00:00,India,0.54521769273879,1,1,hi,SAS,Asia
 '78346165bf',extremes,Flood,#030ba1,wmo,बाढ़ अचानक बाढ़ का खतरा,2026-08-07T09:56:00+00:00,India,0.5417465795369266,2,1,hi,SAS,Asia
 '4093195155',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल भारत,2026-07-21T05:36:00+00:00,India,0.5398271559252894,1,1,hi,SAS,Asia
@@ -16,6 +18,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,वर्षा भारत,2026-07-21T05:36:00+00:00,India,0.5202563975288672,2,2,hi,SAS,Asia
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,जय भारत,2026-07-21T05:36:00+00:00,India,0.5157252756627873,2,1,hi,SAS,Asia
 '519c58c063',extremes,Flood,#030ba1,wmo,बाढ़ भारत,2026-07-03T06:09:00+00:00,India,0.514731823395324,4,3,hi,SAS,Asia
+'48a3cd2e6e',extremes,Precipitation,#d60d2b,wmo,हरियाणा के सोनीपत जिले में वर्षा,2026-08-15T03:13:00+00:00,India,0.5137041099398463,0,1,hi,SAS,Asia
 '2be3d3459b',extremes,Precipitation,#d60d2b,wmo,केरल के वायनाड जिले में भारी बारिश,2026-08-01T05:42:00+00:00,India,0.5112551981263326,2,1,hi,SAS,Asia
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,भारत में मूसलाधार वर्षा,2026-07-21T05:36:00+00:00,India,0.5046365146267161,2,3,hi,SAS,Asia
 'b613ea22d7',extremes,Precipitation,#d60d2b,wmo,त्रिपुरा के पश्चिमी त्रिपुरा जिले में भारी बारिश,2026-07-08T05:37:00+00:00,India,0.5043699566897016,2,2,hi,SAS,Asia
@@ -89,6 +92,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,भारी वर्षा,2026-07-30T05:24:00+00:00,,0.4014960803124959,1,3,hi,,
 '45897d39ee',extremes,Precipitation,#d60d2b,wmo,वर्षा क्रिया करती है,2026-07-16T05:25:00+00:00,India,0.4010876595493378,2,1,hi,SAS,Asia
 '350d302176',extremes,Thunderstorm,#53785a,wmo,पश्चिम में गंभीर मौसम,2026-08-10T04:14:00+00:00,India,0.3999825629707527,2,2,hi,SAS,Asia
+'f90601fa23',extremes,Volcano,#b83202,random,ज्वालामुखी विस्फोट,2026-08-15T03:13:00+00:00,,0.395793749284207,0,1,hi,,
 '4d69c9a1cd',extremes,Precipitation,#d60d2b,wmo,देहरादून और हरिद्वार जिलों में भारी वर्षा,2026-08-07T09:56:00+00:00,India,0.3956146631357244,2,1,hi,SAS,Asia
 '1894e1abc2',extremes,Storm,#b3b2b1,wmo,झारखंड के रामगढ़ जिले में तूफ़ान आया,2026-07-27T06:05:00+00:00,India,0.3933091193652736,2,1,hi,SAS,Asia
 '4d9577e33d',extremes,Volcano,#b83202,random,ज्वालामुखी,2026-08-01T05:41:00+00:00,,0.3923234138046439,1,1,hi,,
@@ -146,6 +150,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ca639fb4c0',extremes,Precipitation,#d60d2b,wmo,हरियाणा के लिए वर्षा पीबीएचआर,2026-07-28T05:31:00+00:00,India,0.3651595935255374,2,1,hi,SAS,Asia
 '6e55489bf8',extremes,Thunderstorm,#53785a,wmo,झारखंड के गिरिडीह जिले में ओलावृष्टि,2026-07-17T05:27:00+00:00,India,0.364776676990534,1,1,hi,SAS,Asia
 '5152d13eae',extremes,Precipitation,#d60d2b,wmo,पिथौरागढ़ और बागेश्वर जिलों में वर्षा,2026-07-27T06:05:00+00:00,India,0.3647535160045019,2,1,hi,SAS,Asia
+'056bed0dad',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडी सर्दी,2026-08-07T11:06:00+00:00,,0.36378688536880405,0,1,hi,,
+'f37139fe2d',extremes,Landslide,#572c03,random,भूस्खलन,2026-08-15T03:13:00+00:00,,0.36366858516025286,0,1,hi,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,बवंडर,2026-07-07T06:30:00+00:00,,0.3633175820061584,1,3,hi,,
 'dbed586a71',extremes,Precipitation,#d60d2b,wmo,महाराष्ट्र के रायगढ़ जिले में वर्षा,2026-08-07T11:06:00+00:00,India,0.3621437182098141,2,1,hi,SAS,Asia
 '7bc394ccae',extremes,Thunderstorm,#53785a,wmo,तूफ़ान पीएलवी येतपका पीएलवी चिंतूर मंडल,2026-07-27T06:05:00+00:00,India,0.3618608599202542,1,1,hi,SAS,Asia
@@ -171,8 +177,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1ca5796d4d',extremes,Thunderstorm,#53785a,wmo,तूफ़ान पूर्व की ओर,2026-07-16T05:25:00+00:00,India,0.3414533378174459,2,1,hi,SAS,Asia
 'a88d2c94d1',extremes,Flood,#030ba1,wmo,बाढ़ गोदावरी नासिक नासिक महाराष्ट्र,2026-07-24T05:36:00+00:00,India,0.3413988567838018,2,1,hi,SAS,Asia
 'bd21048a6a',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-07-30T05:24:00+00:00,United Arab Emirates,0.3408620652945872,1,1,hi,ARP,Asia
+'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडा दिन,2026-08-03T05:57:00+00:00,,0.3405801017035951,0,1,hi,,
 'a5ff1cde4a',extremes,Drought,#edc291,random,मिट्टी की नमी,2026-07-13T05:53:00+00:00,,0.3369002610464886,1,1,hi,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,राष्ट्रीय तूफान केंद्र,2026-08-10T04:13:00+00:00,,0.3366480222871874,2,1,hi,,
+'7b765a4d4c',extremes,Precipitation,#d60d2b,random,मूसलाधार बारिश,2026-08-15T03:13:00+00:00,,0.33590846731749324,0,1,hi,,
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,पारा गिरा,2026-07-31T05:51:00+00:00,,0.3349119786724556,1,1,hi,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,शीतलहर,2026-07-11T05:26:00+00:00,,0.3314596445079357,1,1,hi,,
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,हबूब,2026-07-30T05:24:00+00:00,,0.3309739965731573,1,1,hi,,
@@ -185,6 +193,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '787dab635b',extremes,Thunderstorm,#53785a,wmo,देहरादून और हरिद्वार जिलों में ओलावृष्टि,2026-07-27T06:05:00+00:00,India,0.3250267666932455,2,1,hi,SAS,Asia
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,ग्लेशियर का शांत होना,2026-07-15T05:15:00+00:00,,0.3226020965973539,1,1,hi,,
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,ठंढ,2026-07-17T05:27:00+00:00,,0.3203056549327081,1,1,hi,,
+'811df2b2bd',extremes,Wildfire,#d60d2b,effis,बुशफ़ायर मालट्या टर्की,2026-08-07T11:06:00+00:00,Turkey,0.31975607202041545,0,1,hi,MED,Asia
 '3efcf61c61',extremes,Wildfire,#d60d2b,effis,जंगल की आग हरौफ़ लेबनान,2026-08-07T11:06:00+00:00,Lebanon,0.3197560483109282,0,1,hi,MED,Asia
 'b136fb0b82',extremes,Wildfire,#d60d2b,effis,जंगल की आग मजदेल बाना लेबनान,2026-08-07T11:06:00+00:00,Lebanon,0.3197560265685291,0,1,hi,MED,Asia
 'e11c66b169',extremes,Wildfire,#d60d2b,effis,जंगल की आग n.a. अल्जीरिया,2026-08-07T09:56:00+00:00,Algeria,0.3197559730260551,0,1,hi,MED,Africa
@@ -202,6 +211,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '51639203d2',extremes,Wildfire,#d60d2b,effis,जंगल की आग डेनिज़ली टर्की,2026-08-07T11:06:00+00:00,Turkey,0.3197536642189644,0,1,hi,MED,Asia
 '3617de9e43',extremes,Wildfire,#d60d2b,effis,जंगल की आग लेबनान,2026-08-07T11:06:00+00:00,Lebanon,0.3197534800444153,0,1,hi,MED,Asia
 '934c9595eb',extremes,Wildfire,#d60d2b,effis,जंगल की आग सर्बिया,2026-08-07T11:06:00+00:00,Serbia,0.3197534747282727,0,1,hi,MED,Europe
+'6d6528d836',extremes,Wildfire,#d60d2b,effis,जंगल की आग अल्बानिया,2026-08-07T09:56:00+00:00,Albania,0.3197530742103976,0,1,hi,MED,Europe
 'f9a3abc8c2',extremes,Landslide,#572c03,random,कीचड़ का प्रवाह,2026-07-13T05:53:00+00:00,,0.3195097104714772,1,1,hi,,
 '560b05d603',extremes,Heat Wave,#c40202,random,गर्मी की लहर,2026-07-09T06:27:00+00:00,,0.3149035041370761,2,2,hi,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,तूफ़ान,2026-07-19T05:37:00+00:00,,0.3146886638200377,1,1,hi,,
