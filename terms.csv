@@ -215,6 +215,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6d6528d836',extremes,Wildfire,#d60d2b,effis,जंगल की आग अल्बानिया,2026-08-07T09:56:00+00:00,Albania,0.3197530742103976,0,1,hi,MED,Europe
 'c7b2ebe1a5',extremes,Wildfire,#d60d2b,effis,जंगल की आग लेबनान कबौला एन.ए.,2026-08-07T11:06:00+00:00,Lebanon,0.3197525897403311,0,1,hi,MED,Asia
 '44e28cc926',extremes,Wildfire,#d60d2b,effis,पुर्तगाल के जंगलों में लगी आग,2026-08-07T09:56:00+00:00,Portugal,0.3197524917102035,0,1,hi,MED,Europe
+'3ca745d421',extremes,Wildfire,#d60d2b,effis,जंगल की आग अल्जीरिया,2026-08-07T09:56:00+00:00,Algeria,0.31975221254248537,0,1,hi,MED,Africa
+'be6eea75ee',extremes,Wildfire,#d60d2b,effis,जंगल की आग ट्यूनीशिया,2026-08-07T09:56:00+00:00,Tunisia,0.31975213354155363,0,1,hi,MED,Africa
+'5746fa4adb',extremes,Wildfire,#d60d2b,effis,जंगल की आग स्पेन,2026-08-07T09:56:00+00:00,Spain,0.3197520416149289,0,1,hi,MED,Europe
+'66954ee37f',extremes,Wildfire,#d60d2b,effis,जंगल की आग बोस्निया और हर्जेगोविना,2026-08-07T09:56:00+00:00,Bosnia and Herzegovina,0.31975183535011564,0,1,hi,MED,Europe
+'4595f49a65',extremes,Wildfire,#d60d2b,effis,जंगल की आग स्पेन,2026-08-07T11:06:00+00:00,Spain,0.3197515722327485,0,1,hi,MED,Europe
+'c759e791c4',extremes,Wildfire,#d60d2b,effis,जंगल की आग हंगरी,2026-08-07T11:06:00+00:00,Hungary,0.31975136838617346,0,1,hi,WCE,Europe
+'2d196b98c8',extremes,Wildfire,#d60d2b,effis,जंगल की आग मोरक्को,2026-08-07T09:56:00+00:00,Morocco,0.31975127406650805,0,1,hi,MED,Africa
+'7aef40d766',extremes,Wildfire,#d60d2b,effis,जंगल की आग मोरक्को,2026-08-07T09:56:00+00:00,Morocco,0.319750505514849,0,1,hi,MED,Africa
+'793ba29f43',extremes,Wildfire,#d60d2b,effis,जंगल की आग लेबनान सराफेंड एन.ए.,2026-08-07T11:06:00+00:00,Lebanon,0.3197501114697303,0,1,hi,MED,Asia
+'1944ae7912',extremes,Wildfire,#d60d2b,effis,जंगल की आग रोमानिया,2026-08-07T09:56:00+00:00,Romania,0.31974964325370386,0,1,hi,MED,Europe
 'f9a3abc8c2',extremes,Landslide,#572c03,random,कीचड़ का प्रवाह,2026-07-13T05:53:00+00:00,,0.3195097104714772,1,1,hi,,
 '560b05d603',extremes,Heat Wave,#c40202,random,गर्मी की लहर,2026-07-09T06:27:00+00:00,,0.3149035041370761,2,2,hi,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,तूफ़ान,2026-07-19T05:37:00+00:00,,0.3146886638200377,1,1,hi,,
