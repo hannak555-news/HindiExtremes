@@ -27,7 +27,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f90601fa23',extremes,Volcano,#b83202,random,ज्वालामुखी विस्फोट,2026-08-15T03:13:00+00:00,,0.4865747018915759,1,2,hi,,
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,ओले,2026-07-29T05:37:00+00:00,,0.4842455857834338,1,2,hi,,
 '778d256165',extremes,Flood,#030ba1,wmo,फ्लैशफ्लड इंडिया,2026-07-21T05:36:00+00:00,India,0.480185681214224,2,1,hi,SAS,Asia
-'82fd55b965',extremes,Drought,#edc291,edo,भारत में सूखा,2026-08-01T05:42:00+00:00,India,0.47882625904743864,1,1,hi,SAS,Asia
+'82fd55b965',extremes,Drought,#edc291,edo,भारत में सूखा,2026-08-01T05:42:00+00:00,India,0.4788262590474386,1,1,hi,SAS,Asia
 '0ab5486ec3',extremes,Flood,#030ba1,wmo,बाढ़ दिखो शिवसागर शिवसागर असम,2026-07-20T05:54:00+00:00,India,0.4774306871318123,2,1,hi,SAS,Asia
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,भूकंप भारत,2026-07-18T05:10:00+00:00,India,0.4712148359815543,1,2,hi,SAS,Asia
 'e29a3f5773',extremes,Precipitation,#d60d2b,wmo,उत्तर की ओर वर्षा,2026-07-18T05:10:00+00:00,India,0.4694420553646584,2,1,hi,SAS,Asia
@@ -35,6 +35,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,तापमान में गिरावट,2026-08-04T05:31:00+00:00,,0.4651398093918762,1,3,hi,,
 '60bddf3351',extremes,Drought,#edc291,edo,भारत में वर्षा की कमी,2026-08-07T04:37:00+00:00,India,0.4622580851515651,0,1,hi,SAS,Asia
 '3943fdb652',extremes,Flood,#030ba1,wmo,बाढ़ ब्रह्मपुत्र धुबरी धुबरी असम,2026-07-28T05:31:00+00:00,India,0.4579354379089436,2,1,hi,SAS,Asia
+'9391f481ee',extremes,Storm,#b3b2b1,random,आँधी,2026-08-16T03:27:00+00:00,,0.4578470335116256,1,2,hi,,
 'c62f9be69a',extremes,Flood,#030ba1,wmo,बाढ़ दिखो शिवसागर शिवसागर असम,2026-07-16T05:25:00+00:00,India,0.4560122627238132,2,1,hi,SAS,Asia
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,तूफ़ान भारत,2026-07-21T05:36:00+00:00,India,0.4555153954409462,2,1,hi,SAS,Asia
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,बाढ़,2026-08-02T05:41:00+00:00,,0.4522828616157383,1,3,hi,,
@@ -151,7 +152,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '845dd2d698',extremes,Storm,#b3b2b1,random,बवंडर,2026-07-07T06:30:00+00:00,,0.3633175820061584,1,3,hi,,
 'f3e202b15b',extremes,Thunderstorm,#53785a,wmo,हरिद्वार और बाकी जिलों में मौसम बेहद खराब,2026-08-16T03:28:00+00:00,India,0.3625167846619883,1,1,hi,SAS,Asia
 'dbed586a71',extremes,Precipitation,#d60d2b,wmo,महाराष्ट्र के रायगढ़ जिले में वर्षा,2026-08-07T11:06:00+00:00,India,0.3621437182098141,2,1,hi,SAS,Asia
-'9391f481ee',extremes,Storm,#b3b2b1,random,आँधी,2026-08-16T03:27:00+00:00,,0.3619964923666183,0,1,hi,,
 '7bc394ccae',extremes,Thunderstorm,#53785a,wmo,तूफ़ान पीएलवी येतपका पीएलवी चिंतूर मंडल,2026-07-27T06:05:00+00:00,India,0.3618608599202542,1,1,hi,SAS,Asia
 '395ac09c44',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश मॉड टीएसआरए,2026-08-06T05:33:00+00:00,India,0.3615524552572325,2,1,hi,SAS,Asia
 '6594d97d36',extremes,Flood,#030ba1,wmo,"बाढ़ ब्रह्मपुत्र धुबरी, धुबरी असम",2026-08-10T04:14:00+00:00,India,0.3614320488141607,2,1,hi,SAS,Asia
