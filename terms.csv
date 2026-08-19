@@ -36,6 +36,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e29a3f5773',extremes,Precipitation,#d60d2b,wmo,उत्तर की ओर वर्षा,2026-07-18T05:10:00+00:00,India,0.4694420553646584,2,1,hi,SAS,Asia
 '41732ed753',extremes,Flood,#030ba1,wmo,बाढ़ पिथौरागढ़ जिला,2026-08-17T03:28:00+00:00,India,0.4690859799082496,2,1,hi,SAS,Asia
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,तापमान में गिरावट,2026-08-04T05:31:00+00:00,,0.4651398093918762,1,3,hi,,
+'4d9577e33d',extremes,Volcano,#b83202,random,ज्वालामुखी,2026-08-01T05:41:00+00:00,,0.45937499173394736,2,2,hi,,
 '3943fdb652',extremes,Flood,#030ba1,wmo,बाढ़ ब्रह्मपुत्र धुबरी धुबरी असम,2026-07-28T05:31:00+00:00,India,0.4579354379089436,2,1,hi,SAS,Asia
 '9391f481ee',extremes,Storm,#b3b2b1,random,आँधी,2026-08-16T03:27:00+00:00,,0.4578470335116256,1,2,hi,,
 'c62f9be69a',extremes,Flood,#030ba1,wmo,बाढ़ दिखो शिवसागर शिवसागर असम,2026-07-16T05:25:00+00:00,India,0.4560122627238132,2,1,hi,SAS,Asia
@@ -97,7 +98,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4d69c9a1cd',extremes,Precipitation,#d60d2b,wmo,देहरादून और हरिद्वार जिलों में भारी वर्षा,2026-08-07T09:56:00+00:00,India,0.3956146631357244,2,1,hi,SAS,Asia
 '296fd15a31',extremes,Storm,#b3b2b1,wmo,तूफ़ान अलग-अलग स्थानों पर,2026-08-15T03:13:00+00:00,India,0.3940693370844763,2,1,hi,SAS,Asia
 '1894e1abc2',extremes,Storm,#b3b2b1,wmo,झारखंड के रामगढ़ जिले में तूफ़ान आया,2026-07-27T06:05:00+00:00,India,0.3933091193652736,2,1,hi,SAS,Asia
-'4d9577e33d',extremes,Volcano,#b83202,random,ज्वालामुखी,2026-08-01T05:41:00+00:00,,0.3923234138046439,1,1,hi,,
 '016756e45c',extremes,Precipitation,#d60d2b,wmo,उत्तराखंड के हरिद्वार जिले में वर्षा,2026-08-10T04:14:00+00:00,India,0.3916708860917714,2,1,hi,SAS,Asia
 'a8a309c435',extremes,Storm,#b3b2b1,wmo,तूफ़ान पौडी बागेश्‍वर और पिथौरागढ़,2026-07-31T05:51:00+00:00,India,0.3904493790379293,2,1,hi,SAS,Asia
 '6a51b5153c',extremes,Precipitation,#d60d2b,wmo,"वर्षा, पौरी, देहरादून, टिहरी, उत्तरकाशी",2026-07-23T05:40:00+00:00,India,0.3903404431682332,2,1,hi,SAS,Asia
@@ -467,7 +467,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '83b144ae1c',extremes,Storm,#b3b2b1,wmo,चैनल और दक्षिणी जल में तूफान।,2026-07-20T05:54:00+00:00,Vanuatu,0.2566926626924763,1,1,hi,SPO,Oceania
 'b47c7fe559',extremes,Snow&Ice,#d60d2b,wmo,बर्फ रेगिस्तानी सड़क एसएच1,2026-07-24T05:36:00+00:00,New Zealand,0.2566859006402279,1,1,hi,NZ,Oceania
 '596a132822',extremes,Storm,#b3b2b1,wmo,तूफ़ान की लहरें,2026-07-21T05:36:00+00:00,Bahrain,0.2566727212805766,1,1,hi,ARP,Asia
-'584710ade2',extremes,Storm,#b3b2b1,wmo,समुद्री तट के पास के द्वीपों में तूफ़ान की लहर,2026-07-21T05:36:00+00:00,United States,0.2566610491949607,1,1,hi,CNA,North-America
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,तूफ़ान न्यूज़ीलैंड,2026-07-24T05:36:00+00:00,New Zealand,0.2566235312585919,1,1,hi,NZ,Oceania
 '95694d19cf',extremes,Earthquake,#870007,usgs,भूकंप यमन,2026-07-18T05:10:00+00:00,Yemen,0.2565574908685749,1,1,hi,ARS,Indian Ocean
 '6c4f011103',extremes,Storm,#b3b2b1,wmo,तूफ़ान ईस्टफजॉर्ड्स,2026-07-25T05:29:00+00:00,Iceland,0.2565092869480038,1,1,hi,GIC,Europe
@@ -490,4 +489,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9c32a6bc47',extremes,Heat Wave,#c40202,wmo,हीट वेव व्हिसलर होवे ध्वनि,2026-07-21T05:36:00+00:00,Canada,0.25558578207591,1,1,hi,NEN,North-America
 'c3b0bd6e01',extremes,Storm,#b3b2b1,wmo,तूफ़ान किसका से अट्टू बेरिंग की तरफ,2026-07-25T05:29:00+00:00,United States,0.2555845418839359,1,1,hi,CNA,North-America
 '56932be330',extremes,Wildfire,#d60d2b,effis,जंगल की आग इस्पार्टा टर्की,2026-08-07T11:06:00+00:00,Turkey,0.2310238463759547,2,1,hi,MED,Asia
-'3d4581651f',extremes,Storm,#b3b2b1,wmo,तूफान मेडागास्कर,2026-07-22T05:35:00+00:00,Madagascar,0.21849554076023017,2,1,hi,MDG,Africa
+'3d4581651f',extremes,Storm,#b3b2b1,wmo,तूफान मेडागास्कर,2026-07-22T05:35:00+00:00,Madagascar,0.2184955407602301,2,1,hi,MDG,Africa
+'584710ade2',extremes,Storm,#b3b2b1,wmo,समुद्री तट के पास के द्वीपों में तूफ़ान की लहर,2026-07-21T05:36:00+00:00,United States,0.21816189181571657,2,1,hi,CNA,North-America
