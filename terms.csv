@@ -224,6 +224,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4ff9a5d897',extremes,Wildfire,#d60d2b,effis,जंगल की आग सर्बिया,2026-08-07T09:56:00+00:00,Serbia,0.3197470133730201,0,1,hi,MED,Europe
 '56c99f5cea',extremes,Wildfire,#d60d2b,effis,जंगल की आग लेबनान निहा एन.ए.,2026-08-07T11:06:00+00:00,Lebanon,0.319746803707472,0,1,hi,MED,Asia
 '3267f5413d',extremes,Wildfire,#d60d2b,effis,जंगल की आग तुर्की मर्दिन एन.ए.,2026-08-07T11:06:00+00:00,Turkey,0.3197467715600904,0,1,hi,WCA,Asia
+'7bb33e1fd2',extremes,Wildfire,#d60d2b,effis,जंगल की आग आयरलैंड,2026-08-07T09:56:00+00:00,Ireland,0.3197467636900591,0,1,hi,NEU,Europe
+'313b8b380b',extremes,Wildfire,#d60d2b,effis,सीरिया के जंगलों में लगी आग एन.ए. एन.ए.,2026-08-07T11:06:00+00:00,Syria,0.31974631411313714,0,1,hi,MED,Asia
+'e09a5222d3',extremes,Wildfire,#d60d2b,effis,जंगल की आग अल्जीरिया,2026-08-07T09:56:00+00:00,Algeria,0.3197458900509943,0,1,hi,MED,Africa
+'a1414fb7e9',extremes,Wildfire,#d60d2b,effis,जंगल की आग црна гора црна гора n.a.,2026-08-07T11:06:00+00:00,Montenegro,0.31974586582723785,0,1,hi,MED,Europe
+'f66335160e',extremes,Wildfire,#d60d2b,effis,जंगल की आग लेबनान ऐन जारफ़ा एन.ए.,2026-08-07T11:06:00+00:00,Lebanon,0.31974584103730797,0,1,hi,MED,Asia
+'fe6ff1821c',extremes,Wildfire,#d60d2b,effis,जंगल की आग स्पेन,2026-08-07T11:06:00+00:00,Spain,0.31974553677492273,0,1,hi,MED,Europe
+'5b302ce6b4',extremes,Wildfire,#d60d2b,effis,जंगल की आग यूक्रेन,2026-08-07T09:56:00+00:00,Ukraine,0.3197454007963776,0,1,hi,WCE,Europe
+'d0a56df84c',extremes,Wildfire,#d60d2b,effis,जंगल की आग लेबनान एल मेरी एन.ए.,2026-08-07T11:06:00+00:00,Lebanon,0.3197450888688102,0,1,hi,MED,Asia
+'f4c658e1ba',extremes,Wildfire,#d60d2b,effis,जंगल की आग सेरेविना माकेडोनोनिवा वारदार्सि कवाडार्सी,2026-08-07T11:06:00+00:00,North Macedonia,0.31974495184079454,0,1,hi,MED,Europe
+'a320301f76',extremes,Wildfire,#d60d2b,effis,जंगली आग अल्जीरिया,2026-08-07T09:56:00+00:00,Algeria,0.3197447386373637,0,1,hi,MED,Africa
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,जमना,2026-08-18T03:23:00+00:00,,0.3176392962014645,1,1,hi,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,तूफ़ान,2026-07-19T05:37:00+00:00,,0.3146886638200377,1,1,hi,,
 '0d261f252d',extremes,Storm,#b3b2b1,random,शीत ऋतु की आंधी,2026-07-24T05:35:00+00:00,,0.3109967834900246,1,1,hi,,
