@@ -2,6 +2,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '615a4551a5',extremes,Flood,#030ba1,wmo,भारत में बाढ़,2026-07-22T05:35:00+00:00,India,0.592810707180547,2,3,hi,SAS,Asia
 'f17140c2a2',extremes,Precipitation,#d60d2b,wmo,"मूसलाधार बारिश, हल्की से मध्यम बारिश",2026-08-15T03:13:00+00:00,India,0.58328566637548,2,2,hi,SAS,Asia
 '519c58c063',extremes,Flood,#030ba1,wmo,बाढ़ भारत,2026-08-14T04:24:00+00:00,India,0.5780178717577295,2,2,hi,SAS,Asia
+'fef7f71c0a',extremes,Thunderstorm,#53785a,wmo,"गंभीर मौसम, टीएसएल के साथ मध्यम बारिश",2026-08-21T03:30:00+00:00,India,0.5736662845781014,0,1,hi,SAS,Asia
 'ed0a2b8a74',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश की चेतावनी,2026-07-14T05:14:00+00:00,India,0.5734582523596002,6,3,hi,SAS,Asia
 '6b46019257',extremes,Thunderstorm,#53785a,wmo,देहरादून और टिहरी में आंधी तूफान,2026-07-17T05:27:00+00:00,India,0.5662306523219562,2,2,hi,SAS,Asia
 '294e65ce7a',extremes,Precipitation,#d60d2b,wmo,पंजाब में बारिश की संभावना,2026-07-28T05:31:00+00:00,India,0.5530663146551348,2,3,hi,SAS,Asia
@@ -58,6 +59,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,चक्रवात,2026-07-22T05:35:00+00:00,,0.4327863379303018,1,2,hi,,
 '59d2b049f5',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश सोनभद्र प्रयागराज बांदा,2026-08-20T03:26:00+00:00,India,0.4324884448275258,1,1,hi,SAS,Asia
 '34855192b0',extremes,Flood,#030ba1,wmo,घाघरा दरौली सिवान बिहार में बाढ़,2026-07-25T05:29:00+00:00,India,0.4324752053699142,2,1,hi,SAS,Asia
+'f52120e987',extremes,Thunderstorm,#53785a,wmo,अलग-अलग स्थानों पर गरज के साथ बौछारें,2026-08-21T03:30:00+00:00,India,0.4299052064065794,0,1,hi,SAS,Asia
 '244a83157a',extremes,Flood,#030ba1,wmo,बाढ़ बराक बदरपुरघाट कछार असम,2026-07-24T05:36:00+00:00,India,0.4294456775703149,2,1,hi,SAS,Asia
 'c2b07afbf7',extremes,Flood,#030ba1,wmo,बाढ़ कोसी बसुआ सुपौल बिहार,2026-07-29T05:37:00+00:00,India,0.4288412848470868,2,1,hi,SAS,Asia
 '09f5291425',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि इटावा औरैया कानपुर देहात,2026-08-07T09:56:00+00:00,India,0.4285703658118969,2,1,hi,SAS,Asia
@@ -229,7 +231,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd0a56df84c',extremes,Wildfire,#d60d2b,effis,जंगल की आग लेबनान एल मेरी एन.ए.,2026-08-07T11:06:00+00:00,Lebanon,0.3197450888688102,0,1,hi,MED,Asia
 'f4c658e1ba',extremes,Wildfire,#d60d2b,effis,जंगल की आग सेरेविना माकेडोनोनिवा वारदार्सि कवाडार्सी,2026-08-07T11:06:00+00:00,North Macedonia,0.3197449518407945,0,1,hi,MED,Europe
 'a320301f76',extremes,Wildfire,#d60d2b,effis,जंगली आग अल्जीरिया,2026-08-07T09:56:00+00:00,Algeria,0.3197447386373637,0,1,hi,MED,Africa
-'1fefacbadb',extremes,Iceberg,#d60d2b,random,ग्लेशियर का शांत होना,2026-08-05T05:31:00+00:00,,0.31940691647379793,1,1,hi,,
+'5dae4d0d44',extremes,Wildfire,#d60d2b,effis,जंगल की आग बोस्निया और हर्जेगोविना,2026-08-07T09:56:00+00:00,Bosnia and Herzegovina,0.31974404141400853,0,1,hi,MED,Europe
+'0c7c458c2c',extremes,Wildfire,#d60d2b,effis,जंगल की आग लेबनान नबी यूचेआ एन.ए.,2026-08-07T11:06:00+00:00,Lebanon,0.31974370526766993,0,1,hi,MED,Asia
+'785f49402b',extremes,Wildfire,#d60d2b,effis,जंगल की आग लेबनान हरेत जंदल एन.ए.,2026-08-07T11:06:00+00:00,Lebanon,0.31974367044330754,0,1,hi,MED,Asia
+'7772fc9cde',extremes,Wildfire,#d60d2b,effis,पुर्तगाल की जंगल की आग,2026-08-07T09:56:00+00:00,Portugal,0.3197434781827317,0,1,hi,MED,Europe
+'df6e516080',extremes,Wildfire,#d60d2b,effis,बुशफ़ायर ट्यूनीशिया,2026-08-07T11:06:00+00:00,Tunisia,0.31974316450029766,0,1,hi,MED,Africa
+'3bd8e103de',extremes,Wildfire,#d60d2b,effis,जंगल की आग ट्यूनीशिया एन.ए. एन.ए.,2026-08-07T09:56:00+00:00,Tunisia,0.3197430577515282,0,1,hi,MED,Africa
+'2a295685a3',extremes,Wildfire,#d60d2b,effis,जंगल की आग श्रीबिजा сpбија зајечарска област zaječar,2026-08-07T11:06:00+00:00,Serbia,0.3197430353863468,0,1,hi,MED,Europe
+'2464ad564a',extremes,Wildfire,#d60d2b,effis,जंगल की आग लेबनान नबी यूचेआ एन.ए.,2026-08-07T11:06:00+00:00,Lebanon,0.31974224675808055,0,1,hi,MED,Asia
+'1fefacbadb',extremes,Iceberg,#d60d2b,random,ग्लेशियर का शांत होना,2026-08-05T05:31:00+00:00,,0.3194069164737979,1,1,hi,,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,जमना,2026-08-18T03:23:00+00:00,,0.3176392962014645,1,1,hi,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,तूफ़ान,2026-07-19T05:37:00+00:00,,0.3146886638200377,1,1,hi,,
 '0d261f252d',extremes,Storm,#b3b2b1,random,शीत ऋतु की आंधी,2026-07-24T05:35:00+00:00,,0.3109967834900246,1,1,hi,,
