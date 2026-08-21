@@ -9,9 +9,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '73bf613080',extremes,Flood,#030ba1,wmo,बाढ़ कोसी बलतारा खगड़िया बिहार,2026-07-26T05:46:00+00:00,India,0.54521769273879,1,1,hi,SAS,Asia
 '78346165bf',extremes,Flood,#030ba1,wmo,बाढ़ अचानक बाढ़ का खतरा,2026-08-07T09:56:00+00:00,India,0.5417465795369266,2,1,hi,SAS,Asia
 '9391f481ee',extremes,Storm,#b3b2b1,random,आँधी,2026-08-16T03:27:00+00:00,,0.5393199934848817,2,2,hi,,
-'c95e885889',extremes,Thunderstorm,#53785a,wmo,भारत में गंभीर मौसम,2026-08-11T04:01:00+00:00,India,0.5391577354063712,2,2,hi,SAS,Asia
 'cd8ddf4958',extremes,Thunderstorm,#53785a,wmo,टिहरी और उत्तरकाशी जिलों में आंधी,2026-07-30T05:24:00+00:00,India,0.5391443161668358,2,1,hi,SAS,Asia
 '20741ce7eb',extremes,Tsunami,#690191,random,सुनामी,2026-08-02T05:41:00+00:00,,0.5362644259442051,2,2,hi,,
+'c95e885889',extremes,Thunderstorm,#53785a,wmo,भारत में गंभीर मौसम,2026-08-11T04:01:00+00:00,India,0.5359619328226882,3,3,hi,SAS,Asia
 'f95745a80f',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश बाराबंकी,2026-07-27T06:05:00+00:00,India,0.5348356053988504,2,2,hi,SAS,Asia
 '108b8200ce',extremes,Storm,#b3b2b1,wmo,तूफ़ान के साथ भारी बारिश,2026-08-19T03:26:00+00:00,India,0.5321476252777838,2,1,hi,SAS,Asia
 '90522631da',extremes,Precipitation,#d60d2b,wmo,भारत में वर्षा,2026-07-24T05:36:00+00:00,India,0.5309121066271154,2,2,hi,SAS,Asia
@@ -80,9 +80,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a8bccbcbb8',extremes,Storm,#b3b2b1,wmo,"तूफ़ान दक्षिण 24 परगना, पूर्वी मिदनापुर",2026-08-07T04:37:00+00:00,India,0.4144627847283827,2,1,hi,SAS,Asia
 '622bd2c53e',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखापन,2026-07-31T05:51:00+00:00,United Arab Emirates,0.4144319382746746,1,1,hi,ARP,Asia
 'a843de13bd',extremes,Storm,#b3b2b1,wmo,उत्तराखंड के ज़िलों में तूफ़ान,2026-07-21T05:36:00+00:00,India,0.4142459238468221,2,1,hi,SAS,Asia
-'f90601fa23',extremes,Volcano,#b83202,random,ज्वालामुखी विस्फोट,2026-08-15T03:13:00+00:00,,0.41358849660783953,2,1,hi,,
+'f90601fa23',extremes,Volcano,#b83202,random,ज्वालामुखी विस्फोट,2026-08-15T03:13:00+00:00,,0.4135884966078395,2,1,hi,,
 'd232e38e76',extremes,Precipitation,#d60d2b,wmo,त्रिपुरा के दक्षिण त्रिपुरा जिले में भारी बारिश,2026-07-19T05:37:00+00:00,India,0.4122614720866805,3,2,hi,SAS,Asia
-'3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,अर्जेंटीना में मूसलाधार बारिश,2026-07-09T06:27:00+00:00,Argentina,0.411235092874196,1,2,hi,SES,South-America
 'f37139fe2d',extremes,Landslide,#572c03,random,भूस्खलन,2026-08-15T03:13:00+00:00,,0.4095238928407603,1,3,hi,,
 'eea65deee2',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम एमआरएल,2026-08-07T09:56:00+00:00,India,0.405273822663411,2,1,hi,SAS,Asia
 '239a5b73e2',extremes,Storm,#b3b2b1,wmo,तूफ़ान पीवीपीएम गुम्मलक्ष्मीपुरम मंडल,2026-08-07T09:56:00+00:00,India,0.4040355901269643,2,1,hi,SAS,Asia
@@ -116,7 +115,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '546d646ad9',extremes,Earthquake,#870007,usgs,भूकंप शि योमी,2026-08-06T05:33:00+00:00,India,0.3774871415801517,2,1,hi,TIB,Asia
 '595acbcf9f',extremes,Heat Wave,#c40202,random,सबसे गर्म दिन,2026-07-18T05:10:00+00:00,,0.3772537128828292,1,2,hi,,
 '27d1c7349e',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि गोरखपुर बलिया एसके नगर,2026-07-27T06:05:00+00:00,India,0.3769252325895798,1,1,hi,SAS,Asia
-'1fefacbadb',extremes,Iceberg,#d60d2b,random,ग्लेशियर का शांत होना,2026-08-05T05:31:00+00:00,,0.3757728429103505,0,1,hi,,
 '4cdf7c26a8',extremes,Thunderstorm,#53785a,wmo,राजस्थान के अलवर बूंदी जिलों में आंधी तूफान,2026-07-28T05:31:00+00:00,India,0.3754885306666916,1,1,hi,SAS,Asia
 '9bf42357ea',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश उत्तरकाशी देहरादून पौरी टिहरी,2026-08-06T05:33:00+00:00,India,0.3753701996472169,2,1,hi,SAS,Asia
 'f45e1ae8ac',extremes,Thunderstorm,#53785a,wmo,तूफ़ान पश्चिम की ओर,2026-07-28T05:31:00+00:00,India,0.3752850579933303,1,1,hi,SAS,Asia
@@ -129,7 +127,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '48a3cd2e6e',extremes,Precipitation,#d60d2b,wmo,हरियाणा के सोनीपत जिले में वर्षा,2026-08-15T03:13:00+00:00,India,0.3711512194315389,2,1,hi,SAS,Asia
 '7054c01ed8',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में बारिश की कमी,2026-08-02T05:42:00+00:00,United Arab Emirates,0.3711496381905582,1,1,hi,ARP,Asia
 'c1c324cdea',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि टीपीटी दोरावरिसत्रम मंडल,2026-07-24T05:36:00+00:00,India,0.3710726785409663,1,1,hi,SAS,Asia
-'5aa23b22fc',extremes,Thunderstorm,#53785a,wmo,"ओलावृष्टि बागेश्वर,पिथौरागढ़,पौड़ी",2026-08-20T03:26:00+00:00,India,0.37099121297097454,1,1,hi,SAS,Asia
+'5aa23b22fc',extremes,Thunderstorm,#53785a,wmo,"ओलावृष्टि बागेश्वर,पिथौरागढ़,पौड़ी",2026-08-20T03:26:00+00:00,India,0.3709912129709745,1,1,hi,SAS,Asia
 '53d6ea67eb',extremes,Thunderstorm,#53785a,wmo,8 मंडलों में ओलावृष्टि,2026-07-18T05:10:00+00:00,India,0.369771536685632,1,1,hi,SAS,Asia
 '846d33616a',extremes,Thunderstorm,#53785a,wmo,कुछ हिस्सों में तूफ़ान,2026-08-10T04:14:00+00:00,India,0.3696896303824242,1,1,hi,SAS,Asia
 '0b6d7fb2bb',extremes,Flood,#030ba1,wmo,बाढ़ बराक बदरपुरघाट कछार असम,2026-08-07T04:37:00+00:00,India,0.3695343205681718,3,1,hi,SAS,Asia
@@ -188,7 +186,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '787dab635b',extremes,Thunderstorm,#53785a,wmo,देहरादून और हरिद्वार जिलों में ओलावृष्टि,2026-07-27T06:05:00+00:00,India,0.3250267666932455,2,1,hi,SAS,Asia
 '2933ccc114',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि नैनीताल,2026-08-14T04:24:00+00:00,India,0.3216308939850318,2,1,hi,SAS,Asia
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,बर्फ़ीला तूफ़ान,2026-08-02T05:41:00+00:00,,0.3207750597095544,1,1,hi,,
-'b136fb0b82',extremes,Wildfire,#d60d2b,effis,जंगल की आग मजदेल बाना लेबनान,2026-08-07T11:06:00+00:00,Lebanon,0.3197560265685291,0,1,hi,MED,Asia
 'c4cd5dbcd4',extremes,Wildfire,#d60d2b,effis,दक्षिण पश्चिम आयरलैंड में जंगल की आग,2026-08-07T11:06:00+00:00,Ireland,0.3197559567312558,0,1,hi,NEU,Europe
 '50ab15c1e2',extremes,Wildfire,#d60d2b,effis,जंगल की आग इस्कीसिर टर्की,2026-08-07T11:06:00+00:00,Turkey,0.3197559552493551,0,1,hi,MED,Asia
 '1ef4ac9bca',extremes,Wildfire,#d60d2b,effis,जंगल की आग n.a. अल्जीरिया,2026-08-07T09:56:00+00:00,Algeria,0.3197559171131001,0,1,hi,MED,Africa
@@ -232,6 +229,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd0a56df84c',extremes,Wildfire,#d60d2b,effis,जंगल की आग लेबनान एल मेरी एन.ए.,2026-08-07T11:06:00+00:00,Lebanon,0.3197450888688102,0,1,hi,MED,Asia
 'f4c658e1ba',extremes,Wildfire,#d60d2b,effis,जंगल की आग सेरेविना माकेडोनोनिवा वारदार्सि कवाडार्सी,2026-08-07T11:06:00+00:00,North Macedonia,0.3197449518407945,0,1,hi,MED,Europe
 'a320301f76',extremes,Wildfire,#d60d2b,effis,जंगली आग अल्जीरिया,2026-08-07T09:56:00+00:00,Algeria,0.3197447386373637,0,1,hi,MED,Africa
+'1fefacbadb',extremes,Iceberg,#d60d2b,random,ग्लेशियर का शांत होना,2026-08-05T05:31:00+00:00,,0.31940691647379793,1,1,hi,,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,जमना,2026-08-18T03:23:00+00:00,,0.3176392962014645,1,1,hi,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,तूफ़ान,2026-07-19T05:37:00+00:00,,0.3146886638200377,1,1,hi,,
 '0d261f252d',extremes,Storm,#b3b2b1,random,शीत ऋतु की आंधी,2026-07-24T05:35:00+00:00,,0.3109967834900246,1,1,hi,,
@@ -357,6 +355,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8fac42b03a',extremes,Wildfire,#d60d2b,effis,जंगल की आग कहरमनमारस टर्की,2026-08-07T11:06:00+00:00,Turkey,0.2717926696092715,1,1,hi,MED,Asia
 '811df2b2bd',extremes,Wildfire,#d60d2b,effis,बुशफ़ायर मालट्या टर्की,2026-08-07T11:06:00+00:00,Turkey,0.271792661217353,1,1,hi,MED,Asia
 '3efcf61c61',extremes,Wildfire,#d60d2b,effis,जंगल की आग हरौफ़ लेबनान,2026-08-07T11:06:00+00:00,Lebanon,0.2717926410642889,1,1,hi,MED,Asia
+'b136fb0b82',extremes,Wildfire,#d60d2b,effis,जंगल की आग मजदेल बाना लेबनान,2026-08-07T11:06:00+00:00,Lebanon,0.2717926225832497,1,1,hi,MED,Asia
 'e11c66b169',extremes,Wildfire,#d60d2b,effis,जंगल की आग n.a. अल्जीरिया,2026-08-07T09:56:00+00:00,Algeria,0.2717925770721468,1,1,hi,MED,Africa
 'da1ba9730c',extremes,Wildfire,#d60d2b,effis,सीरिया के जंगलों में लगी आग,2026-08-07T11:06:00+00:00,Syria,0.2717921390516378,1,1,hi,MED,Asia
 '1e3db537cb',extremes,Wildfire,#d60d2b,effis,जंगल की आग नीडेरोस्टेरिच सूद ऑस्ट्रिया,2026-08-07T11:06:00+00:00,Austria,0.2717920931883701,1,1,hi,WCE,Europe
