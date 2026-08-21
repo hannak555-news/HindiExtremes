@@ -2,7 +2,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '615a4551a5',extremes,Flood,#030ba1,wmo,भारत में बाढ़,2026-07-22T05:35:00+00:00,India,0.592810707180547,2,3,hi,SAS,Asia
 'f17140c2a2',extremes,Precipitation,#d60d2b,wmo,"मूसलाधार बारिश, हल्की से मध्यम बारिश",2026-08-15T03:13:00+00:00,India,0.58328566637548,2,2,hi,SAS,Asia
 '519c58c063',extremes,Flood,#030ba1,wmo,बाढ़ भारत,2026-08-14T04:24:00+00:00,India,0.5780178717577295,2,2,hi,SAS,Asia
-'fef7f71c0a',extremes,Thunderstorm,#53785a,wmo,"गंभीर मौसम, टीएसएल के साथ मध्यम बारिश",2026-08-21T03:30:00+00:00,India,0.5736662845781014,0,1,hi,SAS,Asia
 'ed0a2b8a74',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश की चेतावनी,2026-07-14T05:14:00+00:00,India,0.5734582523596002,6,3,hi,SAS,Asia
 '6b46019257',extremes,Thunderstorm,#53785a,wmo,देहरादून और टिहरी में आंधी तूफान,2026-07-17T05:27:00+00:00,India,0.5662306523219562,2,2,hi,SAS,Asia
 '294e65ce7a',extremes,Precipitation,#d60d2b,wmo,पंजाब में बारिश की संभावना,2026-07-28T05:31:00+00:00,India,0.5530663146551348,2,3,hi,SAS,Asia
@@ -25,6 +24,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,औषधि,2026-07-22T05:35:00+00:00,,0.5004909697877911,2,2,hi,,
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,गर्मी,2026-07-06T06:52:00+00:00,,0.4920329096483181,2,3,hi,,
 '860af4b577',extremes,Precipitation,#d60d2b,wmo,त्रिपुरा के उत्तरी त्रिपुरा जिले में भारी बारिश,2026-08-07T09:56:00+00:00,India,0.4913854839817112,2,1,hi,SAS,Asia
+'fef7f71c0a',extremes,Thunderstorm,#53785a,wmo,"गंभीर मौसम, टीएसएल के साथ मध्यम बारिश",2026-08-21T03:30:00+00:00,India,0.4876163418913862,1,1,hi,SAS,Asia
 'fc9243330a',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश चंडीगढ़,2026-08-19T03:26:00+00:00,India,0.486139812070126,2,2,hi,SAS,Asia
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,ओले,2026-07-29T05:37:00+00:00,,0.4842455857834338,1,2,hi,,
 '778d256165',extremes,Flood,#030ba1,wmo,फ्लैशफ्लड इंडिया,2026-07-21T05:36:00+00:00,India,0.480185681214224,2,1,hi,SAS,Asia
@@ -40,6 +40,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3943fdb652',extremes,Flood,#030ba1,wmo,बाढ़ ब्रह्मपुत्र धुबरी धुबरी असम,2026-07-28T05:31:00+00:00,India,0.4579354379089436,2,1,hi,SAS,Asia
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,तूफ़ान भारत,2026-07-21T05:36:00+00:00,India,0.4555153954409462,2,1,hi,SAS,Asia
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,बाढ़,2026-08-02T05:41:00+00:00,,0.4522828616157383,1,3,hi,,
+'f52120e987',extremes,Thunderstorm,#53785a,wmo,अलग-अलग स्थानों पर गरज के साथ बौछारें,2026-08-21T03:30:00+00:00,India,0.4521838161598782,1,2,hi,SAS,Asia
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,जंगल की आग,2026-07-31T05:51:00+00:00,,0.4504877564344882,1,2,hi,,
 '4a94610ffa',extremes,Precipitation,#d60d2b,wmo,महाराष्ट्र के ठाणे जिले में भारी बारिश,2026-07-23T05:40:00+00:00,India,0.449328822305706,3,2,hi,SAS,Asia
 '99803d2c4f',extremes,Flood,#030ba1,wmo,बाढ़ कोसी बसुआ सुपौल बिहार,2026-07-31T05:51:00+00:00,India,0.4487462706289175,2,1,hi,SAS,Asia
@@ -54,12 +55,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '136c5b71eb',extremes,Flood,#030ba1,wmo,बाढ़ कोसी बलतारा खगड़िया बिहार,2026-07-30T05:24:00+00:00,India,0.4405555005203798,1,1,hi,SAS,Asia
 'a8ce47b4b4',extremes,Flood,#030ba1,wmo,बाढ़ परवान अररिया अररिया बिहार,2026-07-24T05:36:00+00:00,India,0.4404458403884251,2,1,hi,SAS,Asia
 '8d47dfc890',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम tslg,2026-08-04T05:32:00+00:00,India,0.4350691437069117,2,1,hi,SAS,Asia
-'8c4d4399ed',extremes,Precipitation,#d60d2b,wmo,"वर्षा देहरादून, टिहरी, पौडी",2026-08-18T03:24:00+00:00,India,0.4344917985799431,1,1,hi,SAS,Asia
 '33d6a769d8',extremes,Thunderstorm,#53785a,wmo,आंधी असर गकविधि मंडल,2026-07-26T05:46:00+00:00,India,0.4339073520779484,2,1,hi,SAS,Asia
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,चक्रवात,2026-07-22T05:35:00+00:00,,0.4327863379303018,1,2,hi,,
-'59d2b049f5',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश सोनभद्र प्रयागराज बांदा,2026-08-20T03:26:00+00:00,India,0.4324884448275258,1,1,hi,SAS,Asia
 '34855192b0',extremes,Flood,#030ba1,wmo,घाघरा दरौली सिवान बिहार में बाढ़,2026-07-25T05:29:00+00:00,India,0.4324752053699142,2,1,hi,SAS,Asia
-'f52120e987',extremes,Thunderstorm,#53785a,wmo,अलग-अलग स्थानों पर गरज के साथ बौछारें,2026-08-21T03:30:00+00:00,India,0.4299052064065794,0,1,hi,SAS,Asia
 '244a83157a',extremes,Flood,#030ba1,wmo,बाढ़ बराक बदरपुरघाट कछार असम,2026-07-24T05:36:00+00:00,India,0.4294456775703149,2,1,hi,SAS,Asia
 'c2b07afbf7',extremes,Flood,#030ba1,wmo,बाढ़ कोसी बसुआ सुपौल बिहार,2026-07-29T05:37:00+00:00,India,0.4288412848470868,2,1,hi,SAS,Asia
 '09f5291425',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि इटावा औरैया कानपुर देहात,2026-08-07T09:56:00+00:00,India,0.4285703658118969,2,1,hi,SAS,Asia
@@ -133,6 +131,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '53d6ea67eb',extremes,Thunderstorm,#53785a,wmo,8 मंडलों में ओलावृष्टि,2026-07-18T05:10:00+00:00,India,0.369771536685632,1,1,hi,SAS,Asia
 '846d33616a',extremes,Thunderstorm,#53785a,wmo,कुछ हिस्सों में तूफ़ान,2026-08-10T04:14:00+00:00,India,0.3696896303824242,1,1,hi,SAS,Asia
 '0b6d7fb2bb',extremes,Flood,#030ba1,wmo,बाढ़ बराक बदरपुरघाट कछार असम,2026-08-07T04:37:00+00:00,India,0.3695343205681718,3,1,hi,SAS,Asia
+'8c4d4399ed',extremes,Precipitation,#d60d2b,wmo,"वर्षा देहरादून, टिहरी, पौडी",2026-08-18T03:24:00+00:00,India,0.3693180287929516,2,1,hi,SAS,Asia
 '54d3f0f174',extremes,Thunderstorm,#53785a,wmo,ओले मॉड टीएसआरए और मॉड बारिश,2026-08-16T03:28:00+00:00,India,0.3692042810269826,1,1,hi,SAS,Asia
 '0c085d32df',extremes,Precipitation,#d60d2b,wmo,"वर्षा, lts के साथ मध्यम वर्षा",2026-08-07T04:37:00+00:00,India,0.3691021560345069,2,1,hi,SAS,Asia
 '39a3c69308',extremes,Thunderstorm,#53785a,wmo,त्रिपुरा के पश्चिम त्रिपुरा जिले में ओले गिरे,2026-07-30T05:24:00+00:00,India,0.3687796812885842,1,1,hi,SAS,Asia
@@ -140,6 +139,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b698b0fee0',extremes,Flood,#030ba1,wmo,महानदी नराज कटक ओडिशा में बाढ़,2026-07-29T05:37:00+00:00,India,0.3683019906578302,3,1,hi,SAS,Asia
 '6ceb516dba',extremes,Thunderstorm,#53785a,wmo,असर मुन्चिंगिपुट्टू मंडल की जय हो,2026-08-06T05:33:00+00:00,India,0.3678328318958632,3,1,hi,SAS,Asia
 '1fff28081a',extremes,Thunderstorm,#53785a,wmo,उत्तराखंड के जिलों में ओलावृष्टि,2026-08-10T04:14:00+00:00,India,0.3676263409723175,1,1,hi,SAS,Asia
+'59d2b049f5',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश सोनभद्र प्रयागराज बांदा,2026-08-20T03:26:00+00:00,India,0.36761517810339694,2,1,hi,SAS,Asia
 'df35ba52b4',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि पीएलवी येतपका पीएलवी चिंतूर मंडल,2026-07-27T06:05:00+00:00,India,0.367431627915165,1,1,hi,SAS,Asia
 'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,सर्दी का मौसम,2026-07-21T05:36:00+00:00,,0.3670367704182059,1,2,hi,,
 '1b693a223d',extremes,Flood,#030ba1,wmo,बाढ़ बराक एपी घाट कछार असम,2026-08-07T04:37:00+00:00,India,0.3668832075276927,2,1,hi,SAS,Asia
@@ -231,14 +231,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd0a56df84c',extremes,Wildfire,#d60d2b,effis,जंगल की आग लेबनान एल मेरी एन.ए.,2026-08-07T11:06:00+00:00,Lebanon,0.3197450888688102,0,1,hi,MED,Asia
 'f4c658e1ba',extremes,Wildfire,#d60d2b,effis,जंगल की आग सेरेविना माकेडोनोनिवा वारदार्सि कवाडार्सी,2026-08-07T11:06:00+00:00,North Macedonia,0.3197449518407945,0,1,hi,MED,Europe
 'a320301f76',extremes,Wildfire,#d60d2b,effis,जंगली आग अल्जीरिया,2026-08-07T09:56:00+00:00,Algeria,0.3197447386373637,0,1,hi,MED,Africa
-'5dae4d0d44',extremes,Wildfire,#d60d2b,effis,जंगल की आग बोस्निया और हर्जेगोविना,2026-08-07T09:56:00+00:00,Bosnia and Herzegovina,0.31974404141400853,0,1,hi,MED,Europe
-'0c7c458c2c',extremes,Wildfire,#d60d2b,effis,जंगल की आग लेबनान नबी यूचेआ एन.ए.,2026-08-07T11:06:00+00:00,Lebanon,0.31974370526766993,0,1,hi,MED,Asia
-'785f49402b',extremes,Wildfire,#d60d2b,effis,जंगल की आग लेबनान हरेत जंदल एन.ए.,2026-08-07T11:06:00+00:00,Lebanon,0.31974367044330754,0,1,hi,MED,Asia
+'5dae4d0d44',extremes,Wildfire,#d60d2b,effis,जंगल की आग बोस्निया और हर्जेगोविना,2026-08-07T09:56:00+00:00,Bosnia and Herzegovina,0.3197440414140085,0,1,hi,MED,Europe
+'0c7c458c2c',extremes,Wildfire,#d60d2b,effis,जंगल की आग लेबनान नबी यूचेआ एन.ए.,2026-08-07T11:06:00+00:00,Lebanon,0.3197437052676699,0,1,hi,MED,Asia
+'785f49402b',extremes,Wildfire,#d60d2b,effis,जंगल की आग लेबनान हरेत जंदल एन.ए.,2026-08-07T11:06:00+00:00,Lebanon,0.3197436704433075,0,1,hi,MED,Asia
 '7772fc9cde',extremes,Wildfire,#d60d2b,effis,पुर्तगाल की जंगल की आग,2026-08-07T09:56:00+00:00,Portugal,0.3197434781827317,0,1,hi,MED,Europe
-'df6e516080',extremes,Wildfire,#d60d2b,effis,बुशफ़ायर ट्यूनीशिया,2026-08-07T11:06:00+00:00,Tunisia,0.31974316450029766,0,1,hi,MED,Africa
+'df6e516080',extremes,Wildfire,#d60d2b,effis,बुशफ़ायर ट्यूनीशिया,2026-08-07T11:06:00+00:00,Tunisia,0.3197431645002976,0,1,hi,MED,Africa
 '3bd8e103de',extremes,Wildfire,#d60d2b,effis,जंगल की आग ट्यूनीशिया एन.ए. एन.ए.,2026-08-07T09:56:00+00:00,Tunisia,0.3197430577515282,0,1,hi,MED,Africa
 '2a295685a3',extremes,Wildfire,#d60d2b,effis,जंगल की आग श्रीबिजा сpбија зајечарска област zaječar,2026-08-07T11:06:00+00:00,Serbia,0.3197430353863468,0,1,hi,MED,Europe
-'2464ad564a',extremes,Wildfire,#d60d2b,effis,जंगल की आग लेबनान नबी यूचेआ एन.ए.,2026-08-07T11:06:00+00:00,Lebanon,0.31974224675808055,0,1,hi,MED,Asia
+'2464ad564a',extremes,Wildfire,#d60d2b,effis,जंगल की आग लेबनान नबी यूचेआ एन.ए.,2026-08-07T11:06:00+00:00,Lebanon,0.3197422467580805,0,1,hi,MED,Asia
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,ग्लेशियर का शांत होना,2026-08-05T05:31:00+00:00,,0.3194069164737979,1,1,hi,,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,जमना,2026-08-18T03:23:00+00:00,,0.3176392962014645,1,1,hi,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,तूफ़ान,2026-07-19T05:37:00+00:00,,0.3146886638200377,1,1,hi,,
