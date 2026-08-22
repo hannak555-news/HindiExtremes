@@ -39,7 +39,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4093195155',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल भारत,2026-07-21T05:36:00+00:00,India,0.458853082536496,2,1,hi,SAS,Asia
 '3943fdb652',extremes,Flood,#030ba1,wmo,बाढ़ ब्रह्मपुत्र धुबरी धुबरी असम,2026-07-28T05:31:00+00:00,India,0.4579354379089436,2,1,hi,SAS,Asia
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,तूफ़ान भारत,2026-07-21T05:36:00+00:00,India,0.4555153954409462,2,1,hi,SAS,Asia
-'d313ae7750',extremes,Precipitation,#d60d2b,wmo,"केरल, ओडिशा में वर्षा",2026-08-07T09:56:00+00:00,India,0.45526447410871884,4,3,hi,SAS,Asia
+'d313ae7750',extremes,Precipitation,#d60d2b,wmo,"केरल, ओडिशा में वर्षा",2026-08-07T09:56:00+00:00,India,0.4552644741087188,4,3,hi,SAS,Asia
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,बाढ़,2026-08-02T05:41:00+00:00,,0.4522828616157383,1,3,hi,,
 'f52120e987',extremes,Thunderstorm,#53785a,wmo,अलग-अलग स्थानों पर गरज के साथ बौछारें,2026-08-21T03:30:00+00:00,India,0.4521838161598782,1,2,hi,SAS,Asia
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,जंगल की आग,2026-07-31T05:51:00+00:00,,0.4504877564344882,1,2,hi,,
@@ -230,6 +230,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3bd8e103de',extremes,Wildfire,#d60d2b,effis,जंगल की आग ट्यूनीशिया एन.ए. एन.ए.,2026-08-07T09:56:00+00:00,Tunisia,0.3197430577515282,0,1,hi,MED,Africa
 '2a295685a3',extremes,Wildfire,#d60d2b,effis,जंगल की आग श्रीबिजा сpбија зајечарска област zaječar,2026-08-07T11:06:00+00:00,Serbia,0.3197430353863468,0,1,hi,MED,Europe
 '2464ad564a',extremes,Wildfire,#d60d2b,effis,जंगल की आग लेबनान नबी यूचेआ एन.ए.,2026-08-07T11:06:00+00:00,Lebanon,0.3197422467580805,0,1,hi,MED,Asia
+'38656f3f26',extremes,Wildfire,#d60d2b,effis,जंगल की आग अल्जीरिया एन.ए. एन.ए.,2026-08-07T09:56:00+00:00,Algeria,0.3197418155534837,0,1,hi,MED,Africa
+'3c4d29fd15',extremes,Wildfire,#d60d2b,effis,जंगल की आग आयरलैंड,2026-08-07T11:06:00+00:00,Ireland,0.31974114475636883,0,1,hi,NEU,Europe
+'7616afd0a2',extremes,Wildfire,#d60d2b,effis,जंगल की आग लेबनान एल चरकीए एन.ए.,2026-08-07T11:06:00+00:00,Lebanon,0.3197410501241213,0,1,hi,MED,Asia
+'e9531820d9',extremes,Wildfire,#d60d2b,effis,जंगल की आग българия монтана монтана,2026-08-07T09:56:00+00:00,Bulgaria,0.31974081705206076,0,1,hi,MED,Europe
+'1848856b86',extremes,Wildfire,#d60d2b,effis,जंगल की आग अल्जीरिया एन.ए. एन.ए.,2026-08-07T09:56:00+00:00,Algeria,0.31973923584658587,0,1,hi,MED,Africa
+'d417ec4e5f',extremes,Wildfire,#d60d2b,effis,जंगल की आग पुर्तगाल क्षेत्र मेट्रोपोलिटाना डो पोर्टो कैनेडो वेले ई विला मेयर,2026-08-07T11:06:00+00:00,Portugal,0.3197391827361551,0,1,hi,MED,Europe
+'648f46497d',extremes,Wildfire,#d60d2b,effis,जंगल की आग लेबनान हब्बोचे एन.ए.,2026-08-07T11:06:00+00:00,Lebanon,0.3197385564974444,0,1,hi,MED,Asia
+'9f352d30ee',extremes,Wildfire,#d60d2b,effis,जंगल की आग लेबनान माचा एन.ए.,2026-08-07T11:06:00+00:00,Lebanon,0.319738196131598,0,1,hi,MED,Asia
+'bd617db6de',extremes,Wildfire,#d60d2b,effis,जंगल की आग लेबनान माचा एन.ए.,2026-08-07T11:06:00+00:00,Lebanon,0.31973783199617006,0,1,hi,MED,Asia
+'afda8bb534',extremes,Wildfire,#d60d2b,effis,जंगल की आग लेबनान bchatfine n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.31973758809640185,0,1,hi,MED,Asia
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,ग्लेशियर का शांत होना,2026-08-05T05:31:00+00:00,,0.3194069164737979,1,1,hi,,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,जमना,2026-08-18T03:23:00+00:00,,0.3176392962014645,1,1,hi,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,तूफ़ान,2026-07-19T05:37:00+00:00,,0.3146886638200377,1,1,hi,,
@@ -476,7 +486,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '30dd1a71a3',extremes,Storm,#b3b2b1,wmo,सेंट मैथ्यू द्वीप जल में तूफ़ान का उछाल,2026-07-21T05:36:00+00:00,United States,0.2554713788628048,1,1,hi,CNA,North-America
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,चिलचिलाती तापमान,2026-07-30T05:24:00+00:00,,0.2362269724738245,3,1,hi,,
 '5400f1e65e',extremes,Wildfire,#d60d2b,effis,बुशफ़ायर किलिस सीरिया,2026-08-07T11:06:00+00:00,Syria,0.231023882990773,2,1,hi,MED,Asia
-'15f9154233',extremes,Wildfire,#d60d2b,effis,जंगल की आग एल्बासन अल्बानिया,2026-08-07T11:06:00+00:00,Albania,0.23102387622033652,2,1,hi,MED,Europe
+'15f9154233',extremes,Wildfire,#d60d2b,effis,जंगल की आग एल्बासन अल्बानिया,2026-08-07T11:06:00+00:00,Albania,0.2310238762203365,2,1,hi,MED,Europe
 '56932be330',extremes,Wildfire,#d60d2b,effis,जंगल की आग इस्पार्टा टर्की,2026-08-07T11:06:00+00:00,Turkey,0.2310238463759547,2,1,hi,MED,Asia
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,रात की ठंढ,2026-07-24T05:35:00+00:00,,0.2198557642365843,2,1,hi,,
 '3d4581651f',extremes,Storm,#b3b2b1,wmo,तूफान मेडागास्कर,2026-07-22T05:35:00+00:00,Madagascar,0.2184955407602301,2,1,hi,MDG,Africa
