@@ -23,10 +23,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f17140c2a2',extremes,Precipitation,#d60d2b,wmo,"मूसलाधार बारिश, हल्की से मध्यम बारिश",2026-08-15T03:13:00+00:00,India,0.4957930564191579,3,1,hi,SAS,Asia
 '519c58c063',extremes,Flood,#030ba1,wmo,बाढ़ भारत,2026-08-14T04:24:00+00:00,India,0.49176573099407,3,2,hi,SAS,Asia
 '860af4b577',extremes,Precipitation,#d60d2b,wmo,त्रिपुरा के उत्तरी त्रिपुरा जिले में भारी बारिश,2026-08-07T09:56:00+00:00,India,0.4913854839817112,2,1,hi,SAS,Asia
-'0bea558884',extremes,Thunderstorm,#53785a,wmo,"प्रयागराज, जौनपुर और आसपास ओलावृष्टि",2026-08-23T03:30:00+00:00,India,0.49127254057998004,1,1,hi,SAS,Asia
+'0bea558884',extremes,Thunderstorm,#53785a,wmo,"प्रयागराज, जौनपुर और आसपास ओलावृष्टि",2026-08-23T03:30:00+00:00,India,0.49127254057998,1,1,hi,SAS,Asia
 'fc9243330a',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश चंडीगढ़,2026-08-19T03:26:00+00:00,India,0.486139812070126,2,2,hi,SAS,Asia
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,ओले,2026-07-29T05:37:00+00:00,,0.4842455857834338,1,2,hi,,
-'e2544d7062',extremes,Thunderstorm,#53785a,wmo,पश्चिम बंगाल के झारग्राम जिले में मौसम खराब,2026-08-23T03:30:00+00:00,India,0.48374762603305893,1,1,hi,SAS,Asia
+'e2544d7062',extremes,Thunderstorm,#53785a,wmo,पश्चिम बंगाल के झारग्राम जिले में मौसम खराब,2026-08-23T03:30:00+00:00,India,0.4837476260330589,1,1,hi,SAS,Asia
 '778d256165',extremes,Flood,#030ba1,wmo,फ्लैशफ्लड इंडिया,2026-07-21T05:36:00+00:00,India,0.480185681214224,2,1,hi,SAS,Asia
 '82fd55b965',extremes,Drought,#edc291,edo,भारत में सूखा,2026-08-01T05:42:00+00:00,India,0.4788262590474386,1,1,hi,SAS,Asia
 '0ab5486ec3',extremes,Flood,#030ba1,wmo,बाढ़ दिखो शिवसागर शिवसागर असम,2026-07-20T05:54:00+00:00,India,0.4774306871318123,2,1,hi,SAS,Asia
@@ -80,6 +80,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f90601fa23',extremes,Volcano,#b83202,random,ज्वालामुखी विस्फोट,2026-08-15T03:13:00+00:00,,0.4135884966078395,2,1,hi,,
 'd232e38e76',extremes,Precipitation,#d60d2b,wmo,त्रिपुरा के दक्षिण त्रिपुरा जिले में भारी बारिश,2026-07-19T05:37:00+00:00,India,0.4122614720866805,3,2,hi,SAS,Asia
 'f37139fe2d',extremes,Landslide,#572c03,random,भूस्खलन,2026-08-15T03:13:00+00:00,,0.4095238928407603,1,3,hi,,
+'45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,तूफ़ान,2026-08-09T03:59:00+00:00,,0.4069165784113984,1,2,hi,,
 'eea65deee2',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम एमआरएल,2026-08-07T09:56:00+00:00,India,0.405273822663411,2,1,hi,SAS,Asia
 '239a5b73e2',extremes,Storm,#b3b2b1,wmo,तूफ़ान पीवीपीएम गुम्मलक्ष्मीपुरम मंडल,2026-08-07T09:56:00+00:00,India,0.4040355901269643,2,1,hi,SAS,Asia
 '613673b100',extremes,Flood,#030ba1,wmo,बागेश्वर जिले में बाढ़,2026-08-09T03:59:00+00:00,India,0.4026036779481465,2,1,hi,SAS,Asia
@@ -91,7 +92,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '016756e45c',extremes,Precipitation,#d60d2b,wmo,उत्तराखंड के हरिद्वार जिले में वर्षा,2026-08-10T04:14:00+00:00,India,0.3916708860917714,2,1,hi,SAS,Asia
 'a8a309c435',extremes,Storm,#b3b2b1,wmo,तूफ़ान पौडी बागेश्‍वर और पिथौरागढ़,2026-07-31T05:51:00+00:00,India,0.3904493790379293,2,1,hi,SAS,Asia
 '6a51b5153c',extremes,Precipitation,#d60d2b,wmo,"वर्षा, पौरी, देहरादून, टिहरी, उत्तरकाशी",2026-07-23T05:40:00+00:00,India,0.3903404431682332,2,1,hi,SAS,Asia
-'45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,तूफ़ान,2026-08-09T03:59:00+00:00,,0.3901371157781157,0,1,hi,,
 '636c676150',extremes,Thunderstorm,#53785a,wmo,आंधी तूफान इटावा औरैया कानपुर देहात,2026-08-07T11:06:00+00:00,India,0.389575628978797,1,1,hi,SAS,Asia
 'bfe40e36c7',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि बलिया आजमगढ़,2026-07-27T06:05:00+00:00,India,0.3887436957767445,1,1,hi,SAS,Asia
 '3657904739',extremes,Flood,#030ba1,wmo,बाढ़ बराक एपी घाट कछार असम,2026-08-08T03:51:00+00:00,India,0.3868166794733342,2,1,hi,SAS,Asia
