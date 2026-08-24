@@ -9,7 +9,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f95745a80f',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश बाराबंकी,2026-07-27T06:05:00+00:00,India,0.5348356053988504,2,2,hi,SAS,Asia
 '108b8200ce',extremes,Storm,#b3b2b1,wmo,तूफ़ान के साथ भारी बारिश,2026-08-19T03:26:00+00:00,India,0.5321476252777838,2,1,hi,SAS,Asia
 '90522631da',extremes,Precipitation,#d60d2b,wmo,भारत में वर्षा,2026-07-24T05:36:00+00:00,India,0.5309121066271154,2,2,hi,SAS,Asia
-'94b6efcce3',extremes,Thunderstorm,#53785a,wmo,गरज के साथ मध्यम बारिश,2026-08-23T03:30:00+00:00,India,0.5274382807448448,1,2,hi,SAS,Asia
+'94b6efcce3',extremes,Thunderstorm,#53785a,wmo,गरज के साथ मध्यम बारिश,2026-08-23T03:30:00+00:00,India,0.5236230636331181,2,3,hi,SAS,Asia
 '296d71c63d',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश चंडीगढ़,2026-08-18T03:24:00+00:00,India,0.5192351290632842,2,3,hi,SAS,Asia
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,जय भारत,2026-07-21T05:36:00+00:00,India,0.5157252756627873,2,1,hi,SAS,Asia
 '2be3d3459b',extremes,Precipitation,#d60d2b,wmo,केरल के वायनाड जिले में भारी बारिश,2026-08-01T05:42:00+00:00,India,0.5112551981263326,2,1,hi,SAS,Asia
@@ -52,7 +52,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '33d6a769d8',extremes,Thunderstorm,#53785a,wmo,आंधी असर गकविधि मंडल,2026-07-26T05:46:00+00:00,India,0.4339073520779484,2,1,hi,SAS,Asia
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,चक्रवात,2026-07-22T05:35:00+00:00,,0.4327863379303018,1,2,hi,,
 '244a83157a',extremes,Flood,#030ba1,wmo,बाढ़ बराक बदरपुरघाट कछार असम,2026-07-24T05:36:00+00:00,India,0.4294456775703149,2,1,hi,SAS,Asia
-'c2b07afbf7',extremes,Flood,#030ba1,wmo,बाढ़ कोसी बसुआ सुपौल बिहार,2026-07-29T05:37:00+00:00,India,0.4288412848470868,2,1,hi,SAS,Asia
 '09f5291425',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि इटावा औरैया कानपुर देहात,2026-08-07T09:56:00+00:00,India,0.4285703658118969,2,1,hi,SAS,Asia
 '86457154b0',extremes,Storm,#b3b2b1,wmo,तूफ़ान का उभार सुंदरगढ़ा केंदुझार,2026-08-13T04:26:00+00:00,India,0.4270867044444865,2,1,hi,SAS,Asia
 '3d7ac448d0',extremes,Precipitation,#d60d2b,wmo,"मूसलाधार बारिश देहरादून,टिहरी,पौड़ी",2026-08-18T03:24:00+00:00,India,0.4246042071176325,1,1,hi,SAS,Asia
@@ -141,6 +140,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd34b7fc885',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम मॉड टीएसआरए,2026-08-14T04:24:00+00:00,India,0.366197716189822,1,1,hi,SAS,Asia
 'ca639fb4c0',extremes,Precipitation,#d60d2b,wmo,हरियाणा के लिए वर्षा पीबीएचआर,2026-07-28T05:31:00+00:00,India,0.3651595935255374,2,1,hi,SAS,Asia
 '5152d13eae',extremes,Precipitation,#d60d2b,wmo,पिथौरागढ़ और बागेश्वर जिलों में वर्षा,2026-07-27T06:05:00+00:00,India,0.3647535160045019,2,1,hi,SAS,Asia
+'c2b07afbf7',extremes,Flood,#030ba1,wmo,बाढ़ कोसी बसुआ सुपौल बिहार,2026-07-29T05:37:00+00:00,India,0.36451509212002375,3,1,hi,SAS,Asia
 '82550c3c9f',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश केंद्रीय ऊपर,2026-08-16T03:28:00+00:00,India,0.3641965186781914,2,1,hi,SAS,Asia
 '9324c09fc4',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश मॉड टीएसआरए और मॉड से भारी बारिश,2026-08-20T03:26:00+00:00,India,0.3634160056690274,2,1,hi,SAS,Asia
 'f3e202b15b',extremes,Thunderstorm,#53785a,wmo,हरिद्वार और बाकी जिलों में मौसम बेहद खराब,2026-08-16T03:28:00+00:00,India,0.3625167846619883,1,1,hi,SAS,Asia
@@ -182,7 +182,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '787dab635b',extremes,Thunderstorm,#53785a,wmo,देहरादून और हरिद्वार जिलों में ओलावृष्टि,2026-07-27T06:05:00+00:00,India,0.3250267666932455,2,1,hi,SAS,Asia
 '2933ccc114',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि नैनीताल,2026-08-14T04:24:00+00:00,India,0.3216308939850318,2,1,hi,SAS,Asia
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,बर्फ़ीला तूफ़ान,2026-08-02T05:41:00+00:00,,0.3207750597095544,1,1,hi,,
-'be76e7e185',extremes,Wildfire,#d60d2b,effis,जंगल की आग रोमानिया,2026-08-07T09:56:00+00:00,Romania,0.3197538738301362,0,1,hi,MED,Europe
 '51639203d2',extremes,Wildfire,#d60d2b,effis,जंगल की आग डेनिज़ली टर्की,2026-08-07T11:06:00+00:00,Turkey,0.3197536642189644,0,1,hi,MED,Asia
 '3617de9e43',extremes,Wildfire,#d60d2b,effis,जंगल की आग लेबनान,2026-08-07T11:06:00+00:00,Lebanon,0.3197534800444153,0,1,hi,MED,Asia
 'c7b2ebe1a5',extremes,Wildfire,#d60d2b,effis,जंगल की आग लेबनान कबौला एन.ए.,2026-08-07T11:06:00+00:00,Lebanon,0.3197525897403311,0,1,hi,MED,Asia
@@ -192,7 +191,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4595f49a65',extremes,Wildfire,#d60d2b,effis,जंगल की आग स्पेन,2026-08-07T11:06:00+00:00,Spain,0.3197515722327485,0,1,hi,MED,Europe
 'c759e791c4',extremes,Wildfire,#d60d2b,effis,जंगल की आग हंगरी,2026-08-07T11:06:00+00:00,Hungary,0.3197513683861734,0,1,hi,WCE,Europe
 '2d196b98c8',extremes,Wildfire,#d60d2b,effis,जंगल की आग मोरक्को,2026-08-07T09:56:00+00:00,Morocco,0.319751274066508,0,1,hi,MED,Africa
-'7aef40d766',extremes,Wildfire,#d60d2b,effis,जंगल की आग मोरक्को,2026-08-07T09:56:00+00:00,Morocco,0.319750505514849,0,1,hi,MED,Africa
 '793ba29f43',extremes,Wildfire,#d60d2b,effis,जंगल की आग लेबनान सराफेंड एन.ए.,2026-08-07T11:06:00+00:00,Lebanon,0.3197501114697303,0,1,hi,MED,Asia
 '1944ae7912',extremes,Wildfire,#d60d2b,effis,जंगल की आग रोमानिया,2026-08-07T09:56:00+00:00,Romania,0.3197496432537038,0,1,hi,MED,Europe
 'f93df854ee',extremes,Wildfire,#d60d2b,effis,उत्तर मैसेडोनिया में जंगल की आग,2026-08-07T11:06:00+00:00,North Macedonia,0.3197482222950916,0,1,hi,MED,Europe
@@ -203,10 +201,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3267f5413d',extremes,Wildfire,#d60d2b,effis,जंगल की आग तुर्की मर्दिन एन.ए.,2026-08-07T11:06:00+00:00,Turkey,0.3197467715600904,0,1,hi,WCA,Asia
 '7bb33e1fd2',extremes,Wildfire,#d60d2b,effis,जंगल की आग आयरलैंड,2026-08-07T09:56:00+00:00,Ireland,0.3197467636900591,0,1,hi,NEU,Europe
 'e09a5222d3',extremes,Wildfire,#d60d2b,effis,जंगल की आग अल्जीरिया,2026-08-07T09:56:00+00:00,Algeria,0.3197458900509943,0,1,hi,MED,Africa
-'a1414fb7e9',extremes,Wildfire,#d60d2b,effis,जंगल की आग црна гора црна гора n.a.,2026-08-07T11:06:00+00:00,Montenegro,0.3197458658272378,0,1,hi,MED,Europe
 '5b302ce6b4',extremes,Wildfire,#d60d2b,effis,जंगल की आग यूक्रेन,2026-08-07T09:56:00+00:00,Ukraine,0.3197454007963776,0,1,hi,WCE,Europe
 'd0a56df84c',extremes,Wildfire,#d60d2b,effis,जंगल की आग लेबनान एल मेरी एन.ए.,2026-08-07T11:06:00+00:00,Lebanon,0.3197450888688102,0,1,hi,MED,Asia
-'f4c658e1ba',extremes,Wildfire,#d60d2b,effis,जंगल की आग सेरेविना माकेडोनोनिवा वारदार्सि कवाडार्सी,2026-08-07T11:06:00+00:00,North Macedonia,0.3197449518407945,0,1,hi,MED,Europe
 'a320301f76',extremes,Wildfire,#d60d2b,effis,जंगली आग अल्जीरिया,2026-08-07T09:56:00+00:00,Algeria,0.3197447386373637,0,1,hi,MED,Africa
 '5dae4d0d44',extremes,Wildfire,#d60d2b,effis,जंगल की आग बोस्निया और हर्जेगोविना,2026-08-07T09:56:00+00:00,Bosnia and Herzegovina,0.3197440414140085,0,1,hi,MED,Europe
 '0c7c458c2c',extremes,Wildfire,#d60d2b,effis,जंगल की आग लेबनान नबी यूचेआ एन.ए.,2026-08-07T11:06:00+00:00,Lebanon,0.3197437052676699,0,1,hi,MED,Asia
@@ -234,7 +230,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3d29c3ec38',extremes,Wildfire,#d60d2b,effis,जंगल की आग लेबनान हेज़ौक एन.ए.,2026-08-07T11:06:00+00:00,Lebanon,0.3197327539412151,0,1,hi,MED,Asia
 'ef4a458ea0',extremes,Wildfire,#d60d2b,effis,जंगल की आग ट्यूनीशिया एन.ए. एन.ए.,2026-08-07T11:06:00+00:00,Tunisia,0.3197315673152994,0,1,hi,MED,Africa
 '273e21ebcc',extremes,Wildfire,#d60d2b,effis,जंगल की आग मोरक्को अजरू एन.ए.,2026-08-07T11:06:00+00:00,Morocco,0.3197313502975433,0,1,hi,MED,Africa
-'ed96a847da',extremes,Wildfire,#d60d2b,effis,जंगल की आग Magyarország fejér székesfehérvár,2026-08-07T11:06:00+00:00,Hungary,0.319729408991695,0,1,hi,WCE,Europe
 '5139206b96',extremes,Wildfire,#d60d2b,effis,जंगल की आग तुर्की अंकारा एन.ए.,2026-08-07T11:06:00+00:00,Turkey,0.3197284132378046,0,1,hi,MED,Asia
 '75e555d000',extremes,Wildfire,#d60d2b,effis,जंगल की आग बोस्निया और हर्जेगोविना kladanj n.a.,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.3197279156241755,0,1,hi,MED,Europe
 '5c18e90ce8',extremes,Wildfire,#d60d2b,effis,जंगल की आग तुर्की अंकारा एन.ए.,2026-08-07T11:06:00+00:00,Turkey,0.3197277806578955,0,1,hi,MED,Asia
@@ -361,19 +356,24 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b7c7b7d962',extremes,Wildfire,#d60d2b,effis,"जंगलों में लगी आग, क्रोएशिया",2026-08-07T11:06:00+00:00,Croatia,0.2717910389492532,1,1,hi,WCE,Europe
 '7942a3c79f',extremes,Wildfire,#d60d2b,effis,जंगल की आग टर्की,2026-08-07T09:56:00+00:00,Turkey,0.2717909405684545,1,1,hi,MED,Asia
 '5ab0a2836b',extremes,Wildfire,#d60d2b,effis,बुशफ़ायर टर्की,2026-08-07T09:56:00+00:00,Turkey,0.2717908571976726,1,1,hi,MED,Asia
+'be76e7e185',extremes,Wildfire,#d60d2b,effis,जंगल की आग रोमानिया,2026-08-07T09:56:00+00:00,Romania,0.27179079275561574,1,1,hi,MED,Europe
 '934c9595eb',extremes,Wildfire,#d60d2b,effis,जंगल की आग सर्बिया,2026-08-07T11:06:00+00:00,Serbia,0.2717904535190318,1,1,hi,MED,Europe
 '6d6528d836',extremes,Wildfire,#d60d2b,effis,जंगल की आग अल्बानिया,2026-08-07T09:56:00+00:00,Albania,0.271790113078838,1,1,hi,MED,Europe
 'be6eea75ee',extremes,Wildfire,#d60d2b,effis,जंगल की आग ट्यूनीशिया,2026-08-07T09:56:00+00:00,Tunisia,0.2717893135103205,1,1,hi,MED,Africa
+'7aef40d766',extremes,Wildfire,#d60d2b,effis,जंगल की आग मोरक्को,2026-08-07T09:56:00+00:00,Morocco,0.27178792968762167,1,1,hi,MED,Africa
 'd33e4146b6',extremes,Wildfire,#d60d2b,effis,जंगल की आग तुर्किये किलिस एन.ए.,2026-08-07T11:06:00+00:00,Syria,0.2717864330680696,1,1,hi,MED,Asia
 '1f50df77c2',extremes,Wildfire,#d60d2b,effis,जंगल की आग बुल्गारिया,2026-08-07T09:56:00+00:00,Bulgaria,0.2717863218962212,1,1,hi,MED,Europe
 'a23c450be4',extremes,Wildfire,#d60d2b,effis,जंगल की आग मोरक्को बाब बेर्रेड एन.ए.,2026-08-07T09:56:00+00:00,Morocco,0.2717861731793916,1,1,hi,MED,Africa
 '313b8b380b',extremes,Wildfire,#d60d2b,effis,सीरिया के जंगलों में लगी आग एन.ए. एन.ए.,2026-08-07T11:06:00+00:00,Syria,0.2717843669961665,1,1,hi,MED,Asia
+'a1414fb7e9',extremes,Wildfire,#d60d2b,effis,जंगल की आग црна гора црна гора n.a.,2026-08-07T11:06:00+00:00,Montenegro,0.2717839859531521,1,1,hi,MED,Europe
 'f66335160e',extremes,Wildfire,#d60d2b,effis,जंगल की आग लेबनान ऐन जारफ़ा एन.ए.,2026-08-07T11:06:00+00:00,Lebanon,0.2717839648817117,1,1,hi,MED,Asia
+'f4c658e1ba',extremes,Wildfire,#d60d2b,effis,जंगल की आग सेरेविना माकेडोनोनिवा वारदार्सि कवाडार्सी,2026-08-07T11:06:00+00:00,North Macedonia,0.2717832090646753,1,1,hi,MED,Europe
 '7772fc9cde',extremes,Wildfire,#d60d2b,effis,पुर्तगाल की जंगल की आग,2026-08-07T09:56:00+00:00,Portugal,0.2717819564553219,1,1,hi,MED,Europe
 '2464ad564a',extremes,Wildfire,#d60d2b,effis,जंगल की आग लेबनान नबी यूचेआ एन.ए.,2026-08-07T11:06:00+00:00,Lebanon,0.2717809097443684,1,1,hi,MED,Asia
 'bd617db6de',extremes,Wildfire,#d60d2b,effis,जंगल की आग लेबनान माचा एन.ए.,2026-08-07T11:06:00+00:00,Lebanon,0.2717771571967445,1,1,hi,MED,Asia
 'a23bd4974c',extremes,Wildfire,#d60d2b,effis,जंगल की आग कोसोवो,2026-08-07T09:56:00+00:00,Kosovo,0.2717742940165692,1,1,hi,MED,Europe
 '2d3399b55d',extremes,Wildfire,#d60d2b,effis,जंगल की आग रोमानिया तुलसिया जुरिलोव्का,2026-08-07T09:56:00+00:00,Romania,0.2717736174542192,1,1,hi,MED,Europe
+'ed96a847da',extremes,Wildfire,#d60d2b,effis,जंगल की आग Magyarország fejér székesfehérvár,2026-08-07T11:06:00+00:00,Hungary,0.27176999764294074,1,1,hi,WCE,Europe
 '14436b39be',extremes,Wildfire,#d60d2b,effis,"जंगलों में लगी आग, पुर्तगाल, क्षेत्र के जंगलों में लगी आग",2026-08-07T09:56:00+00:00,Portugal,0.2717693004162386,1,1,hi,MED,Europe
 '5f0b68fcc5',extremes,Storm,#b3b2b1,aidr,तूफ़ान मेलबोर्न विक्टोरिया 2020,2026-08-05T05:31:00+00:00,Australia,0.2679099362880121,1,1,hi,SAU,Oceania
 '41f3b5b396',extremes,Storm,#b3b2b1,aidr,तूफ़ान तेज़ हवा और बारिश विक्टोरिया 2024,2026-08-04T05:32:00+00:00,Australia,0.2676543328830772,1,1,hi,SAU,Oceania
