@@ -1,8 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'34855192b0',extremes,Flood,#030ba1,wmo,घाघरा दरौली सिवान बिहार में बाढ़,2026-08-28T14:32:00+00:00,India,0.6279923054940778,0,1,hi,SAS,Asia
-'bb915c0bb3',extremes,Thunderstorm,#53785a,wmo,ओडिशा के बालेश्वर जिले में मौसम खराब,2026-08-28T14:32:00+00:00,India,0.590907175523792,0,1,hi,SAS,Asia
+'00bea9baed',extremes,Storm,#b3b2b1,wmo,मिजोरम के 7 जिलों में तूफान,2026-08-28T14:32:00+00:00,India,0.624881446528949,1,2,hi,SAS,Asia
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,जय भारत,2026-08-11T04:01:00+00:00,India,0.5759906296124689,1,1,hi,SAS,Asia
-'00bea9baed',extremes,Storm,#b3b2b1,wmo,मिजोरम के 7 जिलों में तूफान,2026-08-28T14:32:00+00:00,India,0.5585075665046458,0,1,hi,SAS,Asia
 '108b8200ce',extremes,Storm,#b3b2b1,wmo,तूफ़ान के साथ भारी बारिश,2026-08-19T03:26:00+00:00,India,0.5506068974369807,7,1,hi,SAS,Asia
 'aa86a99742',extremes,Flood,#030ba1,wmo,बाढ़ कोसी बलतारा खगड़िया बिहार,2026-07-27T06:05:00+00:00,India,0.549802457274742,1,1,hi,SAS,Asia
 '78346165bf',extremes,Flood,#030ba1,wmo,बाढ़ अचानक बाढ़ का खतरा,2026-08-07T09:56:00+00:00,India,0.5417465795369266,2,1,hi,SAS,Asia
@@ -12,6 +10,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '20741ce7eb',extremes,Tsunami,#690191,random,सुनामी,2026-08-02T05:41:00+00:00,,0.5362644259442051,2,2,hi,,
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,भारत में गंभीर मौसम,2026-08-11T04:01:00+00:00,India,0.5359619328226882,3,3,hi,SAS,Asia
 'f95745a80f',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश बाराबंकी,2026-07-27T06:05:00+00:00,India,0.5348356053988504,2,2,hi,SAS,Asia
+'34855192b0',extremes,Flood,#030ba1,wmo,घाघरा दरौली सिवान बिहार में बाढ़,2026-08-28T14:32:00+00:00,India,0.5337934596699662,1,1,hi,SAS,Asia
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,भूकंप भारत,2026-07-18T05:10:00+00:00,India,0.5329827305843211,2,2,hi,SAS,Asia
 '90522631da',extremes,Precipitation,#d60d2b,wmo,भारत में वर्षा,2026-07-24T05:36:00+00:00,India,0.5309121066271154,2,2,hi,SAS,Asia
 '6fd6742d6c',extremes,Precipitation,#d60d2b,wmo,त्रिपुरा के उत्तरी त्रिपुरा जिले में वर्षा,2026-08-28T14:32:00+00:00,India,0.5248323201175873,0,1,hi,SAS,Asia
@@ -29,6 +28,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '615a4551a5',extremes,Flood,#030ba1,wmo,भारत में बाढ़,2026-07-22T05:35:00+00:00,India,0.5038896411034649,3,2,hi,SAS,Asia
 '294e65ce7a',extremes,Precipitation,#d60d2b,wmo,पंजाब में बारिश की संभावना,2026-07-28T05:31:00+00:00,India,0.5032648694198445,6,3,hi,SAS,Asia
 '30ec449534',extremes,Precipitation,#d60d2b,wmo,पुडुचेरी के पांडिचेरी जिले में वर्षा,2026-08-25T03:27:00+00:00,India,0.5031016878798108,0,1,hi,SAS,Asia
+'bb915c0bb3',extremes,Thunderstorm,#53785a,wmo,ओडिशा के बालेश्वर जिले में मौसम खराब,2026-08-28T14:32:00+00:00,India,0.5022710991952232,1,1,hi,SAS,Asia
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,औषधि,2026-07-22T05:35:00+00:00,,0.5004909697877911,2,2,hi,,
 'f17140c2a2',extremes,Precipitation,#d60d2b,wmo,"मूसलाधार बारिश, हल्की से मध्यम बारिश",2026-08-15T03:13:00+00:00,India,0.4957930564191579,3,1,hi,SAS,Asia
 '519c58c063',extremes,Flood,#030ba1,wmo,बाढ़ भारत,2026-08-14T04:24:00+00:00,India,0.49176573099407,3,2,hi,SAS,Asia
