@@ -1,10 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '615a4551a5',extremes,Flood,#030ba1,wmo,भारत में बाढ़,2026-08-12T04:23:00+00:00,India,0.7058530527414735,1,3,hi,SAS,Asia
 '5b5886737c',extremes,Thunderstorm,#53785a,wmo,उत्तराखंड में अलग-अलग स्थानों पर मौसम बेहद खराब,2026-08-30T08:30:00+00:00,India,0.655342207531251,2,2,hi,SAS,Asia
-'e73f0ce1f7',extremes,Thunderstorm,#53785a,wmo,आंधी तूफान अयोध्या,2026-09-01T07:58:00+00:00,India,0.5975486138235436,1,2,hi,SAS,Asia
-'33ba275d0e',extremes,Thunderstorm,#53785a,wmo,पश्चिम बंगाल के बीरभूम जिले में मौसम खराब,2026-09-01T07:58:00+00:00,India,0.5934880818809973,0,1,hi,SAS,Asia
-'a18ff2a3c6',extremes,Thunderstorm,#53785a,wmo,तूफ़ान मॉड टीएसआरए,2026-09-01T07:58:00+00:00,India,0.5912694159005293,0,1,hi,SAS,Asia
-'835bd02db9',extremes,Storm,#b3b2b1,wmo,झारखंड के 7 जिलों में तूफान,2026-08-31T08:51:00+00:00,India,0.5831198009116283,0,1,hi,SAS,Asia
+'835bd02db9',extremes,Storm,#b3b2b1,wmo,झारखंड के 7 जिलों में तूफान,2026-08-31T08:51:00+00:00,India,0.6458018457748841,1,2,hi,SAS,Asia
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,वर्षा भारत,2026-08-11T04:01:00+00:00,India,0.5792670186096872,1,2,hi,SAS,Asia
 '37e00b91b5',extremes,Flood,#030ba1,wmo,बाढ़ कोसी कुरसेला कटिहार बिहार,2026-09-01T07:58:00+00:00,India,0.5662573375601686,1,1,hi,SAS,Asia
 '90f07d6c4e',extremes,Flood,#030ba1,wmo,बाढ़ पुनपुन श्रीपालपुर पटना बिहार,2026-09-01T07:58:00+00:00,India,0.559303884402387,1,1,hi,SAS,Asia
@@ -29,8 +26,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '296d71c63d',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश चंडीगढ़,2026-08-18T03:24:00+00:00,India,0.5192351290632842,2,3,hi,SAS,Asia
 '2be3d3459b',extremes,Precipitation,#d60d2b,wmo,केरल के वायनाड जिले में भारी बारिश,2026-08-01T05:42:00+00:00,India,0.5112551981263326,2,1,hi,SAS,Asia
 'c4e6e03d17',extremes,Thunderstorm,#53785a,wmo,उत्तराखंड के जिलों में आंधी तूफान,2026-08-22T03:22:00+00:00,India,0.509164010072519,2,1,hi,SAS,Asia
+'e73f0ce1f7',extremes,Thunderstorm,#53785a,wmo,आंधी तूफान अयोध्या,2026-09-01T07:58:00+00:00,India,0.5079163517500122,2,1,hi,SAS,Asia
 '60bddf3351',extremes,Drought,#edc291,edo,भारत में वर्षा की कमी,2026-08-07T04:37:00+00:00,India,0.5060194323788303,1,2,hi,SAS,Asia
+'33ba275d0e',extremes,Thunderstorm,#53785a,wmo,पश्चिम बंगाल के बीरभूम जिले में मौसम खराब,2026-09-01T07:58:00+00:00,India,0.5044648695988477,1,1,hi,SAS,Asia
 '294e65ce7a',extremes,Precipitation,#d60d2b,wmo,पंजाब में बारिश की संभावना,2026-07-28T05:31:00+00:00,India,0.5032648694198445,6,3,hi,SAS,Asia
+'a18ff2a3c6',extremes,Thunderstorm,#53785a,wmo,तूफ़ान मॉड टीएसआरए,2026-09-01T07:58:00+00:00,India,0.5025790035154499,1,1,hi,SAS,Asia
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,औषधि,2026-07-22T05:35:00+00:00,,0.5004909697877911,2,2,hi,,
 '1af7d09d9c',extremes,Storm,#b3b2b1,wmo,पश्चिम बर्दवान जिले के कुछ हिस्सों में तूफान आया,2026-08-29T09:18:00+00:00,India,0.4958221775840076,1,1,hi,SAS,Asia
 'f17140c2a2',extremes,Precipitation,#d60d2b,wmo,"मूसलाधार बारिश, हल्की से मध्यम बारिश",2026-08-15T03:13:00+00:00,India,0.4957930564191579,3,1,hi,SAS,Asia
