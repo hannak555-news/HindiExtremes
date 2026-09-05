@@ -7,7 +7,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '888ec76e17',extremes,Precipitation,#d60d2b,wmo,भारी बारिश ओडिशा,2026-09-01T07:58:00+00:00,India,0.5766492039254739,1,3,hi,SAS,Asia
 '73bf613080',extremes,Flood,#030ba1,wmo,बाढ़ कोसी बलतारा खगड़िया बिहार,2026-09-03T07:20:00+00:00,India,0.5577321983425458,1,1,hi,SAS,Asia
 '136c5b71eb',extremes,Flood,#030ba1,wmo,बाढ़ कोसी बलतारा खगड़िया बिहार,2026-08-29T09:18:00+00:00,India,0.5573922919060609,1,1,hi,SAS,Asia
-'129ecaf9c8',extremes,Flood,#030ba1,wmo,बाढ़ सोन कोईलवर पटना बिहार,2026-09-04T07:23:00+00:00,India,0.5521383727684183,1,1,hi,SAS,Asia
 '108b8200ce',extremes,Storm,#b3b2b1,wmo,तूफ़ान के साथ भारी बारिश,2026-08-19T03:26:00+00:00,India,0.5506068974369807,7,1,hi,SAS,Asia
 'd8dd7f72ee',extremes,Precipitation,#d60d2b,wmo,अलग-अलग स्थानों पर मूसलाधार बारिश,2026-08-25T03:27:00+00:00,India,0.5499004106177725,2,3,hi,SAS,Asia
 '835bd02db9',extremes,Storm,#b3b2b1,wmo,झारखंड के 7 जिलों में तूफान,2026-08-31T08:51:00+00:00,India,0.5490815839086515,2,2,hi,SAS,Asia
@@ -16,7 +15,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4093195155',extremes,Storm,#b3b2b1,wmo,तूफ़ान उछाल भारत,2026-08-11T04:01:00+00:00,India,0.5392001854323271,1,1,hi,SAS,Asia
 '20741ce7eb',extremes,Tsunami,#690191,random,सुनामी,2026-08-02T05:41:00+00:00,,0.5362644259442051,2,2,hi,,
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,भारत में गंभीर मौसम,2026-08-11T04:01:00+00:00,India,0.5359619328226882,3,3,hi,SAS,Asia
-'99803d2c4f',extremes,Flood,#030ba1,wmo,बाढ़ कोसी बसुआ सुपौल बिहार,2026-08-28T14:32:00+00:00,India,0.5353062737710527,1,1,hi,SAS,Asia
 'f95745a80f',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश बाराबंकी,2026-07-27T06:05:00+00:00,India,0.5348356053988504,2,2,hi,SAS,Asia
 '00bea9baed',extremes,Storm,#b3b2b1,wmo,मिजोरम के 7 जिलों में तूफान,2026-08-28T14:32:00+00:00,India,0.5311492445496067,2,1,hi,SAS,Asia
 'ad992f6e65',extremes,Thunderstorm,#53785a,wmo,आंधी तूफान वाराणसी,2026-08-29T09:18:00+00:00,India,0.5308336681285557,2,2,hi,SAS,Asia
@@ -31,7 +29,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '519c58c063',extremes,Flood,#030ba1,wmo,बाढ़ भारत,2026-08-14T04:24:00+00:00,India,0.49176573099407,3,2,hi,SAS,Asia
 '860af4b577',extremes,Precipitation,#d60d2b,wmo,त्रिपुरा के उत्तरी त्रिपुरा जिले में भारी बारिश,2026-08-07T09:56:00+00:00,India,0.4913854839817112,2,1,hi,SAS,Asia
 'fc9243330a',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश चंडीगढ़,2026-08-19T03:26:00+00:00,India,0.4863516184414252,3,2,hi,SAS,Asia
-'6690573b9a',extremes,Earthquake,#870007,usgs,भूकंप जोशीमठ,2026-09-04T07:23:00+00:00,India,0.4835022898345668,1,1,hi,TIB,Asia
 '778d256165',extremes,Flood,#030ba1,wmo,फ्लैशफ्लड इंडिया,2026-08-12T04:23:00+00:00,India,0.4811799693095632,2,1,hi,SAS,Asia
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,ओले,2026-08-20T03:26:00+00:00,,0.4807175878852385,2,2,hi,,
 '7aa008bd6e',extremes,Flood,#030ba1,wmo,बाढ़ सोन मनेर पटना बिहार,2026-08-27T13:00:00+00:00,India,0.4789369890903862,2,1,hi,SAS,Asia
@@ -43,14 +40,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3b2210ba28',extremes,Flood,#030ba1,wmo,बाढ़ गंगा हथिदह पटना बिहार,2026-08-30T08:30:00+00:00,India,0.472844833771095,2,1,hi,SAS,Asia
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,तूफ़ान भारत,2026-08-11T04:01:00+00:00,India,0.4722451672226807,2,1,hi,SAS,Asia
 '490ea9547b',extremes,Flood,#030ba1,wmo,बाढ़ कोसी बसुआ सुपौल बिहार,2026-08-27T13:00:00+00:00,India,0.4695446425534707,2,1,hi,SAS,Asia
+'129ecaf9c8',extremes,Flood,#030ba1,wmo,बाढ़ सोन कोईलवर पटना बिहार,2026-09-04T07:23:00+00:00,India,0.4693176168531555,2,1,hi,SAS,Asia
 '41732ed753',extremes,Flood,#030ba1,wmo,बाढ़ पिथौरागढ़ जिला,2026-08-17T03:28:00+00:00,India,0.4690859799082496,2,1,hi,SAS,Asia
 '1242e03cf5',extremes,Flood,#030ba1,wmo,"बाढ़ गंगा, भागलपुर, बिहार",2026-09-02T07:16:00+00:00,India,0.4685797069948677,2,1,hi,SAS,Asia
 '774d2bf860',extremes,Flood,#030ba1,wmo,बाढ़ सोन मनेर पटना बिहार,2026-08-30T08:30:00+00:00,India,0.4659055318269035,2,1,hi,SAS,Asia
 '8c789f8ca4',extremes,Flood,#030ba1,wmo,बाढ़ गंडक हाजीपुर वैशाली बिहार,2026-08-27T13:00:00+00:00,India,0.4631950658879214,2,1,hi,SAS,Asia
+'46906d4391',extremes,Thunderstorm,#53785a,wmo,उत्तराखंड के जिलों में मौसम बेहद खराब,2026-09-04T07:23:00+00:00,India,0.4620529715384644,2,2,hi,SAS,Asia
 'c2b07afbf7',extremes,Flood,#030ba1,wmo,बाढ़ कोसी बसुआ सुपौल बिहार,2026-09-03T07:20:00+00:00,India,0.4586079370228363,2,1,hi,SAS,Asia
 '88d29f47bc',extremes,Storm,#b3b2b1,wmo,तूफ़ान झारग्राम,2026-08-27T13:00:00+00:00,India,0.4572573134489055,2,1,hi,SAS,Asia
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,गर्मी,2026-08-19T03:25:00+00:00,,0.4553258226468627,1,3,hi,,
 'd313ae7750',extremes,Precipitation,#d60d2b,wmo,"केरल, ओडिशा में वर्षा",2026-08-07T09:56:00+00:00,India,0.4552644741087188,4,3,hi,SAS,Asia
+'99803d2c4f',extremes,Flood,#030ba1,wmo,बाढ़ कोसी बसुआ सुपौल बिहार,2026-08-28T14:32:00+00:00,India,0.45501033270539476,2,1,hi,SAS,Asia
 '34855192b0',extremes,Flood,#030ba1,wmo,घाघरा दरौली सिवान बिहार में बाढ़,2026-08-28T14:32:00+00:00,India,0.4537244407194712,2,1,hi,SAS,Asia
 '26fee806c3',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश भारत,2026-08-11T04:01:00+00:00,India,0.4534563694545694,2,1,hi,SAS,Asia
 '1c0f0dc5e2',extremes,Flood,#030ba1,wmo,बाढ़ गंगा भागलपुरभागलपुर बिहार,2026-08-27T13:00:00+00:00,India,0.4529533650554256,2,1,hi,SAS,Asia
@@ -62,7 +62,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7fa51ef7ff',extremes,Thunderstorm,#53785a,wmo,तूफ़ान से ऊपर,2026-08-30T08:30:00+00:00,India,0.4442981876092124,2,1,hi,SAS,Asia
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,तूफ़ान भारत,2026-08-11T04:01:00+00:00,India,0.4434187746471491,2,1,hi,SAS,Asia
 '35bd62c5a9',extremes,Drought,#edc291,edo,भारत में सूखा,2026-08-04T05:32:00+00:00,India,0.4422043356345403,2,2,hi,SAS,Asia
-'d2b5043a66',extremes,Cold Wave,#a7e9fa,random,सबसे कम न्यूनतम तापमान,2026-09-02T07:16:00+00:00,,0.4383205473887431,1,2,hi,,
 '8d47dfc890',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम tslg,2026-08-04T05:32:00+00:00,India,0.4350691437069117,2,1,hi,SAS,Asia
 '4ff91d3ac8',extremes,Thunderstorm,#53785a,wmo,तूफ़ान tslg,2026-08-27T13:00:00+00:00,India,0.4327451270187949,2,1,hi,SAS,Asia
 '60bddf3351',extremes,Drought,#edc291,edo,भारत में वर्षा की कमी,2026-08-07T04:37:00+00:00,India,0.4301165475220057,2,1,hi,SAS,Asia
@@ -72,8 +71,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a18ff2a3c6',extremes,Thunderstorm,#53785a,wmo,तूफ़ान मॉड टीएसआरए,2026-09-01T07:58:00+00:00,India,0.4271921529881324,2,1,hi,SAS,Asia
 'bb915c0bb3',extremes,Thunderstorm,#53785a,wmo,ओडिशा के बालेश्वर जिले में मौसम खराब,2026-08-28T14:32:00+00:00,India,0.4269304343159397,2,1,hi,SAS,Asia
 '22a1a9ebb8',extremes,Storm,#b3b2b1,wmo,तूफ़ान के साथ मध्यम बारिश,2026-09-02T07:16:00+00:00,India,0.425473020352647,2,1,hi,SAS,Asia
-'46906d4391',extremes,Thunderstorm,#53785a,wmo,उत्तराखंड के जिलों में मौसम बेहद खराब,2026-09-04T07:23:00+00:00,India,0.4254152076923111,1,1,hi,SAS,Asia
-'bd21048a6a',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-08-20T03:26:00+00:00,United Arab Emirates,0.4233810190300342,0,1,hi,ARP,Asia
 '1af7d09d9c',extremes,Storm,#b3b2b1,wmo,पश्चिम बर्दवान जिले के कुछ हिस्सों में तूफान आया,2026-08-29T09:18:00+00:00,India,0.4214488509464064,2,1,hi,SAS,Asia
 'ba5e4ccff8',extremes,Precipitation,#d60d2b,wmo,"वर्षा हरिद्वार, पौडी, नैनीताल, यूएस नगर",2026-08-18T03:24:00+00:00,India,0.4192185898347758,2,1,hi,SAS,Asia
 '6675fdaa12',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश सीतापुर,2026-08-16T03:28:00+00:00,India,0.4190380148600883,2,1,hi,SAS,Asia
@@ -89,6 +86,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f90601fa23',extremes,Volcano,#b83202,random,ज्वालामुखी विस्फोट,2026-08-15T03:13:00+00:00,,0.4135884966078395,2,1,hi,,
 '8cd64ab8b9',extremes,Flood,#030ba1,wmo,बाढ़ सोन मनेर पटना बिहार,2026-09-02T07:16:00+00:00,India,0.4112851958981163,2,1,hi,SAS,Asia
 'e2544d7062',extremes,Thunderstorm,#53785a,wmo,पश्चिम बंगाल के झारग्राम जिले में मौसम खराब,2026-08-23T03:30:00+00:00,India,0.4111854821281,2,1,hi,SAS,Asia
+'6690573b9a',extremes,Earthquake,#870007,usgs,भूकंप जोशीमठ,2026-09-04T07:23:00+00:00,India,0.41097694635938176,2,1,hi,TIB,Asia
 '3995cf19a0',extremes,Thunderstorm,#53785a,wmo,पश्चिम बंगाल के हाओरा जिले में मौसम गंभीर,2026-08-29T09:18:00+00:00,India,0.4103389004367457,1,1,hi,SAS,Asia
 'f37139fe2d',extremes,Landslide,#572c03,random,भूस्खलन,2026-08-15T03:13:00+00:00,,0.4095238928407603,1,3,hi,,
 '37e00b91b5',extremes,Flood,#030ba1,wmo,बाढ़ कोसी कुरसेला कटिहार बिहार,2026-09-01T07:58:00+00:00,India,0.4091209263872218,3,1,hi,SAS,Asia
@@ -156,6 +154,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82d648b882',extremes,Drought,#edc291,random,सूखा,2026-08-04T05:31:00+00:00,,0.3746997268744519,2,1,hi,,
 '10ab93f88a',extremes,Flood,#030ba1,wmo,बाढ़ महानंदा झावा कटिहार बिहार,2026-08-07T09:56:00+00:00,India,0.3734737346910235,2,1,hi,SAS,Asia
 'a7d17b51bd',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम एमटीएस,2026-08-05T05:31:00+00:00,India,0.3728377097511786,1,1,hi,SAS,Asia
+'d2b5043a66',extremes,Cold Wave,#a7e9fa,random,सबसे कम न्यूनतम तापमान,2026-09-02T07:16:00+00:00,,0.37257255528043165,2,1,hi,,
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,मूसलाधार बारिश,2026-08-15T03:13:00+00:00,,0.372292194038051,1,3,hi,,
 '48a3cd2e6e',extremes,Precipitation,#d60d2b,wmo,हरियाणा के सोनीपत जिले में वर्षा,2026-08-15T03:13:00+00:00,India,0.3711512194315389,2,1,hi,SAS,Asia
 '5aa23b22fc',extremes,Thunderstorm,#53785a,wmo,"ओलावृष्टि बागेश्वर,पिथौरागढ़,पौड़ी",2026-08-20T03:26:00+00:00,India,0.3709912129709745,1,1,hi,SAS,Asia
@@ -188,6 +187,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3d7ac448d0',extremes,Precipitation,#d60d2b,wmo,"मूसलाधार बारिश देहरादून,टिहरी,पौड़ी",2026-08-18T03:24:00+00:00,India,0.3609135760499876,2,1,hi,SAS,Asia
 '0cb928d95e',extremes,Thunderstorm,#53785a,wmo,कुछ हिस्सों में ओलावृष्टि,2026-08-02T05:42:00+00:00,India,0.3608688023481169,1,1,hi,SAS,Asia
 '45500dcb47',extremes,Precipitation,#d60d2b,random,रिकॉर्ड वर्षा,2026-08-22T03:22:00+00:00,,0.3602278448784063,2,1,hi,,
+'bd21048a6a',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-08-20T03:26:00+00:00,United Arab Emirates,0.3598738661755291,1,1,hi,ARP,Asia
 'd3f10e7615',extremes,Thunderstorm,#53785a,wmo,"ओलावृष्टि, मध्यम वर्षा",2026-08-23T03:30:00+00:00,India,0.3595018827934563,3,1,hi,SAS,Asia
 '508ca6ddbe',extremes,Precipitation,#d60d2b,wmo,वर्षा केन्द्रीय ऊपर,2026-08-19T03:26:00+00:00,India,0.3593678486286112,2,1,hi,SAS,Asia
 '3ca745d421',extremes,Wildfire,#d60d2b,effis,जंगल की आग अल्जीरिया,2026-08-07T09:56:00+00:00,Algeria,0.3586484863119456,2,1,hi,MED,Africa
