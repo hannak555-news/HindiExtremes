@@ -1,10 +1,13 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '5b5886737c',extremes,Thunderstorm,#53785a,wmo,उत्तराखंड में अलग-अलग स्थानों पर मौसम बेहद खराब,2026-08-30T08:30:00+00:00,India,0.655342207531251,2,2,hi,SAS,Asia
+'129ecaf9c8',extremes,Flood,#030ba1,wmo,बाढ़ सोन कोईलवर पटना बिहार,2026-09-04T07:23:00+00:00,India,0.6495745561981392,0,1,hi,SAS,Asia
 '615a4551a5',extremes,Flood,#030ba1,wmo,भारत में बाढ़,2026-08-12T04:23:00+00:00,India,0.6484709342746969,2,3,hi,SAS,Asia
+'99803d2c4f',extremes,Flood,#030ba1,wmo,बाढ़ कोसी बसुआ सुपौल बिहार,2026-08-28T14:32:00+00:00,India,0.6297720867894737,0,1,hi,SAS,Asia
 '4fc6c13608',extremes,Flood,#030ba1,wmo,पृथक स्थानों में बाढ़,2026-09-02T07:16:00+00:00,India,0.6216648879471912,2,2,hi,SAS,Asia
 '0fd2e05a00',extremes,Flood,#030ba1,wmo,बाढ़ गंगा बक्सर बिहार,2026-09-02T07:16:00+00:00,India,0.5922076822221236,2,1,hi,SAS,Asia
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,वर्षा भारत,2026-08-11T04:01:00+00:00,India,0.5792670186096872,1,2,hi,SAS,Asia
 '888ec76e17',extremes,Precipitation,#d60d2b,wmo,भारी बारिश ओडिशा,2026-09-01T07:58:00+00:00,India,0.5766492039254739,1,3,hi,SAS,Asia
+'6690573b9a',extremes,Earthquake,#870007,usgs,भूकंप जोशीमठ,2026-09-04T07:23:00+00:00,India,0.5688262233347845,0,1,hi,TIB,Asia
 '73bf613080',extremes,Flood,#030ba1,wmo,बाढ़ कोसी बलतारा खगड़िया बिहार,2026-09-03T07:20:00+00:00,India,0.5577321983425458,1,1,hi,SAS,Asia
 '136c5b71eb',extremes,Flood,#030ba1,wmo,बाढ़ कोसी बलतारा खगड़िया बिहार,2026-08-29T09:18:00+00:00,India,0.5573922919060609,1,1,hi,SAS,Asia
 '108b8200ce',extremes,Storm,#b3b2b1,wmo,तूफ़ान के साथ भारी बारिश,2026-08-19T03:26:00+00:00,India,0.5506068974369807,7,1,hi,SAS,Asia
@@ -43,6 +46,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8fa84157eb',extremes,Flood,#030ba1,wmo,बाढ़ कोसी कुर्सेला कटिहार बिहार,2026-08-31T08:51:00+00:00,India,0.4752077189290236,2,1,hi,SAS,Asia
 '3b2210ba28',extremes,Flood,#030ba1,wmo,बाढ़ गंगा हथिदह पटना बिहार,2026-08-30T08:30:00+00:00,India,0.472844833771095,2,1,hi,SAS,Asia
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,तूफ़ान भारत,2026-08-11T04:01:00+00:00,India,0.4722451672226807,2,1,hi,SAS,Asia
+'7054c01ed8',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में बारिश की कमी,2026-08-23T03:30:00+00:00,United Arab Emirates,0.47057309397225744,0,1,hi,ARP,Asia
 '490ea9547b',extremes,Flood,#030ba1,wmo,बाढ़ कोसी बसुआ सुपौल बिहार,2026-08-27T13:00:00+00:00,India,0.4695446425534707,2,1,hi,SAS,Asia
 '41732ed753',extremes,Flood,#030ba1,wmo,बाढ़ पिथौरागढ़ जिला,2026-08-17T03:28:00+00:00,India,0.4690859799082496,2,1,hi,SAS,Asia
 '1242e03cf5',extremes,Flood,#030ba1,wmo,"बाढ़ गंगा, भागलपुर, बिहार",2026-09-02T07:16:00+00:00,India,0.4685797069948677,2,1,hi,SAS,Asia
@@ -64,6 +68,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7fa51ef7ff',extremes,Thunderstorm,#53785a,wmo,तूफ़ान से ऊपर,2026-08-30T08:30:00+00:00,India,0.4442981876092124,2,1,hi,SAS,Asia
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,तूफ़ान भारत,2026-08-11T04:01:00+00:00,India,0.4434187746471491,2,1,hi,SAS,Asia
 '35bd62c5a9',extremes,Drought,#edc291,edo,भारत में सूखा,2026-08-04T05:32:00+00:00,India,0.4422043356345403,2,2,hi,SAS,Asia
+'46906d4391',extremes,Thunderstorm,#53785a,wmo,उत्तराखंड के जिलों में मौसम बेहद खराब,2026-09-04T07:23:00+00:00,India,0.441135485520366,0,1,hi,SAS,Asia
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,सबसे कम न्यूनतम तापमान,2026-09-02T07:16:00+00:00,,0.4383205473887431,1,2,hi,,
 '8d47dfc890',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम tslg,2026-08-04T05:32:00+00:00,India,0.4350691437069117,2,1,hi,SAS,Asia
 '4ff91d3ac8',extremes,Thunderstorm,#53785a,wmo,तूफ़ान tslg,2026-08-27T13:00:00+00:00,India,0.4327451270187949,2,1,hi,SAS,Asia
@@ -74,6 +79,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a18ff2a3c6',extremes,Thunderstorm,#53785a,wmo,तूफ़ान मॉड टीएसआरए,2026-09-01T07:58:00+00:00,India,0.4271921529881324,2,1,hi,SAS,Asia
 'bb915c0bb3',extremes,Thunderstorm,#53785a,wmo,ओडिशा के बालेश्वर जिले में मौसम खराब,2026-08-28T14:32:00+00:00,India,0.4269304343159397,2,1,hi,SAS,Asia
 '22a1a9ebb8',extremes,Storm,#b3b2b1,wmo,तूफ़ान के साथ मध्यम बारिश,2026-09-02T07:16:00+00:00,India,0.425473020352647,2,1,hi,SAS,Asia
+'bd21048a6a',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-08-20T03:26:00+00:00,United Arab Emirates,0.4233810190300342,0,1,hi,ARP,Asia
 '1af7d09d9c',extremes,Storm,#b3b2b1,wmo,पश्चिम बर्दवान जिले के कुछ हिस्सों में तूफान आया,2026-08-29T09:18:00+00:00,India,0.4214488509464064,2,1,hi,SAS,Asia
 'ba5e4ccff8',extremes,Precipitation,#d60d2b,wmo,"वर्षा हरिद्वार, पौडी, नैनीताल, यूएस नगर",2026-08-18T03:24:00+00:00,India,0.4192185898347758,2,1,hi,SAS,Asia
 '6675fdaa12',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश सीतापुर,2026-08-16T03:28:00+00:00,India,0.4190380148600883,2,1,hi,SAS,Asia
@@ -134,11 +140,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3286dc7d0b',extremes,Thunderstorm,#53785a,wmo,मौसम का मिजाज बिगड़ा संभल,2026-08-14T04:24:00+00:00,India,0.3825727894473105,1,1,hi,SAS,Asia
 '25a3be3c80',extremes,Thunderstorm,#53785a,wmo,जय हो प्रयागराज,2026-08-04T05:32:00+00:00,India,0.3825582132925399,1,1,hi,SAS,Asia
 '8e73946748',extremes,Thunderstorm,#53785a,wmo,आंधी तूफान गाजीपुर और आसपास,2026-08-31T08:51:00+00:00,India,0.382436412907689,1,1,hi,SAS,Asia
+'80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,चक्रवात,2026-09-01T07:57:00+00:00,,0.38230298258869616,0,1,hi,,
+'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,उष्णकटिबंधीय तूफान,2026-08-23T03:30:00+00:00,,0.38201498512141613,0,1,hi,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,हिमशैल का शांत होना,2026-08-30T08:29:00+00:00,,0.3816257422417249,0,1,hi,,
 '51d270a690',extremes,Thunderstorm,#53785a,wmo,"कोलकाता, हावड़ा, दक्षिण 24 परगना में गंभीर मौसम",2026-08-27T13:00:00+00:00,India,0.3811889260853615,1,1,hi,SAS,Asia
 '8e47a10746',extremes,Thunderstorm,#53785a,wmo,"गंभीर मौसम, झारग्राम, पश्चिमी मिदनापुर",2026-08-27T13:00:00+00:00,India,0.3811303445238104,1,1,hi,SAS,Asia
+'0d261f252d',extremes,Storm,#b3b2b1,random,शीत ऋतु की आंधी,2026-08-26T03:33:00+00:00,,0.3810163197988169,0,1,hi,,
 '4c74471839',extremes,Flood,#030ba1,wmo,बाढ़ ब्रह्मपुत्र धुबरी धुबरी असम,2026-08-11T04:01:00+00:00,India,0.3802858233842727,3,1,hi,SAS,Asia
 '48354e68c1',extremes,Precipitation,#d60d2b,wmo,वर्षा बिजनौर मिर्ज़ापुर,2026-08-30T08:30:00+00:00,India,0.3802481299549553,2,1,hi,SAS,Asia
+'d59a7e48d7',extremes,Drought,#edc291,random,वाष्पीकरण-उत्सर्जन,2026-08-28T14:31:00+00:00,,0.3800898213017486,0,1,hi,,
 '41117933bb',extremes,Precipitation,#d60d2b,wmo,कुछ भागों में भारी वर्षा,2026-09-03T07:20:00+00:00,India,0.3798154074779232,2,1,hi,SAS,Asia
 '628ab51514',extremes,Precipitation,#d60d2b,wmo,वर्षा झाँसी जालौन,2026-08-26T03:34:00+00:00,India,0.3794627505300624,2,1,hi,SAS,Asia
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,भारी वर्षा,2026-08-01T05:41:00+00:00,,0.3792688663384846,2,3,hi,,
@@ -234,7 +244,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,ग्लेशियर का शांत होना,2026-08-05T05:31:00+00:00,,0.3194069164737979,1,1,hi,,
 '41e25f9467',extremes,Thunderstorm,#53785a,wmo,सुल्तानपुर ऊपर और आसपास आंधी तूफान,2026-08-03T05:57:00+00:00,India,0.3179569897760728,2,1,hi,SAS,Asia
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,जमना,2026-08-18T03:23:00+00:00,,0.3176392962014645,1,1,hi,,
-'1fff28081a',extremes,Thunderstorm,#53785a,wmo,उत्तराखंड के जिलों में ओलावृष्टि,2026-08-10T04:14:00+00:00,India,0.31248238982646986,2,1,hi,SAS,Asia
+'1fff28081a',extremes,Thunderstorm,#53785a,wmo,उत्तराखंड के जिलों में ओलावृष्टि,2026-08-10T04:14:00+00:00,India,0.3124823898264698,2,1,hi,SAS,Asia
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,सबसे ठंडी सर्दी,2026-08-07T11:06:00+00:00,,0.3093688675634833,1,1,hi,,
 'c1b1450575',extremes,Drought,#edc291,edo,सूखापन हंगरी,2026-08-03T05:58:00+00:00,Hungary,0.3085611404475101,0,1,hi,WCE,Europe
 'f3e202b15b',extremes,Thunderstorm,#53785a,wmo,हरिद्वार और बाकी जिलों में मौसम बेहद खराब,2026-08-16T03:28:00+00:00,India,0.30813926696269,2,1,hi,SAS,Asia
