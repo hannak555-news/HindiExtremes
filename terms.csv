@@ -81,6 +81,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,गंभीर मौसम,2026-08-23T03:30:00+00:00,,0.4517081041197942,2,3,hi,,
 'c20f3440df',extremes,Thunderstorm,#53785a,wmo,तूफ़ान बांकुरापुरुलिया,2026-08-29T09:18:00+00:00,India,0.4516754164703112,2,1,hi,SAS,Asia
 'c0ebbd1ba0',extremes,Precipitation,#d60d2b,wmo,जीबी नगर गाजियाबाद में भारी बारिश,2026-09-05T07:05:00+00:00,India,0.4509012262254659,1,1,hi,SAS,Asia
+'62084daeb0',extremes,Earthquake,#870007,random,भूकंप,2026-09-05T07:04:00+00:00,,0.44936676738030235,1,3,hi,,
 '3341f1cf62',extremes,Thunderstorm,#53785a,wmo,तूफ़ान जलपाईगुरीकलीम्पोंग,2026-08-29T09:18:00+00:00,India,0.4450194583709002,2,1,hi,SAS,Asia
 '2d5f6e35c9',extremes,Thunderstorm,#53785a,wmo,तूफान पश्चिम मिदनापुरझारग्राम,2026-09-01T07:58:00+00:00,India,0.4444832789916415,2,1,hi,SAS,Asia
 '7fa51ef7ff',extremes,Thunderstorm,#53785a,wmo,तूफ़ान से ऊपर,2026-08-30T08:30:00+00:00,India,0.4442981876092124,2,1,hi,SAS,Asia
@@ -149,7 +150,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9a44d8aef1',extremes,Flood,#030ba1,wmo,"बाढ़ गंगा,मुंगेर,मुंगेर बिहार",2026-09-03T07:20:00+00:00,India,0.3892812048664198,2,1,hi,SAS,Asia
 'd3c6b28bef',extremes,Thunderstorm,#53785a,wmo,तूफान जलपाईगुड़ी,2026-08-30T08:30:00+00:00,India,0.388897181590238,1,1,hi,SAS,Asia
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,हिमस्खलन,2026-09-10T07:28:00+00:00,,0.386850272436199,0,1,hi,,
-'bb5805c6b1',extremes,Thunderstorm,#53785a,wmo,आंधी तूफान प्रयागराज जौनपुर और आसपास,2026-08-05T05:31:00+00:00,India,0.3864678297159859,1,1,hi,SAS,Asia
 '75b28e6213',extremes,Flood,#030ba1,wmo,बाढ़ गंगा हथिदह पटना बिहार,2026-08-27T13:00:00+00:00,India,0.3858212869125089,2,1,hi,SAS,Asia
 'f52120e987',extremes,Thunderstorm,#53785a,wmo,अलग-अलग स्थानों पर गरज के साथ बौछारें,2026-08-21T03:30:00+00:00,India,0.3843563487358964,2,1,hi,SAS,Asia
 'e3e022bbbf',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि मीरजापुर सोभद्रा,2026-08-18T03:24:00+00:00,India,0.3834714089182644,1,1,hi,SAS,Asia
@@ -218,7 +218,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '239adcbd1d',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश मयूरभंज,2026-08-28T14:32:00+00:00,India,0.3569712532351288,2,1,hi,SAS,Asia
 'ea574bcad8',extremes,Precipitation,#d60d2b,wmo,वर्षा कानपुर बदायूँ,2026-08-14T04:24:00+00:00,India,0.3556667606470141,3,1,hi,SAS,Asia
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,ग्लेशियर का शांत होना,2026-09-01T07:57:00+00:00,,0.3541953189746344,0,1,hi,,
-'62084daeb0',extremes,Earthquake,#870007,random,भूकंप,2026-09-05T07:04:00+00:00,,0.3517191669714787,0,1,hi,,
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,रेतीला तूफ़ान,2026-08-25T03:27:00+00:00,,0.3486207939742862,0,1,hi,,
 'abb98ebecc',extremes,Thunderstorm,#53785a,wmo,झारखंड के कोडरमा जिले में वज्रपात,2026-09-01T07:58:00+00:00,India,0.3477283641919332,2,1,hi,SAS,Asia
 '845dd2d698',extremes,Storm,#b3b2b1,random,बवंडर,2026-08-21T03:30:00+00:00,,0.3476703578235571,0,1,hi,,
