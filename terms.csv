@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'615a4551a5',extremes,Flood,#030ba1,wmo,भारत में बाढ़,2026-08-12T04:23:00+00:00,India,0.6970609000425833,3,3,hi,SAS,Asia
+'615a4551a5',extremes,Flood,#030ba1,wmo,भारत में बाढ़,2026-08-12T04:23:00+00:00,India,0.724726007308923,4,3,hi,SAS,Asia
 'd14bb7b5da',extremes,Precipitation,#d60d2b,wmo,पश्चिम बंगाल के मुर्शिदाबाद जिले में मूसलाधार बारिश,2026-09-07T07:29:00+00:00,India,0.6402085431620216,2,2,hi,SAS,Asia
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,भारत में मूसलाधार बारिश,2026-08-31T08:51:00+00:00,India,0.6344767344219878,2,3,hi,SAS,Asia
 '4fc6c13608',extremes,Flood,#030ba1,wmo,पृथक स्थानों में बाढ़,2026-09-02T07:16:00+00:00,India,0.6216648879471912,2,2,hi,SAS,Asia
@@ -143,7 +143,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b05dfb387e',extremes,Thunderstorm,#53785a,wmo,पश्चिम बंगाल के कलिम्पोंग जिले में ओले गिरे,2026-08-30T08:30:00+00:00,India,0.3919577665634371,1,1,hi,SAS,Asia
 '6abd5a2bc1',extremes,Storm,#b3b2b1,wmo,पूर्वी बर्दवानबीरभूम में तूफान की लहर,2026-08-29T09:18:00+00:00,India,0.3913125835389084,2,1,hi,SAS,Asia
 '3e8d2d58ee',extremes,Thunderstorm,#53785a,wmo,दक्षिण और पश्चिम में तूफ़ान,2026-09-02T07:16:00+00:00,India,0.3910466437580654,1,1,hi,SAS,Asia
-'f8b8564f47',extremes,Storm,#b3b2b1,wmo,त्रिपुरा के दक्षिण त्रिपुरा जिले में तूफ़ान की लहर,2026-08-29T09:18:00+00:00,India,0.3904720582744424,2,1,hi,SAS,Asia
 '370495a998',extremes,Precipitation,#d60d2b,wmo,वर्षा आज़मगढ़ मऊ,2026-08-27T13:00:00+00:00,India,0.3904592761047743,2,1,hi,SAS,Asia
 '636c676150',extremes,Thunderstorm,#53785a,wmo,आंधी तूफान इटावा औरैया कानपुर देहात,2026-08-07T11:06:00+00:00,India,0.389575628978797,1,1,hi,SAS,Asia
 '2a77519cf2',extremes,Thunderstorm,#53785a,wmo,पश्चिम बंगाल के पुरुलिया जिले में मौसम खराब,2026-08-27T13:00:00+00:00,India,0.3895720047566159,1,1,hi,SAS,Asia
@@ -226,6 +225,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '053bb10e09',extremes,Heat Wave,#c40202,random,भारतीय गर्मी,2026-08-30T08:29:00+00:00,,0.3350309350118775,1,2,hi,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,हिमशैल आर्कटिक,2026-09-08T07:23:00+00:00,,0.3343663529343995,1,1,hi,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,टिड्डियाँ,2026-08-12T04:22:00+00:00,,0.3333061843480178,1,1,hi,,
+'f8b8564f47',extremes,Storm,#b3b2b1,wmo,त्रिपुरा के दक्षिण त्रिपुरा जिले में तूफ़ान की लहर,2026-08-29T09:18:00+00:00,India,0.33190124953327604,3,1,hi,SAS,Asia
 '1405131905',extremes,Thunderstorm,#53785a,random,ओले,2026-08-29T09:18:00+00:00,,0.3316834689090747,0,1,hi,,
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,ठंढ,2026-08-31T08:51:00+00:00,,0.3315847465255091,0,1,hi,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,शीतलहर,2026-08-29T09:18:00+00:00,,0.3314845134614493,0,1,hi,,
@@ -269,7 +269,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,जमना,2026-08-18T03:23:00+00:00,,0.3176392962014645,1,1,hi,,
 '7d72d405be',extremes,Tropical Cyclone,#4f4f4f,eonet,तूफान लोवेल,2026-09-02T07:16:00+00:00,,0.3172348526717112,0,1,hi,NPO,Pacific Ocean
 '00e5e36ea1',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय तूफान आइसेल,2026-08-25T03:27:00+00:00,,0.3170066591638231,0,1,hi,NPO,Pacific Ocean
-'db3be3f429',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय तूफान बैंग लैंग,2026-08-31T08:51:00+00:00,,0.3169554391479997,0,1,hi,NPO,Pacific Ocean
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,बर्फ़ीला तूफ़ान,2026-09-09T07:32:00+00:00,,0.3092609442135924,1,1,hi,,
 'f3e202b15b',extremes,Thunderstorm,#53785a,wmo,हरिद्वार और बाकी जिलों में मौसम बेहद खराब,2026-08-16T03:28:00+00:00,India,0.30813926696269,2,1,hi,SAS,Asia
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,ग्लेशियर का शांत होना,2026-09-01T07:57:00+00:00,,0.3010660211284392,1,1,hi,,
