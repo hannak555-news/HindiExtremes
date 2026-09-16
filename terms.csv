@@ -76,6 +76,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2d5f6e35c9',extremes,Thunderstorm,#53785a,wmo,तूफान पश्चिम मिदनापुरझारग्राम,2026-09-01T07:58:00+00:00,India,0.4444832789916415,2,1,hi,SAS,Asia
 '7fa51ef7ff',extremes,Thunderstorm,#53785a,wmo,तूफ़ान से ऊपर,2026-08-30T08:30:00+00:00,India,0.4442981876092124,2,1,hi,SAS,Asia
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,रिकॉर्ड ठंड,2026-08-22T03:22:00+00:00,,0.4417002651371331,1,2,hi,,
+'4d9577e33d',extremes,Volcano,#b83202,random,ज्वालामुखी,2026-08-25T03:27:00+00:00,,0.4409943902694924,1,2,hi,,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,पाला,2026-09-10T07:28:00+00:00,,0.4409276473486721,1,2,hi,,
 '4ff91d3ac8',extremes,Thunderstorm,#53785a,wmo,तूफ़ान tslg,2026-08-27T13:00:00+00:00,India,0.4327451270187949,2,1,hi,SAS,Asia
 '33ba275d0e',extremes,Thunderstorm,#53785a,wmo,पश्चिम बंगाल के बीरभूम जिले में मौसम खराब,2026-09-01T07:58:00+00:00,India,0.4287951391590205,2,1,hi,SAS,Asia
@@ -136,7 +137,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f52120e987',extremes,Thunderstorm,#53785a,wmo,अलग-अलग स्थानों पर गरज के साथ बौछारें,2026-08-21T03:30:00+00:00,India,0.3843563487358964,2,1,hi,SAS,Asia
 'e3e022bbbf',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि मीरजापुर सोभद्रा,2026-08-18T03:24:00+00:00,India,0.3834714089182644,1,1,hi,SAS,Asia
 'c0ebbd1ba0',extremes,Precipitation,#d60d2b,wmo,जीबी नगर गाजियाबाद में भारी बारिश,2026-09-05T07:05:00+00:00,India,0.383266042291646,2,1,hi,SAS,Asia
-'257d97df6f',extremes,Thunderstorm,#53785a,wmo,पश्चिम मिदनापुरझारग्राम में ओलावृष्टि,2026-08-27T13:00:00+00:00,India,0.3829176178113846,1,1,hi,SAS,Asia
 '3286dc7d0b',extremes,Thunderstorm,#53785a,wmo,मौसम का मिजाज बिगड़ा संभल,2026-08-14T04:24:00+00:00,India,0.3825727894473105,1,1,hi,SAS,Asia
 '8e73946748',extremes,Thunderstorm,#53785a,wmo,आंधी तूफान गाजीपुर और आसपास,2026-08-31T08:51:00+00:00,India,0.382436412907689,1,1,hi,SAS,Asia
 '51d270a690',extremes,Thunderstorm,#53785a,wmo,"कोलकाता, हावड़ा, दक्षिण 24 परगना में गंभीर मौसम",2026-08-27T13:00:00+00:00,India,0.3811889260853615,1,1,hi,SAS,Asia
@@ -147,7 +147,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a53460d435',extremes,Flood,#030ba1,wmo,बाढ़ गंडक हाजीपुर वैशाली बिहार,2026-08-28T14:32:00+00:00,India,0.3785394845627002,2,1,hi,SAS,Asia
 '782e73a050',extremes,Precipitation,#d60d2b,wmo,वर्षा आगरा,2026-09-03T07:20:00+00:00,India,0.3784055971808723,2,1,hi,SAS,Asia
 '9efede5b5d',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि पश्चिम बर्दवानबांकुरा,2026-08-27T13:00:00+00:00,India,0.3770709491848559,1,1,hi,SAS,Asia
-'4d9577e33d',extremes,Volcano,#b83202,random,ज्वालामुखी,2026-08-25T03:27:00+00:00,,0.3758755767876381,0,1,hi,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,पारा गिरा,2026-09-07T07:29:00+00:00,,0.3726321002792507,0,1,hi,,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,सबसे कम न्यूनतम तापमान,2026-09-02T07:16:00+00:00,,0.3725725552804316,2,1,hi,,
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,मूसलाधार बारिश,2026-08-15T03:13:00+00:00,,0.372292194038051,1,3,hi,,
@@ -205,6 +204,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,मौसम सामने,2026-08-09T03:59:00+00:00,,0.3271939568289981,1,2,hi,,
 '07403ae253',extremes,Earthquake,#870007,usgs,भूकंप पोर्ट ब्लेयर,2026-08-27T13:00:00+00:00,India,0.3268045386055627,1,1,hi,SEA,Asia
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,बम चक्रवात,2026-08-28T14:31:00+00:00,,0.3257608613165604,1,1,hi,,
+'257d97df6f',extremes,Thunderstorm,#53785a,wmo,पश्चिम मिदनापुरझारग्राम में ओलावृष्टि,2026-08-27T13:00:00+00:00,India,0.3254799751396769,2,1,hi,SAS,Asia
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,ग्लेशियर झील का प्रकोप,2026-09-07T07:29:00+00:00,,0.324998009095801,0,1,hi,,
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,उष्णकटिबंधीय तूफान,2026-08-23T03:30:00+00:00,,0.3247127373532036,1,1,hi,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,हिमशैल का शांत होना,2026-08-30T08:29:00+00:00,,0.3243818809054661,1,1,hi,,
