@@ -105,7 +105,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '37e00b91b5',extremes,Flood,#030ba1,wmo,बाढ़ कोसी कुरसेला कटिहार बिहार,2026-09-01T07:58:00+00:00,India,0.4091209263872218,3,1,hi,SAS,Asia
 '0d1116b2c3',extremes,Storm,#b3b2b1,wmo,पश्चिम बंगाल के हुगली जिले में तूफ़ान आया,2026-08-29T09:18:00+00:00,India,0.4085312562794889,2,1,hi,SAS,Asia
 '7d255823b7',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश गोंडा,2026-09-07T07:29:00+00:00,India,0.4073693524222953,2,1,hi,SAS,Asia
-'7aa008bd6e',extremes,Flood,#030ba1,wmo,बाढ़ सोन मनेर पटना बिहार,2026-08-27T13:00:00+00:00,India,0.40709644072682827,3,1,hi,SAS,Asia
+'7aa008bd6e',extremes,Flood,#030ba1,wmo,बाढ़ सोन मनेर पटना बिहार,2026-08-27T13:00:00+00:00,India,0.4070964407268282,3,1,hi,SAS,Asia
 '4608ac2b5e',extremes,Thunderstorm,#53785a,wmo,आंधी-तूफ़ान से बिगड़ा मौसम लखीमपुर और सीतापुर,2026-09-08T07:23:00+00:00,India,0.4059613382392776,1,1,hi,SAS,Asia
 '197d58185e',extremes,Storm,#b3b2b1,wmo,तूफ़ान वृद्धि मॉड बारिश और लेफ्टिनेंट,2026-09-03T07:20:00+00:00,India,0.4047804432007464,2,1,hi,SAS,Asia
 '90f07d6c4e',extremes,Flood,#030ba1,wmo,बाढ़ पुनपुन श्रीपालपुर पटना बिहार,2026-09-01T07:58:00+00:00,India,0.4040970564807246,3,1,hi,SAS,Asia
@@ -170,8 +170,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1af7d09d9c',extremes,Storm,#b3b2b1,wmo,पश्चिम बर्दवान जिले के कुछ हिस्सों में तूफान आया,2026-08-29T09:18:00+00:00,India,0.3582315233044454,3,1,hi,SAS,Asia
 'f1f3983af3',extremes,Precipitation,#d60d2b,wmo,छत्तीसगढ़ के बलरामपुर जिले में भारी वर्षा,2026-08-28T14:32:00+00:00,India,0.3576905027299834,2,1,hi,SAS,Asia
 '239adcbd1d',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश मयूरभंज,2026-08-28T14:32:00+00:00,India,0.3569712532351288,2,1,hi,SAS,Asia
-'fa761481b5',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-09-01T07:58:00+00:00,United Arab Emirates,0.35341110348260907,2,1,hi,ARP,Asia
-'3995cf19a0',extremes,Thunderstorm,#53785a,wmo,पश्चिम बंगाल के हाओरा जिले में मौसम गंभीर,2026-08-29T09:18:00+00:00,India,0.34878806537123386,2,1,hi,SAS,Asia
+'fa761481b5',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-09-01T07:58:00+00:00,United Arab Emirates,0.353411103482609,2,1,hi,ARP,Asia
+'3995cf19a0',extremes,Thunderstorm,#53785a,wmo,पश्चिम बंगाल के हाओरा जिले में मौसम गंभीर,2026-08-29T09:18:00+00:00,India,0.3487880653712338,2,1,hi,SAS,Asia
 'abb98ebecc',extremes,Thunderstorm,#53785a,wmo,झारखंड के कोडरमा जिले में वज्रपात,2026-09-01T07:58:00+00:00,India,0.3477283641919332,2,1,hi,SAS,Asia
 '845dd2d698',extremes,Storm,#b3b2b1,random,बवंडर,2026-08-21T03:30:00+00:00,,0.3476703578235571,0,1,hi,,
 '1405131905',extremes,Thunderstorm,#53785a,random,ओले,2026-08-29T09:18:00+00:00,,0.3472667678584278,1,1,hi,,
@@ -181,6 +181,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '053bb10e09',extremes,Heat Wave,#c40202,random,भारतीय गर्मी,2026-08-30T08:29:00+00:00,,0.3350309350118775,1,2,hi,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,हिमशैल आर्कटिक,2026-09-08T07:23:00+00:00,,0.3343663529343995,1,1,hi,,
 'b05dfb387e',extremes,Thunderstorm,#53785a,wmo,पश्चिम बंगाल के कलिम्पोंग जिले में ओले गिरे,2026-08-30T08:30:00+00:00,India,0.3331641015789215,2,1,hi,SAS,Asia
+'54927bfe65',extremes,Flood,#030ba1,random,तटीय बाढ़,2026-08-22T03:22:00+00:00,,0.3326451191345831,1,1,hi,,
 '3e8d2d58ee',extremes,Thunderstorm,#53785a,wmo,दक्षिण और पश्चिम में तूफ़ान,2026-09-02T07:16:00+00:00,India,0.3323896471943556,2,1,hi,SAS,Asia
 'f8b8564f47',extremes,Storm,#b3b2b1,wmo,त्रिपुरा के दक्षिण त्रिपुरा जिले में तूफ़ान की लहर,2026-08-29T09:18:00+00:00,India,0.331901249533276,3,1,hi,SAS,Asia
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,ठंढ,2026-08-31T08:51:00+00:00,,0.3315847465255091,0,1,hi,,
@@ -205,7 +206,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,उड़ती हुई बर्फ,2026-09-06T07:16:00+00:00,,0.3204770036748139,1,1,hi,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,आर्कटिक समुद्री बर्फ,2026-08-25T03:27:00+00:00,,0.319968984358037,1,1,hi,,
 'b7f999932e',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय तूफान इटाउ,2026-08-31T08:51:00+00:00,,0.3181566093575306,0,1,hi,NPO,Pacific Ocean
-'54927bfe65',extremes,Flood,#030ba1,random,तटीय बाढ़,2026-08-22T03:22:00+00:00,,0.3181116401583331,0,1,hi,,
 '89fcf5c848',extremes,Tropical Cyclone,#4f4f4f,eonet,तूफान मैरी,2026-09-04T07:23:00+00:00,,0.3179343136353981,0,1,hi,NPO,Pacific Ocean
 'e638a6fdcd',extremes,Tropical Cyclone,#4f4f4f,eonet,तूफान करीना,2026-08-31T08:51:00+00:00,,0.3178790642496082,0,1,hi,NPO,Pacific Ocean
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,जमना,2026-08-18T03:23:00+00:00,,0.3176392962014645,1,1,hi,,
