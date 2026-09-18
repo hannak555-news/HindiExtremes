@@ -18,7 +18,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '00bea9baed',extremes,Storm,#b3b2b1,wmo,मिजोरम के 7 जिलों में तूफान,2026-08-28T14:32:00+00:00,India,0.5311492445496067,2,1,hi,SAS,Asia
 'ad992f6e65',extremes,Thunderstorm,#53785a,wmo,आंधी तूफान वाराणसी,2026-08-29T09:18:00+00:00,India,0.5308336681285557,2,2,hi,SAS,Asia
 'f68b1b4375',extremes,Flood,#030ba1,wmo,"बाढ़ गंगा, मुंगेर, बिहार",2026-08-28T14:32:00+00:00,India,0.5290701802717882,2,2,hi,SAS,Asia
-'4fc6c13608',extremes,Flood,#030ba1,wmo,पृथक स्थानों में बाढ़,2026-09-02T07:16:00+00:00,India,0.5284151697551125,3,1,hi,SAS,Asia
 '82fd55b965',extremes,Drought,#edc291,edo,भारत में सूखा,2026-08-25T03:27:00+00:00,India,0.5266696828597262,2,2,hi,SAS,Asia
 '94b6efcce3',extremes,Thunderstorm,#53785a,wmo,गरज के साथ मध्यम बारिश,2026-08-23T03:30:00+00:00,India,0.5236230636331181,2,3,hi,SAS,Asia
 '296d71c63d',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश चंडीगढ़,2026-08-18T03:24:00+00:00,India,0.5192351290632842,2,3,hi,SAS,Asia
@@ -68,6 +67,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,गंभीर मौसम,2026-08-23T03:30:00+00:00,,0.4517081041197942,2,3,hi,,
 'c20f3440df',extremes,Thunderstorm,#53785a,wmo,तूफ़ान बांकुरापुरुलिया,2026-08-29T09:18:00+00:00,India,0.4516754164703112,2,1,hi,SAS,Asia
 '62084daeb0',extremes,Earthquake,#870007,random,भूकंप,2026-09-05T07:04:00+00:00,,0.4493667673803023,1,3,hi,,
+'4fc6c13608',extremes,Flood,#030ba1,wmo,पृथक स्थानों में बाढ़,2026-09-02T07:16:00+00:00,India,0.44930290929184563,4,1,hi,SAS,Asia
 '3341f1cf62',extremes,Thunderstorm,#53785a,wmo,तूफ़ान जलपाईगुरीकलीम्पोंग,2026-08-29T09:18:00+00:00,India,0.4450194583709002,2,1,hi,SAS,Asia
 'c62f9be69a',extremes,Flood,#030ba1,wmo,बाढ़ दिखो शिवसागर शिवसागर असम,2026-09-06T07:16:00+00:00,India,0.4447690675260259,2,1,hi,SAS,Asia
 '2d5f6e35c9',extremes,Thunderstorm,#53785a,wmo,तूफान पश्चिम मिदनापुरझारग्राम,2026-09-01T07:58:00+00:00,India,0.4444832789916415,2,1,hi,SAS,Asia
@@ -89,7 +89,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ea0c5b707a',extremes,Storm,#b3b2b1,wmo,तूफ़ान मॉड टीएसएलआर,2026-08-30T08:30:00+00:00,India,0.4185536032905393,2,1,hi,SAS,Asia
 'b83b5d7bce',extremes,Thunderstorm,#53785a,wmo,मुर्शिदाबाद और नादिया के कुछ हिस्सों में मौसम गंभीर,2026-09-05T07:05:00+00:00,India,0.4181018603517993,2,1,hi,SAS,Asia
 '0bea558884',extremes,Thunderstorm,#53785a,wmo,"प्रयागराज, जौनपुर और आसपास ओलावृष्टि",2026-08-23T03:30:00+00:00,India,0.417581659492983,2,1,hi,SAS,Asia
-'845dd2d698',extremes,Storm,#b3b2b1,random,बवंडर,2026-08-21T03:30:00+00:00,,0.41626987915002356,1,2,hi,,
+'845dd2d698',extremes,Storm,#b3b2b1,random,बवंडर,2026-08-21T03:30:00+00:00,,0.4162698791500235,1,2,hi,,
 '9bcaeb1ef4',extremes,Storm,#b3b2b1,wmo,तूफ़ान मॉड टीएसआरए,2026-08-18T03:24:00+00:00,India,0.4148589117283582,2,1,hi,SAS,Asia
 'fef7f71c0a',extremes,Thunderstorm,#53785a,wmo,"गंभीर मौसम, टीएसएल के साथ मध्यम बारिश",2026-08-21T03:30:00+00:00,India,0.4144738906076782,2,1,hi,SAS,Asia
 'fda6e0f804',extremes,Precipitation,#d60d2b,wmo,पूर्वी बर्दवान में वर्षा,2026-09-02T07:16:00+00:00,India,0.4136294119208055,2,1,hi,SAS,Asia
@@ -168,7 +168,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f1f3983af3',extremes,Precipitation,#d60d2b,wmo,छत्तीसगढ़ के बलरामपुर जिले में भारी वर्षा,2026-08-28T14:32:00+00:00,India,0.3576905027299834,2,1,hi,SAS,Asia
 '239adcbd1d',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश मयूरभंज,2026-08-28T14:32:00+00:00,India,0.3569712532351288,2,1,hi,SAS,Asia
 'fa761481b5',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में सूखा,2026-09-01T07:58:00+00:00,United Arab Emirates,0.353411103482609,2,1,hi,ARP,Asia
-'6d0aa61342',extremes,Precipitation,#d60d2b,wmo,"कुमाऊं क्षेत्र, चमोली और पौड़ी में वर्षा",2026-09-07T07:29:00+00:00,India,0.35289601689323474,2,1,hi,SAS,Asia
+'6d0aa61342',extremes,Precipitation,#d60d2b,wmo,"कुमाऊं क्षेत्र, चमोली और पौड़ी में वर्षा",2026-09-07T07:29:00+00:00,India,0.3528960168932347,2,1,hi,SAS,Asia
 '3995cf19a0',extremes,Thunderstorm,#53785a,wmo,पश्चिम बंगाल के हाओरा जिले में मौसम गंभीर,2026-08-29T09:18:00+00:00,India,0.3487880653712338,2,1,hi,SAS,Asia
 'abb98ebecc',extremes,Thunderstorm,#53785a,wmo,झारखंड के कोडरमा जिले में वज्रपात,2026-09-01T07:58:00+00:00,India,0.3477283641919332,2,1,hi,SAS,Asia
 '1405131905',extremes,Thunderstorm,#53785a,random,ओले,2026-08-29T09:18:00+00:00,,0.3472667678584278,1,1,hi,,
