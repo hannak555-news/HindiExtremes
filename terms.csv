@@ -83,8 +83,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '22a1a9ebb8',extremes,Storm,#b3b2b1,wmo,तूफ़ान के साथ मध्यम बारिश,2026-09-02T07:16:00+00:00,India,0.425473020352647,2,1,hi,SAS,Asia
 '69791e5a17',extremes,Flood,#030ba1,random,आकस्मिक बाढ़,2026-09-03T07:20:00+00:00,,0.4207468904796345,1,2,hi,,
 'e638a6fdcd',extremes,Tropical Cyclone,#4f4f4f,eonet,तूफान करीना,2026-08-31T08:51:00+00:00,,0.4203472196121669,1,2,hi,NPO,Pacific Ocean
+'7d72d405be',extremes,Tropical Cyclone,#4f4f4f,eonet,तूफान लोवेल,2026-09-02T07:16:00+00:00,,0.41979963977095447,1,2,hi,NPO,Pacific Ocean
 'ba5e4ccff8',extremes,Precipitation,#d60d2b,wmo,"वर्षा हरिद्वार, पौडी, नैनीताल, यूएस नगर",2026-08-18T03:24:00+00:00,India,0.4192185898347758,2,1,hi,SAS,Asia
-'6675fdaa12',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश सीतापुर,2026-08-16T03:28:00+00:00,India,0.4190380148600883,2,1,hi,SAS,Asia
 'ea0c5b707a',extremes,Storm,#b3b2b1,wmo,तूफ़ान मॉड टीएसएलआर,2026-08-30T08:30:00+00:00,India,0.4185536032905393,2,1,hi,SAS,Asia
 'b83b5d7bce',extremes,Thunderstorm,#53785a,wmo,मुर्शिदाबाद और नादिया के कुछ हिस्सों में मौसम गंभीर,2026-09-05T07:05:00+00:00,India,0.4181018603517993,2,1,hi,SAS,Asia
 '0bea558884',extremes,Thunderstorm,#53785a,wmo,"प्रयागराज, जौनपुर और आसपास ओलावृष्टि",2026-08-23T03:30:00+00:00,India,0.417581659492983,2,1,hi,SAS,Asia
@@ -127,7 +127,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f52120e987',extremes,Thunderstorm,#53785a,wmo,अलग-अलग स्थानों पर गरज के साथ बौछारें,2026-08-21T03:30:00+00:00,India,0.3843563487358964,2,1,hi,SAS,Asia
 'e3e022bbbf',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि मीरजापुर सोभद्रा,2026-08-18T03:24:00+00:00,India,0.3834714089182644,1,1,hi,SAS,Asia
 'c0ebbd1ba0',extremes,Precipitation,#d60d2b,wmo,जीबी नगर गाजियाबाद में भारी बारिश,2026-09-05T07:05:00+00:00,India,0.383266042291646,2,1,hi,SAS,Asia
-'3286dc7d0b',extremes,Thunderstorm,#53785a,wmo,मौसम का मिजाज बिगड़ा संभल,2026-08-14T04:24:00+00:00,India,0.3825727894473105,1,1,hi,SAS,Asia
 '51d270a690',extremes,Thunderstorm,#53785a,wmo,"कोलकाता, हावड़ा, दक्षिण 24 परगना में गंभीर मौसम",2026-08-27T13:00:00+00:00,India,0.3811889260853615,1,1,hi,SAS,Asia
 '8e47a10746',extremes,Thunderstorm,#53785a,wmo,"गंभीर मौसम, झारग्राम, पश्चिमी मिदनापुर",2026-08-27T13:00:00+00:00,India,0.3811303445238104,1,1,hi,SAS,Asia
 '48354e68c1',extremes,Precipitation,#d60d2b,wmo,वर्षा बिजनौर मिर्ज़ापुर,2026-08-30T08:30:00+00:00,India,0.3802481299549553,2,1,hi,SAS,Asia
@@ -176,8 +175,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9d7d2c2207',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि,2026-08-27T13:00:00+00:00,India,0.3309949805983679,2,1,hi,SAS,Asia
 '283b154c38',extremes,Wet Spell,#d60d2b,random,गीला जादू,2026-08-25T03:27:00+00:00,,0.3308400257948005,1,1,hi,,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,ओलावृष्टि,2026-08-26T03:33:00+00:00,,0.3302761658849169,1,1,hi,,
-'b0193d7e57',extremes,Thunderstorm,#53785a,wmo,"जय हो हरिद्वार, पौडी, नैनीताल, यूएस नगर",2026-08-18T03:24:00+00:00,India,0.3272677425142014,2,1,hi,SAS,Asia
-'59b5340b69',extremes,Precipitation,#d60d2b,random,मौसम सामने,2026-08-09T03:59:00+00:00,,0.3271939568289981,1,2,hi,,
 '07403ae253',extremes,Earthquake,#870007,usgs,भूकंप पोर्ट ब्लेयर,2026-08-27T13:00:00+00:00,India,0.3268045386055627,1,1,hi,SEA,Asia
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,बम चक्रवात,2026-08-28T14:31:00+00:00,,0.3257608613165604,1,1,hi,,
 '257d97df6f',extremes,Thunderstorm,#53785a,wmo,पश्चिम मिदनापुरझारग्राम में ओलावृष्टि,2026-08-27T13:00:00+00:00,India,0.3254799751396769,2,1,hi,SAS,Asia
@@ -190,7 +187,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,उड़ती हुई बर्फ,2026-09-06T07:16:00+00:00,,0.3204770036748139,1,1,hi,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,आर्कटिक समुद्री बर्फ,2026-08-25T03:27:00+00:00,,0.319968984358037,1,1,hi,,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,जमना,2026-08-18T03:23:00+00:00,,0.3176392962014645,1,1,hi,,
-'7d72d405be',extremes,Tropical Cyclone,#4f4f4f,eonet,तूफान लोवेल,2026-09-02T07:16:00+00:00,,0.3172348526717112,0,1,hi,NPO,Pacific Ocean
 '5aa23b22fc',extremes,Thunderstorm,#53785a,wmo,"ओलावृष्टि बागेश्वर,पिथौरागढ़,पौड़ी",2026-08-20T03:26:00+00:00,India,0.3153425310253283,2,1,hi,SAS,Asia
 '1c38b19449',extremes,Storm,#b3b2b1,random,धूल के कटोरे,2026-08-27T13:00:00+00:00,,0.3119271824579374,1,1,hi,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,बर्फ़ीला तूफ़ान,2026-09-09T07:32:00+00:00,,0.3092609442135924,1,1,hi,,
