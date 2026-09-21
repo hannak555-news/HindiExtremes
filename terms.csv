@@ -1,8 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,भारत में मूसलाधार बारिश,2026-08-31T08:51:00+00:00,India,0.5897109547132351,3,3,hi,SAS,Asia
 '1fbfe45b95',extremes,Precipitation,#d60d2b,wmo,बारिश गाजीपुर,2026-09-05T07:05:00+00:00,India,0.5894659716841384,2,2,hi,SAS,Asia
 '888ec76e17',extremes,Precipitation,#d60d2b,wmo,भारी बारिश ओडिशा,2026-09-01T07:58:00+00:00,India,0.5771883527940531,4,3,hi,SAS,Asia
 '5b5886737c',extremes,Thunderstorm,#53785a,wmo,उत्तराखंड में अलग-अलग स्थानों पर मौसम बेहद खराब,2026-08-30T08:30:00+00:00,India,0.5600150779413289,4,1,hi,SAS,Asia
+'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,भारत में मूसलाधार बारिश,2026-08-31T08:51:00+00:00,India,0.5516600119607953,4,3,hi,SAS,Asia
 '835bd02db9',extremes,Storm,#b3b2b1,wmo,झारखंड के 7 जिलों में तूफान,2026-08-31T08:51:00+00:00,India,0.5490815839086515,2,2,hi,SAS,Asia
 'd14bb7b5da',extremes,Precipitation,#d60d2b,wmo,पश्चिम बंगाल के मुर्शिदाबाद जिले में मूसलाधार बारिश,2026-09-07T07:29:00+00:00,India,0.5441772766877183,3,1,hi,SAS,Asia
 '0fd2e05a00',extremes,Flood,#030ba1,wmo,बाढ़ गंगा बक्सर बिहार,2026-09-02T07:16:00+00:00,India,0.5414765898888051,3,1,hi,SAS,Asia
@@ -95,7 +95,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '266015c962',extremes,Thunderstorm,#53785a,wmo,वज्रपात सारण सीवान भागलपुर,2026-09-08T07:23:00+00:00,India,0.4103338002749756,1,1,hi,SAS,Asia
 'f37139fe2d',extremes,Landslide,#572c03,random,भूस्खलन,2026-08-15T03:13:00+00:00,,0.4095238928407603,1,3,hi,,
 '37e00b91b5',extremes,Flood,#030ba1,wmo,बाढ़ कोसी कुरसेला कटिहार बिहार,2026-09-01T07:58:00+00:00,India,0.4091209263872218,3,1,hi,SAS,Asia
-'0d1116b2c3',extremes,Storm,#b3b2b1,wmo,पश्चिम बंगाल के हुगली जिले में तूफ़ान आया,2026-08-29T09:18:00+00:00,India,0.4085312562794889,2,1,hi,SAS,Asia
 '7d255823b7',extremes,Precipitation,#d60d2b,wmo,मूसलधार बारिश गोंडा,2026-09-07T07:29:00+00:00,India,0.4073693524222953,2,1,hi,SAS,Asia
 '7aa008bd6e',extremes,Flood,#030ba1,wmo,बाढ़ सोन मनेर पटना बिहार,2026-08-27T13:00:00+00:00,India,0.4070964407268282,3,1,hi,SAS,Asia
 'ab18a2b4aa',extremes,Storm,#b3b2b1,wmo,पश्चिम बंगाल के नादिया जिले में तूफ़ान आया,2026-09-07T07:29:00+00:00,India,0.4060486208472114,2,1,hi,SAS,Asia
@@ -157,6 +156,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3995cf19a0',extremes,Thunderstorm,#53785a,wmo,पश्चिम बंगाल के हाओरा जिले में मौसम गंभीर,2026-08-29T09:18:00+00:00,India,0.3487880653712338,2,1,hi,SAS,Asia
 'abb98ebecc',extremes,Thunderstorm,#53785a,wmo,झारखंड के कोडरमा जिले में वज्रपात,2026-09-01T07:58:00+00:00,India,0.3477283641919332,2,1,hi,SAS,Asia
 '1405131905',extremes,Thunderstorm,#53785a,random,ओले,2026-08-29T09:18:00+00:00,,0.3472667678584278,1,1,hi,,
+'0d1116b2c3',extremes,Storm,#b3b2b1,wmo,पश्चिम बंगाल के हुगली जिले में तूफ़ान आया,2026-08-29T09:18:00+00:00,India,0.34725156783756556,3,1,hi,SAS,Asia
 'a843de13bd',extremes,Storm,#b3b2b1,wmo,उत्तराखंड के ज़िलों में तूफ़ान,2026-08-22T03:22:00+00:00,India,0.3447694710771836,3,1,hi,SAS,Asia
 '8d47dfc890',extremes,Thunderstorm,#53785a,wmo,गंभीर मौसम tslg,2026-08-31T08:51:00+00:00,India,0.3404337571787523,2,1,hi,SAS,Asia
 '7054c01ed8',extremes,Drought,#edc291,edo,संयुक्त अरब अमीरात में बारिश की कमी,2026-08-23T03:30:00+00:00,United Arab Emirates,0.3399890603949559,2,1,hi,ARP,Asia
