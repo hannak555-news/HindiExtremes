@@ -21,6 +21,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4e6e03d17',extremes,Thunderstorm,#53785a,wmo,उत्तराखंड के जिलों में आंधी तूफान,2026-08-22T03:22:00+00:00,India,0.509164010072519,2,1,hi,SAS,Asia
 'e73f0ce1f7',extremes,Thunderstorm,#53785a,wmo,आंधी तूफान अयोध्या,2026-09-01T07:58:00+00:00,India,0.5070289289875103,3,2,hi,SAS,Asia
 '90522631da',extremes,Precipitation,#d60d2b,wmo,भारत में वर्षा,2026-09-03T07:20:00+00:00,India,0.5012978700324091,2,1,hi,SAS,Asia
+'b1d56de062',extremes,Snow&Ice,#d60d2b,random,पाला,2026-09-10T07:28:00+00:00,,0.4878885602463713,2,2,hi,,
 'fc9243330a',extremes,Precipitation,#d60d2b,wmo,मूसलाधार बारिश चंडीगढ़,2026-08-19T03:26:00+00:00,India,0.4863516184414252,3,2,hi,SAS,Asia
 'd8dd7f72ee',extremes,Precipitation,#d60d2b,wmo,अलग-अलग स्थानों पर मूसलाधार बारिश,2026-08-25T03:27:00+00:00,India,0.4839159940251066,3,3,hi,SAS,Asia
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,ओले,2026-08-20T03:26:00+00:00,,0.4807175878852385,2,2,hi,,
@@ -58,7 +59,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2d5f6e35c9',extremes,Thunderstorm,#53785a,wmo,तूफान पश्चिम मिदनापुरझारग्राम,2026-09-01T07:58:00+00:00,India,0.4444832789916415,2,1,hi,SAS,Asia
 '7fa51ef7ff',extremes,Thunderstorm,#53785a,wmo,तूफ़ान से ऊपर,2026-08-30T08:30:00+00:00,India,0.4442981876092124,2,1,hi,SAS,Asia
 '4d9577e33d',extremes,Volcano,#b83202,random,ज्वालामुखी,2026-08-25T03:27:00+00:00,,0.4409943902694924,1,2,hi,,
-'b1d56de062',extremes,Snow&Ice,#d60d2b,random,पाला,2026-09-10T07:28:00+00:00,,0.4409276473486721,1,2,hi,,
 '822cb790f5',extremes,Thunderstorm,#53785a,wmo,"असम के गोलाघाट, जोरहाट जिलों में ओले गिरे",2026-09-06T07:16:00+00:00,India,0.434729640001585,2,1,hi,SAS,Asia
 '69903ea8cd',extremes,Thunderstorm,#53785a,wmo,पश्चिम बंगाल के अलीपुरद्वार जिले में मौसम खराब,2026-09-09T07:32:00+00:00,India,0.4336001880154359,2,1,hi,SAS,Asia
 '4ff91d3ac8',extremes,Thunderstorm,#53785a,wmo,तूफ़ान tslg,2026-08-27T13:00:00+00:00,India,0.4327451270187949,2,1,hi,SAS,Asia
