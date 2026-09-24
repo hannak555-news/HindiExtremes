@@ -1,5 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '1fbfe45b95',extremes,Precipitation,#d60d2b,wmo,बारिश गाजीपुर,2026-09-05T07:05:00+00:00,India,0.7324672544801931,6,2,hi,SAS,Asia
+'e73f0ce1f7',extremes,Thunderstorm,#53785a,wmo,आंधी तूफान अयोध्या,2026-09-01T07:58:00+00:00,India,0.5812746196393836,4,2,hi,SAS,Asia
 '888ec76e17',extremes,Precipitation,#d60d2b,wmo,भारी बारिश ओडिशा,2026-09-01T07:58:00+00:00,India,0.5775196193910742,5,3,hi,SAS,Asia
 '94b6efcce3',extremes,Thunderstorm,#53785a,wmo,गरज के साथ मध्यम बारिश,2026-08-23T03:30:00+00:00,India,0.5709801890881503,3,3,hi,SAS,Asia
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,भारत में मूसलाधार बारिश,2026-08-31T08:51:00+00:00,India,0.5516600119607953,4,3,hi,SAS,Asia
@@ -18,7 +19,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9aceadd432',extremes,Heat Wave,#c40202,random,रिकॉर्ड गर्मी,2026-09-02T07:16:00+00:00,,0.5133927579532978,2,2,hi,,
 '4909521a26',extremes,Flood,#030ba1,wmo,बाढ़ गंगा बक्सर बक्सर बिहार,2026-09-05T07:05:00+00:00,India,0.512962963234492,2,1,hi,SAS,Asia
 'c4e6e03d17',extremes,Thunderstorm,#53785a,wmo,उत्तराखंड के जिलों में आंधी तूफान,2026-08-22T03:22:00+00:00,India,0.509164010072519,2,1,hi,SAS,Asia
-'e73f0ce1f7',extremes,Thunderstorm,#53785a,wmo,आंधी तूफान अयोध्या,2026-09-01T07:58:00+00:00,India,0.5070289289875103,3,2,hi,SAS,Asia
 '90522631da',extremes,Precipitation,#d60d2b,wmo,भारत में वर्षा,2026-09-03T07:20:00+00:00,India,0.5012978700324091,2,1,hi,SAS,Asia
 '1242e03cf5',extremes,Flood,#030ba1,wmo,"बाढ़ गंगा, भागलपुर, बिहार",2026-09-02T07:16:00+00:00,India,0.4890428259456374,3,2,hi,SAS,Asia
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,पाला,2026-09-10T07:28:00+00:00,,0.4878885602463713,2,2,hi,,
@@ -187,4 +187,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8b4587c763',extremes,Storm,#b3b2b1,random,धूल भरी आँधी,2026-09-05T07:04:00+00:00,,0.2454395146060329,2,1,hi,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,शीतलहर,2026-08-29T09:18:00+00:00,,0.2394975609758971,2,1,hi,,
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,ग्लेशियर झील का प्रकोप,2026-09-07T07:29:00+00:00,,0.2348110615717161,2,1,hi,,
-'5f0ab8bb85',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय तूफान मोके,2026-08-25T03:27:00+00:00,,0.22941507092954064,2,1,hi,NPO,Pacific Ocean
+'5f0ab8bb85',extremes,Tropical Cyclone,#4f4f4f,eonet,उष्णकटिबंधीय तूफान मोके,2026-08-25T03:27:00+00:00,,0.2294150709295406,2,1,hi,NPO,Pacific Ocean
