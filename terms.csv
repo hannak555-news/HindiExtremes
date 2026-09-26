@@ -104,9 +104,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '370495a998',extremes,Precipitation,#d60d2b,wmo,वर्षा आज़मगढ़ मऊ,2026-08-27T13:00:00+00:00,India,0.3904592761047743,2,1,hi,SAS,Asia
 '9a44d8aef1',extremes,Flood,#030ba1,wmo,"बाढ़ गंगा,मुंगेर,मुंगेर बिहार",2026-09-03T07:20:00+00:00,India,0.3892812048664198,2,1,hi,SAS,Asia
 '3e4b341619',extremes,Storm,#b3b2b1,random,तूफ़ान,2026-08-20T03:26:00+00:00,,0.3888509605635813,2,2,hi,,
+'9f0423d739',extremes,Drought,#edc291,random,सूखापन,2026-08-27T13:00:00+00:00,,0.3886203919536394,2,2,hi,,
 '75b28e6213',extremes,Flood,#030ba1,wmo,बाढ़ गंगा हथिदह पटना बिहार,2026-08-27T13:00:00+00:00,India,0.3858212869125089,2,1,hi,SAS,Asia
 'c0ebbd1ba0',extremes,Precipitation,#d60d2b,wmo,जीबी नगर गाजियाबाद में भारी बारिश,2026-09-05T07:05:00+00:00,India,0.383266042291646,2,1,hi,SAS,Asia
-'62084daeb0',extremes,Earthquake,#870007,random,भूकंप,2026-09-05T07:04:00+00:00,,0.38196229227325695,2,2,hi,,
+'62084daeb0',extremes,Earthquake,#870007,random,भूकंप,2026-09-05T07:04:00+00:00,,0.3819622922732569,2,2,hi,,
 '51d270a690',extremes,Thunderstorm,#53785a,wmo,"कोलकाता, हावड़ा, दक्षिण 24 परगना में गंभीर मौसम",2026-08-27T13:00:00+00:00,India,0.3811889260853615,1,1,hi,SAS,Asia
 '8e47a10746',extremes,Thunderstorm,#53785a,wmo,"गंभीर मौसम, झारग्राम, पश्चिमी मिदनापुर",2026-08-27T13:00:00+00:00,India,0.3811303445238104,1,1,hi,SAS,Asia
 '48354e68c1',extremes,Precipitation,#d60d2b,wmo,वर्षा बिजनौर मिर्ज़ापुर,2026-08-30T08:30:00+00:00,India,0.3802481299549553,2,1,hi,SAS,Asia
@@ -158,14 +159,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9efede5b5d',extremes,Thunderstorm,#53785a,wmo,ओलावृष्टि पश्चिम बर्दवानबांकुरा,2026-08-27T13:00:00+00:00,India,0.3205103068071275,2,1,hi,SAS,Asia
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,उड़ती हुई बर्फ,2026-09-06T07:16:00+00:00,,0.3204770036748139,1,1,hi,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,आर्कटिक समुद्री बर्फ,2026-08-25T03:27:00+00:00,,0.319968984358037,1,1,hi,,
-'1993dec70a',extremes,Thunderstorm,#53785a,wmo,पश्चिम बंगाल के झारग्राम जिले में ओले गिरे,2026-08-24T03:32:00+00:00,India,0.3136012600239617,2,1,hi,SAS,Asia
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,बर्फ़ीला तूफ़ान,2026-09-09T07:32:00+00:00,,0.3092609442135924,1,1,hi,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,भारतीय गर्मी,2026-08-30T08:29:00+00:00,,0.2942642747600958,2,2,hi,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,हिमशैल अंटार्कटिका,2026-08-30T08:29:00+00:00,,0.2925228927655858,1,1,hi,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,हिमशैल आर्कटिक,2026-09-08T07:23:00+00:00,,0.2842113999942395,2,1,hi,,
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,ठंढ,2026-08-31T08:51:00+00:00,,0.2818470345466827,1,1,hi,,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,ओलावृष्टि,2026-08-26T03:33:00+00:00,,0.2807347410021793,2,1,hi,,
-'9f0423d739',extremes,Drought,#edc291,random,सूखापन,2026-08-27T13:00:00+00:00,,0.2805533846513405,1,1,hi,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,टिड्डा,2026-09-02T07:16:00+00:00,,0.2803865360049654,2,1,hi,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,बम चक्रवात,2026-08-28T14:31:00+00:00,,0.2768967321190763,2,1,hi,,
 'd59a7e48d7',extremes,Drought,#edc291,random,वाष्पीकरण-उत्सर्जन,2026-08-28T14:31:00+00:00,,0.2746148958905133,2,1,hi,,
@@ -178,7 +177,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1c38b19449',extremes,Storm,#b3b2b1,random,धूल के कटोरे,2026-08-27T13:00:00+00:00,,0.2651381050892468,2,1,hi,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,वायुमंडलीय नदी,2026-09-01T07:57:00+00:00,,0.2602049865277889,2,1,hi,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,ग्लेशियर का शांत होना,2026-09-01T07:57:00+00:00,,0.2559061179591733,2,1,hi,,
-'deaa4b70a0',extremes,Storm,#b3b2b1,random,रेतीला तूफ़ान,2026-08-25T03:27:00+00:00,,0.2518785236464217,2,1,hi,,
 '8b4587c763',extremes,Storm,#b3b2b1,random,धूल भरी आँधी,2026-09-05T07:04:00+00:00,,0.2454395146060329,2,1,hi,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,शीतलहर,2026-08-29T09:18:00+00:00,,0.2394975609758971,2,1,hi,,
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,ग्लेशियर झील का प्रकोप,2026-09-07T07:29:00+00:00,,0.2348110615717161,2,1,hi,,
