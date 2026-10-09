@@ -1,8 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,भारत में मूसलाधार बारिश,2026-08-31T08:51:00+00:00,India,0.589662075166676,5,3,hi,SAS,Asia
 'd14bb7b5da',extremes,Precipitation,#d60d2b,wmo,पश्चिम बंगाल के मुर्शिदाबाद जिले में मूसलाधार बारिश,2026-09-07T07:29:00+00:00,India,0.5441772766877183,3,1,hi,SAS,Asia
 '7226aacca0',extremes,Thunderstorm,#53785a,wmo,आंधी तूफान लखीमपुर खीरी,2026-09-07T07:29:00+00:00,India,0.539661898420281,3,2,hi,SAS,Asia
 'f68b1b4375',extremes,Flood,#030ba1,wmo,"बाढ़ गंगा, मुंगेर, बिहार",2026-08-28T14:32:00+00:00,India,0.5290701802717882,2,2,hi,SAS,Asia
+'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,भारत में मूसलाधार बारिश,2026-08-31T08:51:00+00:00,India,0.5016637988916746,6,3,hi,SAS,Asia
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,पाला,2026-09-10T07:28:00+00:00,,0.4878885602463713,2,2,hi,,
 '41117933bb',extremes,Precipitation,#d60d2b,wmo,कुछ भागों में भारी वर्षा,2026-09-03T07:20:00+00:00,India,0.4731431263562347,3,2,hi,SAS,Asia
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,चक्रवात,2026-09-01T07:57:00+00:00,,0.4698404639917615,2,2,hi,,
