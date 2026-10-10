@@ -2,17 +2,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,पाला,2026-09-10T07:28:00+00:00,,0.5014696669237013,3,2,hi,,
 'f5dffc967a',extremes,Thunderstorm,#53785a,wmo,पूर्व और पश्चिम में गंभीर मौसम,2026-09-06T07:16:00+00:00,India,0.4993059109985417,4,2,hi,SAS,Asia
 '41117933bb',extremes,Precipitation,#d60d2b,wmo,कुछ भागों में भारी वर्षा,2026-09-03T07:20:00+00:00,India,0.4731431263562347,3,2,hi,SAS,Asia
-'80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,चक्रवात,2026-09-01T07:57:00+00:00,,0.4698404639917615,2,2,hi,,
 '72e918dd48',extremes,Flood,#030ba1,wmo,बाढ़ गंगा बक्सर बक्सर बिहार,2026-09-08T07:23:00+00:00,India,0.4371741988886199,3,1,hi,SAS,Asia
 '0bb322d2b6',extremes,Thunderstorm,#53785a,wmo,आंधी तूफान पटना भोजपुर बक्सर,2026-08-31T08:51:00+00:00,India,0.4109010071619943,2,2,hi,SAS,Asia
-'0a98fdd376',extremes,Snow Avalanche,#deddd5,random,हिमस्खलन,2026-09-10T07:28:00+00:00,,0.4090927883581581,4,1,hi,,
-'532514f805',extremes,Flood,#030ba1,wmo,बाढ़ गंगा हथिदह पटना बिहार,2026-09-08T07:23:00+00:00,India,0.3951660058034633,3,1,hi,SAS,Asia
 '46906d4391',extremes,Thunderstorm,#53785a,wmo,उत्तराखंड के जिलों में मौसम बेहद खराब,2026-09-04T07:23:00+00:00,India,0.3930450558076948,3,2,hi,SAS,Asia
-'e9f3d3cb84',extremes,Flood,#030ba1,wmo,बाढ़ संकोश गोलोकगंज धुबरी असम,2026-09-08T07:23:00+00:00,India,0.3895967736174833,3,1,hi,SAS,Asia
-'69903ea8cd',extremes,Thunderstorm,#53785a,wmo,पश्चिम बंगाल के अलीपुरद्वार जिले में मौसम खराब,2026-09-09T07:32:00+00:00,India,0.3685601598131204,3,1,hi,SAS,Asia
-'6d0aa61342',extremes,Precipitation,#d60d2b,wmo,"कुमाऊं क्षेत्र, चमोली और पौड़ी में वर्षा",2026-09-07T07:29:00+00:00,India,0.3528960168932347,2,1,hi,SAS,Asia
-'9558e85e71',extremes,Thunderstorm,#53785a,wmo,पश्चिम बंगाल के मालदह जिले में आंधी तूफान,2026-09-09T07:32:00+00:00,India,0.3508334202826816,2,1,hi,SAS,Asia
 '266015c962',extremes,Thunderstorm,#53785a,wmo,वज्रपात सारण सीवान भागलपुर,2026-09-08T07:23:00+00:00,India,0.3487837302337292,2,1,hi,SAS,Asia
-'4608ac2b5e',extremes,Thunderstorm,#53785a,wmo,आंधी-तूफ़ान से बिगड़ा मौसम लखीमपुर और सीतापुर,2026-09-08T07:23:00+00:00,India,0.3450671375033859,2,1,hi,SAS,Asia
-'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,हिमशैल आर्कटिक,2026-09-08T07:23:00+00:00,,0.2842113999942395,2,1,hi,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,बर्फ़ीला तूफ़ान,2026-09-09T07:32:00+00:00,,0.2628718025815535,2,1,hi,,
