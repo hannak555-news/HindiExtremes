@@ -1,5 +1,3 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'41117933bb',extremes,Precipitation,#d60d2b,wmo,कुछ भागों में भारी वर्षा,2026-09-03T07:20:00+00:00,India,0.4731431263562347,3,2,hi,SAS,Asia
 '72e918dd48',extremes,Flood,#030ba1,wmo,बाढ़ गंगा बक्सर बक्सर बिहार,2026-09-08T07:23:00+00:00,India,0.4371741988886199,3,1,hi,SAS,Asia
 '46906d4391',extremes,Thunderstorm,#53785a,wmo,उत्तराखंड के जिलों में मौसम बेहद खराब,2026-09-04T07:23:00+00:00,India,0.3930450558076948,3,2,hi,SAS,Asia
-'266015c962',extremes,Thunderstorm,#53785a,wmo,वज्रपात सारण सीवान भागलपुर,2026-09-08T07:23:00+00:00,India,0.3487837302337292,2,1,hi,SAS,Asia
